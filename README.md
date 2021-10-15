@@ -7,7 +7,5 @@
 | 5      | Цәқәырԥамҩак              | Дмитри Габелиа  | ББК 84(5Абх) 6-5 Г 13            | 2014                 | ![][2]  |                     |
 | 6 | Амшынҵақәа | Баграт Шьынқәба | УДК 82-94 ББК 84(5Абх)-49 Шь 81 | 2020 | ![][2] ||
 
-* [Copyright duration](https://www.bitlaw.com/copyright/duration.html)
-
 [1]: https://img.shields.io/static/v1?label=&message=Ааи&color=green
 [2]: https://img.shields.io/static/v1?label=&message=Мап&color=red
