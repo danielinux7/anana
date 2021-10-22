@@ -1,10 +1,14 @@
-for file in *.txt;
+for file in 10.txt;
 do
   ### Cleaning
   sed -i -e '/^$/d' $file;
   sed -i -e '/^[0-9]*$/d' $file;
   sed -i -r 's/^[0-9]*([[:alpha:][:punct:]])/\1/g' $file;
+  sed -i -r 's/–([[:graph:]])/– \1/g' $file;
+  sed -i -r 's/([[:graph:]])–/\1 –/g' $file;
   ### Splitting
+  sed -i -z 's/\xCC\x81//g' $file;
+  sed -i -z 's/\x0C//g' $file;
   sed -i -z 's/\xC2\xAD\n//g' $file;
   sed -i -r 's/[-_—]\n//g' $file;
   sed -i -z 's/\n/ /g' $file;
@@ -35,15 +39,3 @@ do
   ### Show all printed symbols in the files
   sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
 done
-
-# cat *.txt > all
-# mv all all.txt
-# for file in all.txt;
-# do
-#   ### Sorting and removing duplicates
-#   sort $file | uniq > $file+2;
-#   cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
-#   rm $file+2;
-#   ### Show all printed symbols in the files
-#   sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
-# done
