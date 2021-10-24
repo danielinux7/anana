@@ -1,3 +1,4 @@
+# [ёйяъюэщЁЙЯЪЮЭЩa-zA-Z]
 for file in 13.txt;
 do
   ### Cleaning
@@ -7,6 +8,8 @@ do
   sed -i -r 's/^[0-9]*([[:alpha:][:punct:]])/\1/g' $file;
   sed -i -r 's/–([[:graph:]])/– \1/g' $file;
   sed -i -r 's/([[:graph:]])–/\1 –/g' $file;
+  sed -i -r 's/\xE2\x80\x89/ /g' $file;
+  sed -i -r 's/[ ]+/ /g' $file;
   ### Splitting
   sed -i -z 's/\xCC\x81//g' $file;
   sed -i -z 's/\x0C//g' $file;
