@@ -1,4 +1,4 @@
-for file in 11.txt;
+for file in 13.txt;
 do
   ### Cleaning
   sed -i -e '/^$/d' $file;
@@ -29,6 +29,7 @@ do
   sed -i -r 's/^[ ]+//g' $file;
   sed -i -r 's/^([[:alpha:]])/\U\1/g' $file;
   sed -i -e 's/^\.\.\.//g' $file
+  sed -i -e 's/\.\.\. /...\n/g' -e 's/\.\. /..\n/g' $file;
   sed -i -r 's/[\.]+$/./g' $file
   sed -i -e '/^[[:punct:] ]*$/d' $file;
   ### Sorting and removing duplicates
