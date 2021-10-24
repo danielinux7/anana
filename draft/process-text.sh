@@ -35,6 +35,7 @@ do
   sed -i -e 's/\.\.\. /...\n/g' -e 's/\.\. /..\n/g' $file;
   sed -i -r 's/[\.]+$/./g' $file
   sed -i -e '/^[[:punct:] ]*$/d' $file;
+  sed -i -e 's/!\./!/g' -e 's/?\./?/g' $file;
   ### Sorting and removing duplicates
   sort $file | uniq > $file+2;
   cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
