@@ -9,6 +9,7 @@ do
   sed -i -r 's/–([[:graph:]])/– \1/g' $file;
   sed -i -r 's/([[:graph:]])–/\1 –/g' $file;
   sed -i -r 's/\xE2\x80\x89/ /g' $file;
+  sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
   ### Splitting
   sed -i -z 's/\xCC\x81//g' $file;
