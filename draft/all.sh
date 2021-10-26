@@ -12,7 +12,7 @@ do
   cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
   ### Remove more than 14 words and 50 characters.
   awk 'NF < 15' $file > $file+2
-  awk 'length($0)<80' $file+2 | awk 'length($0)>10' | shuf > $file
+  awk 'length($0)<90' $file+2 | awk 'length($0)>10' | shuf > $file
   rm $file+2;
   ### Show all printed symbols in the files
   # sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
