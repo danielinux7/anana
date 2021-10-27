@@ -1,6 +1,6 @@
 # [ёйяъюэщЁЙЯЪЮЭЩa-zA-Z]
 # [АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ]
-for file in 13.txt;
+for file in *.txt;
 do
   ### Cleaning
   sed -i -e '/^$/d' $file;
@@ -35,7 +35,9 @@ do
   sed -i -r 's/^[ ]+//g' $file;
   sed -i -r 's/^([[:alpha:]])/\U\1/g' $file;
   sed -i -e 's/^\.\.\.//g' $file
+  sed -i -r 's/\.([\.]+)([[:graph:]])/.\1 \2/g' $file;
   sed -i -e 's/\.\.\. /...\n/g' -e 's/\.\. /..\n/g' $file;
+  sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
   sed -i -r 's/[\.]+$/./g' $file
   sed -i -e '/^[[:punct:] ]*$/d' $file;
   sed -i -e 's/!\./!/g' -e 's/?\./?/g' $file;
