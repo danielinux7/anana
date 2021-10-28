@@ -12,8 +12,13 @@ do
   cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
   ### Remove more than 14 words and 50 characters.
   awk 'NF < 15' $file > $file+2
-  awk 'length($0)<90' $file+2 | awk 'length($0)>10' | shuf > $file
+  awk 'length($0)<90' $file+2 | awk 'length($0)>10' | shuf | \
+  # Remove all but the following symbols
+  grep -v -i '[^ !,-\.\?аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ]' | \
+  # Remove stuff like С а с р ы ҟ ә а
+  grep -v -i '[[:alpha:]] [[:alpha:]] ' | \
+  grep -v -i '^[^[:alpha:]]' > $file;
   rm $file+2;
   ### Show all printed symbols in the files
-  # sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
+  sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
 done
