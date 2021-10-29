@@ -1,8 +1,8 @@
 # [ёйяъюэщЁЙЯЪЮЭЩa-zA-Z]
 # [АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ]
-for file in *.txt;
+for file in $(ls | grep '^[0-9]\+.txt$');
 do
-  cp $file ${file/.txt/.txt.temp};
+  cp $file $file.temp;
 done
 
 for file in *.txt.temp;
@@ -46,6 +46,7 @@ do
   sed -i -r 's/[\.]+$/./g' $file
   sed -i -e '/^[[:punct:] ]*$/d' $file;
   sed -i -e 's/!\./!/g' -e 's/?\./?/g' $file;
+  sed -i -r 's/([!?\.]) /\1\n/g' $file;
   ### Sorting and removing duplicates
   sort $file | uniq > $file+2;
   cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
@@ -53,5 +54,5 @@ do
   ## here is more work needed.
   ##split -l 500 -d $file ${file/.txt//}
   ### Show all printed symbols in the files
-  sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
+  # sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
 done
