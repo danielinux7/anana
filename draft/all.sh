@@ -1,24 +1,21 @@
 rm all.txt
-cat *.txt > all.txt
-for file in all.txt;
-do
-  ### Remove all sentences with capitals in between.
-  sed -i -e 's/\(^[[:alpha:]]\)/\L\1/' -e '/[[:upper:]]/d'  $file
-  sed -i -e 's/^\([[:alpha:]]\)/\U\1/' $file
-  ### Sorting and removing duplicates
-  sed -e 's/[[:punct:]]//g' $file | paste $file - > $file+2
-  sort $file+2 | uniq -f1 | cut -f1 > $file
-  sort $file | uniq > $file+2;
-  cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
-  ### Remove more than 14 words and 50 characters.
-  awk 'NF < 15' $file > $file+2
-  awk 'length($0)<90' $file+2 | awk 'length($0)>10' | shuf | \
-  # Remove all but the following symbols
-  grep -v -i '[^ !,-\.\?аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ]' | \
-  # Remove stuff like С а с р ы ҟ ә а
-  grep -v -i '[[:alpha:]] [[:alpha:]] ' | \
-  grep -v -i '^[^[:alpha:]]' > $file;
-  rm $file+2;
-  ### Show all printed symbols in the files
-  sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
-done
+cat *.txt.temp > all.txt
+### Remove all sentences with capitals in between.
+sed -i -e 's/\(^[[:alpha:]]\)/\L\1/' -e '/[[:upper:]]/d'  all.txt
+sed -i -e 's/^\([[:alpha:]]\)/\U\1/' all.txt
+### Sorting and removing duplicates
+sed -e 's/[[:punct:]]//g' all.txt | paste all.txt - > all.txt.temp
+sort all.txt.temp | uniq -f1 | cut -f1 > all.txt
+sort all.txt | uniq > all.txt.temp;
+cat all.txt.temp | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > all.txt;
+### Remove more than 14 words and 50 characters.
+awk 'NF < 15' all.txt > all.txt.temp
+awk 'length($0)<90' all.txt.temp | awk 'length($0)>10' | shuf | \
+# Remove all but the following symbols
+grep -v -i '[^ !,-\.\?аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ]' | \
+# Remove stuff like С а с р ы ҟ ә а
+grep -v -i '[[:alpha:]] [[:alpha:]] ' | \
+grep -v -i '^[^[:alpha:]]' > all.txt;
+rm *.txt.temp;
+### Show all printed symbols in the files
+sed -e 's/\(.*\)/\L\1/' all.txt | grep -o '[[:print:]]' | sort | uniq

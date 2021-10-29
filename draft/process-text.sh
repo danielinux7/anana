@@ -2,6 +2,11 @@
 # [АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ]
 for file in *.txt;
 do
+  cp $file ${file/.txt/.txt.temp};
+done
+
+for file in *.txt.temp;
+do
   ### Cleaning
   sed -i -e '/^$/d' $file;
   sed -i -e '/^[0-9]*$/d' $file;
