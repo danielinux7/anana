@@ -36,4 +36,4 @@ file="all.txt"
 cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
 sort -t$'\t' -k3 $file.temp | uniq -f2 | cut -f1,2 | shuf > $file;
-rm $file.temp
+rm *.temp *.clean
