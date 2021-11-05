@@ -5,7 +5,7 @@ do
   cp $file $file.temp;
 done
 
-for file in *.txt.temp;
+for file in $(ls | grep '^[0-9]\+.txt.temp$')
 do
   ### Cleaning
   sed -i -e '/^$/d' $file;
@@ -52,8 +52,4 @@ do
   sort $file | uniq > $file+2;
   cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
   rm $file+2;
-  ## here is more work needed.
-  ##split -l 500 -d $file ${file/.txt//}
-  ### Show all printed symbols in the files
-  # sed -e 's/\(.*\)/\L\1/' $file | grep -o '[[:print:]]' | sort | uniq
 done
