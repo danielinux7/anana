@@ -4,7 +4,7 @@
 |2|[Камаҷыҷ](https://github.com/danielinux7/abkhazian-books/blob/main/2.pdf)|Дырмит Гәлиа|ББК 84 (5Абх) 6-44 Гә 52|2011|![][1]|Reprint 1940|
 |3|[Иахьатәи аԥсуа литература](https://github.com/danielinux7/abkhazian-books/blob/main/3.pdf)|Хәыхәыт Бӷажәба|УДК 821.35.0 ББК 83.3(5Абх) Б 45|2014|![][1]|Reprint 1933|
 |4|[Иҩымҭақәа](https://github.com/danielinux7/abkhazian-books/blob/main/4.pdf)|Иуа Коӷониа|ББК 84(5Абх) 6-5 К 60|2015|![][1]|Reprint (1904-1928)|
-|5|[Цәқәырԥамҩак](https://github.com/danielinux7/abkhazian-books/blob/main/5.pdf)|Дмитри Габелиа|ББК 84(5Абх) 6-5 Г 13|2014|![][2]||
+|5|[Цәқәырԥамҩак](https://github.com/danielinux7/abkhazian-books/blob/main/5.pdf)|Дмитри Габелиа|ББК 84(5Абх) 6-5 Г 13|2014|![][1]||
 |6|[Амшынҵақәа](https://github.com/danielinux7/abkhazian-books/blob/main/6.pdf)|Баграт Шьынқәба|УДК 82-94 ББК 84(5Абх)-49 Шь 81|2019|![][1]|By author(s)|
 |7|[Аӡыжь](https://github.com/danielinux7/abkhazian-books/blob/main/7.pdf)|Алықьса Гогәуа|ББК 84 5(Абх) 6-5 Г 57|2015|![][1]|By author(s)|
 |8|[Иҩымҭақәа Реизга 1](https://github.com/danielinux7/abkhazian-books/blob/main/8.pdf)|Алықьса Џьениа|ББК 84 (5Абх) 6-44 Џь 45|2010|![][1]|By author(s)|
