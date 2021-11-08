@@ -27,5 +27,5 @@
 |25|[Аизга 1](https://github.com/danielinux7/abkhazian-books/blob/main/25.pdf)|Таиф Аџьба|УДК 821.35 ББК 84(5Абх) 6-5 А 98|2019|![][1]|By author(s)|
 |26|[Аизга 2](https://github.com/danielinux7/abkhazian-books/blob/main/26.pdf)|Таиф Аџьба|УДК 821.35 ББК 84(5Абх) 6-4 А 98|2019|![][1]|By author(s)|
 
-[1]: https://img.shields.io/static/v1?label=&message=Ааи&color=green
-[2]: https://img.shields.io/static/v1?label=&message=Мап&color=red
+[1]: https://img.shields.io/static/v1?label=&message=Yes&color=green
+[2]: https://img.shields.io/static/v1?label=&message=No&color=red
