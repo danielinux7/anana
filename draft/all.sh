@@ -38,12 +38,12 @@ cat $(ls | grep '^[0-9]\+.txt.clean$') > all.txt.clean
 file="all.txt.clean"
 cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
-sort -t$'\t' -k3 $file.temp | uniq -f2 | cut -f1,2 | shuf > $file;
+sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > $file;
 ### Sorting and removing duplicates, dirty text
 cat all.txt all.txt.clean > all.txt.temp
 file="all.txt.temp"
 cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
-sort -t$'\t' -k3 $file.temp | uniq -f2 -u | cut -f1,2 | shuf > ${file/.temp/.dirty};
+sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > ${file/.temp/.dirty};
 # Remove all temp files
 rm *.temp $(ls | grep '^[0-9]\+.txt.clean$')
