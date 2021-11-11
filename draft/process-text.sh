@@ -46,7 +46,13 @@ do
   sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
   # sed -i -r 's/[\.]+$/./g' $file
   sed -i -e '/^[[:punct:] ]*$/d' $file;
-  sed -i -e 's/!\./!/g' -e 's/?\./?/g' $file;
+  sed -i -r 's/([!?])[,\.]+/\1/g' $file;
+  sed -i -r 's/ ([,!?\.])/\1/g' $file;
+  sed -i -r 's/,([[:alpha:]])/, \1/g' $file;
+  sed -i -r 's/[,]+/,/g' $file;
+  sed -i -r 's/[\.]+/./g' $file;
+  sed -i -r 's/[!]+/!/g' $file;
+  sed -i -r 's/[?]+/?/g' $file;
   sed -i -r 's/([!?\.]) /\1\n/g' $file;
   ### Sorting and removing duplicates
   sort $file | uniq > $file+2;

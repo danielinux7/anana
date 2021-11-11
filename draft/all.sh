@@ -5,7 +5,10 @@ done
 
 for file in $(ls | grep '^[0-9]\+.txt.clean$');
 do
+  # Delete all sentences that does not end with ?!.
+  sed -i -e '/[^\.!?]$/d' $file
   ### Remove all sentences with capitals in between.
+  # And capitalize all sentences.
   sed -i -e 's/\(^[[:alpha:]]\)/\L\1/' -e '/[[:upper:]]/d'  $file
   sed -i -e 's/^\([[:alpha:]]\)/\U\1/' $file
   # Remove all but the following symbols
@@ -13,6 +16,10 @@ do
   # Remove stuff like С а с р ы ҟ ә а
   grep -v -i '[[:alpha:]] [[:alpha:]] ' | \
   grep -v -i '^[^[:alpha:]]' > $file.temp;
+  cp  $file.temp  $file;
+  # Keep and remove sentences that have the following
+  grep '\(н\|т\|м\|п\|зеи\|уеи\|ама\|ома\|ума\|зма\|ои\|ми\|зи\)[ \.?!,]' $file | \
+  grep -v 'Ҳәа \|[ИСРШЛҲ]ҳә[аое]' > $file.temp
   cp  $file.temp  $file;
   # Remove and clean up sentences with .. ...
   grep -v '[^\.]\.\.' $file.temp > $file
