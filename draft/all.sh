@@ -20,6 +20,8 @@ do
   # Keep and remove sentences that have the following
   grep '\(н\|т\|м\|п\|зеи\|уеи\|ама\|ома\|ума\|зма\|ои\|ми\|зи\)[ \.?!,]' $file | \
   grep -v 'Ҳәа \|[ИСРШЛҲ]ҳә[аое]' > $file.temp
+  # Remove sentences with words such as ҳа-ҳа-ҳа
+  sed -i -r '/[[:alpha:]]-[[:alpha:]]+-[[:alpha:]]/d' $file.temp;
   cp  $file.temp  $file;
   # Remove and clean up sentences with .. ...
   grep -v '[^\.]\.\.' $file.temp > $file
