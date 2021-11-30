@@ -26,6 +26,15 @@
 |24|[Хьылаҵара](https://github.com/danielinux7/abkhazian-books/blob/main/24.pdf)|Рушьбеи Смыр|УДК 82-1 ББК 84(5Абх)-5 С 62|2019|![][1]|By author(s)|
 |25|[Аизга 1](https://github.com/danielinux7/abkhazian-books/blob/main/25.pdf)|Таиф Аџьба|УДК 821.35 ББК 84(5Абх) 6-5 А 98|2019|![][1]|By author(s)|
 |26|[Аизга 2](https://github.com/danielinux7/abkhazian-books/blob/main/26.pdf)|Таиф Аџьба|УДК 821.35 ББК 84(5Абх) 6-4 А 98|2019|![][1]|By author(s)|
+|27|[Нанҳәа](https://github.com/danielinux7/abkhazian-books/blob/main/27.pdf)|Анатол Кәыҵниа|УДК 821.35 ББК 84 (5Абх) 6-44 Кә 94|2021|![][1]|By author(s)|
+|28|[Ҩ-романк–3](https://github.com/danielinux7/abkhazian-books/blob/main/28.pdf)|Гыц Асԥа|УДК 821.35 ББК 84(5Абх)6-44 Г 91|2021|![][1]|By author(s)|
+|29|[Ардимон](https://github.com/danielinux7/abkhazian-books/blob/main/29.pdf)|Дырмит Быҭәба|УДК 821.35 ББК 84(5Абх)6-44 Б 93|2021|![][1]|By author(s)|
+|30|[Иалкаау 1](https://github.com/danielinux7/abkhazian-books/blob/main/30.pdf)|Иван Ҭарба||2011|![][1]|By author(s)|
+|31|[Иалкаау 2](https://github.com/danielinux7/abkhazian-books/blob/main/31.pdf)|Иван Ҭарба||2011|![][1]|By author(s)|
+|32|[Иалкаау](https://github.com/danielinux7/abkhazian-books/blob/main/32.pdf)|Қьаазым Агәмаа|УДК 82-31 ББК 84(5Абх)-44-5 Агә 23|2021|![][1]|By author(s)|
+|33|[Аԥсуара Ашьаҭақәа](https://github.com/danielinux7/abkhazian-books/blob/main/33.pdf)|Никәала Ҳашыг|УДК 82-39 ББК 84(5Абх) 6-44 Ҳ 20|2021|![][1]|By author(s)|
+|34|[Иалкаау 1](https://github.com/danielinux7/abkhazian-books/blob/main/34.pdf)|Сергеи Зыхәба|УДК 82-95 ББК 83.3(5Абх) З 96|2014|![][1]|By author(s)|
+|35|[Иалкаау 2](https://github.com/danielinux7/abkhazian-books/blob/main/35.pdf)|Сергеи Зыхәба|УДК 82-95 ББК 83.3(5Абх) З 96|2014|![][1]|By author(s)|
 
 [1]: https://img.shields.io/static/v1?label=&message=Yes&color=green
 [2]: https://img.shields.io/static/v1?label=&message=No&color=red
