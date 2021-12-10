@@ -39,7 +39,7 @@ do
   awk 'length($0)<90' $file.temp | awk 'length($0)>10' > $file
   ### add the file name
   sed -i -r 's/^/'${file/.txt.clean/}'\t/g' $file;
-  # sed -i -r 's/^/'${file/.txt.clean/}'\t/g' ${file/.clean/.temp};
+  sed -i -r 's/^/'${file/.txt.clean/}'\t/g' ${file/.clean/.temp};
 done
 
 ### Sorting and removing duplicates, clean text
@@ -49,11 +49,11 @@ file="all.txt.clean"
 cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
 sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > $file;
-### Sorting and removing duplicates, dirty text
-cat all.txt all.txt.clean > all.txt.temp
-file="all.txt.temp"
+file="all.txt"
 cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
-sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > ${file/.temp/.dirty};
+sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > $file;
+### Dirty text
+grep -F -x -v -f all.txt.clean all.txt | shuf > all.txt.dirty
 # Remove all temp files
 rm *.temp $(ls | grep '^[0-9]\+.txt.clean$')
