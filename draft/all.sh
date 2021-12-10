@@ -12,7 +12,7 @@ do
   sed -i -e 's/\(^[[:alpha:]]\)/\L\1/' -e '/[[:upper:]]/d'  $file
   sed -i -e 's/^\([[:alpha:]]\)/\U\1/' $file
   # Remove all but the following symbols
-  grep -v -i '[^ !,-\.\?аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ]' $file | \
+  sed -r '/^[ !,-\.\?аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ]*$/I!d' $file | \
   # Remove stuff like С а с р ы ҟ ә а
   grep -v -i '[[:alpha:]] [[:alpha:]] ' | \
   grep -v -i '^[^[:alpha:]]' > $file.temp;
