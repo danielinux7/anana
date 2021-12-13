@@ -53,6 +53,7 @@ do
   sed -i -r 's/[!]+/!/g' $file;
   sed -i -r 's/[?]+/?/g' $file;
   sed -i -e 's/- / /g' -e 's/ - / /g' $file;
+  sed -i -r 's/[ ]+/ /g' $file;
   sed -i -r 's/([!?]) /\1\n/g' $file;
   sed -i -r 's/([[:alpha:]][[:alpha:]][[:alpha:]]\.)/\1\n/g' $file;
   sed -i -e 's/^\([[:alpha:]]\)/\U\1/' $file
