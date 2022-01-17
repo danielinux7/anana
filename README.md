@@ -35,6 +35,29 @@
 |33|[Аԥсуара Ашьаҭақәа](https://github.com/danielinux7/abkhazian-books/blob/main/33.pdf)|Никәала Ҳашыг|УДК 82-39 ББК 84(5Абх) 6-44 Ҳ 20|2021|![][1]|By author(s)|
 |34|[Иалкаау 1](https://github.com/danielinux7/abkhazian-books/blob/main/34.pdf)|Сергеи Зыхәба|УДК 82-95 ББК 83.3(5Абх) З 96|2014|![][1]|By author(s)|
 |35|[Иалкаау 2](https://github.com/danielinux7/abkhazian-books/blob/main/35.pdf)|Сергеи Зыхәба|УДК 82-95 ББК 83.3(5Абх) З 96|2014|![][1]|By author(s)|
+|36|[Аамҭа Иазымҵәахыз](https://github.com/danielinux7/abkhazian-books/blob/main/36.pdf)|Анатоли Лагәлаа|УДК 821.35 ББК 84(5Абх) 6-5 Л 15|2017|![][1]|By author(s)|
+|37|[Аизга 1](https://github.com/danielinux7/abkhazian-books/blob/main/37.pdf)|Белла Барцыцԥҳа|ББК 84 (5Абх) 6-5 Б 28|2015|![][1]|By author(s)|
+|38|[Иалкаау](https://github.com/danielinux7/abkhazian-books/blob/main/38.pdf)|Виачеслав Ҷыҭанаа|УДК 82-3 ББК (5Абх) 6-5 Ҷ 87|2017|![][1]|By author(s)|
+|39|[Зымцахә Еиқәу](https://github.com/danielinux7/abkhazian-books/blob/main/39.pdf)|Вахтанг Аԥҳазоу|ББК 84 (5Абх) 6-5 А 63|2015|![][1]|By author(s)|
+|40|[Аԥсҭҳәеиқәаҵәеи Ажәҩанҵлашеи](https://github.com/danielinux7/abkhazian-books/blob/main/40.pdf)|Владимир Басариа|ББК 84(5Абх) 6-44 Б 29|2015|![][1]|By author(s)|
+|41|[Ахьышьҭа](https://github.com/danielinux7/abkhazian-books/blob/main/41.pdf)|Гәында Кәыҵниа|УДК 821.35 ББК 84(5Абх)6-5 Кә 94|2017|![][1]|By author(s)|
+|42|[Иалкаау](https://github.com/danielinux7/abkhazian-books/blob/main/42.pdf)|Шалуа Ҵәыџьба|УДК 821.35 ББК 84(5Абх) 6-44 Ҵә 96|2014|![][1]|By author(s)|
+|43|[Иҩымҭақәа Реизга 7](https://github.com/danielinux7/abkhazian-books/blob/main/43.pdf)|Џьума Аҳәба|ББК 84(5Абх) 6-4 А 81|2016|![][1]|By author(s)|
+|44|[Иҩымҭақәа Реизга 6](https://github.com/danielinux7/abkhazian-books/blob/main/44.pdf)|Џьума Аҳәба|ББК 84(5Абх) 6-4 А 81|2015|![][1]|By author(s)|
+|45|[Хшәаӡшәа](https://github.com/danielinux7/abkhazian-books/blob/main/45.pdf)|Инна Аҳашба|УДК 821.35 ББК 84(5Абх) 6-5 А 81|2017|![][1]|By author(s)|
+|46|[Иҩымҭақәа Реизга 2](https://github.com/danielinux7/abkhazian-books/blob/main/46.pdf)|Борис Ҭыжәба|ББК 84 (5Абх) 6-5 Ҭ 78|2014|![][1]|By author(s)|
+|47|[Платон Бебиа](https://github.com/danielinux7/abkhazian-books/blob/main/47.pdf)|Руслан Қапба|ББК 84(5Абх) 6-44 Қ 20|2015|![][1]|By author(s)|
+|48|[Аҩымҭақәа реизга 19](https://github.com/danielinux7/abkhazian-books/blob/main/48.pdf)|Никәала Кәыҵниа|ББК 84 (5 Абх) 6-5 Кә 94|2015|![][1]|By author(s)|
+|49|[Аҩымҭақәа реизга 20](https://github.com/danielinux7/abkhazian-books/blob/main/49.pdf)|Никәала Кәыҵниа|ББК 84 (5 Абх) 6-5 Кә 94|2016|![][1]|By author(s)|
+|50|[Ауаа разқәа](https://github.com/danielinux7/abkhazian-books/blob/main/50.pdf)|Анатоли Лагәлаа|ББК 84(5Абх) 6-5 Л 15|2015|![][1]|By author(s)|
+|51|[Қьалашьбеи](https://github.com/danielinux7/abkhazian-books/blob/main/51.pdf)|Анзор Мықәба|ББК 84(5 Абх) 6 –44 М 85|2015|![][1]|By author(s)|
+|52|[Ашаеҵәақәа](https://github.com/danielinux7/abkhazian-books/blob/main/52.pdf)|Анзор Мықәба|ББК 84(5 Абх) 6 –44 М 85|2015|![][1]|By author(s)|
+|53|[Аҩымҭақәа 5](https://github.com/danielinux7/abkhazian-books/blob/main/53.pdf)|Нели Ҭарԥҳа|ББК 84(5Абх) 6 Ҭ 29|2015|![][1]|By author(s)|
+|54|[Иалкаау 1](https://github.com/danielinux7/abkhazian-books/blob/main/54.pdf)|Терент Ҷаниа|ББК 84 (5Абх) 6-5 Ҷ 26|2017|![][1]|By author(s)|
+|55|[Уа мшыбзиа, амш бзиа!](https://github.com/danielinux7/abkhazian-books/blob/main/55.pdf)|Платон Бебиа|ББК 84(5Абх) 6-5 Б 47|2015|![][1]|By author(s)|
+|56|[Агәы Иалахаз Аҵәымӷ](https://github.com/danielinux7/abkhazian-books/blob/main/56.pdf)|Платон Бебиа|ББК 84(5Абх) 6-44 Б 47|2018|![][1]|By author(s)|
+|57|[Иҩымҭақәа Реизга 3](https://github.com/danielinux7/abkhazian-books/blob/main/57.pdf)|Сергеи Кәыҵниа|ББК 84(5Абх) 6-44 Кә 94|2015|![][1]|By author(s)|
+|58|[Снаргәыҵа](https://github.com/danielinux7/abkhazian-books/blob/main/58.pdf)|Рушьбеи Смыр|ББК 84 (5 Абх) 6-5 С 62|2015|![][1]|By author(s)|
 
 [1]: https://img.shields.io/static/v1?label=&message=Yes&color=green
 [2]: https://img.shields.io/static/v1?label=&message=No&color=red
