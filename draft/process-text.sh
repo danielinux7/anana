@@ -42,7 +42,7 @@ do
   sed -i -r 's/^([[:alpha:]])/\U\1/g' $file;
   sed -i -e 's/^\.\.\.//g' $file
   sed -i -r 's/(\.[\.]+)([[:alpha:]])/\1 \2/g' $file;
-  sed -i -e 's/\.\.\. /...\n/g' -e 's/\.\. /..\n/g' $file;
+  sed -i -e 's/\.\.\. /…\n/g' -e 's/\.\. /…\n/g' $file;
   sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
   # sed -i -r 's/[\.]+$/./g' $file
   sed -i -e '/^[[:punct:] ]*$/d' $file;
