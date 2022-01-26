@@ -1,5 +1,4 @@
 # [ёйяъюэщЁЙЯЪЮЭЩa-zA-Z]
-# [АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ]
 alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
 for file in $(ls | grep '^[0-9]\+.txt$');
 do
@@ -22,7 +21,6 @@ do
   ### Splitting
   sed -i -z 's/[-_—]\n//g' $file;
   sed -i -z 's/\n/ /g' $file;
-  sed -i -r 's/([:!?]) /\1\n/g' $file;
   sed -i -e 's/\.\.\. /...\n/g' -e 's/\.\. /..\n/g' -e 's/\.\.\.» /...»\n/g' -e 's/\.\.» /..»\n/g' $file;
   sed -i -r 's/([[:alpha:]][[:alpha:]][[:alpha:]]\.) /\1\n/g' $file;
   sed -i -r 's/([[:alpha:]][[:alpha:]][[:alpha:]]\.\)) /\1\n/g' $file;
@@ -35,14 +33,12 @@ do
   -e 's/[«»\(\)]//g' -e 's/— //g' -e 's/…/.../g' -e 's/№//g' -e 's/_//g' -e 's/—//g' $file;
   sed -i -r 's/([[:alpha:]])$/\1./g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
-  sed -i -r 's/^[ ]+//g' $file;
   sed -i -r 's/^О, //g' $file;
   sed -i -r 's/^([[:alpha:]])/\U\1/g' $file;
   sed -i -e 's/^\.\.\.//g' $file
   sed -i -r 's/(\.[\.]+)([[:alpha:]])/\1 \2/g' $file;
   sed -i -e 's/\.\.\. /…\n/g' -e 's/\.\. /…\n/g' $file;
   sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
-  # sed -i -r 's/[\.]+$/./g' $file
   sed -i -e '/^[[:punct:] ]*$/d' $file;
   sed -i -r 's/([!?])[,\.]+/\1/g' $file;
   sed -i -r 's/ ([,!?\.])/\1/g' $file;
@@ -51,9 +47,10 @@ do
   sed -i -r 's/[!]+/!/g' $file;
   sed -i -r 's/[?]+/?/g' $file;
   sed -i -e 's/- / /g' -e 's/ - / /g' $file;
-  sed -i -r 's/[ ]+/ /g' $file;
   sed -i -r 's/([!?]) /\1\n/g' $file;
   sed -i -r 's/([[:alpha:]][[:alpha:]][[:alpha:]]\.)/\1\n/g' $file;
+  sed -i -r 's/[ ]+/ /g' $file;
+  sed -i -r 's/^[ ]+//g' $file;
   sed -i -e 's/^\([[:alpha:]]\)/\U\1/' $file
   ### Sorting and removing duplicates
   sort $file | uniq > $file+2;
