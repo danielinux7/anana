@@ -1,5 +1,6 @@
 # [ёйяъюэщЁЙЯЪЮЭЩa-zA-Z]
 # [АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ]
+alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
 for file in $(ls | grep '^[0-9]\+.txt$');
 do
   cp $file $file.temp;
@@ -8,8 +9,7 @@ done
 for file in $(ls | grep '^[0-9]\+.txt.temp$')
 do
   ### Cleaning
-  sed -i -e '/^$/d' $file;
-  sed -i -e '/^[0-9]*$/d' $file;
+  sed -ni '/['$alpha']/p' $file;
   sed -i -e 's/−/–/g' $file;
   sed -i -r 's/^[0-9]*([[:alpha:][:punct:]])/\1/g' $file;
   sed -i -r 's/–([[:graph:]])/– \1/g' $file;
