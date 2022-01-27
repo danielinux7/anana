@@ -27,10 +27,6 @@ do
   -e 's/ҧ/ԥ/g' -e 's/Ҧ/Ԥ/g' -e 's/\*//g' -e 's/^– //g' \
   -e 's/[«»\(\)]//g' -e 's/— //g' -e 's/…/.../g' -e 's/№//g' -e 's/_//g' -e 's/—//g' $file;
   sed -i -r 's/([[:alpha:]])$/\1./g' $file;
-  sed -i -r 's/[ ]+/ /g' $file;
-  sed -i -r 's/^О, //g' $file;
-  sed -i -r 's/^([[:alpha:]])/\U\1/g' $file;
-  sed -i -e 's/^\.\.\.//g' $file
   sed -i -r 's/(\.[\.]+)([[:alpha:]])/\1 \2/g' $file;
   sed -i -e 's/\.\.\. /…\n/g' -e 's/\.\. /…\n/g' $file;
   sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
