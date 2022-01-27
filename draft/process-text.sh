@@ -13,13 +13,8 @@ do
   sed -i -z 's/\xCC\x81//g' $file;
   sed -i -z 's/\x0C//g' $file;
   sed -i -z 's/\xC2\xAD[\n]*//g' $file;
-  sed -i -e 's/−/–/g' $file;
-  sed -i -r 's/^[0-9]*([[:alpha:][:punct:]])/\1/g' $file;
-  sed -i -r 's/–([[:graph:]])/– \1/g' $file;
-  sed -i -r 's/([[:graph:]])–/\1 –/g' $file;
-  sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
   ### Splitting
-  sed -i -z 's/[-_—]\n//g' $file;
+  sed -i -z 's/[-_—−]\n//g' $file;
   sed -i -z 's/\n/ /g' $file;
   sed -i -e 's/\.\.\. /...\n/g' -e 's/\.\. /..\n/g' -e 's/\.\.\.» /...»\n/g' -e 's/\.\.» /..»\n/g' $file;
   sed -i -r 's/([[:alpha:]][[:alpha:]][[:alpha:]]\.) /\1\n/g' $file;
