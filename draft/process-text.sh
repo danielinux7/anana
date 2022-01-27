@@ -29,8 +29,6 @@ do
   sed -i -r 's/([[:alpha:]])$/\1./g' $file;
   sed -i -r 's/(\.[\.]+)([[:alpha:]])/\1 \2/g' $file;
   sed -i -e 's/\.\.\. /…\n/g' -e 's/\.\. /…\n/g' $file;
-  sed -i -r 's/([[:alpha:]])[0-9]+ /\1/g' $file;
-  sed -i -e '/^[[:punct:] ]*$/d' $file;
   sed -i -r 's/([!?])[,\.]+/\1/g' $file;
   sed -i -r 's/ ([,!?\.])/\1/g' $file;
   sed -i -r 's/,([[:alpha:]])/, \1/g' $file;
@@ -39,7 +37,7 @@ do
   sed -i -r 's/[?]+/?/g' $file;
   sed -i -e 's/- / /g' -e 's/ - / /g' $file;
   sed -i -r 's/([!?]) /\1\n/g' $file;
-  sed -i -r 's/([[:alpha:]][[:alpha:]][[:alpha:]]\.)/\1\n/g' $file;
+  sed -i -r 's/([[:alpha:]]{3,}\.)/\1\n/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
   sed -i -r 's/^[ ]+//g' $file;
   sed -i -e 's/^\([[:alpha:]]\)/\U\1/' $file
