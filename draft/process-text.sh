@@ -18,19 +18,19 @@ do
   sed -i -r 's/[!]+/!/g' $file;
   sed -i -r 's/[?]+/?/g' $file;
   sed -i -r 's/,([[:alpha:]])/, \1/g' $file;
-  ### Splitting
-  sed -i -z 's/[-_—−]\n//g' $file;
-  sed -i -z 's/\n/ /g' $file;
-  sed -i -r 's/([?!»\)]\.) /\1\n/g' $file;
-  sed -i -r 's/ –/\n–/g' $file;
-  sed -i -e 's/\.\.\./…\n/g' -e 's/\.\./…\n/g' $file;
-  ### Cleaning
-  sed -i -e 's/[«»“”\(\)\*№—_–]//g' $file;
   sed -i -r 's/([!?])[,\.]+/\1/g' $file;
   sed -i -r 's/ ([,!?\.])/\1/g' $file;
   sed -i -e 's/- / /g' -e 's/ - / /g' $file;
-  sed -i -r 's/([!?]) /\1\n/g' $file;
+  sed -i -e 's/[«»“”\(\)\*№]//g' $file;
+  ### Splitting
+  sed -i -z 's/[-_—−]\n//g' $file;
+  sed -i -z 's/\n/ /g' $file;
+  sed -i -r 's/([?!])[\. ]/\1\n/g' $file;
+  sed -i -e 's/\.\.\./…\n/g' -e 's/\.\./…\n/g' $file;
   sed -i -r 's/([[:alpha:]]{3,}\.)/\1\n/g' $file;
+  sed -i -r 's/[ ]–[ ]/…\n/g' $file;
+  sed -i -e 's/[—_–]//g' $file;
+  ### Cleaning
   sed -i -r 's/([[:alpha:]])$/\1./g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
   sed -i -r 's/^[ ]+//g' $file;
