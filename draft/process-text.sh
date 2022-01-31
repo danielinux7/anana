@@ -13,25 +13,25 @@ do
   sed -i -z 's/\xCC\x81//g' $file;
   sed -i -z 's/\x0C//g' $file;
   sed -i -z 's/\xC2\xAD[\n]*//g' $file;
+  sed -i -e 's/[…:;]/.../g' -e 's/ҕ/ӷ/g' -e 's/Ҕ/Ӷ/g' -e 's/ҧ/ԥ/g' -e 's/Ҧ/Ԥ/g' $file;
+  sed -i -r 's/[,]+/,/g' $file;
+  sed -i -r 's/[!]+/!/g' $file;
+  sed -i -r 's/[?]+/?/g' $file;
+  sed -i -r 's/,([[:alpha:]])/, \1/g' $file;
   ### Splitting
   sed -i -z 's/[-_—−]\n//g' $file;
   sed -i -z 's/\n/ /g' $file;
   sed -i -r 's/([?!»\)]\.) /\1\n/g' $file;
   sed -i -r 's/ –/\n–/g' $file;
-  ### Cleaning
-  sed -i -e 's/[…:;]/.../g' -e 's/ҕ/ӷ/g' -e 's/Ҕ/Ӷ/g' -e 's/ҧ/ԥ/g' -e 's/Ҧ/Ԥ/g' \
-  -e 's/[«»“”\(\)\*№—_–]//g' $file;
-  sed -i -r 's/([[:alpha:]])$/\1./g' $file;
   sed -i -e 's/\.\.\./…\n/g' -e 's/\.\./…\n/g' $file;
+  ### Cleaning
+  sed -i -e 's/[«»“”\(\)\*№—_–]//g' $file;
   sed -i -r 's/([!?])[,\.]+/\1/g' $file;
   sed -i -r 's/ ([,!?\.])/\1/g' $file;
-  sed -i -r 's/,([[:alpha:]])/, \1/g' $file;
-  sed -i -r 's/[,]+/,/g' $file;
-  sed -i -r 's/[!]+/!/g' $file;
-  sed -i -r 's/[?]+/?/g' $file;
   sed -i -e 's/- / /g' -e 's/ - / /g' $file;
   sed -i -r 's/([!?]) /\1\n/g' $file;
   sed -i -r 's/([[:alpha:]]{3,}\.)/\1\n/g' $file;
+  sed -i -r 's/([[:alpha:]])$/\1./g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
   sed -i -r 's/^[ ]+//g' $file;
   sed -i -r 's/^(['$alpha'])/\U\1/' $file
