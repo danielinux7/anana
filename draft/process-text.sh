@@ -27,13 +27,12 @@ do
   ### Splitting
   sed -i -z 's/[-]\n//g' $file;
   sed -i -z 's/\n/ /g' $file;
-  sed -i -r 's/([?!…])[\. ]/\1\n/g' $file;
+  sed -i -r 's/([?!…])|–/\1\n/g' $file;
   sed -i -r 's/([[:alpha:]]{3,}\.)/\1\n/g' $file;
-  sed -i -r 's/[ ]*[–][ ]*/\n/g' $file;
   ### postprocess
+  sed -i -r 's/^[ ]+|[ ]+$//g' $file;
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
-  sed -i -r 's/^[ ]+//g' $file;
   sed -i -r 's/^(['$alpha'])/\U\1/' $file
   ### Sorting and removing duplicates
   sort $file | uniq > $file+2;
