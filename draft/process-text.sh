@@ -1,4 +1,5 @@
-# [ёйяъюэщЁЙЯЪЮЭЩa-zA-Z]
+# Manual cleanup
+# 1. [_—−–]$ and [_]
 alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
 for file in $(ls | grep '^[0-9]\+.txt$');
 do
@@ -24,12 +25,11 @@ do
   sed -i -e 's/- / /g' -e 's/ - / /g' $file;
   sed -i -e 's/[«»“”\(\)\*№]//g' $file;
   ### Splitting
-  sed -i -z 's/[-_—−]\n//g' $file;
+  sed -i -z 's/[-]\n//g' $file;
   sed -i -z 's/\n/ /g' $file;
   sed -i -r 's/([?!…])[\. ]/\1\n/g' $file;
   sed -i -r 's/([[:alpha:]]{3,}\.)/\1\n/g' $file;
-  sed -i -r 's/[ ]–[ ]/\n/g' $file;
-  sed -i -e 's/[—_–]//g' $file;
+  sed -i -r 's/[ ]*[–][ ]*/\n/g' $file;
   ### postprocess
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
