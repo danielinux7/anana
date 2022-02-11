@@ -27,7 +27,7 @@ do
   sed -i -e 's/[«»“”\(\)\*№]//g' $file;
   ### Splitting
   sed -i -z 's/[-]\n//g' $file;
-  sed -i -z -r 's/([[:alpha:],])\n([[:alpha:]])/\1 \L\2/g' $file;
+  sed -i -z -r 's/,\n([[:alpha:]])/, \L\1/g' $file;
   sed -i -z 's/\n/ /g' $file;
   sed -i -r 's/([?!…][!]*)|–/\1\n/g' $file;
   sed -i -r 's/([[:alpha:]]{3,}\.)/\1\n/g' $file;
