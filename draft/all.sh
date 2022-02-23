@@ -33,6 +33,7 @@ sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > $file;
 ### Dirty text
 grep -F -x -v -f all.txt.clean all.txt | shuf > all.txt.dirty
 ### Ready text
-grep -F -x -v -f batch1.92k.ab.txt all.txt.clean > batch2.500k.ab.txt
+batches="../астатистика/common-voice/batch1/batch1.92k.ab.txt"
+grep -F -x -v -f $batches all.txt.clean > batch2.500k.ab.txt
 # Remove all temp files
 rm *.temp $(ls | grep '^[0-9]\+.txt.clean$')
