@@ -28,11 +28,13 @@ do
   sed -i -r 's/([[:alpha:]])–([[:alpha:]])/\1-\2/g' $file;
   ### Splitting
   sed -i -z 's/[-]\n//g' $file;
+  # 1
   sed -i -z -r 's/([[:alpha:],])\n([[:upper:]])/\1 \L\2/g' $file;
   sed -i -z 's/\n/ /g' $file;
   sed -i -r 's/([?!…][!]*)|–[ ]*([[:upper:]])/\1\n\2/g' $file;
   sed -i -r 's/([[:alpha:]]{3,}\.)/\1\n/g' $file;
   ### postprocess
+  # 2
   sed -i -r 's/–/ /g' $file;
   sed -i -r 's/^[ ]+|[ ]+$//g' $file;
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
