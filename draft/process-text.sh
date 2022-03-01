@@ -36,6 +36,9 @@ do
   ### postprocess
   # 2
   sed -i -r 's/–/ /g' $file;
+  # 3
+  sed -i -r 's/^.*[0-9]+[ ,]*([[:upper:]])/\1/g' $file;
+  #
   sed -i -r 's/^[ ]+|[ ]+$//g' $file;
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
