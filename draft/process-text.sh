@@ -12,6 +12,7 @@ for file in $(ls | grep '^[0-9]\+.txt.temp$')
 do
   ### preprocess
   sed -ni '/['$alpha']/p' $file;
+  # sed -i -r '/^[АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ ]+$/!d' $file;
   sed -i -r 's/\xE2\x80\x89/ /g' $file;
   sed -i -z 's/\xCC\x81//g' $file;
   sed -i -z 's/\x0C//g' $file;
