@@ -1,10 +1,9 @@
 # Manual cleanup
-# 1. [_—−–]$ and [_]
+# [_—−–]$ and [_]
 # [ёйщъэяю]
-# 4
-# Chane Alpha to ALPHA for misplaced single words in a line.
+# 4: Chane Alpha to ALPHA for misplaced single words in a line.
 alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
-regex=$(tr '\n' '|' < caps.txt)
+regex=$(sed -z -r 's/([[:alpha:]])\n([[:alpha:]])/\1|\2/g' caps.txt)
 for file in $(ls | grep '^[0-9]\+.txt$');
 do
   cp $file $file.temp;
@@ -15,7 +14,7 @@ do
   ### preprocess
   sed -ni '/['$alpha']/p' $file;
   # 4
-  sed -i -r '/^[АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ ]+$/!d' $file;
+  sed -i -r '/^[АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ ]+$/d' $file;
   sed -i -r 's/\xE2\x80\x89/ /g' $file;
   sed -i -z 's/\xCC\x81//g' $file;
   sed -i -z 's/\x0C//g' $file;
@@ -34,8 +33,8 @@ do
   ### Splitting
   sed -i -z 's/[-]\n//g' $file;
   # 1
-  # sed -i -z -r 's/([[:alpha:],])\n($regex)([[:punct:] ])/\1 #\U\2\3/g' $file;
-  # sed -i -r 's/#([[upper]])([[:upper:]]+)/\1\L\2/g' $file;
+  sed -i -z -r 's/([[:alpha:],])\n('$regex')([[:punct:] ])/\1 #\U\2\3/g' $file;
+  sed -i -r 's/#([[:upper:]])([[:upper:]]+)/\1\L\2/g' $file;
   sed -i -z -r 's/([[:alpha:],])\n([[:upper:]])/\1 \L\2/g' $file;
   sed -i -z 's/\n/ /g' $file;
   sed -i -r 's/([?!…][!]*)|–[ ]*([[:upper:]])/\1\n\2/g' $file;
