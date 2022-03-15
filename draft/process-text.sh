@@ -33,7 +33,7 @@ do
   ### Splitting
   sed -i -z 's/[-]\n//g' $file;
   # 1
-  sed -i -z -r 's/([[:alpha:],])\n('$regex')([[:punct:] ])/\1 #\U\2\3/g' $file;
+  sed -i -z -r 's/([[:alpha:],])\n\b('$regex')\b/\1 #\U\2/g' $file;
   sed -i -r 's/#([[:upper:]])([[:upper:]]+)/\1\L\2/g' $file;
   sed -i -z -r 's/([[:alpha:],])\n([[:upper:]])/\1 \L\2/g' $file;
   sed -i -z 's/\n/ /g' $file;
