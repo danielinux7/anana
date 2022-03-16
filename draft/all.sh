@@ -1,4 +1,5 @@
-regex=$(tr '\n' '|' < rus.txt | sed 's/|$//g');
+regex_rus=$(tr '\n' '|' < rus.txt | sed 's/|$//g');
+regex_dirty=$(tr '\n' '|' < dirty.txt | sed 's/|$//g');
 for file in $(ls | grep '^[0-9]\+.txt.temp$');
 do
   cp $file ${file/.temp/.clean};
@@ -8,9 +9,9 @@ for file in $(ls | grep '^[0-9]\+.txt.clean$');
 do
   # Remove all but the following symbols and patterns
   sed -i -r '/^[АБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫҨ][аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ ,?-]*[…\.!?]$/I!d' $file
-  sed -i -r '/^Ҳәа[н, ]|^[АИСРШЛҲ]ҳә[аое]|[[:alpha:]]-[[:alpha:]]+-[[:alpha:]]|\b[[:alpha:]]\b|[[:upper:]][[:upper:]]|[цнзфвпрдчсмтб]ь/d' $file;
+  sed -i -r '/'$regex_dirty'/d' $file;
   ### Remove sentences with most common Russian words
-  sed -i -z -r '/\b('$regex')\b/Id' $file;
+  sed -i -z -r '/\b('$regex_rus')\b/Id' $file;
   ### Remove more than 14 words and 10-90 characters.
   awk 'NF < 15' $file > $file.temp
   cp $file.temp $file
