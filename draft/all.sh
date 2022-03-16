@@ -1,4 +1,4 @@
-regex=$(sed -z -r 's/([[:alpha:]])\n([[:alpha:]])/\1|\2/g' rus.txt);
+regex=$(tr '\n' '|' < rus.txt | sed 's/|$//g');
 for file in $(ls | grep '^[0-9]\+.txt.temp$');
 do
   cp $file ${file/.temp/.clean};
