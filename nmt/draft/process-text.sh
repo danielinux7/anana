@@ -4,12 +4,12 @@
 # 4: Chane Alpha to ALPHA for misplaced single words in a line.
 alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
 regex=$(sed -z -r 's/([[:alpha:]])\n([[:alpha:]])/\1|\2/g' caps.txt)
-for file in $(ls | grep '^[0-9]\+.txt$');
+for file in $(ls | grep '^[0-9]\+.ab.txt$');
 do
   cp $file $file.temp;
 done
 
-for file in $(ls | grep '^[0-9]\+.txt.temp$')
+for file in $(ls | grep '^[0-9]\+.ab.txt.temp$')
 do
   ### preprocess
   sed -ni '/['$alpha']/p' $file;
@@ -50,8 +50,4 @@ do
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
   sed -i -r 's/^(['$alpha'])/\U\1/' $file
-  ### Sorting and removing duplicates
-  sort $file | uniq > $file+2;
-  cat $file+2 | awk '{ print length, $0 }' | sort -n -s | cut -d" " -f2- > $file;
-  rm $file+2;
 done
