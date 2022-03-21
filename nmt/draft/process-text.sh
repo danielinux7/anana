@@ -4,7 +4,7 @@
 # 4: Chane Alpha to ALPHA for misplaced single words in a line.
 rm *.txt
 alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
-for file in $(ls | grep '^5.tsv$');
+for file in $(ls | grep '^[0-9]\+.tsv$');
 do
   sed -r 's/\t.*//' $file > ${file/.tsv/}.ru.txt
   sed -r 's/.*\t//' $file > ${file/.tsv/}.ab.txt
