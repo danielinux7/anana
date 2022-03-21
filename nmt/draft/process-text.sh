@@ -3,7 +3,6 @@
 # [ёйщъэяю]
 # 4: Chane Alpha to ALPHA for misplaced single words in a line.
 rm *.txt
-alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
 for file in $(ls | grep '^[0-9]\+.tsv$');
 do
   sed -r 's/\t.*//' $file > ${file/.tsv/}.ab.txt
@@ -13,10 +12,9 @@ done
 for file in $(ls | grep '^[0-9]\+.ab.txt$')
 do
   ### preprocess
-  sed -ni '/['$alpha']/p' $file;
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   # 4
-  sed -i -r '/^[АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ ]+$/d' $file;
+  sed -i -r '/^[АӘБВГӶДЕЖЗӠИКҚҞЛМНОПԤРСТҬУФХҲЦҴЧҶҼҾЏШЫЬҨ ]+$/s/.*//' $file;
   sed -i -r 's/\xE2\x80\x89/ /g' $file;
   sed -i -z 's/\xCC\x81//g' $file;
   sed -i -z 's/\x0C//g' $file;
@@ -48,17 +46,15 @@ do
   sed -i -r 's/^[ ]+|[ ]+$//g' $file;
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
-  sed -i -r 's/^(['$alpha'])/\U\1/' $file
+  sed -i -r 's/^([[:alpha:]])/\U\1/' $file
 done
 
-alpha2="ёйцукенгшщзхъфывапролджэячсмитьбю"
 for file in $(ls | grep '^[0-9]\+.ru.txt$')
 do
   ### preprocess
-  sed -ni '/['$alpha2']/p' $file;
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   # 4
-  sed -i -r '/^[ЁЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮ ]+$/d' $file;
+  sed -i -r '/^[ЁЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮ ]+$/s/.*//' $file;
   sed -i -r 's/\xE2\x80\x89/ /g' $file;
   sed -i -z 's/\xCC\x81//g' $file;
   sed -i -z 's/\x0C//g' $file;
@@ -89,5 +85,5 @@ do
   sed -i -r 's/^[ ]+|[ ]+$//g' $file;
   sed -i -r 's/([[:alpha:]])[,]*$/\1…/g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
-  sed -i -r 's/^(['$alpha2'])/\U\1/' $file
+  sed -i -r 's/^([[:alpha:]])/\U\1/' $file
 done
