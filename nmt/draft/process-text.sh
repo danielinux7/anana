@@ -6,8 +6,8 @@ rm *.txt
 alpha="аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ"
 for file in $(ls | grep '^[0-9]\+.tsv$');
 do
-  sed -r 's/\t.*//' $file > ${file/.tsv/}.ru.txt
-  sed -r 's/.*\t//' $file > ${file/.tsv/}.ab.txt
+  sed -r 's/\t.*//' $file > ${file/.tsv/}.ab.txt
+  sed -r 's/.*\t//' $file > ${file/.tsv/}.ru.txt
 done
 
 for file in $(ls | grep '^[0-9]\+.ab.txt$')
