@@ -19,5 +19,5 @@ for file in os.scandir('.'):
                         for i in range(max):
                             value1 = row[0][i].strip() if i < len(row[0]) else ""
                             value2 = row[1][i].strip() if i < len(row[1]) else ""
-                            writer.writerow([value1, value2])
+                            writer.writerow([file.name[0:-9], value1, value2])
                 shutil.move(tempfile.name, file.name)
