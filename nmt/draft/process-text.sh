@@ -6,6 +6,7 @@ done
 for file in $(ls | grep '^[0-9]\+.tsv.temp$')
 do
   ### preprocess
+  sed -i -e '/^\t$/d' $file;
   sed -i -e 's/[:;]/…/g' $file;
   sed -i -r 's/[\.]{2,3}/…/g' $file;
   sed -i -r 's/[,]+/,/g' $file;
