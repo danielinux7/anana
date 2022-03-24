@@ -1,4 +1,9 @@
-for file in $(ls | grep '^[0-9]\+.tsv$')
+for file in $(ls | grep '^[0-9]\+.tsv$');
+do
+  cp $file $file.temp;
+done
+
+for file in $(ls | grep '^[0-9]\+.tsv.temp$')
 do
   ### preprocess
   sed -i -e 's/[:;]/…/g' $file;
