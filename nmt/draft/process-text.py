@@ -17,10 +17,10 @@ for file in os.scandir('.'):
                         row[1] = p.split(row[1])
                         max = len(row[0]) if len(row[0]) > len(row[1]) else len(row[1])
                         for i in range(max):
-                            value1 = row[0][i].strip() if i < len(row[0]) else ' '
-                            value2 = row[1][i].strip() if i < len(row[1]) else ' '
-                            value2 = value2 if len(value2) > 0 else ' ' 
-                            error = '0' if 0.6 < len(value1)/len(value2) < 1.4 else '1'
+                            value1 = row[0][i].strip().capitalize() if i < len(row[0]) else ' '
+                            value2 = row[1][i].strip().capitalize() if i < len(row[1]) else ' '
+                            value2 = value2 if len(value2) > 0 else ' '
+                            error = '0' if 0.5 < len(value1)/len(value2) < 1.5 else '1'
                             id = (('+'+file.name[0:-9] if len(row[0]) >1 else file.name[0:-9]) if len(row[0]) == len(row[1]) else '-'+file.name[0:-9])
                             writer.writerow([id, value1, value2, error])
                 shutil.move(tempfile.name, file.name)
