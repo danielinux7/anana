@@ -7,6 +7,7 @@ for file in $(ls | grep '^[0-9]\+.tsv.temp$')
 do
   ### preprocess
   sed -i -e '/^\t$/d' $file;
+  sed -i -e 's/[«»"“”\(\)\*№]//g' $file;
   sed -i -e 's/[:;]/…/g' $file;
   sed -i -r 's/[\.]{2,3}/…/g' $file;
   sed -i -r 's/[,]+/,/g' $file;
@@ -16,7 +17,6 @@ do
   sed -i -r 's/([!?])[,\.]+/\1/g' $file;
   sed -i -r 's/ ([…,!?\.])/\1/g' $file;
   sed -i -e 's/- / /g' -e 's/ - / /g' $file;
-  sed -i -e 's/[«»"“”\(\)\*№]//g' $file;
   sed -i -r 's/([[:alpha:]])–([[:alpha:]])/\1-\2/g' $file;
   sed -z -i -r 's/([[:alpha:][:digit:]])[,]*([\t\n])/\1…\2/g' $file;
   ### Splitting
