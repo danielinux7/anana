@@ -24,6 +24,9 @@ do
   sed -i -r 's/([[:alpha:]]{3,}\.)/\1#/g' $file;
   ### postprocess
   sed -i -r 's/#[[:punct:] ]*([[:alpha:]])/#\U\1/g' $file;
+  sed -i -r 's/#([[:alpha:]])/#\U\1/g' $file;
+  sed -i -r 's/^([[:alpha:]])/\U\1/g' $file;
+  sed -i -r 's/\t([[:alpha:]])/\t\U\1/g' $file;
   sed -z -i -r 's/#([\t\n])/\1/g' $file;
   sed -i -r 's/^[ ]+|[ ]+$//g' $file;
   sed -i -r 's/[ ]+/ /g' $file;
