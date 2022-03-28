@@ -6,6 +6,8 @@ done
 
 for file in $(ls | grep '^[0-9]\+.tsv.clean$');
 do
+  # Process sentences
+  sed -i -r 's/\t[[:punct:] ]*([[:alpha:]])/\U\1/g' $file;
   # Remove all but the following symbols and patterns
   sed -i -r '/^[0-9+-]*\t[аәбвгӷдежзӡикқҟлмнопԥрстҭуфхҳцҵчҷҽҿџшыьҩ ,?–-]*[…\.!?]\t[ёйцукенгшщзхъфывапролджэячсмитьбю ,?–-]*[…\.!?]\t0$/I!d' $file;
   sed -i -r '/\tҲәа[н, ]|\t[АИСРШЛҲ]ҳә[аое]|[[:alpha:]]-[[:alpha:]]+-[[:alpha:]]|\b[[:alpha:]]\b|[[:upper:]][[:upper:]]/d' $file;
