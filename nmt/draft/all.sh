@@ -11,4 +11,4 @@ cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
 sort -t$'\t' -k3 -u $file.temp | cut -f1,2,3,4 | shuf > $file && rm $file.temp;
 ### Replace more or less than 30-200 characters.
-sed -r '/^.{,30}$|^.{200,}$/d' $file | shuf > all.tsv.clean && rm all.tsv.clean.temp;
+sed -r '/^.{,15}$|^.{200,}$/d' $file | shuf > all.tsv.clean && rm all.tsv.clean.temp;
