@@ -9,6 +9,6 @@ sed -i -r '/\tҲәа[н, ]|\t[АИСРШЛҲ]ҳә[аое]|[[:alpha:]]-[[:alpha:]
 # Remove duplicates from source
 cut -f2,3 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
-sort -t$'\t' -k4 -u $file.temp | cut -f1,2,3,4 | shuf > $file && rm $file.temp;
-### Replace more or less than 30-200 characters.
-sed -r '/^.{,15}$|^.{200,}$/d' $file | shuf > all.tsv.clean && rm all.tsv.clean.temp;
+sort -t$'\t' -k4 -u $file.temp | cut -f1,2,3 | shuf > $file && rm $file.temp;
+### Replace more or less than 40-200 characters.
+grep -Ex '.{15,39}' $file | sed -r 's/…//g' |shuf > all.tsv.clean && rm all.tsv.clean.temp;
