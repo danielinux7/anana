@@ -13,4 +13,4 @@ cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
 sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > $file && cat $file > $file.temp;
 ### Replace more or less than 40-200 characters.
-grep -Ex $'[0-9]*\t.{8,19}' $file.temp | sed -r 's/…//g' |shuf > $file && rm $file.temp;
+sed -r 's/…//g' $file.temp | grep -Ex $'[0-9]*\t.{7,19}' |shuf > $file && rm $file.temp;
