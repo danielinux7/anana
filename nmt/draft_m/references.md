@@ -56,7 +56,7 @@
 - 56 - Агәы Иалахаз Аҵәымӷ
 - 57 - Иҩымҭақәа Реизга 3
 - 58 - Снаргәыҵа
-## - The Abkhaz National Corpus (https://clarino.uib.no/abnc)
+## The Abkhaz National Corpus (https://clarino.uib.no/abnc)
 - 59 - abk-folklor-dzhapua-tur-1-narty.txt
 - 60 - abk-folk-nar-poez-1.txt
 - 61 - abk-folk-nar-proza.txt
@@ -223,3 +223,280 @@
 - 222 - vozba-a+sochin-2.txt
 - 223 - zantaria-d+aizga.txt
 - 224 - zantaria-v+uragan.txt
+## Inar's text
+- 225 - abkhazou_v_rodnik.docx
+- 226 - abkhazsky_folklor_dzhapua_turetskie_zapisi_I_narty_2014.docx
+- 227 - abkhazsky_folklore_kniga_1_narodnaja_poezia.docx
+- 228 - adjba_t_ialkaau.docx
+- 229 - Akhuba_D_sobranie_sochineniy_tom_2.docx
+- 230 - Akhuba_D_sobranie_sochineniy_tom_3.docx
+- 231 - Akhuba_D_sobranie_sochineniy_tom_4.docx
+- 232 - Ankvab_V_sobranie_sochineniy_tom_1.docx
+- 233 - Butba_Z_Prikljuchenja_Chagu_Chatsby.docx
+- 234 - Chania_T_Leti_moiya_pesniya.docx
+- 235 - Djenia_A_Sobranie_sochineniy_Tom_2.docx
+- 236 - Djonua_A_Proizvedenia_tom_1.docx
+- 237 - gulia_d_kamachich.docx
+- 238 - lagulaa_a_milost_2013.docx
+- 239 - lagulaa_a_sobranie_tom_I_2011.docx
+- 240 - Lagulaa_A_Tom_2.docx
+- 241 - (UniCode)1 Витали Амаршьан 1.docx
+- 242 - (UniCode)2 Витали Амаршан  Сбааш хьы7ъцара.docx
+- 243 - (UniCode)4 Ашьам дгьыл.docx
+- 244 - (UniCode)А8суа литература але6циа6ъа ркурс.docx
+- 245 - (UniCode)абзагу акалг,ьба измененный.docx
+- 246 - (UniCode)АБХАЗСКИЕ СКАЗКИ паследни вариант .docx
+- 247 - (UniCode)Ажба Енвер 2.docx
+- 248 - (UniCode)Ажиба Енвер.docx
+- 249 - (UniCode)Ажиба Энвер.docx
+- 250 - (UniCode)АЛАШАРА. 14.11.2013. Джамбул.docx
+- 251 - (UniCode)АЛАШАРА ОТ АЦЪА.docx
+- 252 - (UniCode)Алексема апсуа бызшъа=ы последнии вариант.docx
+- 253 - (UniCode)АЛИНА ЖЬИП,Х,А.docx
+- 254 - (UniCode)Алитературатъ хьцъцара Р. Капба Ш. Чкадуа.docx
+- 255 - (UniCode)Алхас АБХАЗЫ в Турции.docx
+- 256 - (UniCode)АЛХАС ҚАПШЬ.docx
+- 257 - (UniCode)Алыкьса Гогуа 80 ш..docx
+- 258 - (UniCode)Альбина Microsoft Word.docx
+- 259 - (UniCode)Альбина  Анкваб конвMicrosoft Word.docx
+- 260 - (UniCode)АМАТЕРИАЛҚӘА.docx
+- 261 - (UniCode)АНЗОР МУКБА    О ГУЛИА.docx
+- 262 - (UniCode)Антология 1 том.docx
+- 263 - (UniCode)Антология 2 том.docx
+- 264 - (UniCode)Антропонимика на абхазском языке Давид Дасаниа.docx
+- 265 - (UniCode)Аполисемиа.docx
+- 266 - (UniCode)Аполлон Думаа.docx
+- 267 - (UniCode)Аполлон Думаа про Антона Пилия.docx
+- 268 - (UniCode)Апсны ашәҟә Word.docx
+- 269 - (UniCode)Апсуеи апсуареи.docx
+- 270 - (UniCode)Аргун для Мушни.docx
+- 271 - (UniCode)Аргун Юра Word.docx
+- 272 - (UniCode)Аргун Юра  Гудисрвичабаза.docx
+- 273 - (UniCode)арда.docx
+- 274 - (UniCode)Арда  Ашуба статьиа.docx
+- 275 - (UniCode)Арда Михайловна Книга.docx
+- 276 - (UniCode)Ардзинба Заур Джотович.docx
+- 277 - (UniCode)Арсалма Ласурия.docx
+- 278 - (UniCode)Артур Аншба - Никуала Хашиг.docx
+- 279 - (UniCode)АСЛАН КУЦНИА.docx
+- 280 - (UniCode)Асултан уахь последни вариант.docx
+- 281 - (UniCode)Асы ауан.docx
+- 282 - (UniCode)Атоурых ду змоу.docx
+- 283 - (UniCode)Ауахуама - ахтыс бзиа.docx
+- 284 - (UniCode)Афольклортъ.docx
+- 285 - (UniCode)Ахк,ъа.docx
+- 286 - (UniCode)Ахьдз последнии вариант.docx
+- 287 - (UniCode)Ацентр азы Word.docx
+- 288 - (UniCode)Ацентр иазкны Алашара азы.docx
+- 289 - (UniCode)АЦИКЛ Умыццакын аха убылла.docx
+- 290 - (UniCode)ацха баллада.docx
+- 291 - (UniCode)Ацыха зыхьеипш запстазаара цкьаз.docx
+- 292 - (UniCode)АШАЦКЫРА.docx
+- 293 - (UniCode)баграт иуа Microsoft Word.docx
+- 294 - (UniCode)Баграт Шинкуба.docx
+- 295 - (UniCode)бадрак.docx
+- 296 - (UniCode)Бадри Word.docx
+- 297 - (UniCode)Б. Е. Сагария, академик.docx
+- 298 - (UniCode)Борис  Зарданиа последний вариант .docx
+- 299 - (UniCode)Боча Аджинджал.docx
+- 300 - (UniCode)Валентин об Адгуре исправ  конвертер.docx
+- 301 - (UniCode)Вахтанг 1.docx
+- 302 - (UniCode)ВИКТОР Word.docx
+- 303 - (UniCode)Владимир Басариа для журнала.docx
+- 304 - (UniCode)Владимир Капба рассказы.docx
+- 305 - (UniCode)Вова зантария.docx
+- 306 - (UniCode)Втсавка к тексту.docx
+- 307 - (UniCode)Гожба Для Алашара.docx
+- 308 - (UniCode)Гублиа 2.docx
+- 309 - (UniCode)Гублиа 3.docx
+- 310 - (UniCode)Гублиа книга 1.docx
+- 311 - (UniCode)Гулиа19 (1-5).docx
+- 312 - (UniCode)Гулиа 20 (2-15).docx
+- 313 - (UniCode)Гьаргь Гъыблиа.docx
+- 314 - (UniCode)гьаргь дзидзария.docx
+- 315 - (UniCode)Давид Дасаниа.docx
+- 316 - (UniCode)Д. ГЭЛИА ИЗКНЫ.docx
+- 317 - (UniCode)Джамбу Microsoft Word.docx
+- 318 - (UniCode)Джопуа Рушьни Адзбаю даауеит.docx
+- 319 - (UniCode)Джума Ахуба автобиографические рассказы.docx
+- 320 - (UniCode)Джума Ахуба автобиографические рассказы продолжение.docx
+- 321 - (UniCode)Джума Ахуба возрождение абхазской писменности.docx
+- 322 - (UniCode)Джума Ахуба книга.docx
+- 323 - (UniCode)Джума Ахуба Последний разговор.docx
+- 324 - (UniCode)Джума Ахуба продолжение часть 2.docx
+- 325 - (UniCode)ДЖУМА АХУБА статья.docx
+- 326 - (UniCode)Джума Ахуба третья часть.docx
+- 327 - (UniCode)Джума ахъба первая часть.docx
+- 328 - (UniCode)Джума Ахъба четвертая часть.docx
+- 329 - (UniCode)Диана АДжинджал 2.docx
+- 330 - (UniCode)Диана Аджинджал  книга 1.docx
+- 331 - (UniCode)Дмитри Габелиа рассказы конв.docx
+- 332 - (UniCode)Дмитри гулиа  стихи конв.docx
+- 333 - (UniCode)Документ Microsoft Word (2).docx
+- 334 - (UniCode)Документ Microsoft Word (3).docx
+- 335 - (UniCode)Документ Microsoft Word.docx
+- 336 - (UniCode)Думаа Аполлон Апсуеи апсуареи Цабалаа рхьаа.docx
+- 337 - (UniCode)Думаа Аполлон про Гургулиа Бориса и рассказ маленьки.docx
+- 338 - (UniCode)Думаа Аполлон рассказы последни вариант .docx
+- 339 - (UniCode)Думава для газеты1989  ш.docx
+- 340 - (UniCode)Дырмит Гәлиа изкны апсуа царауаа.docx
+- 341 - (UniCode)дырмит Гулиа рассказы.docx
+- 342 - (UniCode)Дырмит изкны Word.docx
+- 343 - (UniCode)Елеонора Когониа исправ .docx
+- 344 - (UniCode)Ема Word.docx
+- 345 - (UniCode)Есма стихиt Word.docx
+- 346 - (UniCode)ЕСМА ТОДУА   стихи.docx
+- 347 - (UniCode)ЕЦЭАДЖЬАА.docx
+- 348 - (UniCode)ЖУРНАЛ СУХУМ .docx
+- 349 - (UniCode)ЖЪЛАР РПОЕТ.docx
+- 350 - (UniCode)Заира  рассказы часть.docx
+- 351 - (UniCode)Зантария ВладимирДля Дианы.docx
+- 352 - (UniCode)запасные расссказы.docx
+- 353 - (UniCode)Заур Гындиа.docx
+- 354 - (UniCode)Звезда полей.docx
+- 355 - (UniCode)Зухба С. Л. Абхазская мифология.docx
+- 356 - (UniCode)ЗУХБА  статья.docx
+- 357 - (UniCode)Зчеиджыыка мап ацъикуаз.docx
+- 358 - (UniCode)Зыжълар рзы ихърыбяьыцыз.docx
+- 359 - (UniCode)ИАСОН.docx
+- 360 - (UniCode)Икалази икамлази.docx
+- 361 - (UniCode)И. Когония книга.docx
+- 362 - (UniCode)Илия Ласурия для созвездие .docx
+- 363 - (UniCode)ИЛОНА  КУЦНИАПХА  СТИХИ.docx
+- 364 - (UniCode)Имариам амариа.docx
+- 365 - (UniCode)Инал Ардзинба Word.docx
+- 366 - (UniCode)Инал гыцба Word.docx
+- 367 - (UniCode)Инна ащаш.docx
+- 368 - (UniCode)Интервью Мушни Ласуриа.docx
+- 369 - (UniCode)Итбаау ажьрацъара.docx
+- 370 - (UniCode)Иуа.docx
+- 371 - (UniCode)Иуа Когониа.docx
+- 372 - (UniCode)Иуа КОГОНИА  СТИХИ конвертер.docx
+- 373 - (UniCode)Иуа Кояониа заам0а яъяъала изнырыз.docx
+- 374 - (UniCode)Иуеи Дырмити. Лашъриа М.docx
+- 375 - (UniCode)Капба.docx
+- 376 - (UniCode)капба Алыкьса Аргун.docx
+- 377 - (UniCode)Капба для созвезде.docx
+- 378 - (UniCode)Капба журнал. Алашара.docx
+- 379 - (UniCode)капба книги.docx
+- 380 - (UniCode)Капба О книге хухут Бгажба.docx
+- 381 - (UniCode)Капба  о Хышба Фаине конвертер.docx
+- 382 - (UniCode)Капба Руслан 17.08.2013.docx
+- 383 - (UniCode)Капба Р. Х..docx
+- 384 - (UniCode)Капба  Ус еипш излахьынцахаз.docx
+- 385 - (UniCode)Касландзия  Валишьа.docx
+- 386 - (UniCode)КАСЛАНДЗИЯ статья.docx
+- 387 - (UniCode)Конджариа - Отырба.docx
+- 388 - (UniCode)Королина Word.docx
+- 389 - (UniCode)Кутол.docx Иуа когониа.docx
+- 390 - (UniCode)КЬЫРШЬАЛ. Ч..docx
+- 391 - (UniCode)Ласуриа стихи 27.02. 2012 ш..docx
+- 392 - (UniCode)Ласурия М. стихи 2016г.docx
+- 393 - (UniCode)Ласурия про Ахьиба.docx
+- 394 - (UniCode)Ласурия Умар Хаиам.docx
+- 395 - (UniCode)Лашъриа Мушьни перевод ст. Лермонтова .docx
+- 396 - (UniCode)МАМА ЛАЖЭАБЖЬ праленное.docx
+- 397 - (UniCode)Марина Джопуа для созвезде.docx
+- 398 - (UniCode)МИД, статья.docx
+- 399 - (UniCode)М. Ласуриа Ажъа ащъаа6ъа.docx
+- 400 - (UniCode)М Ласуриа доклад С. Л. Зухба.docx
+- 401 - (UniCode)Молод писатАбзагу  Калги стихи Word.docx
+- 402 - (UniCode)МОЛОДЫЕ ПОЭТЫ ДЛЯ ЖУРНАЛА .docx
+- 403 - (UniCode)М. Т. Ласуриа В. Зантариа.docx
+- 404 - (UniCode)М. Т. Ласурия.docx
+- 405 - (UniCode)Мушни Ласуриа.docx
+- 406 - (UniCode)Мушни Ласурия переводы.docx
+- 407 - (UniCode)Мушни стих.docx
+- 408 - (UniCode)Мушьни.docx
+- 409 - (UniCode)Мушьни. Акалакь шътыш иаланхо акьа=яъыяъ6ъа.docx
+- 410 - (UniCode)Мушьни ласурия доклад.docx
+- 411 - (UniCode)Мушьни Пушкин А.docx
+- 412 - (UniCode)Мшни ЛАсурия о Шоте СалакаяАИУБИЛЕИ АЖЪА.docx
+- 413 - (UniCode)Наира Сабекиа кон.docx
+- 414 - (UniCode)Нели изыкны 1.docx
+- 415 - (UniCode)Никуала Хашиг 2.docx
+- 416 - (UniCode)НОВЫЕ КНИГИ №1.docx
+- 417 - (UniCode)Н. Тихонов. Еит Гогуа нов Word.docx
+- 418 - (UniCode)О Гулиа.docx
+- 419 - (UniCode)О ИУЕ КОГОНИА Word (2).docx
+- 420 - (UniCode)Отырба Нури рассказы.docx
+- 421 - (UniCode)Павел Анкваб рассказ.docx
+- 422 - (UniCode)Палестниа. Ласурияdocx.docx
+- 423 - (UniCode)Писатели  (2).docx
+- 424 - (UniCode)Платон Бебиа Аитагакуа Word.docx
+- 425 - (UniCode)Платон Бебиа  стихотв.docx
+- 426 - (UniCode)Плиа Word.docx
+- 427 - (UniCode)Плиапха   АЛЬДОНА стихи Word.docx
+- 428 - (UniCode)Поэма об Адгуре.docx
+- 429 - (UniCode)Предисловие к книге Рауля Ласуриа.docx
+- 430 - (UniCode)Про Аджинджал Шьалоди.docx
+- 431 - (UniCode)Про Ермолая Аджынджал.docx
+- 432 - (UniCode)рассказ Сергеи Зухба.docx
+- 433 - (UniCode)Рассказы для №1.docx
+- 434 - (UniCode)РАуль вставки.docx
+- 435 - (UniCode)Рауль Ласуриа А6ьазоуцъа рашъа.docx
+- 436 - (UniCode)Рауль Ласуриа Баглачан.docx
+- 437 - (UniCode)Рауль Ласуриа новые стихи.docx
+- 438 - (UniCode)Рауль Ласуриа про Генади Аламия.docx
+- 439 - (UniCode)Рауль Ласуриа про Гиндия СЕргея.docx
+- 440 - (UniCode)Рауль Ласуриа про Гыц Ас8а.docx
+- 441 - (UniCode)Рауль ЛАсуриа про Цвижба.docx
+- 442 - (UniCode)Рауль Ласурия 2012 год.docx
+- 443 - (UniCode)Рауль ласурия Алабжыш.docx
+- 444 - (UniCode)Рауль Ласурия Новый деньАкамбашь Бача ашъа.docx
+- 445 - (UniCode)Рауль Лашъриа.docx
+- 446 - (UniCode)Рауль Лашъриа книга.docx
+- 447 - (UniCode)Рауль Лашъриа стихи 2013 год последний.docx
+- 448 - (UniCode)Рауль Лашъриа стихи для алашара 2012.docx
+- 449 - (UniCode)Рауль про Рушни Джопуа.docx
+- 450 - (UniCode)Рауль стихи 2013 год.docx
+- 451 - (UniCode)РАУЛЬ СТИХИ.docx
+- 452 - (UniCode)Рауль стихиБ.docx
+- 453 - (UniCode)Р. Капба Сергеи Зухба.docx
+- 454 - (UniCode)Р. Ласурия док.docx
+- 455 - (UniCode)Р. Ласурия стих. исправленный вариант.docx
+- 456 - (UniCode)Р. Смыр.docx
+- 457 - (UniCode)руслан Капба для созвездие.docx
+- 458 - (UniCode)Рушбеи СМЫР.docx
+- 459 - (UniCode)Рушни Джопуа Смиал.docx
+- 460 - (UniCode)Саида Ацентр азыWord.doc конв.docx
+- 461 - (UniCode)Саида Хаджимба Word.doc конв.docx
+- 462 - (UniCode)Саманба   Аомонимкуа.docx
+- 463 - (UniCode)Саманба и Авидзба Василий  статья.docx
+- 464 - (UniCode)Сарион Таркил  исправконвертер.docx
+- 465 - (UniCode)Сая для Альбины.docx
+- 466 - (UniCode)Сергеи Зухбу.docx
+- 467 - (UniCode)С.П. Басариа.docx
+- 468 - (UniCode)СП РА.docx
+- 469 - (UniCode)СТИХИ.docx
+- 470 - (UniCode)Терент Чаниа.docx
+- 471 - (UniCode)Том первый Диана Аджинджалт.docx
+- 472 - (UniCode)Убыхские сказания Гожба Word.docx
+- 473 - (UniCode)УРАЛ-Батыр  титул.docx
+- 474 - (UniCode)Хашиг 12.docx
+- 475 - (UniCode)Царгуш Васили воспоминания.docx
+- 476 - (UniCode)Читанава.docx
+- 477 - (UniCode)Шалодия Аджинджал 2.docx
+- 478 - (UniCode)Шалодия Аджинджал    3.docx
+- 479 - (UniCode)Шьаликъа Джапуа.docx
+- 480 - (UniCode)ШЬАЛОДИА Аджинджал 1.docx
+- 481 - (UniCode)Эсма Тодуа Уи нахыс еибашьран.doc кон.docx
+- 482 - (UniCode)Юбилей Шота Салакая.docx
+- 483 - А. Гогәуа  АӠЫЖЬ для издания.docx
+- 484 - Агха грахааӡа Гогәуа.docx
+- 485 - Адныҳәаларақәа еизакны 2.docx
+- 486 - Аҟәа ақалақь.docx
+- 487 - Алашара 2016.docx
+- 488 - алашара адныҳәалара.docx
+- 489 - Алитература аҳәаақәа.docx
+- 490 - Ани Аԥсадгьыли Леиба.docx
+- 491 - Анхаҩи аӡахәе1 переводы Таниа.docx
+- 492 - Ат,ара новый ссс.docx
+- 493 - Ашколи аԥсҭазаареи 4 2015.docx
+- 494 - Вл. Зантариа 9 сент.docx
+- 495 - Гәында Сақаниа.docx
+- 496 - для алашары.docx
+- 497 - Елеонора Когониа.docx
+- 498 - Мшыннырцәтәи ҳаҳәшьцәа ражәабжьқәа.docx
+- 499 - Сергеи Гиндиа12.11.15.docx
+- 500 - Традиц. образ женщины в произв. Гогуа.docx
