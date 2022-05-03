@@ -131,30 +131,31 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="doi">адогри</language>
 			<language type="dsb">ҵаҟатәи-лужиц</language>
 			<language type="dua">адуала</language>
-			<language type="dum">абжьара-нидерланд</language>
+			<language type="dum">абжьаратәи анидерланд</language>
 			<language type="dv">амалдив</language>
+			<language type="dyo">адиола-фони</language>
+			<language type="dyu">адиула</language>
+			<language type="dz">адзонг-кэ</language>
+			<language type="dzg">адаза</language>
+			<language type="ebu">аембу</language>
+			<language type="ee">аеве</language>
+			<language type="efi">аефик</language>
+			<language type="egy">ажәытәмсыр</language>
+			<language type="eka">аекаџук</language>
+			<language type="el">агрече</language>
+			<language type="elx">аелам</language>
+			<language type="en">англыз</language>
+			<language type="en_AU">австралиатәи англыз</language>
+			<language type="en_CA">канадатәи англыз</language>
+			<language type="en_GB">абритантәи англыз</language>
+			<language type="en_GB" alt="short">абритантәи англыз</language>
+			<language type="en_US">америкатәи англыз</language>
+			<language type="en_US" alt="short">америкатәи англыз</language>
+			<language type="enm">абжьаратәи англыз</language>
 			дж ?= џ
-			ль ?= л
+			[[:alpha:]]ь ?= [[:alpha:]]
 			ий ?= и
-			<language type="dyo">диола-фоньи</language>
-			<language type="dyu">диула</language>
-			<language type="dz">дзонг-кэ</language>
-			<language type="dzg">даза</language>
-			<language type="ebu">эмбу</language>
-			<language type="ee">эве</language>
-			<language type="efi">эфик</language>
-			<language type="egy">древнеегипет</language>
-			<language type="eka">экаджук</language>
-			<language type="el">грече</language>
-			<language type="elx">элам</language>
-			<language type="en">англий</language>
-			<language type="en_AU">австралийский англий</language>
-			<language type="en_CA">канадский англий</language>
-			<language type="en_GB">британский англий</language>
-			<language type="en_GB" alt="short">британский англий</language>
-			<language type="en_US">американский англий</language>
-			<language type="en_US" alt="short">американский англий</language>
-			<language type="enm">среднеанглий</language>
+			э ?= е 
 			<language type="eo">эсперанто</language>
 			<language type="es">испан</language>
 			<language type="es_419">латиноамериканский испан</language>
