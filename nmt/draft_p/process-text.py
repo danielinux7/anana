@@ -16,6 +16,8 @@ for file in os.scandir('.'):
                         # r1 = re.sub(re.compile('[\w ,-]'),'',row[0])
                         # r2 = re.sub(re.compile('[\w ,-]'),'',row[1])
                         # punc = set(list(r1))==set(list(r2))
+                        # import pdb; pdb.set_trace()
+                        match = row[0]==row[1]
                         row[0] = p.split(row[0])
                         row[1] = p.split(row[1])
                         max = len(row[0]) if len(row[0]) > len(row[1]) else len(row[1])
@@ -24,8 +26,8 @@ for file in os.scandir('.'):
                             value2 = row[1][i].strip() if i < len(row[1]) else ' '
                             value2 = value2 if len(value2) > 0 else ' '
                             error = '0' if 0.5 < len(value1)/len(value2) < 1.5 else '1'
-                            # if punc == False:
-                            #     error = '1'
+                            if match:
+                                error = '1'
                             id = (('+'+file.name[0:-9] if len(row[0]) >1 else file.name[0:-9]) if len(row[0]) == len(row[1]) else '-'+file.name[0:-9])
                             writer.writerow([id, value1, value2, error])
                 shutil.move(tempfile.name, file.name)
