@@ -33,7 +33,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="ak">акан</language>
 			<language type="akk">аккад</language>
 			<language type="ale">алеут</language>
-			<language type="alt">алада-алтаи</language>
+			<language type="alt">аладатәи алтаи</language>
 			<language type="am">амхар</language>
 			<language type="an">арагон</language>
 			<language type="ang">астароангли</language>
@@ -43,8 +43,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="arc">арамеи</language>
 			<language type="arn">амапуче</language>
 			<language type="arp">арапахо</language>
-			<language type="ars">анедџитә араб</language>
-			<language type="ars" alt="menu">арабтә (анедџитә)</language>
+			<language type="ars">анедџитәи араб</language>
+			<language type="ars" alt="menu">арабтәи (анедџитә)</language>
 			<language type="arw">аравак</language>
 			<language type="as">ассам</language>
 			<language type="asa">асу</language>
@@ -105,7 +105,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="chr">ачероки</language>
 			<language type="chy">ашаиен</language>
 			<language type="ckb">агәҭантәи-ақәырд</language>
-			<language type="ckb" alt="menu">ақәырдтә (асорани)</language>
+			<language type="ckb" alt="menu">ақәырдтәи (асорани)</language>
 			<language type="co">акорсикан</language>
 			<language type="cop">акопт</language>
 			<language type="cr">акри</language>
@@ -122,7 +122,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="dav">атаита</language>
 			<language type="de">агерман</language>
 			<language type="de_AT">австриа агерман</language>
-			<language type="de_CH">алитературатә ашвеицар агерман</language>
+			<language type="de_CH">алитературатәи ашвеицар агерман</language>
 			<language type="del">аделавар</language>
 			<language type="den">аслеиви</language>
 			<language type="dgr">адогриб</language>
@@ -156,7 +156,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="es">аиспан</language>
 			<language type="es_419">алаҭын-америкатәи аиспан</language>
 			<language type="es_ES">европатәи аиспан</language>
-			<language type="es_MX">амексикатә аиспан</language>
+			<language type="es_MX">амексикатәи аиспан</language>
 			<language type="et">аестон</language>
 			<language type="eu">абаск</language>
 			<language type="ewo">аевондо</language>
@@ -302,7 +302,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="lol">амонго</language>
 			<language type="lou">алуизиантәи акреол</language>?
 			<language type="loz">алози</language>
-			<language type="lrc">алада-алур</language>?
+			<language type="lrc">аладатәи алур</language>?
 			<language type="lt">алитов</language>
 			<language type="lu">алуба-акатанга</language>
 			<language type="lua">алуба-алулуа</language>
@@ -326,7 +326,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="mer">амеру</language>
 			<language type="mfe">амаврикитәи акреол</language>?
 			<language type="mg">амалагаси</language>
-			<language type="mga">алада-аирланд</language>?
+			<language type="mga">аладатәи аирланд</language>?
 			<language type="mgh">амакәа-амеетто</language>
 			<language type="mgo">амета</language>
 			<language type="mh">амаршал</language>
@@ -344,7 +344,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="ms">амалаи</language>
 			<language type="mt">амалти</language>
 			<language type="mua">амунданг</language>
-			<language type="mul">языки разных семей</language>?
+			<language type="mul">языки разных семей</language>??
 			<language type="mus">акрик</language>
 			<language type="mwl">амиранд</language>
 			<language type="mwr">амарвари</language>
@@ -356,10 +356,10 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="nan" draft="contributed">аминнан</language>
 			<language type="nap">анеаполитан</language>
 			<language type="naq">анама</language>
-			<language type="nb">норвежский букмол</language>?
-			<language type="nd">северный ндебеле</language>?
-			<language type="nds">нижненемецкий</language>?
-			<language type="nds_NL">нижнесаксон</language>?
+			<language type="nb">анорвегтәи абукмол</language>?
+			<language type="nd">аҩадатәи андебеле</language>?
+			<language type="nds">ҵаҟатәи агерман</language>?
+			<language type="nds_NL">ҵаҟатәи асаксон</language>?
 			<language type="ne">анепал</language>
 			<language type="new">аневар</language>
 			<language type="ng">андонга</language>
@@ -372,13 +372,13 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="nnh">ангиембунд</language>
 			<language type="no">анорвеж</language>
 			<language type="nog">аногаи</language>
-			<language type="non">старонорвеж</language>?
+			<language type="non">ажәытәнорвег</language>?
 			<language type="nqo">анко</language>
-			<language type="nr">южный ндебеле</language>?
-			<language type="nso">северный сото</language>?
+			<language type="nr">аладатәи андебеле</language>?
+			<language type="nso">аҩадатәи асото</language>?
 			<language type="nus">ануер</language>
 			<language type="nv">анавахо</language>
-			<language type="nwc">классический невари</language>?
+			<language type="nwc">аклассикатә невари</language>?
 			<language type="ny">анианџа</language>
 			<language type="nym">аниамвези</language>
 			<language type="nyn">анианколе</language>
@@ -390,25 +390,25 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="or">аориа</language>
 			<language type="os">ауаԥс</language>
 			<language type="osa">аосеџи</language>
-			<language type="ota">старотурецкий</language>?
+			<language type="ota">ажәытәҭырқә</language>?
 			<language type="pa">апанџаби</language>
 			<language type="pag">апангасинан</language>
 			<language type="pal">апехлеви</language>
 			<language type="pam">апампанга</language>
 			<language type="pap">апапиаменто</language>
 			<language type="pau">апалау</language>
-			<language type="pcm">нигерийско-креоль</language>?
-			<language type="peo">староперсид</language>?
+			<language type="pcm">анигери-креол</language>?
+			<language type="peo">ажәытәџьам</language>?
 			<language type="phn">афиники</language>
 			<language type="pi">апали</language>
 			<language type="pl">апол</language>
 			<language type="pon">апонапе</language>
 			<language type="prg">апрус</language>
-			<language type="pro">старопровансаль</language>?
+			<language type="pro">ажәытәпровансал</language>?
 			<language type="ps">апушту</language>
 			<language type="pt">апортугал</language>
-			<language type="pt_BR">бразильский португаль</language>?
-			<language type="pt_PT">европейский португаль</language>?
+			<language type="pt_BR">абразилтәи апортугал</language>?
+			<language type="pt_PT">европатәи апортугал</language>?
 			<language type="qu">акечуа</language>
 			<language type="quc">акиче</language>
 			<language type="raj">араџастхани</language>
@@ -428,7 +428,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="sa">асанскрит</language>
 			<language type="sad">асандаве</language>
 			<language type="sah">асаха</language>
-			<language type="sam">самаритянский арамей</language>?
+			<language type="sam">самаритиантәи арамеи</language>?
 			<language type="saq">асамбуру</language>
 			<language type="sas">асасак</language>
 			<language type="sat">асантали</language>
@@ -438,15 +438,15 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="scn">асицили</language>
 			<language type="sco">ашотланд</language>
 			<language type="sd">асиндхи</language>
-			<language type="sdh">южнокурд</language>?
-			<language type="se">северносаам</language>?
+			<language type="sdh">аладақәырд</language>?
+			<language type="se">аҩадасаам</language>?
 			<language type="see">асенека</language>
 			<language type="seh">асена</language>
 			<language type="sel">аселкуп</language>
 			<language type="ses">акоираборо асенни</language>
 			<language type="sg">асанго</language>
-			<language type="sga">староирланд</language>?
-			<language type="sh">сербскохорват</language>?
+			<language type="sga">ажәытәирланд</language>?
+			<language type="sh">асерб-хорват</language>?
 			<language type="shi">аташелхит</language>
 			<language type="shn">ашан</language>
 			<language type="shu">ачадтәи араб</language>
@@ -455,7 +455,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="sk">асловак</language>
 			<language type="sl">асловен</language>
 			<language type="sm">асамоан</language>
-			<language type="sma">южносаам</language>?
+			<language type="sma">аладасаам</language>?
 			<language type="smj">алуле-асаам</language>
 			<language type="smn">аинари-асаам</language>
 			<language type="sms">аколтта-асаам</language>
@@ -469,7 +469,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="srr">асерер</language>
 			<language type="ss">асвази</language>
 			<language type="ssy">асахо</language>
-			<language type="st">южный сото</language>?
+			<language type="st">аладатәи асото</language>?
 			<language type="su">асундан</language>
 			<language type="suk">асукәыма</language>
 			<language type="sus">сусу</language>
@@ -478,7 +478,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="sw">асуахили</language>
 			<language type="sw_CD">аконголезтәи суахили</language>
 			<language type="swb">акомор</language>
-			<language type="syc">классический сирий</language>?
+			<language type="syc">аклассикатә сири</language>?
 			<language type="syr">асири</language>
 			<language type="ta">атамил</language>
 			<language type="te">ателугу</language>
@@ -519,7 +519,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="uga">аугарит</language>
 			<language type="uk">аукраин</language>
 			<language type="umb">аумбунду</language>
-			<language type="und">неизвестный язык</language>?
+			<language type="und">неизвестный язык</language>??
 			<language type="ur">аурду</language>
 			<language type="uz">аузбек</language>
 			<language type="vai">аваи</language>
