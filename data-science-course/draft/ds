@@ -1,0 +1,29 @@
+Extract knowledge from data in a way that can be modelled to represent a phenomena, then make new predictions.
+
+
+Data mining (Domain knowledge)
+Extraction of patterns and knowledge from large amounts of data.
+Data analysis is inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information.
+Knowledge about the environment in which the target system operates
+
+Statistics
+inferential statistics the observed data set is sampled from a larger population
+Representative sampling assures that inferences can reasonably extend from the sample to the population as a whole.
+An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements.
+
+Informatics (Machine learning)
+The study of the structure, algorithms, behaviour, and interactions of natural and artificial computational systems.
+Machine learning algorithms build a model based on a data set, in order to make predictions.
+
+Data science pipeline:
+2
+
+Course pipeline:
+
+1: Hilbert InfoGrowth.png 
+source: http://www.martinhilbert.net/WorldInfoCapacity.html
+CC BY-SA 3.0
+
+2: Data visualization process v1.png
+source: Doing Data Science, by Schutt & O'Neil (2013)
+CC BY-SA 3.0
