@@ -33,18 +33,18 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="ak">акан</language>
 			<language type="akk">аккад</language>
 			<language type="ale">алеут</language>
-			<language type="alt">аладатәи алтаи</language>
+			<language type="alt">аладалтаи</language>
 			<language type="am">амхар</language>
 			<language type="an">арагон</language>
-			<language type="ang">астароангли</language>
+			<language type="ang">ажәытә англыз</language>
 			<language type="anp">ангика</language>
 			<language type="ar">араб</language>
-			<language type="ar_001">арабтәи алитературатә</language>
+			<language type="ar_001">арабтә литературатә</language>
 			<language type="arc">арамеи</language>
 			<language type="arn">амапуче</language>
 			<language type="arp">арапахо</language>
-			<language type="ars">анедџитәи араб</language>
-			<language type="ars" alt="menu">арабтәи (анедџитә)</language>
+			<language type="ars">анедџитә араб</language>
+			<language type="ars" alt="menu">араб (анедџитә)</language>
 			<language type="arw">аравак</language>
 			<language type="as">ассам</language>
 			<language type="asa">асу</language>
@@ -99,19 +99,19 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="chg">ачагатаи</language>
 			<language type="chk">ачукот</language>
 			<language type="chm">амари</language>
-			<language type="chn">ачинук ацәажәашьа</language>
+			<language type="chn">ачинук цәажәашьа</language>
 			<language type="cho">ачоктав</language>
 			<language type="chp">ачипевиан</language>
 			<language type="chr">ачероки</language>
 			<language type="chy">ашаиен</language>
-			<language type="ckb">агәҭантәи-ақәырд</language>
-			<language type="ckb" alt="menu">ақәырдтәи (асорани)</language>
+			<language type="ckb">агәҭантәи ақәырд</language>
+			<language type="ckb" alt="menu">ақәырд (асорани)</language>
 			<language type="co">акорсикан</language>
 			<language type="cop">акопт</language>
 			<language type="cr">акри</language>
 			<language type="crh">акрым-татар</language>
 			<language type="crs">асеишелтәи акреол</language>
-			<language type="cs">ачеш</language>
+			<language type="cs">ачех</language>
 			<language type="csb">акашуб</language>
 			<language type="cu">ауахәама-славиан</language>
 			<language type="cv">ачуваш</language>
@@ -122,33 +122,33 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="dav">атаита</language>
 			<language type="de">агерман</language>
 			<language type="de_AT">австриа агерман</language>
-			<language type="de_CH">алитературатәи ашвеицар агерман</language>
+			<language type="de_CH">алитературатә ашвеицар агерман</language>
 			<language type="del">аделавар</language>
 			<language type="den">аслеиви</language>
 			<language type="dgr">адогриб</language>
 			<language type="din">адинка</language>
 			<language type="dje">аџерма</language>
 			<language type="doi">адогри</language>
-			<language type="dsb">ҵаҟатәи-лужиц</language>
+			<language type="dsb">ҵаҟатәи лужик</language>
 			<language type="dua">адуала</language>
 			<language type="dum">абжьаратәи анидерланд</language>
 			<language type="dv">амалдив</language>
 			<language type="dyo">адиола-фони</language>
 			<language type="dyu">адиула</language>
-			<language type="dz">адзонг-ка</language>
+			<language type="dz">аӡонг-ка</language>
 			<language type="dzg">адаза</language>
 			<language type="ebu">аембу</language>
 			<language type="ee">аеве</language>
 			<language type="efi">аефик</language>
 			<language type="egy">ажәытәмсыр</language>
 			<language type="eka">аекаџук</language>
-			<language type="el">агрече</language>
+			<language type="el">абырзен</language>
 			<language type="elx">аелам</language>
 			<language type="en">англыз</language>
 			<language type="en_AU">австралиатәи англыз</language>
 			<language type="en_CA">канадатәи англыз</language>
-			<language type="en_GB">абритантәи англыз</language>
-			<language type="en_GB" alt="short">абритантәи англыз</language>
+			<language type="en_GB">абритан англыз</language>
+			<language type="en_GB" alt="short">абритан англыз</language>
 			<language type="en_US">америкатәи англыз</language>
 			<language type="en_US" alt="short">америкатәи англыз</language>
 			<language type="enm">абжьаратәи англыз</language>
@@ -156,11 +156,11 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="es">аиспан</language>
 			<language type="es_419">алаҭын-америкатәи аиспан</language>
 			<language type="es_ES">европатәи аиспан</language>
-			<language type="es_MX">амексикатәи аиспан</language>
+			<language type="es_MX">мексикатәи аиспан</language>
 			<language type="et">аестон</language>
 			<language type="eu">абаск</language>
 			<language type="ewo">аевондо</language>
-			<language type="fa">аперсид</language>
+			<language type="fa">аџьам</language>
 			<language type="fa_AF">адари</language>
 			<language type="fan">афанг</language>
 			<language type="fat">афанти</language>
@@ -172,14 +172,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="fon">афон</language>
 			<language type="fr">афранцыз</language>
 			<language type="fr_CA">канадатәи афранцыз</language>
-			<language type="fr_CH">швеицариатәы афранцыз</language>
-			<language type="frc">каджунский афранцыз</language>
-			<language type="frm">абжьаратәи афранцыз</language>
+			<language type="fr_CH">швеицариатәи афранцыз</language>
+			<language type="frc">каџунтәи афранцыз</language>
+			<language type="frm">абжьаратә францыз</language>
 			<language type="fro">ажәытәфранцыз</language>
-			<language type="frr">нхыҵ фриз</language>
-			<language type="frs">мрагылара-фриз</language>
+			<language type="frr">аҩадатәи африз</language>
+			<language type="frs">мрагыларатәи африз</language>
 			<language type="fur">африул</language>
-			<language type="fy">мраҭашәара-фриз</language>
+			<language type="fy">мраҭашәаратәи африз</language>
 			<language type="ga">аирланд</language>
 			<language type="gaa">ага</language>
 			<language type="gag">агагауз</language>
@@ -190,15 +190,15 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="gez">агеез</language>
 			<language type="gil">агилберт</language>
 			<language type="gl">агалиси</language>
-			<language type="gmh">абжьарахыхьтәи-агерман</language>?
+			<language type="gmh">абжьарахыхьтәи агерман</language>
 			<language type="gn">агуарани</language>
-			<language type="goh">ажәытәхыхьтәи-агерман</language>?
+			<language type="goh">ажәытәхыхьтәи-агерман</language>
 			<language type="gon">агонди</language>
 			<language type="gor">агоронтало</language>
 			<language type="got">агот</language>
 			<language type="grb">агребо</language>
-			<language type="grc">ажәытәбырзен</language>?
-			<language type="gsw">швеицариатәы агерман</language>?
+			<language type="grc">ажәытәбырзен</language>
+			<language type="gsw">швеицариатәи агерман</language>
 			<language type="gu">агуџарати</language>
 			<language type="guz">агуси</language>
 			<language type="gv">амен</language>
@@ -214,12 +214,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="hmn">ахмонг</language>
 			<language type="ho">ахиримоту</language>
 			<language type="hr">ахорват</language>
-			<language type="hsb">хыхьтәи-алужик</language>?
+			<language type="hsb">хыхьтәи-алужик</language>
 			<language type="hsn" draft="contributed">асиан</language>
 			<language type="ht">агаитиан</language>
 			<language type="hu">авенгер</language>
-			<language type="hup">ахәпа</language>
-			<language type="hy">ашәамахь</language>
+			<language type="hup">ахупа</language>
+			<language type="hy">аерман</language>
 			<language type="hz">агереро</language>
 			<language type="ia">аинтерлингва</language>
 			<language type="iba">аибан</language>
@@ -239,8 +239,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="jbo">аложбан</language>
 			<language type="jgo">ангомба</language>
 			<language type="jmc">амачаме</language>
-			<language type="jpr">ауриатәи-аџьам</language>?
-			<language type="jrb">ауриатәи-араб</language>?
+			<language type="jpr">ауриатәи аџьам</language>
+			<language type="jrb">ауриатәи араб</language>
 			<language type="jv">аиаван</language>
 			<language type="ka">ақырҭ</language>
 			<language type="kaa">акаракалпак</language>
@@ -269,14 +269,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="kmb">акимбунду</language>
 			<language type="kn">аканнада</language>
 			<language type="ko">акореи</language>
-			<language type="koi">акоми-пермиак</language>?
+			<language type="koi">акоми-пермиак</language>
 			<language type="kok">аконкани</language>
 			<language type="kos">акосраен</language>
 			<language type="kpe">акпелле</language>
 			<language type="kr">аканури</language>
 			<language type="krc">аҟарач-абалҟар</language>
 			<language type="krl">акарел</language>
-			<language type="kru">акәырух</language>
+			<language type="kru">акурух</language>
 			<language type="ks">акашмири</language>
 			<language type="ksb">ашамбала</language>
 			<language type="ksf">абафиа</language>
@@ -300,9 +300,9 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="ln">алингала</language>
 			<language type="lo">алаос</language>
 			<language type="lol">амонго</language>
-			<language type="lou">алуизиантәи акреол</language>?
+			<language type="lou">алуизиантәи акреол</language>
 			<language type="loz">алози</language>
-			<language type="lrc">аладатәи алур</language>?
+			<language type="lrc">аҩадалур</language>
 			<language type="lt">алитов</language>
 			<language type="lu">алуба-акатанга</language>
 			<language type="lua">алуба-алулуа</language>
@@ -324,10 +324,10 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="mdr">амандар</language>
 			<language type="men">аменде</language>
 			<language type="mer">амеру</language>
-			<language type="mfe">амаврикитәи акреол</language>?
+			<language type="mfe">амаврикитә креол</language>
 			<language type="mg">амалагаси</language>
-			<language type="mga">аладатәи аирланд</language>?
-			<language type="mgh">амакәа-амеетто</language>
+			<language type="mga">абжьаратәи аирланд</language>
+			<language type="mgh">амакуа-амеетто</language>
 			<language type="mgo">амета</language>
 			<language type="mh">амаршал</language>
 			<language type="mi">амаори</language>
@@ -344,7 +344,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="ms">амалаи</language>
 			<language type="mt">амалти</language>
 			<language type="mua">амунданг</language>
-			<language type="mul">языки разных семей</language>??
+			<language type="mul">еиуеиԥшым аҭаацәаратә бызшәақәа</language>
 			<language type="mus">акрик</language>
 			<language type="mwl">амиранд</language>
 			<language type="mwr">амарвари</language>
@@ -356,10 +356,10 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="nan" draft="contributed">аминнан</language>
 			<language type="nap">анеаполитан</language>
 			<language type="naq">анама</language>
-			<language type="nb">анорвегтәи абукмол</language>?
-			<language type="nd">аҩадатәи андебеле</language>?
-			<language type="nds">ҵаҟатәи агерман</language>?
-			<language type="nds_NL">ҵаҟатәи асаксон</language>?
+			<language type="nb">анорвегтәи абукмол</language>
+			<language type="nd">нхыҵ андебеле</language>
+			<language type="nds">ҵаҟатәи агерман</language>
+			<language type="nds_NL">ҵаҟатәи асаксон</language>
 			<language type="ne">анепал</language>
 			<language type="new">аневар</language>
 			<language type="ng">андонга</language>
@@ -370,15 +370,15 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="nmg">аквасио</language>
 			<language type="nn">аниунорск</language>
 			<language type="nnh">ангиембунд</language>
-			<language type="no">анорвеж</language>
+			<language type="no">анорвег</language>
 			<language type="nog">аногаи</language>
-			<language type="non">ажәытәнорвег</language>?
+			<language type="non">ажәытәнорвег</language>
 			<language type="nqo">анко</language>
-			<language type="nr">аладатәи андебеле</language>?
-			<language type="nso">аҩадатәи асото</language>?
+			<language type="nr">аладатәи андебеле</language>
+			<language type="nso">аҩадатәи асото</language>
 			<language type="nus">ануер</language>
 			<language type="nv">анавахо</language>
-			<language type="nwc">аклассикатә невари</language>?
+			<language type="nwc">аклассикатә невари</language>
 			<language type="ny">анианџа</language>
 			<language type="nym">аниамвези</language>
 			<language type="nyn">анианколе</language>
@@ -390,25 +390,25 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="or">аориа</language>
 			<language type="os">ауаԥс</language>
 			<language type="osa">аосеџи</language>
-			<language type="ota">ажәытәҭырқә</language>?
+			<language type="ota">ажәытәҭырқә</language>
 			<language type="pa">апанџаби</language>
 			<language type="pag">апангасинан</language>
 			<language type="pal">апехлеви</language>
 			<language type="pam">апампанга</language>
 			<language type="pap">апапиаменто</language>
 			<language type="pau">апалау</language>
-			<language type="pcm">анигери-креол</language>?
-			<language type="peo">ажәытәџьам</language>?
+			<language type="pcm">анигери-креол</language>
+			<language type="peo">ажәытәџьам</language>
 			<language type="phn">афиники</language>
 			<language type="pi">апали</language>
 			<language type="pl">апол</language>
 			<language type="pon">апонапе</language>
 			<language type="prg">апрус</language>
-			<language type="pro">ажәытәпровансал</language>?
+			<language type="pro">ажәытәпровансал</language>
 			<language type="ps">апушту</language>
 			<language type="pt">апортугал</language>
-			<language type="pt_BR">абразилтәи апортугал</language>?
-			<language type="pt_PT">европатәи апортугал</language>?
+			<language type="pt_BR">бразилиатәи апортугал</language>
+			<language type="pt_PT">европатәи апортугал</language>
 			<language type="qu">акечуа</language>
 			<language type="quc">акиче</language>
 			<language type="raj">араџастхани</language>
@@ -428,7 +428,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="sa">асанскрит</language>
 			<language type="sad">асандаве</language>
 			<language type="sah">асаха</language>
-			<language type="sam">самаритиантәи арамеи</language>?
+			<language type="sam">самаритиантәи арамеи</language>
 			<language type="saq">асамбуру</language>
 			<language type="sas">асасак</language>
 			<language type="sat">асантали</language>
@@ -438,24 +438,24 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="scn">асицили</language>
 			<language type="sco">ашотланд</language>
 			<language type="sd">асиндхи</language>
-			<language type="sdh">аладақәырд</language>?
-			<language type="se">аҩадасаам</language>?
+			<language type="sdh">аладақәырд</language>
+			<language type="se">аҩадасаам</language>
 			<language type="see">асенека</language>
 			<language type="seh">асена</language>
 			<language type="sel">аселкуп</language>
 			<language type="ses">акоираборо асенни</language>
 			<language type="sg">асанго</language>
-			<language type="sga">ажәытәирланд</language>?
-			<language type="sh">асерб-хорват</language>?
+			<language type="sga">ажәытәирланд</language>
+			<language type="sh">асерб-хорват</language>
 			<language type="shi">аташелхит</language>
 			<language type="shn">ашан</language>
-			<language type="shu">ачадтәи араб</language>
+			<language type="shu">чадтәи араб</language>
 			<language type="si">асингал</language>
 			<language type="sid">асидама</language>
 			<language type="sk">асловак</language>
 			<language type="sl">асловен</language>
 			<language type="sm">асамоан</language>
-			<language type="sma">аладасаам</language>?
+			<language type="sma">аладасаам</language>
 			<language type="smj">алуле-асаам</language>
 			<language type="smn">аинари-асаам</language>
 			<language type="sms">аколтта-асаам</language>
@@ -463,23 +463,23 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="snk">асонинке</language>
 			<language type="so">асомали</language>
 			<language type="sog">асогди</language>
-			<language type="sq">албан</language>
+			<language type="sq">арнауҭ</language>
 			<language type="sr">асерб</language>
 			<language type="srn">асранан-атонго</language>
 			<language type="srr">асерер</language>
 			<language type="ss">асвази</language>
 			<language type="ssy">асахо</language>
-			<language type="st">аладатәи асото</language>?
+			<language type="st">аладатәи асото</language>
 			<language type="su">асундан</language>
 			<language type="suk">асукәыма</language>
 			<language type="sus">сусу</language>
 			<language type="sux">ашумер</language>
 			<language type="sv">ашвед</language>
 			<language type="sw">асуахили</language>
-			<language type="sw_CD">аконголезтәи суахили</language>
+			<language type="sw_CD">конголезтәи асуахили</language>
 			<language type="swb">акомор</language>
-			<language type="syc">аклассикатә сири</language>?
-			<language type="syr">асири</language>
+			<language type="syc">аклассикатә шьамтәыла</language>
+			<language type="syr">ашьам</language>
 			<language type="ta">атамил</language>
 			<language type="te">ателугу</language>
 			<language type="tem">атемне</language>
@@ -513,13 +513,13 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="twq">атасавак</language>
 			<language type="ty">атаитиан</language>
 			<language type="tyv">атувин</language>
-			<language type="tzm">среднеатласский тамазигхт</language>?
+			<language type="tzm">абжьара-атластәи атамазигхт</language>
 			<language type="udm">аудмурт</language>
 			<language type="ug">ауигур</language>
 			<language type="uga">аугарит</language>
 			<language type="uk">аукраин</language>
 			<language type="umb">аумбунду</language>
-			<language type="und">неизвестный язык</language>??
+			<language type="und">еилкаам абызшәа</language>
 			<language type="ur">аурду</language>
 			<language type="uz">аузбек</language>
 			<language type="vai">аваи</language>
@@ -552,489 +552,492 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 			<language type="zen">азенаг</language>
 			<language type="zgh">атамазигхт</language>
 			<language type="zh">акитаи</language>
-			<language type="zh" alt="menu">севернокитай</language>?
-			<language type="zh_Hans">китайский, упрощенное письмо</language>?
-			<language type="zh_Hans" alt="long">севернокитайский, упрощенное письмо</language>?
-			<language type="zh_Hant">китайский, традиционное письмо</language>?
-			<language type="zh_Hant" alt="long">севернокитайский, традиционное письмо</language>?
+			<language type="zh" alt="menu">аҩадакитаи</language>
+			<language type="zh_Hans">акитаи, имариоу аҩыра</language>
+			<language type="zh_Hans" alt="long">аҩадакитаи, имариоу аҩыра</language>
+			<language type="zh_Hant">акитаи, атрадициатә ҩыра</language>
+			<language type="zh_Hant" alt="long">аҩадакитаи, атрадициатә ҩыра</language>
 			<language type="zu">азулу</language>
 			<language type="zun">азуни</language>
-			<language type="zxx">нет языкового материала</language>?
+			<language type="zxx">абызшәатә хыҵхырҭақәа ыҟаӡам</language>
 			<language type="zza">азаза</language>
+
 		</languages>
 		<scripts>
 			<script type="Afak" draft="contributed">афака</script>
-			<script type="Arab">арабица</script>
-			<script type="Arab" alt="variant">персидско-арабская</script>
-			<script type="Aran" draft="contributed">насталик</script>
-			<script type="Armi">арамейская</script>
-			<script type="Armn">армянская</script>
-			<script type="Avst">авестийская</script>
-			<script type="Bali">балийская</script>
-			<script type="Bamu" draft="contributed">бамум</script>
-			<script type="Bass" draft="contributed">басса (вах)</script>
-			<script type="Batk">батакская</script>
-			<script type="Beng">бенгальская</script>
-			<script type="Blis">блиссимволика</script>
-			<script type="Bopo">бопомофо</script>
-			<script type="Brah">брахми</script>
-			<script type="Brai">шрифт Брайля</script>
-			<script type="Bugi">бугинизийская</script>
-			<script type="Buhd">бухид</script>
-			<script type="Cakm">чакмийская</script>
-			<script type="Cans">канадское слоговое письмо</script>
-			<script type="Cari">карийская</script>
-			<script type="Cham">чамская</script>
-			<script type="Cher">чероки</script>
-			<script type="Cirt">кирт</script>
-			<script type="Copt">коптская</script>
-			<script type="Cprt">кипрская</script>
-			<script type="Cyrl">кириллица</script>
-			<script type="Cyrs">старославянская</script>
-			<script type="Deva">деванагари</script>
-			<script type="Dsrt">дезерет</script>
-			<script type="Dupl" draft="contributed">дуплоянская скоропись</script>
-			<script type="Egyd">египетская демотическая</script>
-			<script type="Egyh">египетская иератическая</script>
-			<script type="Egyp">египетская иероглифическая</script>
-			<script type="Ethi">эфиопская</script>
-			<script type="Geok">грузинская хуцури</script>
-			<script type="Geor">грузинская</script>
-			<script type="Glag">глаголица</script>
-			<script type="Goth">готская</script>
-			<script type="Gran" draft="contributed">грантха</script>
-			<script type="Grek">греческая</script>
-			<script type="Gujr">гуджарати</script>
-			<script type="Guru">гурмукхи</script>
-			<script type="Hanb">ханьб</script>
-			<script type="Hang">хангыль</script>
-			<script type="Hani">китайская</script>
-			<script type="Hano">хануну</script>
-			<script type="Hans">упрощенная китайская</script>
-			<script type="Hant">традиционная китайская</script>
-			<script type="Hebr">еврейская</script>
-			<script type="Hira">хирагана</script>
-			<script type="Hluw" draft="contributed">лувийские иероглифы</script>
-			<script type="Hmng" draft="contributed">пахау хмонг</script>
-			<script type="Hrkt">катакана и хирагана</script>
-			<script type="Hung">старовенгерская</script>
-			<script type="Inds" draft="contributed">хараппская (письменность долины Инда)</script>
-			<script type="Ital">староитальянская</script>
-			<script type="Jamo">джамо</script>
-			<script type="Java">яванская</script>
-			<script type="Jpan">японская</script>
-			<script type="Jurc" draft="contributed">чжурчжэньская</script>
-			<script type="Kali">кайа</script>
-			<script type="Kana">катакана</script>
-			<script type="Khar">кхароштхи</script>
-			<script type="Khmr">кхмерская</script>
-			<script type="Khoj" draft="contributed">ходжики</script>
-			<script type="Knda">каннада</script>
-			<script type="Kore">корейская</script>
-			<script type="Kpel" draft="contributed">кпелле</script>
-			<script type="Kthi">кайтхи</script>
-			<script type="Lana">ланна</script>
-			<script type="Laoo">лаосская</script>
-			<script type="Latf">латинская фрактура</script>
-			<script type="Latg">гэльская латинская</script>
-			<script type="Latn">латиница</script>
-			<script type="Lepc">лепха</script>
-			<script type="Limb">лимбу</script>
-			<script type="Lina">линейное письмо А</script>
-			<script type="Linb">линейное письмо Б</script>
-			<script type="Lisu" draft="contributed">лису</script>
-			<script type="Loma" draft="contributed">лома</script>
-			<script type="Lyci">лициан</script>
-			<script type="Lydi">лидийская</script>
-			<script type="Mand">мандейская</script>
-			<script type="Mani" draft="contributed">манихейская</script>
-			<script type="Maya">майя</script>
-			<script type="Mend" draft="contributed">менде</script>
-			<script type="Merc" draft="contributed">мероитская курсивная</script>
-			<script type="Mero">мероитская</script>
-			<script type="Mlym">малаялам</script>
-			<script type="Mong">монгольская</script>
-			<script type="Moon" draft="contributed">азбука муна</script>
-			<script type="Mroo" draft="contributed">мро</script>
-			<script type="Mtei">манипури</script>
-			<script type="Mymr">мьянманская</script>
-			<script type="Narb" draft="contributed">северноаравийское</script>
-			<script type="Nbat" draft="contributed">набатейская</script>
-			<script type="Nkgb" draft="contributed">наси геба</script>
-			<script type="Nkoo">нко</script>
-			<script type="Nshu" draft="contributed">нюй-шу</script>
-			<script type="Ogam">огамическая</script>
-			<script type="Olck" draft="contributed">ол чики</script>
-			<script type="Orkh" draft="contributed">орхоно-енисейская</script>
-			<script type="Orya">ория</script>
-			<script type="Osma">османская</script>
-			<script type="Palm" draft="contributed">пальмиры</script>
-			<script type="Perm" draft="contributed">древнепермская</script>
-			<script type="Phag" draft="contributed">пагспа</script>
-			<script type="Phli" draft="contributed">пехлевийская</script>
-			<script type="Phlp" draft="contributed">пахлави псалтирная</script>
-			<script type="Phlv">пахлави книжная</script>
-			<script type="Phnx" draft="contributed">финикийская</script>
-			<script type="Plrd" draft="contributed">поллардовская фонетика</script>
-			<script type="Prti" draft="contributed">парфянская</script>
-			<script type="Qaag" draft="contributed">зоджи</script>
-			<script type="Rjng" draft="contributed">реджангская</script>
-			<script type="Roro">ронго-ронго</script>
-			<script type="Runr">руническая</script>
-			<script type="Samr" draft="contributed">самаритянская</script>
-			<script type="Sara" draft="contributed">сарати</script>
-			<script type="Sarb" draft="contributed">староюжноарабская</script>
-			<script type="Saur">саураштра</script>
-			<script type="Sgnw">язык знаков</script>
+			<script type="Arab">араб</script>
+			<script type="Arab" alt="variant">аџьам-араб</script>
+			<script type="Aran" draft="contributed">анасталик</script>
+			<script type="Armi">арамеи</script>
+			<script type="Armn">аерман</script>
+			<script type="Avst">авести</script>
+			<script type="Bali">абали</script>
+			<script type="Bamu" draft="contributed">абамум</script>
+			<script type="Bass" draft="contributed">абасса (авах)</script>
+			<script type="Batk">абатак</script>
+			<script type="Beng">абенгал</script>
+			<script type="Blis">аблиссимволика</script>
+			<script type="Bopo">абопомофо</script>
+			<script type="Brah">абрахми</script>
+			<script type="Brai">Браили ишрифт</script>
+			<script type="Bugi">абугиниз</script>
+			<script type="Buhd">абухид</script>
+			<script type="Cakm">ачакма</script>
+			<script type="Cans">канадатәи ацыратә ҩыра</script>
+			<script type="Cari">акари</script>
+			<script type="Cham">ачам</script>
+			<script type="Cher">ачероки</script>
+			<script type="Cirt">акирт</script>
+			<script type="Copt">акопт</script>
+			<script type="Cprt">акипр</script>
+			<script type="Cyrl">акириллица</script>
+			<script type="Cyrs">ажәытәславиан</script>
+			<script type="Deva">адеванагар</script>
+			<script type="Dsrt">адезерет</script>
+			<script type="Dupl" draft="contributed">адуплоиантә ццакҩыра</script>
+			<script type="Egyd">мсыртәи адемот</script>
+			<script type="Egyh">мсыртәи аиерат</script>
+			<script type="Egyp">мсыртәи аиероглиф</script>
+			<script type="Ethi">аефиоп</script>
+			<script type="Geok">ақырҭ ахуцур</script>
+			<script type="Geor">ақырҭ</script>
+			<script type="Glag">аглаголица</script>
+			<script type="Goth">агот</script>
+			<script type="Gran" draft="contributed">агрантха</script>
+			<script type="Grek">абырзен</script>
+			<script type="Gujr">агуџарати</script>
+			<script type="Guru">агәырмукхи</script>
+			<script type="Hanb">аханб</script>
+			<script type="Hang">ахангыл</script>
+			<script type="Hani">акитаи</script>
+			<script type="Hano">ахануну</script>
+			<script type="Hans">имариоу акитаи</script>
+			<script type="Hant">китаитәи атрадициатә</script>
+			<script type="Hebr">ауриа</script>
+			<script type="Hira">ахирагана</script>
+			<script type="Hluw" draft="contributed">лувиатәи аиероглифқәа</script>
+			<script type="Hmng" draft="contributed">апахау ахмонг</script>
+			<script type="Hrkt">акатаканеи ахираганеи</script>
+			<script type="Hung">ажәытәвенгер</script>
+			<script type="Inds" draft="contributed">ахарап (Инд аԥшаҳәаҿтәи аҩыра)</script>
+			<script type="Ital">ажәытәиталиа</script>
+			<script type="Jamo">аџамо</script>
+			<script type="Java">аиаван</script>
+			<script type="Jpan">аиапон</script>
+			<script type="Jurc" draft="contributed">ачжурчжен</script>
+			<script type="Kali">акаиа</script>
+			<script type="Kana">акатакана</script>
+			<script type="Khar">акхароштхи</script>
+			<script type="Khmr">акхмер</script>
+			<script type="Khoj" draft="contributed">ахоџики</script>
+			<script type="Knda">аканнада</script>
+			<script type="Kore">акореи</script>
+			<script type="Kpel" draft="contributed">акпелле</script>
+			<script type="Kthi">акаитхи</script>
+			<script type="Lana">аланна</script>
+			<script type="Laoo">алаос</script>
+			<script type="Latf">алаҭынтә фрактура</script>
+			<script type="Latg">агел алаҭын</script>
+			<script type="Latn">алаҭын</script>
+			<script type="Lepc">алепха</script>
+			<script type="Limb">алимбу</script>
+			<script type="Lina">ацәаҳәатә ҩыра А</script>
+			<script type="Linb">ацәаҳәатә ҩыра Б</script>
+			<script type="Lisu" draft="contributed">алису</script>
+			<script type="Loma" draft="contributed">алома</script>
+			<script type="Lyci">алициан</script>
+			<script type="Lydi">алиди</script>
+			<script type="Mand">амандеи</script>
+			<script type="Mani" draft="contributed">аманихеи</script>
+			<script type="Maya">амаиа</script>
+			<script type="Mend" draft="contributed">аменде</script>
+			<script type="Merc" draft="contributed">ихьынаау америоттә</script>
+			<script type="Mero">амероит</script>
+			<script type="Mlym">амалаиалам</script>
+			<script type="Mong">амонгол</script>
+			<script type="Moon" draft="contributed">анбан мун</script>
+			<script type="Mroo" draft="contributed">амро</script>
+			<script type="Mtei">аманипур</script>
+			<script type="Mymr">амианман</script>
+			<script type="Narb" draft="contributed">аҩадарави</script>
+			<script type="Nbat" draft="contributed">анабатеи</script>
+			<script type="Nkgb" draft="contributed">анаси геба</script>
+			<script type="Nkoo">анко</script>
+			<script type="Nshu" draft="contributed">аниуи-шу</script>
+			<script type="Ogam">аогам</script>
+			<script type="Olck" draft="contributed">аол чики</script>
+			<script type="Orkh" draft="contributed">аорхоно-енисеи</script>
+			<script type="Orya">аориа</script>
+			<script type="Osma">аосман</script>
+			<script type="Palm" draft="contributed">апалмир</script>
+			<script type="Perm" draft="contributed">ажәытәпермтәи</script>
+			<script type="Phag" draft="contributed">апагспа</script>
+			<script type="Phli" draft="contributed">апехлеви</script>
+			<script type="Phlp" draft="contributed">апахлави апсалтир</script>
+			<script type="Phlv">апахлави ашәҟәытә</script>
+			<script type="Phnx" draft="contributed">афиники</script>
+			<script type="Plrd" draft="contributed">аполлардтәи афонетика</script>
+			<script type="Prti" draft="contributed">апарфиан</script>
+			<script type="Qaag" draft="contributed">азоџ</script>
+			<script type="Rjng" draft="contributed">ареџанг</script>
+			<script type="Roro">аронго-ронго</script>
+			<script type="Runr">арун</script>
+			<script type="Samr" draft="contributed">асамаритиант</script>
+			<script type="Sara" draft="contributed">асарати</script>
+			<script type="Sarb" draft="contributed">ажәытәа аладатәи араб</script>
+			<script type="Saur">асаураштра</script>
+			<script type="Sgnw">адыргақәа рбызшәа</script>
 			<script type="Shaw">алфавит Шоу</script>
-			<script type="Shrd" draft="contributed">шарада</script>
-			<script type="Sind" draft="contributed">кхудавади</script>
-			<script type="Sinh">сингальская</script>
-			<script type="Sora" draft="contributed">сора-сонпенг</script>
-			<script type="Sund">сунданская</script>
-			<script type="Sylo" draft="contributed">силоти нагри</script>
-			<script type="Syrc">сирийская</script>
-			<script type="Syre">сирийская эстрангело</script>
-			<script type="Syrj">западносирийская</script>
-			<script type="Syrn">восточно-сирийская</script>
-			<script type="Tagb">тагбанва</script>
-			<script type="Takr" draft="contributed">такри</script>
-			<script type="Tale" draft="contributed">тайский ле</script>
-			<script type="Talu" draft="contributed">новый тайский ле</script>
-			<script type="Taml">тамильская</script>
-			<script type="Tang" draft="contributed">тангутское меня</script>
-			<script type="Tavt" draft="contributed">тай-вьет</script>
-			<script type="Telu">телугу</script>
-			<script type="Teng" draft="contributed">тенгварская</script>
-			<script type="Tfng" draft="contributed">древнеливийская</script>
-			<script type="Tglg">тагалог</script>
-			<script type="Thaa">тана</script>
-			<script type="Thai">тайская</script>
-			<script type="Tibt">тибетская</script>
-			<script type="Tirh" draft="contributed">тирхута</script>
-			<script type="Ugar">угаритская</script>
-			<script type="Vaii" draft="contributed">вайская</script>
-			<script type="Visp">видимая речь</script>
-			<script type="Wara" draft="contributed">варанг-кшити</script>
-			<script type="Wole" draft="contributed">волеаи</script>
-			<script type="Xpeo">староперсидская</script>
-			<script type="Xsux">шумеро-аккадская клинопись</script>
+			<script type="Shrd" draft="contributed">ашарада</script>
+			<script type="Sind" draft="contributed">акхәыдавади</script>
+			<script type="Sinh">асингал</script>
+			<script type="Sora" draft="contributed">асора-сонпенг</script>
+			<script type="Sund">асундан</script>
+			<script type="Sylo" draft="contributed">асилоти нагри</script>
+			<script type="Syrc">ашьам</script>
+			<script type="Syre">шьамтәылатәи аестрангело</script>
+			<script type="Syrj">Мраҭашәара-шьамтәылатәи</script>
+			<script type="Syrn">Мрагылара-шьамтәылатәи</script>
+			<script type="Tagb">атагбанва</script>
+			<script type="Takr" draft="contributed">атакри</script>
+			<script type="Tale" draft="contributed">атаи ле</script>
+			<script type="Talu" draft="contributed">атаи ле ҿыц</script>
+			<script type="Taml">атамил</script>
+			<script type="Tang" draft="contributed">атангәыттә мениа</script>
+			<script type="Tavt" draft="contributed">атаи-вет</script>
+			<script type="Telu">ателугу</script>
+			<script type="Teng" draft="contributed">атенгвар</script>
+			<script type="Tfng" draft="contributed">ажәытәливиатәи</script>
+			<script type="Tglg">атагалог</script>
+			<script type="Thaa">атана</script>
+			<script type="Thai">атаи</script>
+			<script type="Tibt">атибет</script>
+			<script type="Tirh" draft="contributed">атирхәыта</script>
+			<script type="Ugar">аугарит</script>
+			<script type="Vaii" draft="contributed">аваи</script>
+			<script type="Visp">иубарҭоу ажәаҳәа</script>
+			<script type="Wara" draft="contributed">аваранг-кшити</script>
+			<script type="Wole" draft="contributed">аволеаи</script>
+			<script type="Xpeo">ажәытәџьам</script>
+			<script type="Xsux">ашумер-аккад асалҩыра</script>
 			<script type="Yiii">и</script>
-			<script type="Zinh">унаследованная</script>
-			<script type="Zmth">математические обозначения</script>
-			<script type="Zsye">эмодзи</script>
-			<script type="Zsym">символы</script>
-			<script type="Zxxx">нет письменности</script>
-			<script type="Zyyy">общепринятая</script>
-			<script type="Zzzz">неизвестная письменность</script>
+			<script type="Zinh">шьҭралатәи</script>
+			<script type="Zmth">аматематикатә дырга</script>
+			<script type="Zsye">аемоӡи</script>
+			<script type="Zsym">асимволқәа</script>
+			<script type="Zxxx">аҩыра змам</script>
+			<script type="Zyyy">азеиԥшшьҭых</script>
+			<script type="Zzzz">еилкаам аҩыра</script>
+
 		</scripts>
 		<territories>
-			<territory type="001">весь мир</territory>
+			<territory type="001">адунеи зегьы</territory>
 			<territory type="002">Африка</territory>
-			<territory type="003">Северная Америка</territory>
-			<territory type="005">Южная Америка</territory>
-			<territory type="009">Океания</territory>
-			<territory type="011">Западная Африка</territory>
-			<territory type="013">Центральная Америка</territory>
-			<territory type="014">Восточная Африка</territory>
-			<territory type="015">Северная Африка</territory>
-			<territory type="017">Центральная Африка</territory>
-			<territory type="018">Южная Африка</territory>
+			<territory type="003">Аҩадатәи Америка</territory>
+			<territory type="005">Аладатәи Америка</territory>
+			<territory type="009">Океаниа</territory>
+			<territory type="011">Мраҭашәаратәи Африка</territory>
+			<territory type="013">Агәҭантәи Америка</territory>
+			<territory type="014">Мрагыларатәи Африка</territory>
+			<territory type="015">Аҩадатәи Африка</territory>
+			<territory type="017">Агәҭантәи Африка</territory>
+			<territory type="018">Аладатәи Африка</territory>
 			<territory type="019">Америка</territory>
-			<territory type="021">Североамериканский регион</territory>
-			<territory type="029">Карибы</territory>
-			<territory type="030">Восточная Азия</territory>
-			<territory type="034">Южная Азия</territory>
-			<territory type="035">Юго-Восточная Азия</territory>
-			<territory type="039">Южная Европа</territory>
-			<territory type="053">Австралазия</territory>
-			<territory type="054">Меланезия</territory>
-			<territory type="057">Микронезия</territory>
-			<territory type="061">Полинезия</territory>
-			<territory type="142">Азия</territory>
-			<territory type="143">Центральная Азия</territory>
-			<territory type="145">Западная Азия</territory>
+			<territory type="021">Аҩада-Америкатәи арегион</territory>
+			<territory type="029">Кариб</territory>
+			<territory type="030">Мрагыларатәи Азиа</territory>
+			<territory type="034">Аладатәи Азиа</territory>
+			<territory type="035">Алада-Мрагыларатәи Азиа</territory>
+			<territory type="039">Аладатәи Европа</territory>
+			<territory type="053">Австралазиа</territory>
+			<territory type="054">Меланезиа</territory>
+			<territory type="057">Микронезиа</territory>
+			<territory type="061">Полинезиа</territory>
+			<territory type="142">Азиа</territory>
+			<territory type="143">Агәҭантәи Азиа</territory>
+			<territory type="145">Мраҭашәаратәи Азиа</territory>
 			<territory type="150">Европа</territory>
-			<territory type="151">Восточная Европа</territory>
-			<territory type="154">Северная Европа</territory>
-			<territory type="155">Западная Европа</territory>
-			<territory type="202">Тропическая Африка</territory>
-			<territory type="419">Латинская Америка</territory>
-			<territory type="AC">о-в Вознесения</territory>
+			<territory type="151">Мрагыларатәи Европа</territory>
+			<territory type="154">Аҩадатәи Европа</territory>
+			<territory type="155">Мраҭашәаратәи Европа</territory>
+			<territory type="202">Атроптә Африка</territory>
+			<territory type="419">Алаҭынтәи Америка</territory>
+			<territory type="AC">ад-ха Вознесениа</territory>
 			<territory type="AD">Андорра</territory>
-			<territory type="AE">ОАЭ</territory>
+			<territory type="AE">ЕАЕ</territory>
 			<territory type="AF">Афганистан</territory>
-			<territory type="AG">Антигуа и Барбуда</territory>
-			<territory type="AI">Ангилья</territory>
-			<territory type="AL">Албания</territory>
-			<territory type="AM">Армения</territory>
+			<territory type="AG">Антигуеи Барбудеи</territory>
+			<territory type="AI">Ангилиа</territory>
+			<territory type="AL">Албаниа</territory>
+			<territory type="AM">Ермантәыла</territory>
 			<territory type="AO">Ангола</territory>
 			<territory type="AQ">Антарктида</territory>
 			<territory type="AR">Аргентина</territory>
-			<territory type="AS">Американское Самоа</territory>
-			<territory type="AT">Австрия</territory>
-			<territory type="AU">Австралия</territory>
+			<territory type="AS">Америкатәи Самоа</territory>
+			<territory type="AT">Австриа</territory>
+			<territory type="AU">Австралиа</territory>
 			<territory type="AW">Аруба</territory>
-			<territory type="AX">Аландские о-ва</territory>
-			<territory type="AZ">Азербайджан</territory>
-			<territory type="BA">Босния и Герцеговина</territory>
+			<territory type="AX">Аландтәи ад-хақәа</territory>
+			<territory type="AZ">Азербаиџьан</territory>
+			<territory type="BA">Босниеи Герцеговинеи</territory>
 			<territory type="BB">Барбадос</territory>
 			<territory type="BD">Бангладеш</territory>
-			<territory type="BE">Бельгия</territory>
+			<territory type="BE">Бельгиа</territory>
 			<territory type="BF">Буркина-Фасо</territory>
-			<territory type="BG">Болгария</territory>
-			<territory type="BH">Бахрейн</territory>
+			<territory type="BG">Болгариа</territory>
+			<territory type="BH">Бахреин</territory>
 			<territory type="BI">Бурунди</territory>
 			<territory type="BJ">Бенин</territory>
 			<territory type="BL">Сен-Бартелеми</territory>
-			<territory type="BM">Бермудские о-ва</territory>
-			<territory type="BN">Бруней-Даруссалам</territory>
-			<territory type="BO">Боливия</territory>
-			<territory type="BQ">Бонэйр, Синт-Эстатиус и Саба</territory>
-			<territory type="BR">Бразилия</territory>
-			<territory type="BS">Багамы</territory>
+			<territory type="BM">Бермудтәи ад-хақәа</territory>
+			<territory type="BN">Брунеи-Даруссалам</territory>
+			<territory type="BO">Боливиа</territory>
+			<territory type="BQ">Бонеир, Синт-Естатиуси Сабеи</territory>
+			<territory type="BR">Бразилиа</territory>
+			<territory type="BS">Баӷама</territory>
 			<territory type="BT">Бутан</territory>
-			<territory type="BV">о-в Буве</territory>
+			<territory type="BV">ад-ха Буве</territory>
 			<territory type="BW">Ботсвана</territory>
-			<territory type="BY">Беларусь</territory>
+			<territory type="BY">Беларус</territory>
 			<territory type="BZ">Белиз</territory>
 			<territory type="CA">Канада</territory>
-			<territory type="CC">Кокосовые о-ва</territory>
-			<territory type="CD">Конго - Киншаса</territory>
-			<territory type="CD" alt="variant">Конго (ДРК)</territory>
-			<territory type="CF">Центрально-Африканская Республика</territory>
-			<territory type="CG">Конго - Браззавиль</territory>
-			<territory type="CG" alt="variant">Республика Конго</territory>
-			<territory type="CH">Швейцария</territory>
+			<territory type="CC">Кокостәи ад-қәа</territory>
+			<territory type="CD">Конго-Киншаса</territory>
+			<territory type="CD" alt="variant">Конго (АРК)</territory>
+			<territory type="CF">Агәҭантәи-Африкатәи Ареспублика</territory>
+			<territory type="CG">Конго-Браззавиль</territory>
+			<territory type="CG" alt="variant">Ареспублика Конго</territory>
+			<territory type="CH">Швеицариа</territory>
 			<territory type="CI">Кот-д’Ивуар</territory>
-			<territory type="CK">Острова Кука</territory>
+			<territory type="CK">Кук идгьылбжьахақәа </territory>
 			<territory type="CL">Чили</territory>
 			<territory type="CM">Камерун</territory>
-			<territory type="CN">Китай</territory>
-			<territory type="CO">Колумбия</territory>
-			<territory type="CP">о-в Клиппертон</territory>
+			<territory type="CN">Китаи</territory>
+			<territory type="CO">Колумбиа</territory>
+			<territory type="CP">ад-ха Клиппертон</territory>
 			<territory type="CR">Коста-Рика</territory>
 			<territory type="CU">Куба</territory>
 			<territory type="CV">Кабо-Верде</territory>
-			<territory type="CW">Кюрасао</territory>
-			<territory type="CX">о-в Рождества</territory>
+			<territory type="CW">Киурасао</territory>
+			<territory type="CX">ад-ха Қьырса</territory>
 			<territory type="CY">Кипр</territory>
-			<territory type="CZ">Чехия</territory>
-			<territory type="CZ" alt="variant">Чешская Республика</territory>
-			<territory type="DE">Германия</territory>
-			<territory type="DG">Диего-Гарсия</territory>
-			<territory type="DJ">Джибути</territory>
-			<territory type="DK">Дания</territory>
+			<territory type="CZ">Чехиа</territory>
+			<territory type="CZ" alt="variant">Чехтәи ареспублика</territory>
+			<territory type="DE">Германиа</territory>
+			<territory type="DG">Диего-Гарсиа</territory>
+			<territory type="DJ">Џибути</territory>
+			<territory type="DK">Даниа</territory>
 			<territory type="DM">Доминика</territory>
-			<territory type="DO">Доминиканская Республика</territory>
+			<territory type="DO">Доминиканатәи Ареспублика</territory>
 			<territory type="DZ">Алжир</territory>
-			<territory type="EA">Сеута и Мелилья</territory>
-			<territory type="EC">Эквадор</territory>
-			<territory type="EE">Эстония</territory>
+			<territory type="EA">Сеутеи Мелилиеи</territory>
+			<territory type="EC">Еквадор</territory>
+			<territory type="EE">Естониа</territory>
 			<territory type="EG">Египет</territory>
-			<territory type="EH">Западная Сахара</territory>
-			<territory type="ER">Эритрея</territory>
-			<territory type="ES">Испания</territory>
-			<territory type="ET">Эфиопия</territory>
-			<territory type="EU">Европейский союз</territory>
-			<territory type="EZ">еврозона</territory>
-			<territory type="FI">Финляндия</territory>
-			<territory type="FJ">Фиджи</territory>
-			<territory type="FK">Фолклендские о-ва</territory>
-			<territory type="FK" alt="variant">Фолклендские (Мальвинские) о-ва</territory>
-			<territory type="FM">Федеративные Штаты Микронезии</territory>
-			<territory type="FO">Фарерские о-ва</territory>
-			<territory type="FR">Франция</territory>
+			<territory type="EH">Мраҭашәаратәи Сахара</territory>
+			<territory type="ER">Еритреиа</territory>
+			<territory type="ES">Испаниа</territory>
+			<territory type="ET">Ефиопиа</territory>
+			<territory type="EU">Европатәи аидгыла</territory>
+			<territory type="EZ">евроцәаҳәа</territory>
+			<territory type="FI">Финлиандиа</territory>
+			<territory type="FJ">Фиџи</territory>
+			<territory type="FK">Фолклендтәи ад-хақәа</territory>
+			<territory type="FK" alt="variant">Фолклендтәи (Мальвинтәи) ад-хақәа</territory>
+			<territory type="FM">Еилоу Микронезиатәи Аштатқәа</territory>
+			<territory type="FO">Фарертәи ад-хақәа</territory>
+			<territory type="FR">Франциа</territory>
 			<territory type="GA">Габон</territory>
-			<territory type="GB">Великобритания</territory>
-			<territory type="GB" alt="short">Британия</territory>
+			<territory type="GB">Британиа ду</territory>
+			<territory type="GB" alt="short">Британиа</territory>
 			<territory type="GD">Гренада</territory>
-			<territory type="GE">Грузия</territory>
-			<territory type="GF">Французская Гвиана</territory>
+			<territory type="GE">Қырҭтәыла</territory>
+			<territory type="GF">Францызтәи Гвиана</territory>
 			<territory type="GG">Гернси</territory>
 			<territory type="GH">Гана</territory>
 			<territory type="GI">Гибралтар</territory>
-			<territory type="GL">Гренландия</territory>
-			<territory type="GM">Гамбия</territory>
-			<territory type="GN">Гвинея</territory>
+			<territory type="GL">Гренландиа</territory>
+			<territory type="GM">Гамбиа</territory>
+			<territory type="GN">Гвинеиа</territory>
 			<territory type="GP">Гваделупа</territory>
-			<territory type="GQ">Экваториальная Гвинея</territory>
-			<territory type="GR">Греция</territory>
-			<territory type="GS">Южная Георгия и Южные Сандвичевы о-ва</territory>
+			<territory type="GQ">Екваториалтәи Гвинеиа</territory>
+			<territory type="GR">Бырзентәыла</territory>
+			<territory type="GS">Аладатәи Георгиеи Аладатәи Сандвичқәеи ад-қәа</territory>
 			<territory type="GT">Гватемала</territory>
 			<territory type="GU">Гуам</territory>
-			<territory type="GW">Гвинея-Бисау</territory>
-			<territory type="GY">Гайана</territory>
-			<territory type="HK">Гонконг (САР)</territory>
+			<territory type="GW">Гвинеиа-Бисау</territory>
+			<territory type="GY">Гаиана</territory>
+			<territory type="HK">Гонконг (ҶАР)</territory>
 			<territory type="HK" alt="short">Гонконг</territory>
-			<territory type="HM">о-ва Херд и Макдональд</territory>
+			<territory type="HM">ад-хақәа Херди Макдональди</territory>
 			<territory type="HN">Гондурас</territory>
-			<territory type="HR">Хорватия</territory>
+			<territory type="HR">Хорватиа</territory>
 			<territory type="HT">Гаити</territory>
-			<territory type="HU">Венгрия</territory>
-			<territory type="IC">Канарские о-ва</territory>
-			<territory type="ID">Индонезия</territory>
-			<territory type="IE">Ирландия</territory>
+			<territory type="HU">Венгриа</territory>
+			<territory type="IC">Канартәи ад-хақәа</territory>
+			<territory type="ID">Индонезиа</territory>
+			<territory type="IE">Ирландиа</territory>
 			<territory type="IL">Израиль</territory>
-			<territory type="IM">о-в Мэн</territory>
-			<territory type="IN">Индия</territory>
-			<territory type="IO">Британская территория в Индийском океане</territory>
+			<territory type="IM">ад-ха Мен</territory>
+			<territory type="IN">Индиа</territory>
+			<territory type="IO">Британиатәи аҵакырадгьыл Индиатәи аокеан аҟны</territory>
 			<territory type="IQ">Ирак</territory>
 			<territory type="IR">Иран</territory>
-			<territory type="IS">Исландия</territory>
-			<territory type="IT">Италия</territory>
-			<territory type="JE">Джерси</territory>
-			<territory type="JM">Ямайка</territory>
-			<territory type="JO">Иордания</territory>
-			<territory type="JP">Япония</territory>
-			<territory type="KE">Кения</territory>
-			<territory type="KG">Киргизия</territory>
-			<territory type="KH">Камбоджа</territory>
+			<territory type="IS">Исландиа</territory>
+			<territory type="IT">Италиа</territory>
+			<territory type="JE">Џерси</territory>
+			<territory type="JM">Иамаика</territory>
+			<territory type="JO">Иорданиа</territory>
+			<territory type="JP">Иапониа</territory>
+			<territory type="KE">Кениа</territory>
+			<territory type="KG">Киргизиа</territory>
+			<territory type="KH">Камбоџа</territory>
 			<territory type="KI">Кирибати</territory>
-			<territory type="KM">Коморы</territory>
-			<territory type="KN">Сент-Китс и Невис</territory>
-			<territory type="KP">КНДР</territory>
-			<territory type="KR">Республика Корея</territory>
-			<territory type="KW">Кувейт</territory>
-			<territory type="KY">Острова Кайман</territory>
-			<territory type="KZ">Казахстан</territory>
+			<territory type="KM">Комор</territory>
+			<territory type="KN">Сент-Китси Невиси</territory>
+			<territory type="KP">КЖӘДР</territory>
+			<territory type="KR">Кореиа Ареспублика</territory>
+			<territory type="KW">Кувеит</territory>
+			<territory type="KY">Адгьылбжьахақәа Каиман</territory>
+			<territory type="KZ">Ҟазахсҭан</territory>
 			<territory type="LA">Лаос</territory>
 			<territory type="LB">Ливан</territory>
-			<territory type="LC">Сент-Люсия</territory>
-			<territory type="LI">Лихтенштейн</territory>
+			<territory type="LC">Сент-Люсиа</territory>
+			<territory type="LI">Лихтенштеин</territory>
 			<territory type="LK">Шри-Ланка</territory>
-			<territory type="LR">Либерия</territory>
+			<territory type="LR">Либериа</territory>
 			<territory type="LS">Лесото</territory>
 			<territory type="LT">Литва</territory>
-			<territory type="LU">Люксембург</territory>
-			<territory type="LV">Латвия</territory>
-			<territory type="LY">Ливия</territory>
+			<territory type="LU">Лиуксембург</territory>
+			<territory type="LV">Латвиа</territory>
+			<territory type="LY">Ливиа</territory>
 			<territory type="MA">Марокко</territory>
 			<territory type="MC">Монако</territory>
 			<territory type="MD">Молдова</territory>
-			<territory type="ME">Черногория</territory>
+			<territory type="ME">Ашьхеиқәаҵәа</territory>
 			<territory type="MF">Сен-Мартен</territory>
 			<territory type="MG">Мадагаскар</territory>
-			<territory type="MH">Маршалловы Острова</territory>
-			<territory type="MK">Северная Македония</territory>
+			<territory type="MH">Маршаллтәи Адгьылбжьахақәа</territory>
+			<territory type="MK">Аҩадатәи Македониа</territory>
 			<territory type="ML">Мали</territory>
-			<territory type="MM">Мьянма (Бирма)</territory>
-			<territory type="MN">Монголия</territory>
-			<territory type="MO">Макао (САР)</territory>
+			<territory type="MM">Мианма (Бирма)</territory>
+			<territory type="MN">Монголиа</territory>
+			<territory type="MO">Макао (ҶАР)</territory>
 			<territory type="MO" alt="short">Макао</territory>
-			<territory type="MP">Северные Марианские о-ва</territory>
+			<territory type="MP">Аҩадатәи Мариантәи ад-хақәа</territory>
 			<territory type="MQ">Мартиника</territory>
-			<territory type="MR">Мавритания</territory>
+			<territory type="MR">Мавританиа</territory>
 			<territory type="MS">Монтсеррат</territory>
 			<territory type="MT">Мальта</territory>
-			<territory type="MU">Маврикий</territory>
-			<territory type="MV">Мальдивы</territory>
+			<territory type="MU">Маврики</territory>
+			<territory type="MV">Мальдив</territory>
 			<territory type="MW">Малави</territory>
 			<territory type="MX">Мексика</territory>
-			<territory type="MY">Малайзия</territory>
+			<territory type="MY">Малаизиа</territory>
 			<territory type="MZ">Мозамбик</territory>
-			<territory type="NA">Намибия</territory>
-			<territory type="NC">Новая Каледония</territory>
+			<territory type="NA">Намибиа</territory>
+			<territory type="NC">Каледониа ҿыц</territory>
 			<territory type="NE">Нигер</territory>
-			<territory type="NF">о-в Норфолк</territory>
-			<territory type="NG">Нигерия</territory>
+			<territory type="NF">Ад-ха Норфолк</territory>
+			<territory type="NG">Нигериа</territory>
 			<territory type="NI">Никарагуа</territory>
-			<territory type="NL">Нидерланды</territory>
-			<territory type="NO">Норвегия</territory>
+			<territory type="NL">Нидерланд</territory>
+			<territory type="NO">Норвегиа</territory>
 			<territory type="NP">Непал</territory>
 			<territory type="NR">Науру</territory>
-			<territory type="NU">Ниуэ</territory>
-			<territory type="NZ">Новая Зеландия</territory>
+			<territory type="NU">Ниуе</territory>
+			<territory type="NZ">Зеландиа ҿыц</territory>
 			<territory type="OM">Оман</territory>
 			<territory type="PA">Панама</territory>
 			<territory type="PE">Перу</territory>
-			<territory type="PF">Французская Полинезия</territory>
-			<territory type="PG">Папуа — Новая Гвинея</territory>
-			<territory type="PH">Филиппины</territory>
+			<territory type="PF">Францызтәи Полинезиа</territory>
+			<territory type="PG">Папуа — Гвинеиа ҿыц</territory>
+			<territory type="PH">Филиппин</territory>
 			<territory type="PK">Пакистан</territory>
 			<territory type="PL">Польша</territory>
-			<territory type="PM">Сен-Пьер и Микелон</territory>
-			<territory type="PN">о-ва Питкэрн</territory>
-			<territory type="PR">Пуэрто-Рико</territory>
-			<territory type="PS">Палестинские территории</territory>
+			<territory type="PM">Сен-Пиери Микелони</territory>
+			<territory type="PN">Питкерн ад-хақәа</territory>
+			<territory type="PR">Пуерто-Рико</territory>
+			<territory type="PS">Палестинатәи аҵакырадгьылқәа</territory>
 			<territory type="PS" alt="short">Палестина</territory>
-			<territory type="PT">Португалия</territory>
+			<territory type="PT">Португалиа</territory>
 			<territory type="PW">Палау</territory>
-			<territory type="PY">Парагвай</territory>
+			<territory type="PY">Парагваи</territory>
 			<territory type="QA">Катар</territory>
-			<territory type="QO">Внешняя Океания</territory>
-			<territory type="RE">Реюньон</territory>
-			<territory type="RO">Румыния</territory>
-			<territory type="RS">Сербия</territory>
-			<territory type="RU">Россия</territory>
+			<territory type="QO">Нҭыҵтәи Океаниа</territory>
+			<territory type="RE">Реиунон</territory>
+			<territory type="RO">Румыниа</territory>
+			<territory type="RS">Сербиа</territory>
+			<territory type="RU">Урыстәыла</territory>
 			<territory type="RW">Руанда</territory>
-			<territory type="SA">Саудовская Аравия</territory>
-			<territory type="SB">Соломоновы Острова</territory>
-			<territory type="SC">Сейшельские Острова</territory>
+			<territory type="SA">Саудтәи Арабсҭан</territory>
+			<territory type="SB">Соломонтәи адгьылбжьахақәа</territory>
+			<territory type="SC">Сеишелтәи адгьылбжьахақәа</territory>
 			<territory type="SD">Судан</territory>
-			<territory type="SE">Швеция</territory>
+			<territory type="SE">Швециа</territory>
 			<territory type="SG">Сингапур</territory>
-			<territory type="SH">о-в Св. Елены</territory>
-			<territory type="SI">Словения</territory>
-			<territory type="SJ">Шпицберген и Ян-Майен</territory>
-			<territory type="SK">Словакия</territory>
-			<territory type="SL">Сьерра-Леоне</territory>
+			<territory type="SH"> Иԥшьоу Елена ладгьылбжьаха</territory>
+			<territory type="SI">Словениа</territory>
+			<territory type="SJ">Шпицбергени Иан-Маиени</territory>
+			<territory type="SK">Словакиа</territory>
+			<territory type="SL">Сиерра-Леоне</territory>
 			<territory type="SM">Сан-Марино</territory>
 			<territory type="SN">Сенегал</territory>
 			<territory type="SO">Сомали</territory>
 			<territory type="SR">Суринам</territory>
-			<territory type="SS">Южный Судан</territory>
-			<territory type="ST">Сан-Томе и Принсипи</territory>
+			<territory type="SS">Аладатәи Судан</territory>
+			<territory type="ST">Сан-Томеи Принсипиеи</territory>
 			<territory type="SV">Сальвадор</territory>
 			<territory type="SX">Синт-Мартен</territory>
-			<territory type="SY">Сирия</territory>
-			<territory type="SZ">Эсватини</territory>
+			<territory type="SY">Шьамтәыла</territory>
+			<territory type="SZ">Есватини</territory>
 			<territory type="SZ" alt="variant">Свазиленд</territory>
-			<territory type="TA">Тристан-да-Кунья</territory>
-			<territory type="TC">о-ва Тёркс и Кайкос</territory>
+			<territory type="TA">Тристан-да-Куниа</territory>
+			<territory type="TC">ад-хақәа Тиоркси Каикоси</territory>
 			<territory type="TD">Чад</territory>
-			<territory type="TF">Французские Южные территории</territory>
+			<territory type="TF">Францызтәи Аладатәи аҵакырадгьылқәа</territory>
 			<territory type="TG">Того</territory>
 			<territory type="TH">Таиланд</territory>
-			<territory type="TJ">Таджикистан</territory>
+			<territory type="TJ">Таџьықсҭан</territory>
 			<territory type="TK">Токелау</territory>
-			<territory type="TL">Восточный Тимор</territory>
+			<territory type="TL">Мрагыларатәи Тимор</territory>
 			<territory type="TL" alt="variant">Тимор-Лесте</territory>
-			<territory type="TM">Туркменистан</territory>
+			<territory type="TM">Ҭурқменисҭан</territory>
 			<territory type="TN">Тунис</territory>
 			<territory type="TO">Тонга</territory>
-			<territory type="TR">Турция</territory>
-			<territory type="TT">Тринидад и Тобаго</territory>
+			<territory type="TR">Ҭырқәтәыла</territory>
+			<territory type="TT">Тринидади Тобагои</territory>
 			<territory type="TV">Тувалу</territory>
-			<territory type="TW">Тайвань</territory>
-			<territory type="TZ">Танзания</territory>
+			<territory type="TW">Таиван</territory>
+			<territory type="TZ">Танзаниа</territory>
 			<territory type="UA">Украина</territory>
 			<territory type="UG">Уганда</territory>
-			<territory type="UM">Внешние малые о-ва (США)</territory>
-			<territory type="UN">Организация Объединенных Наций</territory>
-			<territory type="UN" alt="short">ООН</territory>
-			<territory type="US">Соединенные Штаты</territory>
-			<territory type="US" alt="short">США</territory>
-			<territory type="UY">Уругвай</territory>
-			<territory type="UZ">Узбекистан</territory>
+			<territory type="UM">Нҭыҵтәи малыетәи ад-қәа (ЕАШ)</territory>
+			<territory type="UN">Еиду Амилаҭқәа Реиҿкаара</territory>
+			<territory type="UN" alt="short">ЕАР</territory>
+			<territory type="US">Еиду Аштатқәа</territory>
+			<territory type="US" alt="short">ЕАШ</territory>
+			<territory type="UY">Уругваи</territory>
+			<territory type="UZ">Узбеқьисҭан</territory>
 			<territory type="VA">Ватикан</territory>
-			<territory type="VC">Сент-Винсент и Гренадины</territory>
-			<territory type="VE">Венесуэла</territory>
-			<territory type="VG">Виргинские о-ва (Великобритания)</territory>
-			<territory type="VI">Виргинские о-ва (США)</territory>
-			<territory type="VN">Вьетнам</territory>
+			<territory type="VC">Сент-Винсенти Гренадини</territory>
+			<territory type="VE">Венесуела</territory>
+			<territory type="VG">Виргинтәи ад-хақәа (Британиаду)</territory>
+			<territory type="VI">Виргинтәи ад-хақәа (ЕАШ)</territory>
+			<territory type="VN">Виетнам</territory>
 			<territory type="VU">Вануату</territory>
-			<territory type="WF">Уоллис и Футуна</territory>
+			<territory type="WF">Уоллиси Футунеи</territory>
 			<territory type="WS">Самоа</territory>
-			<territory type="XA">псевдоакценты</territory>
-			<territory type="XB">псевдо-Bidi</territory>
+			<territory type="XA">амццәажәашьақәа</territory>
+			<territory type="XB">амц-Bidi</territory>
 			<territory type="XK">Косово</territory>
-			<territory type="YE">Йемен</territory>
-			<territory type="YT">Майотта</territory>
-			<territory type="ZA">Южно-Африканская Республика</territory>
-			<territory type="ZM">Замбия</territory>
+			<territory type="YE">Иемен</territory>
+			<territory type="YT">Маиотта</territory>
+			<territory type="ZA">Алада-Африкатәи ареспублика</territory>
+			<territory type="ZM">Замбиа</territory>
 			<territory type="ZW">Зимбабве</territory>
-			<territory type="ZZ">неизвестный регион</territory>
+			<territory type="ZZ">еилкаам арегион</territory>
+
 		</territories>
 		<variants>
 			<variant type="1901" draft="contributed">Традиционная немецкая орфография</variant>
