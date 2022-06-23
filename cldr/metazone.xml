@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2021 Unicode, Inc.
+For terms of use, see http://www.unicode.org/copyright.html
+SPDX-License-Identifier: Unicode-DFS-2016
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
+-->
+<ldml>
+	<identity>
+		<version number="$Revision$"/>
+		<language type="ab"/>
+	</identity>
+	<dates>
+		<timeZoneNames>
+			<metazone type="Acre">
+				<long>
+					<generic draft="contributed">Акри аамҭа</generic>
+					<standard draft="contributed">Акри астандартә аамҭа</standard>
+					<daylight draft="contributed">Акри аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Afghanistan">
+				<long>
+					<standard>Афганистан</standard>
+				</long>
+			</metazone>
+			<metazone type="Africa_Central">
+				<long>
+					<standard>Агәҭантәи Африка</standard>
+				</long>
+			</metazone>
+			<metazone type="Africa_Eastern">
+				<long>
+					<standard>Мрагыларатәи Африка</standard>
+				</long>
+			</metazone>
+			<metazone type="Africa_Southern">
+				<long>
+					<standard>Аладатәи Африка</standard>
+				</long>
+			</metazone>
+			<metazone type="Africa_Western">
+				<long>
+					<generic>Мраҭашәаратәи Африка</generic>
+					<standard>Мраҭашәаратәи Африка, астандартә аамҭа</standard>
+					<daylight>Мраҭашәаратәи Африка, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Alaska">
+				<long>
+					<generic>Алиаска</generic>
+					<standard>Алиаска, астандартә аамҭа</standard>
+					<daylight>Алиаска, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Almaty">
+				<long>
+					<generic draft="contributed">Алма-Ата аамҭа</generic>
+					<standard draft="contributed">Алма-Ата астандартә аамҭа</standard>
+					<daylight draft="contributed">Алма-Ата аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Amazon">
+				<long>
+					<generic>Амазонка</generic>
+					<standard>Амазонка, астандартә аамҭа</standard>
+					<daylight>Амазонка, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="America_Central">
+				<long>
+					<generic>Агәҭантәи Америка</generic>
+					<standard>Агәҭантәи Америка, астандартә аамҭа</standard>
+					<daylight>Агәҭантәи Америка, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="America_Eastern">
+				<long>
+					<generic>Мрагыларатәи Америка</generic>
+					<standard>Мрагыларатәи Америка, астандартә аамҭа</standard>
+					<daylight>Мрагыларатәи Америка, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="America_Mountain">
+				<long>
+					<generic>Ашьхатә аамҭа (Аҩадатәи Америка)</generic>
+					<standard>Астандартә ашьхатә аамҭа (Аҩадатәи Америка)</standard>
+					<daylight>Аԥхынтәи ашьхатә аамҭа (Аҩадатәи Америка)</daylight>
+				</long>
+			</metazone>
+			<metazone type="America_Pacific">
+				<long>
+					<generic>Аокеанҭынчтәи аамҭа</generic>
+					<standard>Аокеанҭынчтәи астандартә аамҭа</standard>
+					<daylight>Аокеанҭынчтәи аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Anadyr">
+				<long>
+					<generic draft="contributed">аамҭа Анадыр аҿы</generic>
+					<standard draft="contributed">Анадыр астандартә аамҭа</standard>
+					<daylight draft="contributed">Анадыр аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Apia">
+				<long>
+					<generic>Апиа</generic>
+					<standard>Апиа, астандартә аамҭа</standard>
+					<daylight>Апиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Aqtau">
+				<long>
+					<generic>Актау аамҭа</generic>
+					<standard>Актау, астандартә аамҭа</standard>
+					<daylight>Актау аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Aqtobe">
+				<long>
+					<generic draft="contributed">Актобе аамҭа</generic>
+					<standard draft="contributed">Актобе астандартә аамҭа</standard>
+					<daylight draft="contributed">Актобе аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Arabian">
+				<long>
+					<generic>Саудтәи Арабсҭан</generic>
+					<standard>Саудтәи Арабсҭан, астандартә аамҭа</standard>
+					<daylight>Саудтәи Арабсҭан, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Argentina_Western">
+				<long>
+					<generic>Мраҭашәаратәи Аргентина</generic>
+					<standard>Мраҭашәаратәи Аргентина, астандартә аамҭа</standard>
+					<daylight>Мраҭашәаратәи Аргентина, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Argentina">
+				<long>
+					<generic>Аргентина</generic>
+					<standard>Аргентина, астандартә аамҭа</standard>
+					<daylight>Аргентина, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Armenia">
+				<long>
+					<generic>Ермантәыла</generic>
+					<standard>Ермантәыла, астандартә аамҭа</standard>
+					<daylight>Ермантәыла, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Atlantic">
+				<long>
+					<generic>Атлантикатәи аамҭа</generic>
+					<standard>Атлантикатәи астандартә аамҭа</standard>
+					<daylight>Атлантикатәи аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Australia_Central">
+				<long>
+					<generic>Агәҭантәи Австралиа</generic>
+					<standard>Агәҭантәи Австралиа, астандартә аамҭа</standard>
+					<daylight>Агәҭантәи Австралиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Australia_CentralWestern">
+				<long>
+					<generic>Агәҭантәи Австралиа, мраҭашәаратәи аамҭа</generic>
+					<standard>Агәҭантәи Австралиа, мраҭашәаратәи астандартә аамҭа</standard>
+					<daylight>Агәҭантәи Австралиа, мраҭашәаратәи аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Australia_Eastern">
+				<long>
+					<generic>Мрагыларатәи Австралиа</generic>
+					<standard>Мрагыларатәи Австралиа, астандартә аамҭа</standard>
+					<daylight>Мрагыларатәи Австралиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Australia_Western">
+				<long>
+					<generic>Мраҭашәаратәи Австралиа</generic>
+					<standard>Мраҭашәаратәи Австралиа, астандартә аамҭа</standard>
+					<daylight>Мраҭашәаратәи Австралиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Azerbaijan">
+				<long>
+					<generic>Азербаиџьан</generic>
+					<standard>Азербаиџьан, астандартә аамҭа</standard>
+					<daylight>Азербаиџьан, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Azores">
+				<long>
+					<generic>Азортәи ад-хақәа</generic>
+					<standard>Азортәи ад-хақәа, астандартә аамҭа</standard>
+					<daylight>Азортәи ад-хақәа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Bangladesh">
+				<long>
+					<generic>Бангладеш</generic>
+					<standard>Бангладеш, астандартә аамҭа</standard>
+					<daylight>Бангладеш, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Bhutan">
+				<long>
+					<standard>Бутан</standard>
+				</long>
+			</metazone>
+			<metazone type="Bolivia">
+				<long>
+					<standard>Боливиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Brasilia">
+				<long>
+					<generic>Бразилиа</generic>
+					<standard>Бразилиа, астандартә аамҭа</standard>
+					<daylight>Бразилиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Brunei">
+				<long>
+					<standard>Брунеи-Даруссалам</standard>
+				</long>
+			</metazone>
+			<metazone type="Cape_Verde">
+				<long>
+					<generic>Кабо-Верде</generic>
+					<standard>Кабо-Верде, астандартә аамҭа</standard>
+					<daylight>Кабо-Верде, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Casey">
+				<long>
+					<standard draft="contributed">Кеиси</standard>
+				</long>
+			</metazone>
+			<metazone type="Chamorro">
+				<long>
+					<standard>Чаморро</standard>
+				</long>
+			</metazone>
+			<metazone type="Chatham">
+				<long>
+					<generic>Чатем</generic>
+					<standard>Чатем, астандартә аамҭа</standard>
+					<daylight>Чатем, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Chile">
+				<long>
+					<generic>Чили</generic>
+					<standard>Чили, астандартә аамҭа</standard>
+					<daylight>Чили, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="China">
+				<long>
+					<generic>Китаи</generic>
+					<standard>Китаи, астандартә аамҭа</standard>
+					<daylight>Китаи, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Choibalsan">
+				<long>
+					<generic>Чоибалсан</generic>
+					<standard>Чоибалсан, астандартә аамҭа</standard>
+					<daylight>Чоибалсан, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Christmas">
+				<long>
+					<standard>ад-ха Қьырса</standard>
+				</long>
+			</metazone>
+			<metazone type="Cocos">
+				<long>
+					<standard>Кокостәи ад-хақәа</standard>
+				</long>
+			</metazone>
+			<metazone type="Colombia">
+				<long>
+					<generic>Колумбиа</generic>
+					<standard>Колумбиа, астандартә аамҭа</standard>
+					<daylight>Колумбиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Cook">
+				<long>
+					<generic>Кук идгьылбжьахақәа </generic>
+					<standard>Кук идгьылбжьахақәа, астандартә аамҭа</standard>
+					<daylight>Кук идгьылбжьахақәа, полуаԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Cuba">
+				<long>
+					<generic>Куба</generic>
+					<standard>Куба, астандартә аамҭа</standard>
+					<daylight>Куба, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Davis">
+				<long>
+					<standard>Деивис</standard>
+				</long>
+			</metazone>
+			<metazone type="DumontDUrville">
+				<long>
+					<standard>Диумон-д’Иурвил</standard>
+				</long>
+			</metazone>
+			<metazone type="East_Timor">
+				<long>
+					<standard>Мрагыларатәи Тимор</standard>
+				</long>
+			</metazone>
+			<metazone type="Easter">
+				<long>
+					<generic>ад-ха Пасхи</generic>
+					<standard>ад-ха Пасхи, астандартә аамҭа</standard>
+					<daylight>ад-ха Пасхи, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Ecuador">
+				<long>
+					<standard>Еквадор</standard>
+				</long>
+			</metazone>
+			<metazone type="Europe_Central">
+				<long>
+					<generic>Агәҭантәи Европа</generic>
+					<standard>Агәҭантәи Европа, астандартә аамҭа</standard>
+					<daylight>Агәҭантәи Европа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Europe_Eastern">
+				<long>
+					<generic>Мрагыларатәи Европа</generic>
+					<standard>Мрагыларатәи Европа, астандартә аамҭа</standard>
+					<daylight>Мрагыларатәи Европа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Europe_Further_Eastern">
+				<long>
+					<standard>Московатәи аамҭа</standard>
+				</long>
+			</metazone>
+			<metazone type="Europe_Western">
+				<long>
+					<generic>Мраҭашәаратәи Европа</generic>
+					<standard>Мраҭашәаратәи Европа, астандартә аамҭа</standard>
+					<daylight>Мраҭашәаратәи Европа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Falkland">
+				<long>
+					<generic>Фолклендтәи ад-хақәа</generic>
+					<standard>Фолклендтәи ад-хақәа, астандартә аамҭа</standard>
+					<daylight>Фолклендтәи ад-хақәа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Fiji">
+				<long>
+					<generic>Фиџи</generic>
+					<standard>Фиџи, астандартә аамҭа</standard>
+					<daylight>Фиџи, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="French_Guiana">
+				<long>
+					<standard>Францызтәи Гвиана</standard>
+				</long>
+			</metazone>
+			<metazone type="French_Southern">
+				<long>
+					<standard>Францызтәи Аладатәеи Антарктикатәи рҵакырадгьылқәа</standard>
+				</long>
+			</metazone>
+			<metazone type="Galapagos">
+				<long>
+					<standard>Галапагостәи ад-хақәа</standard>
+				</long>
+			</metazone>
+			<metazone type="Gambier">
+				<long>
+					<standard>Гамбе</standard>
+				</long>
+			</metazone>
+			<metazone type="Georgia">
+				<long>
+					<generic>Қырҭтәыла</generic>
+					<standard>Қырҭтәыла, астандартә аамҭа</standard>
+					<daylight>Қырҭтәыла, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Gilbert_Islands">
+				<long>
+					<standard>ад-хақәа Гилберта</standard>
+				</long>
+			</metazone>
+			<metazone type="GMT">
+				<long>
+					<standard>Агринвич Ибжьаратәу Аамҭа</standard>
+				</long>
+			</metazone>
+			<metazone type="Greenland_Eastern">
+				<long>
+					<generic>Мрагыларатәи Гренландиа</generic>
+					<standard>Мрагыларатәи Гренландиа, стандарное времиа</standard>
+					<daylight>Мрагыларатәи Гренландиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Greenland_Western">
+				<long>
+					<generic>Мраҭашәаратәи Гренландиа</generic>
+					<standard>Мраҭашәаратәи Гренландиа, астандартә аамҭа</standard>
+					<daylight>Мраҭашәаратәи Гренландиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Guam">
+				<long>
+					<standard draft="contributed">Гуам</standard>
+				</long>
+			</metazone>
+			<metazone type="Gulf">
+				<long>
+					<standard>Аџьамтә аӡыбжьахала</standard>
+				</long>
+			</metazone>
+			<metazone type="Guyana">
+				<long>
+					<standard>Гаиана</standard>
+				</long>
+			</metazone>
+			<metazone type="Hawaii_Aleutian">
+				<long>
+					<generic>Ҳаваи-алеуттәи аамҭа</generic>
+					<standard>Ҳаваи-алеуттәи астандартә аамҭа</standard>
+					<daylight>Ҳаваи-алеуттәи аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Hong_Kong">
+				<long>
+					<generic>Ҳонконг</generic>
+					<standard>Ҳонконг, астандартә аамҭа</standard>
+					<daylight>Ҳонконг, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Hovd">
+				<long>
+					<generic>Ховд</generic>
+					<standard>Ховд, астандартә аамҭа</standard>
+					<daylight>Ховд, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="India">
+				<long>
+					<standard>Индиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Indian_Ocean">
+				<long>
+					<standard>Индиатәи аокеан</standard>
+				</long>
+			</metazone>
+			<metazone type="Indochina">
+				<long>
+					<standard>Индокитаи</standard>
+				</long>
+			</metazone>
+			<metazone type="Indonesia_Central">
+				<long>
+					<standard>Агәҭантәи Индонезиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Indonesia_Eastern">
+				<long>
+					<standard>Мрагыларатәи Индонезиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Indonesia_Western">
+				<long>
+					<standard>Мраҭашәаратәи Индонезиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Iran">
+				<long>
+					<generic>Иран</generic>
+					<standard>Иран, астандартә аамҭа</standard>
+					<daylight>Иран, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Irkutsk">
+				<long>
+					<generic>Иркутск</generic>
+					<standard>Иркутск, астандартә аамҭа</standard>
+					<daylight>Иркутск, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Israel">
+				<long>
+					<generic>Израиль</generic>
+					<standard>Израиль, астандартә аамҭа</standard>
+					<daylight>Израиль, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Japan">
+				<long>
+					<generic>Иапониа</generic>
+					<standard>Иапониа, астандартә аамҭа</standard>
+					<daylight>Иапониа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Kamchatka">
+				<long>
+					<generic>Петропавловск-Камчаткатәи</generic>
+					<standard>Петропавловск-Камчаткатәи, астандартә аамҭа</standard>
+					<daylight>Петропавловск-Камчаткатәи, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Kazakhstan_Eastern">
+				<long>
+					<standard>Мрагыларатәи Ҟазахсҭан</standard>
+				</long>
+			</metazone>
+			<metazone type="Kazakhstan_Western">
+				<long>
+					<standard>Мраҭашәаратәи Ҟазахсҭан</standard>
+				</long>
+			</metazone>
+			<metazone type="Korea">
+				<long>
+					<generic>Кореиа</generic>
+					<standard>Кореиа, астандартә аамҭа</standard>
+					<daylight>Кореиа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Kosrae">
+				<long>
+					<standard>Косрае</standard>
+				</long>
+			</metazone>
+			<metazone type="Krasnoyarsk">
+				<long>
+					<generic>Красноиарск</generic>
+					<standard>Красноиарск, астандартә аамҭа</standard>
+					<daylight>Красноиарск, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Kyrgystan">
+				<long>
+					<standard>Киргизиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Lanka">
+				<long>
+					<standard draft="contributed">Шри-Ланка</standard>
+				</long>
+			</metazone>
+			<metazone type="Line_Islands">
+				<long>
+					<standard>ад-хақәа Лаин</standard>
+				</long>
+			</metazone>
+			<metazone type="Lord_Howe">
+				<long>
+					<generic>Лорд-Ҳау</generic>
+					<standard>Лорд-Ҳау, астандартә аамҭа</standard>
+					<daylight>Лорд-Ҳау, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Macau">
+				<long>
+					<generic draft="contributed">Макао</generic>
+					<standard draft="contributed">Макао, астандартә аамҭа</standard>
+					<daylight draft="contributed">Макао, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Macquarie">
+				<long>
+					<standard>Маккуори</standard>
+				</long>
+			</metazone>
+			<metazone type="Magadan">
+				<long>
+					<generic>Магадан</generic>
+					<standard>Магадан, астандартә аамҭа</standard>
+					<daylight>Магадан, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Malaysia">
+				<long>
+					<standard>Малаизиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Maldives">
+				<long>
+					<standard>Мальдив</standard>
+				</long>
+			</metazone>
+			<metazone type="Marquesas">
+				<long>
+					<standard>Маркизтәи ад-хақәа</standard>
+				</long>
+			</metazone>
+			<metazone type="Marshall_Islands">
+				<long>
+					<standard>Маршаллтәи Адгьылбжьахақәа</standard>
+				</long>
+			</metazone>
+			<metazone type="Mauritius">
+				<long>
+					<generic>Маврики</generic>
+					<standard>Маврики, астандартә аамҭа</standard>
+					<daylight>Маврики, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Mawson">
+				<long>
+					<standard>Моусон</standard>
+				</long>
+			</metazone>
+			<metazone type="Mexico_Northwest">
+				<long>
+					<generic>Аҩадамра-Ҭашәаратәи амексикатә аамҭа</generic>
+					<standard>Аҩадамра-Ҭашәаратәи амексикатә астандартә аамҭа</standard>
+					<daylight>Аҩадамра-Ҭашәаратәи амексикатә аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Mexico_Pacific">
+				<long>
+					<generic>Аокеанҭынчтәи амексикатә аамҭа</generic>
+					<standard>Аокеанҭынчтәи амексикатә астандартә аамҭа</standard>
+					<daylight>Аокеанҭынчтәи амексикатә аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Mongolia">
+				<long>
+					<generic>Улан-Батор</generic>
+					<standard>Улан-Батор, астандартә аамҭа</standard>
+					<daylight>Улан-Батор, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Moscow">
+				<long>
+					<generic>Москва</generic>
+					<standard>Москва, астандартә аамҭа</standard>
+					<daylight>Москва, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Myanmar">
+				<long>
+					<standard>Мианма</standard>
+				</long>
+			</metazone>
+			<metazone type="Nauru">
+				<long>
+					<standard>Науру</standard>
+				</long>
+			</metazone>
+			<metazone type="Nepal">
+				<long>
+					<standard>Непал</standard>
+				</long>
+			</metazone>
+			<metazone type="New_Caledonia">
+				<long>
+					<generic>Каледониа ҿыц</generic>
+					<standard>Каледониа ҿыц, астандартә аамҭа</standard>
+					<daylight>Каледониа ҿыц, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="New_Zealand">
+				<long>
+					<generic>Зеландиа ҿыц</generic>
+					<standard>Зеландиа ҿыц, астандартә аамҭа</standard>
+					<daylight>Зеландиа ҿыц, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Newfoundland">
+				<long>
+					<generic>Ниуфаундленд</generic>
+					<standard>Ниуфаундленд, астандартә аамҭа</standard>
+					<daylight>Ниуфаундленд, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Niue">
+				<long>
+					<standard>Ниуе</standard>
+				</long>
+			</metazone>
+			<metazone type="Norfolk">
+				<long>
+					<generic>Норфолк</generic>
+					<standard>Норфолк, астандартә аамҭа</standard>
+					<daylight>Норфолк, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Noronha">
+				<long>
+					<generic>Фернанду-ди-Норониа</generic>
+					<standard>Фернанду-ди-Норониа, астандартә аамҭа</standard>
+					<daylight>Фернанду-ди-Норониа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="North_Mariana">
+				<long>
+					<standard draft="contributed">Аҩадатәи Мариантәи ад-хақәа</standard>
+				</long>
+			</metazone>
+			<metazone type="Novosibirsk">
+				<long>
+					<generic>Новосибирск</generic>
+					<standard>Новосибирск, астандартә аамҭа</standard>
+					<daylight>Новосибирск, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Omsk">
+				<long>
+					<generic>Омск</generic>
+					<standard>Омск, астандартә аамҭа</standard>
+					<daylight>Омск, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Pakistan">
+				<long>
+					<generic>Пакистан</generic>
+					<standard>Пакистан, астандартә аамҭа</standard>
+					<daylight>Пакистан, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Palau">
+				<long>
+					<standard>Палау</standard>
+				</long>
+			</metazone>
+			<metazone type="Papua_New_Guinea">
+				<long>
+					<standard>Папуа — Гвинеиа ҿыц</standard>
+				</long>
+			</metazone>
+			<metazone type="Paraguay">
+				<long>
+					<generic>Парагваи</generic>
+					<standard>Парагваи, астандартә аамҭа</standard>
+					<daylight>Парагваи, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Peru">
+				<long>
+					<generic>Перу</generic>
+					<standard>Перу, астандартә аамҭа</standard>
+					<daylight>Перу, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Philippines">
+				<long>
+					<generic>Филиппин</generic>
+					<standard>Филиппин, астандартә аамҭа</standard>
+					<daylight>Филиппин, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Phoenix_Islands">
+				<long>
+					<standard>ад-хақәа Феникс</standard>
+				</long>
+			</metazone>
+			<metazone type="Pierre_Miquelon">
+				<long>
+					<generic>Сен-Пиери Микелони</generic>
+					<standard>Сен-Пиери Микелони, астандартә аамҭа</standard>
+					<daylight>Сен-Пиери Микелони, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Pitcairn">
+				<long>
+					<standard>Питкерн</standard>
+				</long>
+			</metazone>
+			<metazone type="Ponape">
+				<long>
+					<standard>Понпеи</standard>
+				</long>
+			</metazone>
+			<metazone type="Pyongyang">
+				<long>
+					<standard>Пхениан</standard>
+				</long>
+			</metazone>
+			<metazone type="Qyzylorda">
+				<long>
+					<generic draft="contributed">Кызылорда*</generic>
+					<standard draft="contributed">Кызылорда, астандартә аамҭа*</standard>
+					<daylight draft="contributed">Кызылорда, аԥхынтәи аамҭа*</daylight>
+				</long>
+			</metazone>
+			<metazone type="Reunion">
+				<long>
+					<standard>Реиунон</standard>
+				</long>
+			</metazone>
+			<metazone type="Rothera">
+				<long>
+					<standard>Ротера</standard>
+				</long>
+			</metazone>
+			<metazone type="Sakhalin">
+				<long>
+					<generic>Сахалин</generic>
+					<standard>Сахалин, астандартә аамҭа</standard>
+					<daylight>Сахалин, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Samara">
+				<long>
+					<generic draft="contributed">аамҭа Самараҿы</generic>
+					<standard draft="contributed">Самартәи астандартә аамҭа</standard>
+					<daylight draft="contributed">Самартәи аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Samoa">
+				<long>
+					<generic>Самоа</generic>
+					<standard>Самоа, астандартә аамҭа</standard>
+					<daylight>Самоа, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Seychelles">
+				<long>
+					<standard>Сеишелтәи адгьылбжьахақәа</standard>
+				</long>
+			</metazone>
+			<metazone type="Singapore">
+				<long>
+					<standard>Сингапур</standard>
+				</long>
+			</metazone>
+			<metazone type="Solomon">
+				<long>
+					<standard>Соломонтәи адгьылбжьахақәа</standard>
+				</long>
+			</metazone>
+			<metazone type="South_Georgia">
+				<long>
+					<standard>Аладатәи Георгиа</standard>
+				</long>
+			</metazone>
+			<metazone type="Suriname">
+				<long>
+					<standard>Суринам</standard>
+				</long>
+			</metazone>
+			<metazone type="Syowa">
+				<long>
+					<standard>Сиова</standard>
+				</long>
+			</metazone>
+			<metazone type="Tahiti">
+				<long>
+					<standard>Таити</standard>
+				</long>
+			</metazone>
+			<metazone type="Taipei">
+				<long>
+					<generic>Таиван</generic>
+					<standard>Таиван, астандартә аамҭа</standard>
+					<daylight>Таиван, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Tajikistan">
+				<long>
+					<standard>Таџьықсҭан</standard>
+				</long>
+			</metazone>
+			<metazone type="Tokelau">
+				<long>
+					<standard>Токелау</standard>
+				</long>
+			</metazone>
+			<metazone type="Tonga">
+				<long>
+					<generic>Тонга</generic>
+					<standard>Тонга, астандартә аамҭа</standard>
+					<daylight>Тонга, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Truk">
+				<long>
+					<standard>Трук</standard>
+				</long>
+			</metazone>
+			<metazone type="Turkmenistan">
+				<long>
+					<generic>Туркменистан</generic>
+					<standard>Туркменистан, астандартә аамҭа</standard>
+					<daylight>Туркменистан, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Tuvalu">
+				<long>
+					<standard>Тувалу</standard>
+				</long>
+			</metazone>
+			<metazone type="Uruguay">
+				<long>
+					<generic>Уругваи</generic>
+					<standard>Уругваи, астандартә аамҭа</standard>
+					<daylight>Уругваи, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Uzbekistan">
+				<long>
+					<generic>Узбеқьисҭан</generic>
+					<standard>Узбеқьисҭан, астандартә аамҭа</standard>
+					<daylight>Узбеқьисҭан, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Vanuatu">
+				<long>
+					<generic>Вануату</generic>
+					<standard>Вануату, астандартә аамҭа</standard>
+					<daylight>Вануату, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Venezuela">
+				<long>
+					<standard>Венесуела</standard>
+				</long>
+			</metazone>
+			<metazone type="Vladivostok">
+				<long>
+					<generic>Владивосток</generic>
+					<standard>Владивосток, астандартә аамҭа</standard>
+					<daylight>Владивосток, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Volgograd">
+				<long>
+					<generic>Волгоград</generic>
+					<standard>Волгоград, астандартә аамҭа</standard>
+					<daylight>Волгоград, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Vostok">
+				<long>
+					<standard>Амрагылара</standard>
+				</long>
+			</metazone>
+			<metazone type="Wake">
+				<long>
+					<standard>Уеик</standard>
+				</long>
+			</metazone>
+			<metazone type="Wallis">
+				<long>
+					<standard>Уоллиси Футунеи</standard>
+				</long>
+			</metazone>
+			<metazone type="Yakutsk">
+				<long>
+					<generic>Иакутск</generic>
+					<standard>Иакутск, астандартә аамҭа</standard>
+					<daylight>Иакутск, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Yekaterinburg">
+				<long>
+					<generic>Екатеринбург</generic>
+					<standard>Екатеринбург, астандартә аамҭа</standard>
+					<daylight>Екатеринбург, аԥхынтәи аамҭа</daylight>
+				</long>
+			</metazone>
+			<metazone type="Yukon">
+				<long>
+					<standard>Иукон</standard>
+				</long>
+			</metazone>
+		</timeZoneNames>
+	</dates>
+</ldml>
