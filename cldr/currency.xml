@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2021 Unicode, Inc.
+For terms of use, see http://www.unicode.org/copyright.html
+SPDX-License-Identifier: Unicode-DFS-2016
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+
+Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/ for derived annotations.
+-->
+<ldml>
+	<identity>
+		<version number="$Revision$"/>
+		<language type="ab"/>
+	</identity>
+	<numbers>
+		<currencies>
+			<currency type="ADP">
+				<displayName>Андоррская песета</displayName>
+				<displayName count="other">андоррских песет</displayName>
+			</currency>
+			<currency type="AED">
+				<displayName>дирхам ОАЭ</displayName>
+				<displayName count="other">дирхама ОАЭ</displayName>
+			</currency>
+			<currency type="AFA">
+				<displayName>Афгани (1927–2002)</displayName>
+			</currency>
+			<currency type="AFN">
+				<displayName>афгани</displayName>
+				<displayName count="other">афгани</displayName>
+			</currency>
+			<currency type="ALL">
+				<displayName>албанский лек</displayName>
+				<displayName count="other">албанского лека</displayName>
+			</currency>
+			<currency type="AMD">
+				<displayName>армянский драм</displayName>
+				<displayName count="other">армянского драма</displayName>
+			</currency>
+			<currency type="ANG">
+				<displayName>нидерландский антильский гульден</displayName>
+				<displayName count="other">нидерландского антильского гульдена</displayName>
+			</currency>
+			<currency type="AOA">
+				<displayName>ангольская кванза</displayName>
+				<displayName count="other">ангольской кванзы</displayName>
+			</currency>
+			<currency type="AOK">
+				<displayName>Ангольская кванза (1977–1990)</displayName>
+				<displayName count="other">ангольских кванз (1977–1991)</displayName>
+			</currency>
+			<currency type="AON">
+				<displayName>Ангольская новая кванза (1990–2000)</displayName>
+			</currency>
+			<currency type="AOR">
+				<displayName>Ангольская кванза реюстадо (1995–1999)</displayName>
+				<displayName count="other">ангольских кванз реюстадо (1995–1999)</displayName>
+			</currency>
+			<currency type="ARA">
+				<displayName>Аргентинский аустрал</displayName>
+			</currency>
+			<currency type="ARP">
+				<displayName>Аргентинское песо (1983–1985)</displayName>
+			</currency>
+			<currency type="ARS">
+				<displayName>аргентинский песо</displayName>
+				<displayName count="other">аргентинского песо</displayName>
+			</currency>
+			<currency type="ATS">
+				<displayName>Австрийский шиллинг</displayName>
+			</currency>
+			<currency type="AUD">
+				<displayName>австралийский доллар</displayName>
+				<displayName count="other">австралийского доллара</displayName>
+			</currency>
+			<currency type="AWG">
+				<displayName>арубанский флорин</displayName>
+				<displayName count="other">арубанского флорина</displayName>
+			</currency>
+			<currency type="AZM">
+				<displayName>Старый азербайджанский манат</displayName>
+			</currency>
+			<currency type="AZN">
+				<displayName>азербайджанский манат</displayName>
+				<displayName count="other">азербайджанского маната</displayName>
+			</currency>
+			<currency type="BAD">
+				<displayName>Динар Боснии и Герцеговины</displayName>
+			</currency>
+			<currency type="BAM">
+				<displayName>конвертируемая марка Боснии и Герцеговины</displayName>
+				<displayName count="other">конвертируемой марки Боснии и Герцеговины</displayName>
+			</currency>
+			<currency type="BBD">
+				<displayName>барбадосский доллар</displayName>
+				<displayName count="other">барбадосского доллара</displayName>
+			</currency>
+			<currency type="BDT">
+				<displayName>бангладешская така</displayName>
+				<displayName count="other">бангладешской таки</displayName>
+			</currency>
+			<currency type="BEC">
+				<displayName>Бельгийский франк (конвертируемый)</displayName>
+			</currency>
+			<currency type="BEF">
+				<displayName>Бельгийский франк</displayName>
+			</currency>
+			<currency type="BEL">
+				<displayName>Бельгийский франк (финансовый)</displayName>
+			</currency>
+			<currency type="BGL">
+				<displayName>Лев</displayName>
+			</currency>
+			<currency type="BGN">
+				<displayName>болгарский лев</displayName>
+				<displayName count="other">болгарского лева</displayName>
+			</currency>
+			<currency type="BHD">
+				<displayName>бахрейнский динар</displayName>
+				<displayName count="other">бахрейнского динара</displayName>
+			</currency>
+			<currency type="BIF">
+				<displayName>бурундийский франк</displayName>
+				<displayName count="other">бурундийского франка</displayName>
+			</currency>
+			<currency type="BMD">
+				<displayName>бермудский доллар</displayName>
+				<displayName count="other">бермудского доллара</displayName>
+			</currency>
+			<currency type="BND">
+				<displayName>брунейский доллар</displayName>
+				<displayName count="other">брунейского доллара</displayName>
+			</currency>
+			<currency type="BOB">
+				<displayName>боливийский боливиано</displayName>
+				<displayName count="other">боливийского боливиано</displayName>
+			</currency>
+			<currency type="BOP">
+				<displayName>Боливийское песо</displayName>
+			</currency>
+			<currency type="BOV">
+				<displayName>Боливийский мвдол</displayName>
+			</currency>
+			<currency type="BRB">
+				<displayName>Бразильский новый крузейро (1967–1986)</displayName>
+			</currency>
+			<currency type="BRC">
+				<displayName>Бразильское крузадо</displayName>
+			</currency>
+			<currency type="BRE">
+				<displayName>Бразильский крузейро (1990–1993)</displayName>
+			</currency>
+			<currency type="BRL">
+				<displayName>бразильский реал</displayName>
+				<displayName count="other">бразильского реала</displayName>
+			</currency>
+			<currency type="BRN">
+				<displayName>Бразильское новое крузадо</displayName>
+			</currency>
+			<currency type="BRR">
+				<displayName>Бразильский крузейро</displayName>
+			</currency>
+			<currency type="BSD">
+				<displayName>багамский доллар</displayName>
+				<displayName count="other">багамского доллара</displayName>
+			</currency>
+			<currency type="BTN">
+				<displayName>бутанский нгултрум</displayName>
+				<displayName count="other">бутанского нгултрума</displayName>
+			</currency>
+			<currency type="BUK">
+				<displayName>Джа</displayName>
+			</currency>
+			<currency type="BWP">
+				<displayName>ботсванская пула</displayName>
+				<displayName count="other">ботсванской пулы</displayName>
+			</currency>
+			<currency type="BYB">
+				<displayName>Белорусский рубль (1994–1999)</displayName>
+			</currency>
+			<currency type="BYN">
+				<displayName>белорусский рубль</displayName>
+				<displayName count="other">белорусского рубля</displayName>
+			</currency>
+			<currency type="BYR">
+				<displayName>Белорусский рубль (2000–2016)</displayName>
+				<displayName count="other">белорусского рубля (2000–2016)</displayName>
+			</currency>
+			<currency type="BZD">
+				<displayName>белизский доллар</displayName>
+				<displayName count="other">белизского доллара</displayName>
+			</currency>
+			<currency type="CAD">
+				<displayName>канадский доллар</displayName>
+				<displayName count="other">канадского доллара</displayName>
+			</currency>
+			<currency type="CDF">
+				<displayName>конголезский франк</displayName>
+				<displayName count="other">конголезского франка</displayName>
+			</currency>
+			<currency type="CHE">
+				<displayName>WIR евро</displayName>
+			</currency>
+			<currency type="CHF">
+				<displayName>швейцарский франк</displayName>
+				<displayName count="other">швейцарского франка</displayName>
+			</currency>
+			<currency type="CHW">
+				<displayName>WIR франк</displayName>
+			</currency>
+			<currency type="CLF">
+				<displayName>Условная расчетная единица Чили</displayName>
+			</currency>
+			<currency type="CLP">
+				<displayName>чилийский песо</displayName>
+				<displayName count="other">чилийского песо</displayName>
+			</currency>
+			<currency type="CNH">
+				<displayName>китайский офшорный юань</displayName>
+				<displayName count="other">китайского офшорного юаня</displayName>
+			</currency>
+			<currency type="CNY">
+				<displayName>китайский юань</displayName>
+				<displayName count="other">китайского юаня</displayName>
+			</currency>
+			<currency type="COP">
+				<displayName>колумбийский песо</displayName>
+				<displayName count="other">колумбийского песо</displayName>
+			</currency>
+			<currency type="COU">
+				<displayName>Единица реальной стоимости Колумбии</displayName>
+			</currency>
+			<currency type="CRC">
+				<displayName>костариканский колон</displayName>
+				<displayName count="other">костариканского колона</displayName>
+			</currency>
+			<currency type="CSD">
+				<displayName>Старый Сербский динар</displayName>
+			</currency>
+			<currency type="CSK">
+				<displayName>Чехословацкая твердая крона</displayName>
+			</currency>
+			<currency type="CUC">
+				<displayName>кубинский конвертируемый песо</displayName>
+				<displayName count="other">кубинского конвертируемого песо</displayName>
+			</currency>
+			<currency type="CUP">
+				<displayName>кубинский песо</displayName>
+				<displayName count="other">кубинского песо</displayName>
+			</currency>
+			<currency type="CVE">
+				<displayName>эскудо Кабо-Верде</displayName>
+				<displayName count="other">эскудо Кабо-Верде</displayName>
+			</currency>
+			<currency type="CYP">
+				<displayName>Кипрский фунт</displayName>
+			</currency>
+			<currency type="CZK">
+				<displayName>чешская крона</displayName>
+				<displayName count="other">чешской кроны</displayName>
+			</currency>
+			<currency type="DDM">
+				<displayName>Восточногерманская марка</displayName>
+			</currency>
+			<currency type="DEM">
+				<displayName>Немецкая марка</displayName>
+			</currency>
+			<currency type="DJF">
+				<displayName>франк Джибути</displayName>
+				<displayName count="other">франка Джибути</displayName>
+			</currency>
+			<currency type="DKK">
+				<displayName>датская крона</displayName>
+				<displayName count="other">датской кроны</displayName>
+			</currency>
+			<currency type="DOP">
+				<displayName>доминиканский песо</displayName>
+				<displayName count="other">доминиканского песо</displayName>
+			</currency>
+			<currency type="DZD">
+				<displayName>алжирский динар</displayName>
+				<displayName count="other">алжирского динара</displayName>
+			</currency>
+			<currency type="ECS">
+				<displayName>Эквадорский сукре</displayName>
+			</currency>
+			<currency type="ECV">
+				<displayName>Постоянная единица стоимости Эквадора</displayName>
+			</currency>
+			<currency type="EEK">
+				<displayName>Эстонская крона</displayName>
+			</currency>
+			<currency type="EGP">
+				<displayName>египетский фунт</displayName>
+				<displayName count="other">египетского фунта</displayName>
+			</currency>
+			<currency type="ERN">
+				<displayName>эритрейская накфа</displayName>
+				<displayName count="other">эритрейской накфы</displayName>
+			</currency>
+			<currency type="ESA">
+				<displayName>Испанская песета (А)</displayName>
+			</currency>
+			<currency type="ESB">
+				<displayName>Испанская песета (конвертируемая)</displayName>
+			</currency>
+			<currency type="ESP">
+				<displayName>Испанская песета</displayName>
+			</currency>
+			<currency type="ETB">
+				<displayName>эфиопский быр</displayName>
+				<displayName count="other">эфиопского быра</displayName>
+			</currency>
+			<currency type="EUR">
+				<displayName>евро</displayName>
+				<displayName count="other">евро</displayName>
+			</currency>
+			<currency type="FIM">
+				<displayName>Финская марка</displayName>
+			</currency>
+			<currency type="FJD">
+				<displayName>доллар Фиджи</displayName>
+				<displayName count="other">доллара Фиджи</displayName>
+			</currency>
+			<currency type="FKP">
+				<displayName>фунт Фолклендских островов</displayName>
+				<displayName count="other">фунта Фолклендских островов</displayName>
+			</currency>
+			<currency type="FRF">
+				<displayName>Французский франк</displayName>
+			</currency>
+			<currency type="GBP">
+				<displayName>британский фунт стерлингов</displayName>
+				<displayName count="other">британского фунта стерлингов</displayName>
+			</currency>
+			<currency type="GEK">
+				<displayName>Грузинский купон</displayName>
+			</currency>
+			<currency type="GEL">
+				<displayName>грузинский лари</displayName>
+				<displayName count="other">грузинского лари</displayName>
+			</currency>
+			<currency type="GHC">
+				<displayName>Ганский седи (1979–2007)</displayName>
+			</currency>
+			<currency type="GHS">
+				<displayName>ганский седи</displayName>
+				<displayName count="other">ганского седи</displayName>
+			</currency>
+			<currency type="GIP">
+				<displayName>гибралтарский фунт</displayName>
+				<displayName count="other">гибралтарского фунта</displayName>
+			</currency>
+			<currency type="GMD">
+				<displayName>гамбийский даласи</displayName>
+				<displayName count="other">гамбийского даласи</displayName>
+			</currency>
+			<currency type="GNF">
+				<displayName>гвинейский франк</displayName>
+				<displayName count="other">гвинейского франка</displayName>
+			</currency>
+			<currency type="GNS">
+				<displayName>Гвинейская сили</displayName>
+			</currency>
+			<currency type="GQE">
+				<displayName>Эквеле экваториальной Гвинеи</displayName>
+			</currency>
+			<currency type="GRD">
+				<displayName>Греческая драхма</displayName>
+			</currency>
+			<currency type="GTQ">
+				<displayName>гватемальский кетсаль</displayName>
+				<displayName count="other">гватемальского кетсаля</displayName>
+			</currency>
+			<currency type="GWE">
+				<displayName>Эскудо Португальской Гвинеи</displayName>
+			</currency>
+			<currency type="GWP">
+				<displayName>Песо Гвинеи-Бисау</displayName>
+			</currency>
+			<currency type="GYD">
+				<displayName>гайанский доллар</displayName>
+				<displayName count="other">гайанского доллара</displayName>
+			</currency>
+			<currency type="HKD">
+				<displayName>гонконгский доллар</displayName>
+				<displayName count="other">гонконгского доллара</displayName>
+			</currency>
+			<currency type="HNL">
+				<displayName>гондурасская лемпира</displayName>
+				<displayName count="other">гондурасской лемпиры</displayName>
+			</currency>
+			<currency type="HRD">
+				<displayName>Хорватский динар</displayName>
+			</currency>
+			<currency type="HRK">
+				<displayName>хорватская куна</displayName>
+				<displayName count="other">хорватской куны</displayName>
+			</currency>
+			<currency type="HTG">
+				<displayName>гаитянский гурд</displayName>
+				<displayName count="other">гаитянского гурда</displayName>
+			</currency>
+			<currency type="HUF">
+				<displayName>венгерский форинт</displayName>
+				<displayName count="other">венгерского форинта</displayName>
+			</currency>
+			<currency type="IDR">
+				<displayName>индонезийская рупия</displayName>
+				<displayName count="other">индонезийской рупии</displayName>
+			</currency>
+			<currency type="IEP">
+				<displayName>Ирландский фунт</displayName>
+			</currency>
+			<currency type="ILP">
+				<displayName>Израильский фунт</displayName>
+			</currency>
+			<currency type="ILS">
+				<displayName>новый израильский шекель</displayName>
+				<displayName count="other">нового израильского шекеля</displayName>
+			</currency>
+			<currency type="INR">
+				<displayName>индийская рупия</displayName>
+				<displayName count="other">индийской рупии</displayName>
+			</currency>
+			<currency type="IQD">
+				<displayName>иракский динар</displayName>
+				<displayName count="other">иракского динара</displayName>
+			</currency>
+			<currency type="IRR">
+				<displayName>иранский риал</displayName>
+				<displayName count="other">иранского риала</displayName>
+			</currency>
+			<currency type="ISK">
+				<displayName>исландская крона</displayName>
+				<displayName count="other">исландской кроны</displayName>
+			</currency>
+			<currency type="ITL">
+				<displayName>Итальянская лира</displayName>
+			</currency>
+			<currency type="JMD">
+				<displayName>ямайский доллар</displayName>
+				<displayName count="other">ямайского доллара</displayName>
+			</currency>
+			<currency type="JOD">
+				<displayName>иорданский динар</displayName>
+				<displayName count="other">иорданского динара</displayName>
+			</currency>
+			<currency type="JPY">
+				<displayName>японская иена</displayName>
+				<displayName count="other">японской иены</displayName>
+			</currency>
+			<currency type="KES">
+				<displayName>кенийский шиллинг</displayName>
+				<displayName count="other">кенийского шиллинга</displayName>
+			</currency>
+			<currency type="KGS">
+				<displayName>киргизский сом</displayName>
+				<displayName count="other">киргизского сома</displayName>
+			</currency>
+			<currency type="KHR">
+				<displayName>камбоджийский риель</displayName>
+				<displayName count="other">камбоджийского риеля</displayName>
+			</currency>
+			<currency type="KMF">
+				<displayName>коморский франк</displayName>
+				<displayName count="other">коморского франка</displayName>
+			</currency>
+			<currency type="KPW">
+				<displayName>северокорейская вона</displayName>
+				<displayName count="other">северокорейской воны</displayName>
+			</currency>
+			<currency type="KRW">
+				<displayName>южнокорейская вона</displayName>
+				<displayName count="other">южнокорейской воны</displayName>
+			</currency>
+			<currency type="KWD">
+				<displayName>кувейтский динар</displayName>
+				<displayName count="other">кувейтского динара</displayName>
+			</currency>
+			<currency type="KYD">
+				<displayName>доллар Островов Кайман</displayName>
+				<displayName count="other">доллара Островов Кайман</displayName>
+			</currency>
+			<currency type="KZT">
+				<displayName>казахский тенге</displayName>
+				<displayName count="other">казахского тенге</displayName>
+			</currency>
+			<currency type="LAK">
+				<displayName>лаосский кип</displayName>
+				<displayName count="other">лаосского кипа</displayName>
+			</currency>
+			<currency type="LBP">
+				<displayName>ливанский фунт</displayName>
+				<displayName count="other">ливанского фунта</displayName>
+			</currency>
+			<currency type="LKR">
+				<displayName>шри-ланкийская рупия</displayName>
+				<displayName count="other">шри-ланкийской рупии</displayName>
+			</currency>
+			<currency type="LRD">
+				<displayName>либерийский доллар</displayName>
+				<displayName count="other">либерийского доллара</displayName>
+			</currency>
+			<currency type="LSL">
+				<displayName>лоти</displayName>
+				<displayName count="other">лоти</displayName>
+			</currency>
+			<currency type="LTL">
+				<displayName>Литовский лит</displayName>
+				<displayName count="other">литовского лита</displayName>
+			</currency>
+			<currency type="LTT">
+				<displayName>Литовский талон</displayName>
+			</currency>
+			<currency type="LUC">
+				<displayName>Конвертируемый франк Люксембурга</displayName>
+			</currency>
+			<currency type="LUF">
+				<displayName>Люксембургский франк</displayName>
+			</currency>
+			<currency type="LUL">
+				<displayName>Финансовый франк Люксембурга</displayName>
+			</currency>
+			<currency type="LVL">
+				<displayName>Латвийский лат</displayName>
+				<displayName count="other">латвийского лата</displayName>
+			</currency>
+			<currency type="LVR">
+				<displayName>Латвийский рубль</displayName>
+			</currency>
+			<currency type="LYD">
+				<displayName>ливийский динар</displayName>
+				<displayName count="other">ливийского динара</displayName>
+			</currency>
+			<currency type="MAD">
+				<displayName>марокканский дирхам</displayName>
+				<displayName count="other">марокканского дирхама</displayName>
+			</currency>
+			<currency type="MAF">
+				<displayName>Марокканский франк</displayName>
+			</currency>
+			<currency type="MDL">
+				<displayName>молдавский лей</displayName>
+				<displayName count="other">молдавского лея</displayName>
+			</currency>
+			<currency type="MGA">
+				<displayName>малагасийский ариари</displayName>
+				<displayName count="other">малагасийского ариари</displayName>
+			</currency>
+			<currency type="MGF">
+				<displayName>Малагасийский франк</displayName>
+			</currency>
+			<currency type="MKD">
+				<displayName>македонский денар</displayName>
+				<displayName count="other">македонского денара</displayName>
+			</currency>
+			<currency type="MLF">
+				<displayName>Малийский франк</displayName>
+			</currency>
+			<currency type="MMK">
+				<displayName>мьянманский кьят</displayName>
+				<displayName count="other">мьянманского кьята</displayName>
+			</currency>
+			<currency type="MNT">
+				<displayName>монгольский тугрик</displayName>
+				<displayName count="other">монгольского тугрика</displayName>
+			</currency>
+			<currency type="MOP">
+				<displayName>патака Макао</displayName>
+				<displayName count="other">патаки Макао</displayName>
+			</currency>
+			<currency type="MRO">
+				<displayName>мавританская угия (1973–2017)</displayName>
+				<displayName count="other">мавританской угии (1973–2017)</displayName>
+			</currency>
+			<currency type="MRU">
+				<displayName>мавританская угия</displayName>
+				<displayName count="other">мавританской угии</displayName>
+			</currency>
+			<currency type="MTL">
+				<displayName>Мальтийская лира</displayName>
+			</currency>
+			<currency type="MTP">
+				<displayName>Мальтийский фунт</displayName>
+			</currency>
+			<currency type="MUR">
+				<displayName>маврикийская рупия</displayName>
+				<displayName count="other">маврикийской рупии</displayName>
+			</currency>
+			<currency type="MVR">
+				<displayName>мальдивская руфия</displayName>
+				<displayName count="other">мальдивской руфии</displayName>
+			</currency>
+			<currency type="MWK">
+				<displayName>малавийская квача</displayName>
+				<displayName count="other">малавийской квачи</displayName>
+			</currency>
+			<currency type="MXN">
+				<displayName>мексиканский песо</displayName>
+				<displayName count="other">мексиканского песо</displayName>
+			</currency>
+			<currency type="MXP">
+				<displayName>Мексиканское серебряное песо (1861–1992)</displayName>
+			</currency>
+			<currency type="MXV">
+				<displayName>Мексиканская пересчетная единица (UDI)</displayName>
+			</currency>
+			<currency type="MYR">
+				<displayName>малайзийский ринггит</displayName>
+				<displayName count="other">малайзийского ринггита</displayName>
+			</currency>
+			<currency type="MZE">
+				<displayName>Мозамбикское эскудо</displayName>
+			</currency>
+			<currency type="MZM">
+				<displayName>Старый мозамбикский метикал</displayName>
+			</currency>
+			<currency type="MZN">
+				<displayName>мозамбикский метикал</displayName>
+				<displayName count="other">мозамбикского метикала</displayName>
+			</currency>
+			<currency type="NAD">
+				<displayName>доллар Намибии</displayName>
+				<displayName count="other">доллара Намибии</displayName>
+			</currency>
+			<currency type="NGN">
+				<displayName>нигерийская найра</displayName>
+				<displayName count="other">нигерийской найры</displayName>
+			</currency>
+			<currency type="NIC">
+				<displayName>Никарагуанская кордоба (1988–1991)</displayName>
+			</currency>
+			<currency type="NIO">
+				<displayName>никарагуанская кордоба</displayName>
+				<displayName count="other">никарагуанской кордобы</displayName>
+			</currency>
+			<currency type="NLG">
+				<displayName>Нидерландский гульден</displayName>
+			</currency>
+			<currency type="NOK">
+				<displayName>норвежская крона</displayName>
+				<displayName count="other">норвежской кроны</displayName>
+			</currency>
+			<currency type="NPR">
+				<displayName>непальская рупия</displayName>
+				<displayName count="other">непальской рупии</displayName>
+			</currency>
+			<currency type="NZD">
+				<displayName>новозеландский доллар</displayName>
+				<displayName count="other">новозеландского доллара</displayName>
+			</currency>
+			<currency type="OMR">
+				<displayName>оманский риал</displayName>
+				<displayName count="other">оманского риала</displayName>
+			</currency>
+			<currency type="PAB">
+				<displayName>панамский бальбоа</displayName>
+				<displayName count="other">панамского бальбоа</displayName>
+			</currency>
+			<currency type="PEI">
+				<displayName>Перуанское инти</displayName>
+			</currency>
+			<currency type="PEN">
+				<displayName>перуанский соль</displayName>
+				<displayName count="other">перуанского соля</displayName>
+			</currency>
+			<currency type="PES">
+				<displayName>Перуанский соль (1863–1965)</displayName>
+				<displayName count="other">перуанского соля (1863–1965)</displayName>
+			</currency>
+			<currency type="PGK">
+				<displayName>кина Папуа – Новой Гвинеи</displayName>
+				<displayName count="other">кины Папуа – Новой Гвинеи</displayName>
+			</currency>
+			<currency type="PHP">
+				<displayName>филиппинский песо</displayName>
+				<displayName count="other">филиппинского песо</displayName>
+			</currency>
+			<currency type="PKR">
+				<displayName>пакистанская рупия</displayName>
+				<displayName count="other">пакистанской рупии</displayName>
+			</currency>
+			<currency type="PLN">
+				<displayName>польский злотый</displayName>
+				<displayName count="other">польского злотого</displayName>
+			</currency>
+			<currency type="PLZ">
+				<displayName>Злотый</displayName>
+			</currency>
+			<currency type="PTE">
+				<displayName>Португальское эскудо</displayName>
+			</currency>
+			<currency type="PYG">
+				<displayName>парагвайский гуарани</displayName>
+				<displayName count="other">парагвайского гуарани</displayName>
+			</currency>
+			<currency type="QAR">
+				<displayName>катарский риал</displayName>
+				<displayName count="other">катарского риала</displayName>
+			</currency>
+			<currency type="RHD">
+				<displayName>Родезийский доллар</displayName>
+			</currency>
+			<currency type="ROL">
+				<displayName>Старый Румынский лей</displayName>
+			</currency>
+			<currency type="RON">
+				<displayName>румынский лей</displayName>
+				<displayName count="other">румынского лея</displayName>
+			</currency>
+			<currency type="RSD">
+				<displayName>сербский динар</displayName>
+				<displayName count="other">сербского динара</displayName>
+			</currency>
+			<currency type="RUB">
+				<displayName>российский рубль</displayName>
+				<displayName count="other">российского рубля</displayName>
+			</currency>
+			<currency type="RUR">
+				<displayName>Российский рубль (1991–1998)</displayName>
+			</currency>
+			<currency type="RWF">
+				<displayName>франк Руанды</displayName>
+				<displayName count="other">франка Руанды</displayName>
+			</currency>
+			<currency type="SAR">
+				<displayName>саудовский риял</displayName>
+				<displayName count="other">саудовского рияла</displayName>
+			</currency>
+			<currency type="SBD">
+				<displayName>доллар Соломоновых Островов</displayName>
+				<displayName count="other">доллара Соломоновых Островов</displayName>
+			</currency>
+			<currency type="SCR">
+				<displayName>сейшельская рупия</displayName>
+				<displayName count="other">сейшельской рупии</displayName>
+			</currency>
+			<currency type="SDD">
+				<displayName>Суданский динар</displayName>
+			</currency>
+			<currency type="SDG">
+				<displayName>суданский фунт</displayName>
+				<displayName count="other">суданского фунта</displayName>
+			</currency>
+			<currency type="SDP">
+				<displayName>Старый суданский фунт</displayName>
+			</currency>
+			<currency type="SEK">
+				<displayName>шведская крона</displayName>
+				<displayName count="other">шведской кроны</displayName>
+			</currency>
+			<currency type="SGD">
+				<displayName>сингапурский доллар</displayName>
+				<displayName count="other">сингапурского доллара</displayName>
+			</currency>
+			<currency type="SHP">
+				<displayName>фунт острова Святой Елены</displayName>
+				<displayName count="other">фунта острова Святой Елены</displayName>
+			</currency>
+			<currency type="SIT">
+				<displayName>Словенский толар</displayName>
+			</currency>
+			<currency type="SKK">
+				<displayName>Словацкая крона</displayName>
+			</currency>
+			<currency type="SLL">
+				<displayName>леоне</displayName>
+				<displayName count="other">леоне</displayName>
+			</currency>
+			<currency type="SOS">
+				<displayName>сомалийский шиллинг</displayName>
+				<displayName count="other">сомалийского шиллинга</displayName>
+			</currency>
+			<currency type="SRD">
+				<displayName>суринамский доллар</displayName>
+				<displayName count="other">суринамского доллара</displayName>
+			</currency>
+			<currency type="SRG">
+				<displayName>Суринамский гульден</displayName>
+			</currency>
+			<currency type="SSP">
+				<displayName>южносуданский фунт</displayName>
+				<displayName count="other">южносуданского фунта</displayName>
+			</currency>
+			<currency type="STD">
+				<displayName>добра Сан-Томе и Принсипи (1977–2017)</displayName>
+				<displayName count="other">добры Сан-Томе и Принсипи (1977–2017)</displayName>
+			</currency>
+			<currency type="STN">
+				<displayName>добра Сан-Томе и Принсипи</displayName>
+				<displayName count="other">добры Сан-Томе и Принсипи</displayName>
+			</currency>
+			<currency type="SUR">
+				<displayName>Рубль СССР</displayName>
+			</currency>
+			<currency type="SVC">
+				<displayName>Сальвадорский колон</displayName>
+			</currency>
+			<currency type="SYP">
+				<displayName>сирийский фунт</displayName>
+				<displayName count="other">сирийского фунта</displayName>
+			</currency>
+			<currency type="SZL">
+				<displayName>свазилендский лилангени</displayName>
+				<displayName count="other">свазилендского лилангени</displayName>
+			</currency>
+			<currency type="THB">
+				<displayName>таиландский бат</displayName>
+				<displayName count="other">таиландского бата</displayName>
+			</currency>
+			<currency type="TJR">
+				<displayName>Таджикский рубль</displayName>
+			</currency>
+			<currency type="TJS">
+				<displayName>таджикский сомони</displayName>
+				<displayName count="other">таджикского сомони</displayName>
+			</currency>
+			<currency type="TMM">
+				<displayName>Туркменский манат</displayName>
+			</currency>
+			<currency type="TMT">
+				<displayName>новый туркменский манат</displayName>
+				<displayName count="other">нового туркменского маната</displayName>
+			</currency>
+			<currency type="TND">
+				<displayName>тунисский динар</displayName>
+				<displayName count="other">тунисского динара</displayName>
+			</currency>
+			<currency type="TOP">
+				<displayName>тонганская паанга</displayName>
+				<displayName count="other">тонганской паанги</displayName>
+			</currency>
+			<currency type="TPE">
+				<displayName>Тиморское эскудо</displayName>
+			</currency>
+			<currency type="TRL">
+				<displayName>Турецкая лира (1922–2005)</displayName>
+				<displayName count="other">турецкой лиры (1922–2005)</displayName>
+			</currency>
+			<currency type="TRY">
+				<displayName>турецкая лира</displayName>
+				<displayName count="other">турецкой лиры</displayName>
+			</currency>
+			<currency type="TTD">
+				<displayName>доллар Тринидада и Тобаго</displayName>
+				<displayName count="other">доллара Тринидада и Тобаго</displayName>
+			</currency>
+			<currency type="TWD">
+				<displayName>новый тайваньский доллар</displayName>
+				<displayName count="other">нового тайваньского доллара</displayName>
+			</currency>
+			<currency type="TZS">
+				<displayName>танзанийский шиллинг</displayName>
+				<displayName count="other">танзанийского шиллинга</displayName>
+			</currency>
+			<currency type="UAH">
+				<displayName>украинская гривна</displayName>
+				<displayName count="other">украинской гривны</displayName>
+			</currency>
+			<currency type="UAK">
+				<displayName>Карбованец (украинский)</displayName>
+			</currency>
+			<currency type="UGS">
+				<displayName>Старый угандийский шиллинг</displayName>
+			</currency>
+			<currency type="UGX">
+				<displayName>угандийский шиллинг</displayName>
+				<displayName count="other">угандийского шиллинга</displayName>
+			</currency>
+			<currency type="USD">
+				<displayName>доллар США</displayName>
+				<displayName count="other">доллара США</displayName>
+			</currency>
+			<currency type="USN">
+				<displayName>Доллар США следующего дня</displayName>
+			</currency>
+			<currency type="USS">
+				<displayName>Доллар США текущего дня</displayName>
+			</currency>
+			<currency type="UYI">
+				<displayName>Уругвайский песо (индекс инфляции)</displayName>
+			</currency>
+			<currency type="UYP">
+				<displayName>Уругвайское старое песо (1975–1993)</displayName>
+			</currency>
+			<currency type="UYU">
+				<displayName>уругвайский песо</displayName>
+				<displayName count="other">уругвайского песо</displayName>
+			</currency>
+			<currency type="UZS">
+				<displayName>узбекский сум</displayName>
+				<displayName count="other">узбекского сума</displayName>
+			</currency>
+			<currency type="VEB">
+				<displayName>Венесуэльский боливар (1871–2008)</displayName>
+			</currency>
+			<currency type="VEF">
+				<displayName>венесуэльский боливар (2008–2018)</displayName>
+				<displayName count="other">венесуэльского боливара (2008–2018)</displayName>
+			</currency>
+			<currency type="VES">
+				<displayName>венесуэльский боливар</displayName>
+				<displayName count="other">венесуэльского боливара</displayName>
+			</currency>
+			<currency type="VND">
+				<displayName>вьетнамский донг</displayName>
+				<displayName count="other">вьетнамского донга</displayName>
+			</currency>
+			<currency type="VUV">
+				<displayName>вату Вануату</displayName>
+				<displayName count="other">вату Вануату</displayName>
+			</currency>
+			<currency type="WST">
+				<displayName>самоанская тала</displayName>
+				<displayName count="other">самоанской талы</displayName>
+			</currency>
+			<currency type="XAF">
+				<displayName>франк КФА BEAC</displayName>
+				<displayName count="other">франка КФА ВЕАС</displayName>
+			</currency>
+			<currency type="XAG">
+				<displayName>Серебро</displayName>
+			</currency>
+			<currency type="XAU">
+				<displayName>Золото</displayName>
+			</currency>
+			<currency type="XBA">
+				<displayName>Европейская составная единица</displayName>
+			</currency>
+			<currency type="XBB">
+				<displayName>Европейская денежная единица</displayName>
+			</currency>
+			<currency type="XBC">
+				<displayName>расчетная единица европейского валютного соглашения (XBC)</displayName>
+			</currency>
+			<currency type="XBD">
+				<displayName>расчетная единица европейского валютного соглашения (XBD)</displayName>
+			</currency>
+			<currency type="XCD">
+				<displayName>восточно-карибский доллар</displayName>
+				<displayName count="other">восточно-карибского доллара</displayName>
+			</currency>
+			<currency type="XDR">
+				<displayName>СДР (специальные права заимствования)</displayName>
+			</currency>
+			<currency type="XEU">
+				<displayName>ЭКЮ (единица европейской валюты)</displayName>
+			</currency>
+			<currency type="XFO">
+				<displayName>Французский золотой франк</displayName>
+			</currency>
+			<currency type="XFU">
+				<displayName>Французский UIC-франк</displayName>
+			</currency>
+			<currency type="XOF">
+				<displayName>франк КФА ВСЕАО</displayName>
+				<displayName count="other">франка КФА ВСЕАО</displayName>
+			</currency>
+			<currency type="XPD">
+				<displayName>Палладий</displayName>
+			</currency>
+			<currency type="XPF">
+				<displayName>французский тихоокеанский франк</displayName>
+				<displayName count="other">французского тихоокеанского франка</displayName>
+			</currency>
+			<currency type="XPT">
+				<displayName>Платина</displayName>
+			</currency>
+			<currency type="XRE">
+				<displayName>единица RINET-фондов</displayName>
+			</currency>
+			<currency type="XTS">
+				<displayName>тестовый валютный код</displayName>
+			</currency>
+			<currency type="XXX">
+				<displayName>неизвестная валюта</displayName>
+				<displayName count="other">единицы неизвестной валюты</displayName>
+			</currency>
+			<currency type="YDD">
+				<displayName>Йеменский динар</displayName>
+			</currency>
+			<currency type="YER">
+				<displayName>йеменский риал</displayName>
+				<displayName count="other">йеменского риала</displayName>
+			</currency>
+			<currency type="YUD">
+				<displayName>Югославский твердый динар</displayName>
+			</currency>
+			<currency type="YUM">
+				<displayName>Югославский новый динар</displayName>
+			</currency>
+			<currency type="YUN">
+				<displayName>Югославский динар</displayName>
+			</currency>
+			<currency type="ZAL">
+				<displayName>Южноафриканский рэнд (финансовый)</displayName>
+			</currency>
+			<currency type="ZAR">
+				<displayName>южноафриканский рэнд</displayName>
+				<displayName count="other">южноафриканского рэнда</displayName>
+			</currency>
+			<currency type="ZMK">
+				<displayName>Квача (замбийская) (1968–2012)</displayName>
+				<displayName count="other" draft="contributed">замбийской квачи (1968–2012)</displayName>
+			</currency>
+			<currency type="ZMW">
+				<displayName>замбийская квача</displayName>
+				<displayName count="other">замбийской квачи</displayName>
+			</currency>
+			<currency type="ZRN">
+				<displayName>Новый заир</displayName>
+			</currency>
+			<currency type="ZRZ">
+				<displayName>Заир</displayName>
+			</currency>
+			<currency type="ZWD">
+				<displayName>Доллар Зимбабве</displayName>
+			</currency>
+			<currency type="ZWL">
+				<displayName>Доллар Зимбабве (2009)</displayName>
+			</currency>
+		</currencies>
+	</numbers>
+</ldml>
