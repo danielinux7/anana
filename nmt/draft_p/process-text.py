@@ -24,7 +24,7 @@ for file in os.scandir('.'):
                             value1 = row[0][i].strip() if i < len(row[0]) else ' '
                             value2 = row[1][i].strip() if i < len(row[1]) else ' '
                             value2 = value2 if len(value2) > 0 else ' '
-                            error = '0' if 0.5 < len(value1)/len(value2) < 1.5 else '1'
+                            error = '0' if 0.5 < len(value1)/len(value2) < 2 else '1'
                             if value1 == value2:
                                 error = '1'
                             id = (('+'+file.name[0:-9] if len(row[0]) >1 else file.name[0:-9]) if len(row[0]) == len(row[1]) else '-'+file.name[0:-9])
