@@ -436,3 +436,13 @@ msgstr[1] "%s, %d аԥштәқәа"
 #: src/window.vala:400
 msgid "Type"
 msgstr "Ахкы"
+
+#: data/ui/help-overlay.ui:67
+msgctxt "data/ui/help-overlay.ui:67"
+msgid "Redo"
+msgstr "Архынҳәра"
+
+#: data/ui/swell-foop.ui:177
+msgctxt "data/ui/swell-foop.ui:177"
+msgid "Redo"
+msgstr "Архынҳәра"

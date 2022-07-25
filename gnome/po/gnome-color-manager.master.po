@@ -132,10 +132,9 @@ msgstr ""
 msgid "Profile description: %s"
 msgstr ""
 
-#. TRANSLATORS: message text
 #: src/gcm-import.c:153
 msgid "Profile copyright:"
-msgstr ""
+msgstr "Аԥҵаҩцәа рзинқәа аҷыдахәразы"
 
 #. TRANSLATORS: color profile already been installed
 #: src/gcm-import.c:187
@@ -181,10 +180,9 @@ msgstr ""
 msgid "Description:"
 msgstr ""
 
-#. TRANSLATORS: this is the ICC profile copyright
 #: src/gcm-inspect.c:42
 msgid "Copyright:"
-msgstr ""
+msgstr "Аԥҵаҩцәа рзинқәа:"
 
 #. TRANSLATORS: the root window of all the screens
 #: src/gcm-inspect.c:164
@@ -287,16 +285,13 @@ msgstr ""
 msgid "GNOME Color Manager Color Picker"
 msgstr ""
 
-#. the color representation
-#. TRANSLATORS: this the ICC colorspace type
-#: src/gcm-picker.ui:93 src/gcm-viewer.c:572
+#: src/gcm-picker.ui:93+src/gcm-viewer.c:572
 msgid "XYZ"
-msgstr ""
+msgstr "XYZ"
 
-#. Lab is the color representation and D50 is the white point
 #: src/gcm-picker.ui:108
 msgid "Lab (D50)"
-msgstr ""
+msgstr "Lab (D50)"
 
 #. This refers to the amount of ambient light on the sensor
 #: src/gcm-picker.ui:123
@@ -319,12 +314,9 @@ msgstr ""
 msgid "Colorspace"
 msgstr ""
 
-#. These are the values of the chosen color in Red, Green, Blue encoding
-#. TRANSLATORS: this is the colorspace, e.g. red, green, blue
-#. TRANSLATORS: this the ICC colorspace type
-#: src/gcm-picker.ui:183 src/gcm-utils.c:67 src/gcm-viewer.c:592
+#: src/gcm-picker.ui:183+src/gcm-utils.c:67+src/gcm-viewer.c:592
 msgid "RGB"
-msgstr ""
+msgstr "RGB"
 
 #. This shows the error in the conversion to RGB.
 #: src/gcm-picker.ui:198
@@ -341,11 +333,9 @@ msgstr ""
 msgid "_Measure"
 msgstr ""
 
-#. TRANSLATORS: this is the colorspace, e.g. cyan, magenta, yellow, black
-#. TRANSLATORS: this the ICC colorspace type
-#: src/gcm-utils.c:71 src/gcm-viewer.c:604
+#: src/gcm-utils.c:71+src/gcm-viewer.c:604
 msgid "CMYK"
-msgstr ""
+msgstr "CMYK"
 
 #. TRANSLATORS: this is the colorspace type
 #: src/gcm-utils.c:75
@@ -411,60 +401,51 @@ msgstr ""
 msgid "Output device"
 msgstr ""
 
-#. TRANSLATORS: this the ICC profile type
 #: src/gcm-viewer.c:549
 msgid "Devicelink"
-msgstr ""
+msgstr "Devicelink"
 
 #. TRANSLATORS: this the ICC profile type
 #: src/gcm-viewer.c:553
 msgid "Colorspace conversion"
 msgstr ""
 
-#. TRANSLATORS: this the ICC profile kind
 #: src/gcm-viewer.c:557
 msgid "Abstract"
-msgstr ""
+msgstr "Абстракттә"
 
 #. TRANSLATORS: this the ICC profile type
 #: src/gcm-viewer.c:561
 msgid "Named color"
 msgstr ""
 
-#. TRANSLATORS: this the ICC colorspace type
 #: src/gcm-viewer.c:576
 msgid "LAB"
-msgstr ""
+msgstr "LAB"
 
-#. TRANSLATORS: this the ICC colorspace type
 #: src/gcm-viewer.c:580
 msgid "LUV"
-msgstr ""
+msgstr "LUV"
 
-#. TRANSLATORS: this the ICC colorspace type
 #: src/gcm-viewer.c:584
 msgid "YCbCr"
-msgstr ""
+msgstr "YCbCr"
 
-#. TRANSLATORS: this the ICC colorspace type
 #: src/gcm-viewer.c:588
 msgid "Yxy"
-msgstr ""
+msgstr "Yxy"
 
-#. TRANSLATORS: this the ICC colorspace type
 #: src/gcm-viewer.c:596
 msgid "Gray"
-msgstr ""
+msgstr "Gray"
 
-#. TRANSLATORS: this the ICC colorspace type
 #: src/gcm-viewer.c:600
 msgid "HSV"
-msgstr ""
+msgstr "HSV"
 
-#. TRANSLATORS: this the ICC colorspace type
 #: src/gcm-viewer.c:608
 msgid "CMY"
-msgstr ""
+msgstr "CMY"
 
 #. TRANSLATORS: e.g. sRGB or adbode RGB
 #: src/gcm-viewer.c:644
@@ -589,10 +570,9 @@ msgstr ""
 msgid "No description has been set"
 msgstr ""
 
-#. TRANSLATORS: the profile is broken
 #: src/gcm-viewer.c:788
 msgid "No copyright has been set"
-msgstr ""
+msgstr "Аԥҵаҩцәа рзинқәа арбаӡам"
 
 #. TRANSLATORS: the profile is broken
 #: src/gcm-viewer.c:792
@@ -644,10 +624,9 @@ msgstr ""
 msgid "Unknown warning type"
 msgstr ""
 
-#. TRANSLATORS: if the device has a VCGT profile
 #: src/gcm-viewer.c:965
 msgid "Yes"
-msgstr ""
+msgstr "Ааи"
 
 #. TRANSLATORS: if the device has a VCGT profile
 #: src/gcm-viewer.c:968
@@ -728,10 +707,9 @@ msgstr ""
 msgid "White point"
 msgstr ""
 
-#. The licence of the profile, normally non-free
 #: src/gcm-viewer.ui:238
 msgid "Copyright"
-msgstr ""
+msgstr "Аԥҵаҩцәа рзинқәа"
 
 #. The file size in bytes of the profile
 #: src/gcm-viewer.ui:254
@@ -754,11 +732,11 @@ msgstr ""
 
 #: src/gcm-viewer.ui:502
 msgid "y"
-msgstr ""
+msgstr "y"
 
 #: src/gcm-viewer.ui:521
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: src/gcm-viewer.ui:552
 msgid "A CIE 1931 diagram shows a 2D representation of the profile gamut"
@@ -766,7 +744,7 @@ msgstr ""
 
 #: src/gcm-viewer.ui:569
 msgid "CIE 1931"
-msgstr ""
+msgstr "CIE 1931"
 
 #: src/gcm-viewer.ui:591
 msgid "Response out"
@@ -784,7 +762,7 @@ msgstr ""
 
 #: src/gcm-viewer.ui:657
 msgid "TRC"
-msgstr ""
+msgstr "TRC"
 
 #: src/gcm-viewer.ui:679
 msgid "Video card out"
@@ -796,7 +774,7 @@ msgstr ""
 
 #: src/gcm-viewer.ui:745
 msgid "VCGT"
-msgstr ""
+msgstr "VCGT"
 
 #: src/gcm-viewer.ui:780 src/gcm-viewer.ui:902
 msgid "Previous Image"
@@ -825,7 +803,7 @@ msgstr ""
 
 #: src/gcm-viewer.ui:989
 msgid "To sRGB"
-msgstr ""
+msgstr " sRGB аҟны"
 
 #: src/gcm-viewer.ui:1040
 msgid "Named colors are specific colors that are defined in the profile"

@@ -75,7 +75,7 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:18
 msgid "Address of the user’s home page."
-msgstr ""
+msgstr "ахархәаҩ иҩнытә даҟьа аҭыӡҭыԥ"
 
 #: data/org.gnome.epiphany.gschema.xml:22
 msgid "Default search engine."
@@ -201,7 +201,7 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:110
 msgid "Active clear data items."
-msgstr ""
+msgstr "Иактиву   ахәҭақәа адыррақәа ррыцқьаразы"
 
 #: data/org.gnome.epiphany.gschema.xml:111
 msgid ""
@@ -360,7 +360,7 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:200
 msgid "User agent"
-msgstr ""
+msgstr "User agent"
 
 #: data/org.gnome.epiphany.gschema.xml:201
 msgid ""
@@ -370,7 +370,7 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:205
 msgid "Enable adblock"
-msgstr ""
+msgstr "Adblock аҿакра"
 
 #: data/org.gnome.epiphany.gschema.xml:206
 msgid ""
@@ -398,17 +398,19 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:220
 msgid "Enable safe browsing"
-msgstr ""
+msgstr "Ишәарҭам ахәаԥшра аҿакра"
 
 #: data/org.gnome.epiphany.gschema.xml:221
 msgid ""
 "Whether to enable safe browsing. Safe browsing operates via Google Safe "
 "Browsing API v4."
 msgstr ""
+"Ишәарҭам ахәаԥшра аҿакра.Ишәарҭам арежим аус ауеит  Google Safe Browsing API "
+"v4 ацхыраарала."
 
 #: data/org.gnome.epiphany.gschema.xml:225
 msgid "Enable Intelligent Tracking Prevention (ITP)"
-msgstr ""
+msgstr "Интелектуалла ашьҭаԥшра аҽацәыхьчара аҿакра (ITP)"
 
 #: data/org.gnome.epiphany.gschema.xml:226
 msgid "Whether to enable Intelligent Tracking Prevention."
@@ -430,7 +432,7 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:239
 msgid "Enable autosearch"
-msgstr ""
+msgstr "Автоматикла аԥшаара аҿакра"
 
 #: data/org.gnome.epiphany.gschema.xml:240
 msgid ""
@@ -498,7 +500,7 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:274
 msgid "Enable WebExtensions"
-msgstr ""
+msgstr "веб-ахкырба аҿакра"
 
 #: data/org.gnome.epiphany.gschema.xml:275
 msgid ""
@@ -508,7 +510,7 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:279
 msgid "Active WebExtensions"
-msgstr ""
+msgstr "Иактиву веб-аҭбаара"
 
 #: data/org.gnome.epiphany.gschema.xml:280
 msgid "Indicates which WebExtensions are set to active."
@@ -604,15 +606,15 @@ msgstr ""
 
 #: data/org.gnome.epiphany.gschema.xml:362
 msgid "URL to a custom Firefox Sync token server."
-msgstr ""
+msgstr "URL- аҭыӡҭыԥ  ахархәагатә сервер атокенқәа  Firefox Sync"
 
 #: data/org.gnome.epiphany.gschema.xml:366
 msgid "Firefox Sync Accounts Server URL"
-msgstr ""
+msgstr "Firefox Sync Accounts Server URL"
 
 #: data/org.gnome.epiphany.gschema.xml:367
 msgid "URL to a custom Firefox Sync accounts server."
-msgstr ""
+msgstr "URL- аҭыӡҭыԥ  аҳасабырбатә нҵамҭақәа рхархәагатә сервер Firefox Sync."
 
 #: data/org.gnome.epiphany.gschema.xml:371
 msgid "Currently signed in sync user"
@@ -623,6 +625,8 @@ msgid ""
 "The email linked to the Firefox Account used to sync data with Mozilla’s "
 "servers."
 msgstr ""
+"Аел .ԥошьҭа аҭыӡҭыԥ , аҳасабырбатә нҵамҭа Firefox иаҿаԥшьу, ахархәара зауо "
+"адыррақәеи  асерверқәа Mozilla  асинхронркра рзуразы."
 
 #: data/org.gnome.epiphany.gschema.xml:376
 msgid "Last sync timestamp"
@@ -994,11 +998,11 @@ msgstr ""
 
 #: embed/ephy-embed.c:533
 msgid "ESC"
-msgstr ""
+msgstr "ESC"
 
 #: embed/ephy-embed.c:533
 msgid "F11"
-msgstr ""
+msgstr "F11"
 
 #. Translators: this means WebDriver control.
 #: embed/ephy-embed.c:807
@@ -1015,18 +1019,9 @@ msgstr ""
 msgid "Send an email message to “%s”"
 msgstr ""
 
-#. TRANSLATORS: This string is part of the previous translatable string.
-#. * It is appended for each extraneous mailto: URI email address. For
-#. * example if you have mailto:foo@example.com,bar@example.com,baz@example.com
-#. * it will show
-#. * Send an email to “foo@example.com”, “bar@example.com”, “baz@example.com”
-#. * when you hover such link, at the same place as regular URLs when you hover
-#. * a link in a web page.
-#.
 #: embed/ephy-embed-utils.c:82
-#, c-format
 msgid ", “%s”"
-msgstr ""
+msgstr ", “%s”"
 
 #: embed/ephy-embed-utils.h:31
 msgid "Blank page"
@@ -1039,35 +1034,35 @@ msgstr ""
 
 #: embed/ephy-encodings.c:58
 msgid "Arabic (_IBM-864)"
-msgstr ""
+msgstr "Арабтәи (_IBM-864)"
 
 #: embed/ephy-encodings.c:59
 msgid "Arabic (ISO-_8859-6)"
-msgstr ""
+msgstr "Арабтәи (ISO-_8859-6)"
 
 #: embed/ephy-encodings.c:60
 msgid "Arabic (_MacArabic)"
-msgstr ""
+msgstr "Арабтәи (_MacArabic)"
 
 #: embed/ephy-encodings.c:61
 msgid "Arabic (_Windows-1256)"
-msgstr ""
+msgstr "Арабтәи (_Windows-1256)"
 
 #: embed/ephy-encodings.c:62
 msgid "Baltic (_ISO-8859-13)"
-msgstr ""
+msgstr "Абалтикатә (_ISO-8859-13)"
 
 #: embed/ephy-encodings.c:63
 msgid "Baltic (I_SO-8859-4)"
-msgstr ""
+msgstr "Абалтикатә (I_SO-8859-4)"
 
 #: embed/ephy-encodings.c:64
 msgid "Baltic (_Windows-1257)"
-msgstr ""
+msgstr "Абалтикатә (_Windows-1257)"
 
 #: embed/ephy-encodings.c:65
 msgid "_Armenian (ARMSCII-8)"
-msgstr ""
+msgstr "_Аермантә (ARMSCII-8)"
 
 #: embed/ephy-encodings.c:66
 msgid "_Georgian (GEOSTD8)"
@@ -1820,14 +1815,9 @@ msgstr ""
 msgid "Could not display help: %s"
 msgstr ""
 
-#. TRANSLATORS: Please modify the main address of duckduckgo in order to match
-#. * the version used in your country. For example for the french version :
-#. * replace the ".com" with ".fr" :  "https://duckduckgo.fr/?q=%s&amp;t=epiphany"
-#.
 #: lib/ephy-search-engine-manager.h:35
-#, c-format
 msgid "https://duckduckgo.com/?q=%s&amp;t=epiphany"
-msgstr ""
+msgstr "https://duckduckgo.com/?q=%s&amp;t=epiphany"
 
 #. Translators: First %s is the name of the user currently logged in on the
 #. * machine. The second %s is the machine's name. You can use the variables
@@ -1861,12 +1851,9 @@ msgstr ""
 msgid "Yesterday %H∶%M"
 msgstr ""
 
-#. Translators: "friendly time" string for a day in the current week,
-#. * strftime format. e.g. "Wed 12∶34 am"
-#.
 #: lib/ephy-time-helpers.c:277
 msgid "%a %I∶%M %p"
-msgstr ""
+msgstr "%a, %I∶%M %p"
 
 #. Translators: "friendly time" string for a day in the current week,
 #. * strftime format. e.g. "Wed 15∶34"
@@ -1875,12 +1862,9 @@ msgstr ""
 msgid "%a %H∶%M"
 msgstr ""
 
-#. Translators: "friendly time" string for a day in the current year,
-#. * strftime format. e.g. "Feb 12 12∶34 am"
-#.
 #: lib/ephy-time-helpers.c:296
 msgid "%b %d %I∶%M %p"
-msgstr ""
+msgstr "%e %b., %I∶%M %p"
 
 #. Translators: "friendly time" string for a day in the current year,
 #. * strftime format. e.g. "Feb 12 15∶34"
@@ -2264,7 +2248,7 @@ msgstr ""
 
 #: lib/widgets/ephy-security-popover.c:578
 msgid "Media autoplay"
-msgstr ""
+msgstr "Амультимедиа автоматикла аиҭарҿиара "
 
 #: lib/widgets/ephy-security-popover.c:578
 msgid "Without Sound"
@@ -2415,7 +2399,7 @@ msgstr ""
 
 #: src/ephy-main.c:126
 msgid "URL …"
-msgstr ""
+msgstr "URL …"
 
 #: src/ephy-main.c:257
 msgid "Web options"
@@ -2435,9 +2419,9 @@ msgstr ""
 msgid "_Remove"
 msgstr ""
 
-#: src/ephy-web-extension-dialog.c:182
+#: src/ephy-web-extension-dialog.c:172
 msgid "Author"
-msgstr ""
+msgstr "Аԥҵаҩы"
 
 #: src/ephy-web-extension-dialog.c:191
 msgid "Version"
@@ -2504,7 +2488,7 @@ msgstr ""
 
 #: src/ephy-window.c:946
 msgid "_Forward"
-msgstr ""
+msgstr "_Ԥхьаҟа"
 
 #. Bookmarks
 #: src/ephy-window.c:949
@@ -2656,9 +2640,9 @@ msgstr ""
 msgid "Set Epiphany Technology Preview as your default browser?"
 msgstr ""
 
-#: src/ephy-window.c:3514
+#: src/ephy-window.c:3511
 msgid "_Yes"
-msgstr ""
+msgstr "_Ааи"
 
 #: src/ephy-window.c:3515
 msgid "_No"
@@ -2738,27 +2722,26 @@ msgstr ""
 
 #: src/preferences/ephy-search-engine-row.c:119
 msgid "Address must start with either http:// or https://"
-msgstr ""
+msgstr "Аҭыӡҭыԥ алагозароуп http:// мамзар https:// рыла"
 
 #: src/preferences/ephy-search-engine-row.c:131
-#, c-format
 msgid "Address must contain the search term represented by %s"
-msgstr ""
+msgstr "Аҭыӡҭыԥқәа ирымазароуп апшаага адҵаалара, иаарԥшу %s ала"
 
 #: src/preferences/ephy-search-engine-row.c:134
 msgid "Address should not contain the search term several times"
-msgstr ""
+msgstr "Аҭыӡҭыԥ аԥшаара адҵааларакәа пыҭк амазар ҟалаӡом"
 
 #: src/preferences/ephy-search-engine-row.c:140
 msgid "Address is not a valid URI"
-msgstr ""
+msgstr "Иԥаршеиу аҭыӡҭыԥ URI"
 
 #: src/preferences/ephy-search-engine-row.c:145
-#, c-format
 msgid ""
 "Address is not a valid URL. The address should look like https://www.example."
 "com/search?q=%s"
 msgstr ""
+"Иԥаршеиу аҭыӡҭыԥ URL. Аҭыӡҭыԥ  https://www.example.com/search?q=%s еиԥшзароуп"
 
 #: src/preferences/ephy-search-engine-row.c:190
 msgid "This shortcut is already used."
@@ -2918,7 +2901,7 @@ msgstr ""
 
 #: src/resources/gtk/bookmark-properties.ui:45
 msgid "_Address"
-msgstr ""
+msgstr "_Аҭыӡҭыԥ"
 
 #: src/resources/gtk/bookmark-properties.ui:63
 #: src/resources/gtk/bookmarks-popover.ui:77
@@ -3430,7 +3413,7 @@ msgstr ""
 
 #: src/resources/gtk/prefs-privacy-page.ui:10
 msgid "Web Safety"
-msgstr ""
+msgstr "Ашәарҭадара аинтернет аҟны"
 
 #: src/resources/gtk/prefs-privacy-page.ui:15
 msgid "Block Dangerous Web_sites"
@@ -3490,7 +3473,7 @@ msgstr ""
 
 #: src/resources/gtk/search-engine-row.ui:53
 msgid "Address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: src/resources/gtk/search-engine-row.ui:79
 msgid "Shortcut"
@@ -3912,15 +3895,15 @@ msgstr ""
 
 #: src/window-commands.c:115
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
-#: src/window-commands.c:116 src/window-commands.c:693
+#: src/window-commands.c:116+src/window-commands.c:693
 msgid "Chrome"
-msgstr ""
+msgstr "Chrome"
 
-#: src/window-commands.c:117 src/window-commands.c:694
+#: src/window-commands.c:117+src/window-commands.c:694
 msgid "Chromium"
-msgstr ""
+msgstr "Chromium"
 
 #: src/window-commands.c:131 src/window-commands.c:556
 #: src/window-commands.c:772
@@ -3960,10 +3943,9 @@ msgstr ""
 msgid "Bookmarks successfully exported!"
 msgstr ""
 
-#. Translators: Only translate the part before ".html" (e.g. "bookmarks")
 #: src/window-commands.c:658
 msgid "bookmarks.html"
-msgstr ""
+msgstr "bookmarks.html"
 
 #: src/window-commands.c:731
 msgid "Passwords successfully imported!"
@@ -3990,7 +3972,7 @@ msgstr ""
 
 #: src/window-commands.c:1051
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: src/window-commands.c:1211
 msgid "Do you want to reload this website?"
@@ -4036,15 +4018,15 @@ msgstr ""
 
 #: src/window-commands.c:2139
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: src/window-commands.c:2144
 msgid "MHTML"
-msgstr ""
+msgstr "MHTML"
 
 #: src/window-commands.c:2149
 msgid "PNG"
-msgstr ""
+msgstr "PNG"
 
 #: src/window-commands.c:2653
 msgid "Enable caret browsing mode?"
@@ -4060,3 +4042,23 @@ msgstr ""
 #: src/window-commands.c:2659
 msgid "_Enable"
 msgstr ""
+
+#: data/org.gnome.epiphany.gschema.xml:53
+msgid ""
+"[{'name': <'DuckDuckGo'>, 'url': <'https://duckduckgo.com/?q="
+"%s&t=epiphany'>, 'bang': <'!ddg'>},{'name': <'Google'>, 'url': <'https://www."
+"google.com/search?q=%s'>, 'bang': <'!g'>},{'name': <'Bing'>, 'url': "
+"<'https://www.bing.com/search?q=%s'>, 'bang': <'!b'>}]"
+msgstr ""
+"[{'name': <'DuckDuckGo'>, 'url': <'https://duckduckgo.com/?q="
+"%s&t=epiphany'>, 'bang': <'!ddg'>},{'name': <'Google'>, 'url': <'https://www."
+"google.com/search?q=%s'>, 'bang': <'!g'>},{'name': <'Bing'>, 'url': "
+"<'https://www.bing.com/search?q=%s'>, 'bang': <'!b'>}]"
+
+#: embed/ephy-web-view.c:1917+embed/ephy-web-view.c:1970+embed/ephy-web-view.c:2006+embed/ephy-web-view.c:2042
+msgid "R"
+msgstr "R"
+
+#: src/resources/gtk/webapp-additional-urls-dialog.ui:52
+msgid "URL"
+msgstr "URL"

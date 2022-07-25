@@ -21,11 +21,9 @@ msgstr ""
 msgid "Orca Screen Reader"
 msgstr ""
 
-#. Translators: short braille for the rolename of an invalid GUI object.
-#. We strive to keep it under three characters to preserve real estate.
 #: src/orca/braille_rolenames.py:36
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. Translators: short braille for the rolename of an alert dialog.
 #. NOTE for all the short braille words: they we strive to keep them
@@ -84,10 +82,9 @@ msgstr ""
 msgid "cbo"
 msgstr ""
 
-#. Translators: short braille for the rolename of a date editor.
 #: src/orca/braille_rolenames.py:77
 msgid "dat"
-msgstr ""
+msgstr "аамҭ."
 
 #. Translators: short braille for the rolename of a desktop icon.
 #. Translators: short braille for the rolename of a icon.
@@ -391,20 +388,18 @@ msgstr ""
 msgid "ftr"
 msgstr ""
 
-#. Translators: short braille for the rolename of a paragraph.
 #: src/orca/braille_rolenames.py:275
 msgid "para"
-msgstr ""
+msgstr "абз"
 
 #. Translators: short braille for the rolename of a application.
 #: src/orca/braille_rolenames.py:278
 msgid "app"
 msgstr ""
 
-#. Translators: short braille for the rolename of a autocomplete.
 #: src/orca/braille_rolenames.py:281
 msgid "auto"
-msgstr ""
+msgstr "авто"
 
 #. Translators: short braille for the rolename of an editbar.
 #: src/orca/braille_rolenames.py:284
@@ -886,11 +881,9 @@ msgstr ""
 msgid "diaeresis"
 msgstr ""
 
-#. Translators: this is the spoken word for the character '©' (U+00a9)
-#.
 #: src/orca/chnames.py:218
 msgid "copyright"
-msgstr ""
+msgstr "аԥҵаҩы изин"
 
 #. Translators: this is the spoken word for the character 'ª' (U+00aa)
 #.
@@ -967,11 +960,9 @@ msgstr ""
 msgid "mu"
 msgstr ""
 
-#. Translators: this is the spoken word for the character '¶' (U+00b6)
-#.
 #: src/orca/chnames.py:270
 msgid "paragraph marker"
-msgstr ""
+msgstr "абзац"
 
 #. Translators: this is the spoken word for the character '·' (U+00b7)
 #.
@@ -1258,11 +1249,9 @@ msgstr ""
 msgid "a ring"
 msgstr ""
 
-#. Translators: this is the spoken word for the character 'æ' (U+00e6)
-#.
 #: src/orca/chnames.py:462
 msgid "a e"
-msgstr ""
+msgstr "ае"
 
 #. Translators: this is the spoken word for the character 'ç' (U+00e7)
 #.
@@ -2176,13 +2165,9 @@ msgstr ""
 msgid "Return to object with keyboard focus"
 msgstr ""
 
-#. Translators: braille can be displayed in many ways. Contracted braille
-#. provides a more efficient means to represent text, especially long
-#. documents. The feature used here is an option to toggle between contracted
-#. and uncontracted.
 #: src/orca/cmdnames.py:374
 msgid "Turn contracted braille on and off"
-msgstr ""
+msgstr "Браиль иркьаҿу ишрифт аҿакра, мамзар аҿыхра"
 
 #. Translators: hardware braille displays often have buttons near each braille
 #. cell. These are called cursor routing keys and are a way for a user to tell
@@ -2725,14 +2710,9 @@ msgstr ""
 msgid "Present the contents of the input line"
 msgstr ""
 
-#. Translators: the structural navigation keys are designed to move the caret
-#. around the document content by object type. Thus H moves you to the next
-#. heading, Shift H to the previous heading, T to the next table, and so on.
-#. This feature needs to be toggle-able so that it does not interfere with normal
-#. writing functions.
 #: src/orca/cmdnames.py:781
 msgid "Toggle structural navigation keys"
-msgstr ""
+msgstr "Еилаҵоу ахырхарҭарбара арыдқәа  рҿакра, мамзар рҿыхра"
 
 #. Translators: this is for navigating among blockquotes in a document.
 #: src/orca/cmdnames.py:784
@@ -4313,62 +4293,17 @@ msgstr ""
 msgid "_Activate"
 msgstr ""
 
-#. Translators: Orca has a number of commands that override the default behavior
-#. within an application. For instance, on a web page Orca's Structural Navigation
-#. command "h" moves you to the next heading. What should happen when you press
-#. "h" in an entry on a web page depends: If you want to resume reading content,
-#. "h" should move to the next heading; if you want to enter text, "h" should not
-#. move you to the next heading. Because Orca doesn't know what you want to do,
-#. it has two modes: In browse mode, Orca treats key presses as commands to read
-#. the content; in focus mode, Orca treats key presses as something that should be
-#. handled by the focused widget. Orca optionally can attempt to detect which mode
-#. is appropriate for the current situation and switch automatically. This string
-#. is a label for a GUI option to enable such automatic switching when structural
-#. navigation commands are used. As an example, if this setting were enabled,
-#. pressing "e" to move to the next entry would move focus there and also turn
-#. focus mode on so that the next press of "e" would type an "e" into the entry.
-#. If this setting is not enabled, the second press of "e" would continue to be
-#. a navigation command to move amongst entries.
 #: src/orca/guilabels.py:58
 msgid "Automatic focus mode during structural navigation"
-msgstr ""
+msgstr "Автоматикалатәи афокус арежим, еилаҵоу ахырхарҭарбараан иаҿакхо"
 
-#. Translators: Orca has a number of commands that override the default behavior
-#. within an application. For instance, if you are at the bottom of an entry and
-#. press Down arrow, should you leave the entry? It depends on if you want to
-#. resume reading content or if you are editing the text in the entry. Because
-#. Orca doesn't know what you want to do, it has two modes: In browse mode, Orca
-#. treats key presses as commands to read the content; in focus mode, Orca treats
-#. key presses as something that should be handled by the focused widget. Orca
-#. optionally can attempt to detect which mode is appropriate for the current
-#. situation and switch automatically. This string is a label for a GUI option to
-#. enable such automatic switching when caret navigation commands are used. As an
-#. example, if this setting were enabled, pressing Down Arrow would allow you to
-#. move into an entry but once you had done so, Orca would switch to Focus mode
-#. and subsequent presses of Down Arrow would be controlled by the web browser
-#. and not by Orca. If this setting is not enabled, Orca would continue to control
-#. what happens when you press an arrow key, thus making it possible to arrow out
-#. of the entry.
 #: src/orca/guilabels.py:76
 msgid "Automatic focus mode during caret navigation"
-msgstr ""
+msgstr "Автоматикалатәи афокус арежим, ахырхагатә ахырхарҭарбараан иаҿакхо"
 
-#. Translators: Orca has a number of commands that override the default behavior
-#. within an application. For instance, if you are at the bottom of an entry and
-#. press Down arrow, should you leave the entry? It depends on if you want to
-#. resume reading content or if you are editing the text in the entry. Because
-#. Orca doesn't know what you want to do, it has two modes: In browse mode, Orca
-#. treats key presses as commands to read the content; in focus mode, Orca treats
-#. key presses as something that should be handled by the focused widget. Orca
-#. optionally can attempt to detect which mode is appropriate for the current
-#. situation and switch automatically. This string is a label for a GUI option to
-#. enable such automatic switching when native navigation commands are used.
-#. Here "native" means "not Orca"; it could be a browser navigation command such
-#. as the Tab key, or it might be a web page behavior, such as the search field
-#. automatically gaining focus when the page loads.
 #: src/orca/guilabels.py:91
 msgid "Automatic focus mode during native navigation"
-msgstr ""
+msgstr "Автоматикалатәи афокус арежим, ахырхагатә ахырхарҭарбараан иаҿакхо"
 
 #. Translators: A single braille cell on a refreshable braille display consists
 #. of 8 dots. Dot 7 is the dot in the bottom left corner. If the user selects
@@ -4407,10 +4342,9 @@ msgstr ""
 msgid "_Jump to"
 msgstr ""
 
-#. Translators: This is the label for a button in a dialog.
-#: src/orca/guilabels.py:118 src/orca/orca-setup.ui:192
+#: src/orca/guilabels.py:118+src/orca/orca-setup.ui:192
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #. Translators: Orca uses Speech Dispatcher to present content to users via
 #. text-to-speech. Speech Dispatcher has a feature to control how capital
@@ -5260,12 +5194,9 @@ msgstr ""
 msgid "Page Navigation"
 msgstr ""
 
-#. Translators: When the user loads a new web page, they can optionally have Orca
-#. automatically start reading the page from beginning to end. This is the label
-#. of a checkbox in which users can indicate their preference.
 #: src/orca/guilabels.py:709
 msgid "Automatically start speaking a page when it is first _loaded"
-msgstr ""
+msgstr "Адаҟьа _раԥхьаӡа акәны ианҭагалоу автоматикла аԥхьара алагара"
 
 #. Translators: When the user loads a new web page, they can optionally have Orca
 #. automatically summarize details about the page, such as the number of elements
@@ -5519,44 +5450,29 @@ msgstr ""
 msgid "right meta"
 msgstr ""
 
-#. Translators: this is how someone would speak the name of the num lock key
-#.
 #: src/orca/keynames.py:86
 msgid "num lock"
-msgstr ""
+msgstr "num lock"
 
-#. Translators: this is how someone would speak the name of the caps lock key
-#.
 #: src/orca/keynames.py:90
 msgid "caps lock"
-msgstr ""
+msgstr "caps lock"
 
-#. Translators: this is how someone would speak the name of the shift lock key
-#. There is no reason to make it different from the translation for "caps lock"
-#.
 #: src/orca/keynames.py:95
 msgid "shift lock"
-msgstr ""
+msgstr "shift lock"
 
-#. Translators: this is how someone would speak the name of the scroll lock key
-#.
 #: src/orca/keynames.py:99
 msgid "scroll lock"
-msgstr ""
+msgstr "scroll lock"
 
-#. Translators: this is how someone would speak the name of the page up key
-#.
-#: src/orca/keynames.py:103 src/orca/keynames.py:107 src/orca/keynames.py:111
-#: src/orca/keynames.py:115
+#: src/orca/keynames.py:103+src/orca/keynames.py:107+src/orca/keynames.py:111+src/orca/keynames.py:115
 msgid "page up"
-msgstr ""
+msgstr "page up"
 
-#. Translators: this is how someone would speak the name of the page down key
-#.
-#: src/orca/keynames.py:119 src/orca/keynames.py:123 src/orca/keynames.py:127
-#: src/orca/keynames.py:131
+#: src/orca/keynames.py:119+src/orca/keynames.py:123+src/orca/keynames.py:127+src/orca/keynames.py:131
 msgid "page down"
-msgstr ""
+msgstr "page down"
 
 #. Translators: this is how someone would speak the name of the left tab key
 #.
@@ -5564,23 +5480,17 @@ msgstr ""
 msgid "left tab"
 msgstr ""
 
-#. Translators: this is how someone would speak the name of the backspace key
-#.
 #: src/orca/keynames.py:147
 msgid "backspace"
-msgstr ""
+msgstr "backspace"
 
-#. Translators: this is how someone would speak the name of the return key
-#.
 #: src/orca/keynames.py:151
 msgid "return"
-msgstr ""
+msgstr "return"
 
-#. Translators: this is how someone would speak the name of the enter key
-#.
 #: src/orca/keynames.py:155
 msgid "enter"
-msgstr ""
+msgstr "enter"
 
 #. Translators: this is how someone would speak the name of the up arrow key
 #.
@@ -5624,11 +5534,9 @@ msgstr ""
 msgid "menu"
 msgstr ""
 
-#. Translators: this is how someone would speak the name of the ISO shift key
-#.
 #: src/orca/keynames.py:203
 msgid "Alt Gr"
-msgstr ""
+msgstr "Alt Gr"
 
 #. Translators: this is how someone would speak the name of the help key
 #.
@@ -5648,41 +5556,29 @@ msgstr ""
 msgid "mode switch"
 msgstr ""
 
-#. Translators: this is how someone would speak the name of the escape key
-#.
 #: src/orca/keynames.py:219
 msgid "escape"
-msgstr ""
+msgstr "escape"
 
-#. Translators: this is how someone would speak the name of the insert key
-#.
-#: src/orca/keynames.py:223 src/orca/keynames.py:227
+#: src/orca/keynames.py:223+src/orca/keynames.py:227
 msgid "insert"
-msgstr ""
+msgstr "insert"
 
-#. Translators: this is how someone would speak the name of the delete key
-#.
-#: src/orca/keynames.py:231 src/orca/keynames.py:235
+#: src/orca/keynames.py:231+src/orca/keynames.py:235
 msgid "delete"
-msgstr ""
+msgstr "delete"
 
-#. Translators: this is how someone would speak the name of the home key
-#.
-#: src/orca/keynames.py:239 src/orca/keynames.py:243
+#: src/orca/keynames.py:239+src/orca/keynames.py:243
 msgid "home"
-msgstr ""
+msgstr "home"
 
-#. Translators: this is how someone would speak the name of the end key
-#.
-#: src/orca/keynames.py:247 src/orca/keynames.py:251
+#: src/orca/keynames.py:247+src/orca/keynames.py:251
 msgid "end"
-msgstr ""
+msgstr "end"
 
-#. Translators: this is how someone would speak the name of the begin key
-#.
 #: src/orca/keynames.py:255
 msgid "begin"
-msgstr ""
+msgstr "begin"
 
 #. Translators: this is how someone would speak the name of the
 #. non-spacing diacritical key for the circumflex glyph
@@ -5711,20 +5607,13 @@ msgstr ""
 msgid "minus"
 msgstr ""
 
-#. Translators: this is presented in a GUI to represent the
-#. "insert" key when used as the Orca modifier.
 #: src/orca/keybindings.py:145
 msgid "Insert"
-msgstr ""
+msgstr "Insert"
 
-#. Translators: this is presented in a GUI to represent the
-#. "caps lock" modifier.
-#. Translators: this is presented in a GUI to represent the
-#. "caps lock" modifier.
-#.
-#: src/orca/keybindings.py:149 src/orca/keybindings.py:154
+#: src/orca/keybindings.py:149+src/orca/keybindings.py:154
 msgid "Caps_Lock"
-msgstr ""
+msgstr "Caps_Lock"
 
 #. Translators: this is presented in a GUI to represent the
 #. "right alt" modifier.
@@ -5754,12 +5643,9 @@ msgstr ""
 msgid "Alt_L"
 msgstr ""
 
-#. Translators: this is presented in a GUI to represent the
-#. "control" modifier.
-#.
 #: src/orca/keybindings.py:183
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #. Translators: this is presented in a GUI to represent the
 #. "shift " modifier.
@@ -8070,11 +7956,9 @@ msgstr ""
 msgid "Optional arguments"
 msgstr ""
 
-#. Translators: This string appears when using 'Orca -h' at the command line.
-#. It is followed by a brief list of Orca's optional command-line arguments.
 #: src/orca/messages.py:200
 msgid "Usage: "
-msgstr ""
+msgstr "Ахархәара:"
 
 #. Translators: This message is displayed when the user starts Orca from the
 #. command line and includes an invalid option or argument. After the message,
@@ -10178,69 +10062,41 @@ msgstr ""
 msgid "No application has focus."
 msgstr ""
 
-#. Translators: This is for navigating document content by moving from blockquote
-#. to blockquote. This is a detailed message which will be presented to the user
-#. if no more blockquotes can be found.
 #: src/orca/messages.py:1775
 msgid "No more blockquotes."
-msgstr ""
+msgstr "ацитатақәа рыблоккәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from button
-#. to button. This is a detailed message which will be presented to the user
-#. if no more buttons can be found.
 #: src/orca/messages.py:1780
 msgid "No more buttons."
-msgstr ""
+msgstr "апытҟәырқәа уаҳа ыҟаӡам "
 
-#. Translators: This is for navigating document content by moving from check
-#. box to check box. This is a detailed message which will be presented to the
-#. user if no more check boxes can be found.
 #: src/orca/messages.py:1785
 msgid "No more check boxes."
-msgstr ""
+msgstr "апытҟәыр-дыргакәа уаҳа ыҟаӡам "
 
-#. Translators: This is for navigating document content by moving from 'large
-#. object' to 'large object'. A 'large object' is a logical chunk of text,
-#. such as a paragraph, a list, a table, etc. This is a detailed message which
-#. will be presented to the user if no more check boxes can be found.
 #: src/orca/messages.py:1791
 msgid "No more large objects."
-msgstr ""
+msgstr "Адуу аобиектқәа уаха ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving amongst web
-#. elements which have an "onClick" action. This is a detailed message which
-#. will be presented to the user if no more clickable elements can be found.
 #: src/orca/messages.py:1796
 msgid "No more clickables."
-msgstr ""
+msgstr "Узыгәҭасша аобиктқәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from combo
-#. box to combo box. This is a detailed message which will be presented to the
-#. user if no more combo boxes can be found.
 #: src/orca/messages.py:1801
 msgid "No more combo boxes."
-msgstr ""
+msgstr "Аҭыԥқәа ахьӡынҵақәа рыцҵаны уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from entry
-#. to entry. This is a detailed message which will be presented to the user
-#. if no more entries can be found.
 #: src/orca/messages.py:1806
 msgid "No more entries."
-msgstr ""
+msgstr "Аҭагаларҭақәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from form
-#. field to form field. This is a detailed message which will be presented to
-#. the user if no more form fields can be found.
 #: src/orca/messages.py:1811
 msgid "No more form fields."
-msgstr ""
+msgstr "Аҭыԥ аформақәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from heading
-#. to heading. This is a detailed message which will be presented to the user
-#. if no more headings can be found.
 #: src/orca/messages.py:1816
 msgid "No more headings."
-msgstr ""
+msgstr "уаҳа ахқәа ыҟаӡам."
 
 #. Translators: This is for navigating document content by moving from heading
 #. to heading at a particular level (i.e. only <h1> or only <h2>, etc.). This
@@ -10251,92 +10107,53 @@ msgstr ""
 msgid "No more headings at level %d."
 msgstr ""
 
-#. Translators: This is for navigating document content by moving from image
-#. to image. This is a detailed message which will be presented to the user
-#. if no more images can be found.
 #: src/orca/messages.py:1827
 msgid "No more images."
-msgstr ""
+msgstr "уаҳа асахьақәа ыҟаӡам."
 
-#. Translators: this is for navigating to the previous ARIA role landmark.
-#. ARIA role landmarks are the W3C defined HTML tag attribute 'role' used to
-#. identify important part of webpage like banners, main context, search etc.
-#. This is an indication that one was not found.
 #: src/orca/messages.py:1833
 msgid "No landmark found."
-msgstr ""
+msgstr "Ахырхарҭақәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from link to
-#. link (regardless of visited state). This is a detailed message which will be
-#. presented to the user if no more links can be found.
 #: src/orca/messages.py:1838
 msgid "No more links."
-msgstr ""
+msgstr "Азхьарԥшқәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from bulleted/
-#. numbered list to bulleted/numbered list. This is a detailed message which will
-#. be presented to the user if no more lists can be found.
 #: src/orca/messages.py:1843
 msgid "No more lists."
-msgstr ""
+msgstr "Ахьӡынҵакәа уаҳа иҟаӡам."
 
-#. Translators: This is for navigating document content by moving from bulleted/
-#. numbered list item to bulleted/numbered list item. This is a detailed message
-#. which will be presented to the user if no more list items can be found.
 #: src/orca/messages.py:1848
 msgid "No more list items."
-msgstr ""
+msgstr "ахьӡынҵа аелементқәа уаҳа ы.ҟаӡам"
 
-#. Translators: This is for navigating document content by moving from live
-#. region to live region. A live region is an area of a web page that is
-#. periodically updated, e.g. stock ticker. This is a detailed message which
-#. will be presented to the user if no more live regions can be found. For
-#. more info, see http://www.w3.org/TR/wai-aria/terms#def_liveregion
 #: src/orca/messages.py:1855
 msgid "No more live regions."
-msgstr ""
+msgstr "уаҳа зҽызыԥсахуа аганқәа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from paragraph
-#. to paragraph. This is a detailed message which will be presented to the user
-#. if no more paragraphs can be found.
 #: src/orca/messages.py:1860
 msgid "No more paragraphs."
-msgstr ""
+msgstr "уаҳа абзацқәа ыҟаӡам."
 
-#. Translators: This is for navigating document content by moving from radio
-#. button to radio button. This is a detailed message which will be presented to
-#. the user if no more radio buttons can be found.
 #: src/orca/messages.py:1865
 msgid "No more radio buttons."
-msgstr ""
+msgstr "Аиагагақәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from separator
-#. to separator (e.g. <hr> tags). This is a detailed message which will be
-#. presented to the user if no more separators can be found.
 #: src/orca/messages.py:1870
 msgid "No more separators."
-msgstr ""
+msgstr "Аиҟәшагақәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from table to
-#. to table. This is a detailed message which will be presented to the user if
-#. no more tables can be found.
 #: src/orca/messages.py:1875
 msgid "No more tables."
-msgstr ""
+msgstr "Аҭаӡҩырақәа уаҳа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from unvisited
-#. link to unvisited link. This is a detailed message which will be presented to
-#. the user if no more unvisited links can be found.
 #: src/orca/messages.py:1880
 msgid "No more unvisited links."
-msgstr ""
+msgstr "Шәахьымҭалац азхьарԥшқәа ыҟаӡам"
 
-#. Translators: This is for navigating document content by moving from visited
-#. link to visited link. This is a detailed message which will be presented to
-#. the user if no more visited links can be found.
 #: src/orca/messages.py:1885
 msgid "No more visited links."
-msgstr ""
+msgstr "Уаҳа иҟаӡам шәызҭаахьоу азхьарԥшқәа"
 
 #. Translators: Orca has a dedicated command to speak the currently-selected
 #. text. This message is what Orca will present if the user performs this
@@ -11216,13 +11033,11 @@ msgid_plural "%d unfocused dialogs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. Translators: This is the size of a file in bytes
 #: src/orca/messages.py:2509
-#, python-format
 msgid "%d byte"
 msgid_plural "%d bytes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d баитк"
+msgstr[1] "%d баитк"
 
 #. Translators: This message informs the user who many files were found as
 #. a result of a search.
@@ -11558,13 +11373,9 @@ msgstr ""
 msgid "on %(index)d of %(total)d"
 msgstr ""
 
-#. Translators: this refers to the position of an item in a list or group of
-#. objects, such as menu items in a menu, radio buttons in a radio button group,
-#. combobox item in a combobox, etc.
 #: src/orca/object_properties.py:46
-#, python-format
 msgid "%(index)d of %(total)d"
-msgstr ""
+msgstr "%(index)d аҟны %(total)d"
 
 #. Translators: this refers to the position of an item in a list for which the
 #. size is unknown. Examples include unlimited scrolling news/article feeds
@@ -12433,7 +12244,7 @@ msgstr ""
 
 #: src/orca/orca-find.ui:226
 msgid "_Wrap around"
-msgstr ""
+msgstr "Автоматикла алагамҭахь _аиасра"
 
 #: src/orca/orca-find.ui:242
 msgid "Search _backwards"
@@ -12564,7 +12375,7 @@ msgstr ""
 
 #: src/orca/orca-setup.ui:684
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. Translators: Here this is a label for a spin button through which a user can customize the frequency in seconds an announcement should be made regarding the current value of a progress bar.
 #: src/orca/orca-setup.ui:700
@@ -12839,7 +12650,7 @@ msgstr ""
 
 #: src/orca/orca-setup.ui:2159
 msgid "_Enable Contracted Braille"
-msgstr ""
+msgstr "Браиль икьаҿ_аҩра аҿакра"
 
 #. Translators: If this option is enabled, Orca will adjust the text shown on the braille display so that only full words are shown. If it is not enabled, Orca uses all of the cells on the display, but some words might not be fully shown requiring the user to scroll to see the remainder.
 #: src/orca/orca-setup.ui:2174
@@ -12865,10 +12676,9 @@ msgstr ""
 msgid "Hyperlink Indicator"
 msgstr ""
 
-#. Translators: Braille flash messages are similar in nature to notifications or announcements in that they are temporarily shown on the refreshable braille display. Upon removal of the message, the original contents of the braille display are restored. This checkbox allows the user to toggle this feature.
 #: src/orca/orca-setup.ui:2491
 msgid "Enable flash _messages"
-msgstr ""
+msgstr "Иласу ацҳамҭақәа рҿакра"
 
 #. Translators: Braille flash messages are similar in nature to notifications or announcements. They are most commonly used for Orca to communicate Orca-specific information to the user via braille, such as confirming the toggling of an Orca setting via command. The reason they are called flash messages by screen readers is that they are shown on the refreshable braille display for only a brief time, after which the original contents of the display are restored. This label is for the spin button through which a user can customize how long (in seconds) these temporary messages should be displayed.
 #: src/orca/orca-setup.ui:2514
@@ -13014,28 +12824,6 @@ msgstr ""
 msgid "Text Attributes"
 msgstr ""
 
-#. Translators: this is a structure to assist in the generation of
-#. spoken military-style spelling.  For example, 'abc' becomes 'alpha
-#. bravo charlie'.
-#.
-#. It is a simple structure that consists of pairs of
-#.
-#. letter : word(s)
-#.
-#. where the letter and word(s) are separate by colons and each
-#. pair is separated by commas.  For example, we see:
-#.
-#. a : alpha, b : bravo, c : charlie,
-#.
-#. And so on.  The complete set should consist of all the letters from
-#. the alphabet for your language paired with the common
-#. military/phonetic word(s) used to describe that letter.
-#.
-#. The Wikipedia entry
-#. http://en.wikipedia.org/wiki/NATO_phonetic_alphabet has a few
-#. interesting tidbits about local conventions in the sections
-#. "Additions in German, Danish and Norwegian" and "Variants".
-#.
 #: src/orca/phonnames.py:53
 msgid ""
 "a : alpha, b : bravo, c : charlie, d : delta, e : echo, f : foxtrot, g : "
@@ -13043,6 +12831,22 @@ msgid ""
 "november, o : oscar, p : papa, q : quebec, r : romeo, s : sierra, t : tango, "
 "u : uniform, v : victor, w : whiskey, x : xray, y : yankee, z : zulu"
 msgstr ""
+"a : альфа, b : браво, c : чарли, d : дельта, e : ехо, f : фокстрот, g : "
+"гольф, h : хотель, i : индия, j : джульет, k : кило, l : лима, m : майк, n : "
+"ноябрь, o : оскар, p : папа, q : квебек, r : ромео, s : сиерра, t : танго, "
+"u : униформа, v : виктор, w : виски, x : икс, y : янки, z : зулу, а : "
+"анбан , б : бзоу,  в :воуба,     г :гагра,     гь:гьаргь,   гә :гәдиса,  ӷ : "
+"аӷа, ӷь :абӷьы  ӷә:ӷәада   д:даур,   дә:дәрыԥшь ,  е:езыгә ,  ж:ажра,  жь:"
+"жьабна,    жә: жәандрыԥшь  , з:зыма  ӡ:ӡыдакәара ,    ӡә: аӡәы,    и:"
+"игры ,    к:кындыӷ   ,  кь:кьалашәыр ,    кә:кәтол,  қ :  ақды,   қь:"
+"қьамал   ,  қә: қәабчара   ҟ: ҟлыч ,  ҟь:адаҟьа,   ҟә:ҟәланырхәа ,л :"
+"лыхны ,  м:маҷара  , н: нарҭ  ,   о:отаԥ,   п:пицунда  ,ԥ:ԥсоу  , р:риҵа  ,с:"
+"саид , т:тамышь , тә: тәанба    ҭ:ҭхьына,     ҭә: аҭәа,    у: уарча  ,   ф : "
+"фатима ,  х:хамида ,   хь:хьымса ,   хә:хәаԥ ,  ҳ: аҳа  ,  ҳә:  аҳәыҳә,   ц:"
+"цандрыԥшь ,  цә: ацә,    ҵ:ҵабал,   ҵә:аҵәа   ,  ч:чаам , ҷ:ҷлоу ,   ҽ: "
+"аҽы     ҿ:аҿы,     ш:шамел  ,   шь:шьоудыд ,     шә :шәлиман  ы:асы     ҩ:"
+"ҩыԥсара     џ: аџыр  ,  џь: џьырхәа ,   ь: арԥшгага дырга,  ә: ахаргьежь "
+"дырга ."
 
 #. Translators: this attribute specifies the background color of the text.
 #. The value is an RGB value of the format "u,u,u".
@@ -14117,3 +13921,53 @@ msgid ""
 "To decrease press left arrow, to increase press right arrow. To go to "
 "minimum press home, and for maximum press end."
 msgstr ""
+
+#: src/orca/colornames.py:45
+msgid "aquamarine"
+msgstr "аквамаринтә"
+
+#: src/orca/colornames.py:55
+msgid "beige"
+msgstr "Ацәҩабжьа"
+
+#: src/orca/colornames.py:710
+msgid "white"
+msgstr "Ашкәакәа"
+
+#: src/orca/guilabels.py:548
+msgid "Paragraph"
+msgstr "Абзац"
+
+#: src/orca/guilabels.py:586
+msgid "URI"
+msgstr "URI"
+
+#: src/orca/guilabels.py:678
+msgid "Paragraphs"
+msgstr "Абзацқәа"
+
+#: src/orca/keynames.py:42
+msgctxt "src/orca/keynames.py:42"
+msgid "Shift"
+msgstr "Shift"
+
+#: src/orca/keynames.py:46
+msgid "Alt"
+msgstr "Alt"
+
+#: src/orca/keynames.py:50
+msgid "Control"
+msgstr "Ctrl"
+
+#: src/orca/keybindings.py:188
+msgctxt "src/orca/keybindings.py:188"
+msgid "Shift"
+msgstr "Shift"
+
+#: src/orca/mathsymbols.py:1337
+msgid "greater than"
+msgstr "Иҵегь ахышәарақәа..."
+
+#: src/orca/messages.py:841
+msgid "an actuarial symbol"
+msgstr "Иактуалу асимвол"

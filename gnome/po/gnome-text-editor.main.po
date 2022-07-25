@@ -75,11 +75,13 @@ msgstr ""
 
 #: data/org.gnome.TextEditor.gschema.xml:40
 msgid "Auto Indent"
-msgstr ""
+msgstr "Автоматикалатәи ахьаҵ"
 
 #: data/org.gnome.TextEditor.gschema.xml:41
 msgid "Automatically indent new lines copying the previous line's indentation."
 msgstr ""
+"Автоматла ацәаҳәа ҿыцқәа рзы ахьаҵ ҟаҵалатәуп, уаанӡатәи ацәаҳәа ахьаҵ "
+"хҩылааны."
 
 #: data/org.gnome.TextEditor.gschema.xml:46
 msgid "Tab Width"
@@ -194,7 +196,7 @@ msgstr ""
 
 #: data/org.gnome.TextEditor.gschema.xml:113
 msgid "Automatically check spelling"
-msgstr ""
+msgstr "Автоматикла аиашаҩыра агәаҭара"
 
 #: data/org.gnome.TextEditor.gschema.xml:114
 msgid "If enabled, then Text Editor will check spelling as you type."
@@ -272,9 +274,9 @@ msgstr ""
 msgid "The GNOME Project"
 msgstr ""
 
-#: src/editor-application-actions.c:210
+#: src/editor-application-actions.c:207
 msgid "translator-credits"
-msgstr ""
+msgstr "Ser82-png <asvmail.as@gmail.com>, 2022"
 
 #: src/editor-application.c:460
 msgid "Standard input was requested multiple times. Ignoring request."
@@ -407,11 +409,9 @@ msgstr ""
 msgid "Draft"
 msgstr ""
 
-#. translators: %s is replaced with the path on the filesystem
 #: src/editor-page.c:1021
-#, c-format
 msgid "%s (Administrator)"
-msgstr ""
+msgstr "%s(Анаԥхгаҩы)"
 
 #: src/editor-page.c:1029 src/editor-sidebar-item.c:98
 msgid "Document Portal"
@@ -454,9 +454,9 @@ msgstr ""
 msgid "Indentation"
 msgstr ""
 
-#: src/editor-page.ui:156 src/editor-window.ui:279
+#: src/editor-page.ui:156+src/editor-window.ui:279
 msgid "_Automatic Indentation"
-msgstr ""
+msgstr "_Автоматикалатәи ахьаҵ"
 
 #. Translators: this is a tab character, not a browser tab
 #: src/editor-page.ui:162 src/editor-window.ui:283
@@ -471,21 +471,21 @@ msgstr ""
 msgid "Spaces _Per Tab"
 msgstr ""
 
-#: src/editor-page.ui:176 src/editor-page.ui:204
+#: src/editor-page.ui:176+src/editor-page.ui:204
 msgid "2"
-msgstr ""
+msgstr "2"
 
-#: src/editor-page.ui:181 src/editor-page.ui:209
+#: src/editor-page.ui:181+src/editor-page.ui:209
 msgid "4"
-msgstr ""
+msgstr "4"
 
-#: src/editor-page.ui:186 src/editor-page.ui:214
+#: src/editor-page.ui:186+src/editor-page.ui:214
 msgid "6"
-msgstr ""
+msgstr "6"
 
-#: src/editor-page.ui:191 src/editor-page.ui:219
+#: src/editor-page.ui:191+src/editor-page.ui:219
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: src/editor-page.ui:197
 msgid "Spaces Per Indent"
@@ -535,7 +535,7 @@ msgstr ""
 
 #: src/editor-preferences-dialog.ui:113
 msgid "Discover Document Settings"
-msgstr ""
+msgstr "Адокумент автоматикла архиарақәа  рышьақәыргылара"
 
 #: src/editor-preferences-dialog.ui:114
 msgid "Apply settings using modelines, editorconfig, or sensible defaults"
@@ -640,7 +640,7 @@ msgstr ""
 
 #: src/editor-save-changes-dialog.c:293
 msgid "Untitled Document"
-msgstr ""
+msgstr "Ихьӡыдоу адокумент"
 
 #. translators: %s is replaced with the title of the file
 #: src/editor-save-changes-dialog.c:296
@@ -755,19 +755,19 @@ msgstr[1] ""
 
 #: src/editor-utils.c:370
 msgid "Unix/Linux (LF)"
-msgstr ""
+msgstr "Unix/Linux (LF)"
 
 #: src/editor-utils.c:371
 msgid "Mac OS Classic (CR)"
-msgstr ""
+msgstr "Mac OS Classic (CR)"
 
 #: src/editor-utils.c:372
 msgid "Windows (CR+LF)"
-msgstr ""
+msgstr "Windows (CR+LF)"
 
 #: src/editor-utils.c:402
 msgid "Automatically Detected"
-msgstr ""
+msgstr "Ахала аилкаара"
 
 #: src/editor-utils.c:418
 msgid "Character Encoding:"
@@ -920,19 +920,19 @@ msgstr ""
 
 #: src/editor-window.ui:296
 msgid "_2"
-msgstr ""
+msgstr "_2"
 
 #: src/editor-window.ui:301
 msgid "_4"
-msgstr ""
+msgstr "_4"
 
 #: src/editor-window.ui:306
 msgid "_6"
-msgstr ""
+msgstr "_6"
 
 #: src/editor-window.ui:311
 msgid "_8"
-msgstr ""
+msgstr "_8"
 
 #: src/editor-window.ui:320
 msgid "T_ext Wrapping"
@@ -964,7 +964,7 @@ msgstr ""
 
 #: src/enchant/editor-enchant-spell-provider.c:123
 msgid "Enchant 2"
-msgstr ""
+msgstr "Enchant 2"
 
 #: src/help-overlay.ui:9
 msgctxt "shortcut window"

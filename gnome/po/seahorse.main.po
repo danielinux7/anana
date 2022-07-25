@@ -135,7 +135,7 @@ msgstr ""
 
 #: common/seahorse-add-keyserver.ui:93
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: common/seahorse-add-keyserver.ui:105
 msgid "The port to access the server on."
@@ -159,11 +159,11 @@ msgstr ""
 
 #: common/seahorse-prefs-keyservers.ui:84
 msgid "Automatically retrieve keys from _key servers"
-msgstr ""
+msgstr "Авто_матикла асервер ацыԥхақәа рҭагалара"
 
 #: common/seahorse-prefs-keyservers.ui:99
 msgid "Automatically synchronize _modified keys with key servers"
-msgstr ""
+msgstr "Автоматикла асинхронтәра ипсаху ацаԥхақәеи асервер ацыԥхақәеи"
 
 #: common/server-category.vala:63
 msgid "LDAP Key Server"
@@ -282,7 +282,7 @@ msgstr ""
 
 #: data/org.gnome.seahorse.gschema.xml:5
 msgid "Auto retrieve keys"
-msgstr ""
+msgstr "Автоматикла ацаԥхақәа роура"
 
 #: data/org.gnome.seahorse.gschema.xml:6
 msgid "Whether or not keys should be automatically retrieved from key servers."
@@ -290,7 +290,7 @@ msgstr ""
 
 #: data/org.gnome.seahorse.gschema.xml:10
 msgid "Auto publish keys"
-msgstr ""
+msgstr "Автоматикла ацаԥхақәа ркьыԥхьра "
 
 #: data/org.gnome.seahorse.gschema.xml:11
 msgid "Whether or not modified keys should be automatically published."
@@ -779,9 +779,9 @@ msgstr ""
 msgid "Must be at least 5 characters long"
 msgstr ""
 
-#: pgp/seahorse-gpgme-add-uid.ui:55 pgp/seahorse-gpgme-generate-dialog.ui:92
+#: pgp/seahorse-gpgme-add-uid.ui:55+pgp/seahorse-gpgme-generate-dialog.ui:92
 msgid "_Email Address"
-msgstr ""
+msgstr "_Аел. ԥошьҭа аҭыӡҭыԥ"
 
 #: pgp/seahorse-gpgme-add-uid.ui:72
 msgid "Optional email address"
@@ -848,14 +848,13 @@ msgstr ""
 msgid "PGP keys"
 msgstr ""
 
-#: pgp/seahorse-gpgme-generate-dialog.c:81 pkcs11/pkcs11-generate.vala:60
-#: ssh/seahorse-ssh-generate.ui:130
+#: pgp/seahorse-gpgme-generate-dialog.c:81+pkcs11/pkcs11-generate.vala:60+ssh/seahorse-ssh-generate.ui:130
 msgid "RSA"
-msgstr ""
+msgstr "RSA"
 
 #: pgp/seahorse-gpgme-generate-dialog.c:82
 msgid "DSA ElGamal"
-msgstr ""
+msgstr "DSA ElGamal"
 
 #: pgp/seahorse-gpgme-generate-dialog.c:98
 msgid "Couldn’t generate PGP key"
@@ -998,11 +997,12 @@ msgid "GnuPG: default keyring directory"
 msgstr ""
 
 #: pgp/seahorse-gpgme-photos.c:69
-#, c-format
 msgid ""
 "<big><b>The photo is too large</b></big>\n"
 "The recommended size for a photo on your key is %d × %d pixels."
 msgstr ""
+"<big><b>Аԥшранҵа амцхә идууп</b></big>\n"
+" адгаларатә рышәага аԥшранҵақәа  ацаԥхаҟны — %d × %d акәаԥқәа."
 
 #: pgp/seahorse-gpgme-photos.c:74
 msgid "_Don’t Resize"
@@ -1180,6 +1180,8 @@ msgid ""
 "<i>Not at all:</i> means you believe the key is owned by the person who "
 "claims to own it, but you could not or did not verify this to be a fact."
 msgstr ""
+"<i>Зынӡаск:</i> иаанагоит, шәара ишхашәҵо, ари ацаԥха ԥшәымас иарбоу аӡәы "
+"ишитәу,  аха шәара уи гәашәымҭаӡеит."
 
 #: pgp/seahorse-gpgme-sign-dialog.ui:140
 msgid ""
@@ -1187,12 +1189,17 @@ msgid ""
 "owned by the person who claims to own it. For example, you could read the "
 "key fingerprint to the owner over the phone."
 msgstr ""
+"<i>Ақәыԥшылара:</i> иаанагоит, шәара ишымҩаԥыжәгаз  ақәыԥшыларатә гәаҭара "
+"ацаԥха зтәу ԥшәмаҵас иану шиакәу аилкааразы.Иаҳҳәап, шәареи аԥшәмеи "
+"телефонла еиҿарԥшны игәашәҭеит ацаԥха ашьҭра ."
 
 #: pgp/seahorse-gpgme-sign-dialog.ui:161
 msgid ""
 "<i>Very Carefully:</i> Select this only if you are absolutely sure that this "
 "key is genuine."
 msgstr ""
+"<i>Даараӡа шәазхәыцны:</i> Иалышәха ари авариант, ишҵабыргыцәҟьоу агәра "
+"анышәгалак ашьҭахь."
 
 #: pgp/seahorse-gpgme-sign-dialog.ui:177
 msgid ""
@@ -1219,7 +1226,7 @@ msgstr ""
 
 #: pgp/seahorse-gpgme-sign-dialog.ui:300
 msgid "_Signer:"
-msgstr ""
+msgstr "_Анапаҵҩыра аԥҵаҩы:"
 
 #: pgp/seahorse-gpgme-sign-dialog.ui:335
 #: pgp/seahorse-pgp-uid-list-box-row.ui:11
@@ -1233,7 +1240,7 @@ msgstr ""
 
 #: pgp/seahorse-gpgme-subkey.c:86
 msgid "ElGamal"
-msgstr ""
+msgstr "ElGamal"
 
 #: pgp/seahorse-keyserver-results.c:62
 #, c-format
@@ -1785,7 +1792,7 @@ msgstr ""
 
 #: pkcs11/pkcs11-private-key.vala:61
 msgid "Unnamed private key"
-msgstr ""
+msgstr "Ихьӡыдоу ихҩоу ацаԥха"
 
 #: pkcs11/pkcs11-private-key.vala:70 src/seahorse-key-manager.ui:227
 msgid "Private key"
@@ -1793,7 +1800,7 @@ msgstr ""
 
 #: pkcs11/pkcs11-properties.vala:98
 msgid "Unnamed"
-msgstr ""
+msgstr "Ихьӡыдоу"
 
 #: pkcs11/pkcs11-properties.vala:130
 msgid "Failed to export certificate"
@@ -1902,7 +1909,7 @@ msgstr ""
 
 #: src/application.vala:176
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: src/application.vala:179
 msgid "Seahorse Project Homepage"
@@ -2263,19 +2270,19 @@ msgstr ""
 
 #: ssh/seahorse-ssh-generate.ui:94
 msgid "Your email address, or a reminder of what this key is for."
-msgstr ""
+msgstr "Аел. ԥошьҭа аҭыӡҭыԥ мамзар даҽа гәаларшәарак ацаԥха азалхразы"
 
 #: ssh/seahorse-ssh-generate.ui:131
 msgid "DSA"
-msgstr ""
+msgstr "DSA"
 
 #: ssh/seahorse-ssh-generate.ui:132
 msgid "ECDSA"
-msgstr ""
+msgstr "ECDSA"
 
 #: ssh/seahorse-ssh-generate.ui:133
 msgid "ED25519"
-msgstr ""
+msgstr "ED25519"
 
 #: ssh/seahorse-ssh-generate.ui:178
 msgid ""
@@ -2299,7 +2306,7 @@ msgstr ""
 
 #: ssh/seahorse-ssh-key-properties.ui:98
 msgid "Algorithm"
-msgstr ""
+msgstr "Алгоритм"
 
 #: ssh/seahorse-ssh-key-properties.ui:131
 msgid "Key Length"
@@ -2349,7 +2356,7 @@ msgstr ""
 
 #: ssh/seahorse-ssh-upload.ui:48
 msgid "_Server address:"
-msgstr ""
+msgstr "_Асервер аҭыӡҭыԥ"
 
 #: ssh/seahorse-ssh-upload.ui:77
 msgid "eg: fileserver.example.com:port"
@@ -2368,14 +2375,12 @@ msgid "OpenSSH keys"
 msgstr ""
 
 #: ssh/source.vala:51
-#, c-format
 msgid "OpenSSH: %s"
-msgstr ""
+msgstr "OpenSSH: %s"
 
 #: ssh/source.vala:55
-#, c-format
 msgid "openssh://%s"
-msgstr ""
+msgstr "openssh://%s"
 
 #: ssh/source.vala:250
 msgid "No private key file is available for this key."
@@ -2388,3 +2393,15 @@ msgstr ""
 #: ssh/upload.vala:71
 msgid "Configuring Secure Shell Keys…"
 msgstr ""
+
+#: pgp/seahorse-keyserver-sync.c:196
+msgid "<b>%d key is selected for synchronizing</b>\n"
+msgid_plural "<b>%d keys are selected for synchronizing</b>"
+msgstr[0] ""
+"<b>%d ацыԥха алхуп </b> асин-\n"
+"хронтәразы\n"
+msgstr[1] ""
+"<b>%d ацыԥха алхуп </b> асин-\n"
+"хронтәразы\n"
+"алхуп  </b> асин-\n"
+"хронтәразы"

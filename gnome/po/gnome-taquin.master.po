@@ -334,27 +334,25 @@ msgstr ""
 msgid "About"
 msgstr ""
 
-#. Translators: on really small windows, the about dialog is replaced by an in-window view; here is the label of one of two buttons that have the same role as the stack switcher in the usual about dialog, the first is "About"
 #: src/about-list.vala:46
 msgid "Credits"
-msgstr ""
+msgstr " Аҭабурақәа"
 
-#. Translators: on really small windows, the about dialog is replaced by an in-window view; here is the label of the link to the GPL license; TODO better text, as in the usual about dialog
 #: src/about-list.vala:135
 msgid ""
 "GNU General Public License\n"
 "version 3 or later"
 msgstr ""
+"GNU General Public License\n"
+"аверсиа 3 мамзар еиҳа иҿыцу"
 
-#. Translators: on really small windows, the about dialog is replaced by an in-window view; here is the header of the programmers names
 #: src/about-list.vala:154
 msgid "Creators"
-msgstr ""
+msgstr "Аԥҵаҩцәа"
 
-#. Translators: on really small windows, the about dialog is replaced by an in-window view; here is the header of the documenters names
 #: src/about-list.vala:161
 msgid "Documenters"
-msgstr ""
+msgstr "Адокументқәа раԥҵаҩцәа"
 
 #. Translators: on really small windows, the about dialog is replaced by an in-window view; here is the header of the translators names
 #: src/about-list.vala:166
@@ -473,10 +471,9 @@ msgstr ""
 msgid "Turn off the sound"
 msgstr ""
 
-#. Translators: command-line option description, see 'gnome-taquin --help'
 #: src/taquin-main.vala:67
 msgid "Turn on the sound"
-msgstr ""
+msgstr "Абжьы аҿакра"
 
 #. Translators: command-line option description, see 'gnome-taquin --help'
 #: src/taquin-main.vala:70
@@ -558,50 +555,64 @@ msgstr ""
 msgid "A classic 15-puzzle game"
 msgstr ""
 
-#. Translators: about dialog text crediting an artist (a photograph), with the website where the image was published
 #: src/taquin-main.vala:652
 msgid "Abelard (Wikimedia)"
-msgstr ""
+msgstr "Abelard (Wikimedia)"
 
 #: src/taquin-main.vala:652
 msgid "Alvesgaspar (Wikimedia)"
-msgstr ""
+msgstr "Alvesgaspar (Wikimedia)"
 
 #: src/taquin-main.vala:652
 msgid "Mueller-rech.muenchen (Wikimedia)"
-msgstr ""
+msgstr "Mueller-rech.muenchen (Wikimedia)"
 
 #: src/taquin-main.vala:653
 msgid "Ruskis (Wikimedia)"
-msgstr ""
+msgstr "Ruskis (Wikimedia)"
 
 #: src/taquin-main.vala:653
 msgid "Toyah (Wikimedia)"
-msgstr ""
+msgstr "Toyah (Wikimedia)"
 
 #. Translators: about dialog text; in the Credits, text at the end of the "Artwork by" section
 #: src/taquin-main.vala:656
 msgid "(see COPYING.themes for information)"
 msgstr ""
 
-#. Translators: about dialog text crediting an author
-#. Translators: about dialog text crediting a documenter
-#: src/taquin-main.vala:660 src/taquin-main.vala:668
+#: src/taquin-main.vala:660+src/taquin-main.vala:668
 msgid "Arnaud Bonatti"
-msgstr ""
+msgstr "Arnaud Bonatti"
 
-#. Translators: about dialog text crediting a maintainer; the %u are replaced with the years of start and end
 #: src/taquin-main.vala:664
-#, c-format
 msgid "Copyright © %u-%u – Arnaud Bonatti"
-msgstr ""
+msgstr "Copyright © %u-%u – Arnaud Bonatti"
 
-#. Translators: about dialog text; this string should be replaced by a text crediting yourselves and your translation team, or should be left empty. Do not translate literally!
 #: src/taquin-main.vala:673
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #. Translators: about dialog text; label of the website link
 #: src/taquin-main.vala:678
 msgid "Page on GNOME wiki"
 msgstr ""
+
+#: src/taquin-main.vala:161+src/taquin-main.vala:172
+msgid "3 × 31 minute"
+msgstr "3 × 3        1 минуҭк"
+
+#: src/taquin-main.vala:164
+msgid "4 × 45 minutes"
+msgstr "4 × 4        5 минуҭк"
+
+#: src/taquin-main.vala:167
+msgid "5 × 515 minutes"
+msgstr "5 × 5        15 минуҭ"
+
+#: src/taquin-main.vala:175
+msgid "4 × 43 minutes"
+msgstr "4 × 4        3 минуҭк"
+
+#: src/taquin-main.vala:178
+msgid "5 × 55 minutes"
+msgstr "5 × 5        5 минуҭк"

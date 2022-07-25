@@ -1,7 +1,6 @@
-# Abkhazian translation for cheese.
-# Copyright (C) 2021 cheese's COPYRIGHT HOLDER
+# Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
 # This file is distributed under the same license as the cheese package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
 msgid ""
 msgstr ""
@@ -9,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/cheese/issues\n"
 "POT-Creation-Date: 2022-07-15 18:47+0000\n"
 "PO-Revision-Date: 2019-07-26 07:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Нанба Наала <naala-nanba@rambler.ru>\n"
 "Language-Team: Abkhazian <ab@li.org>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
@@ -180,11 +179,9 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#. Both taken from the desktop file.
-#: data/org.gnome.Cheese.appdata.xml.in:9 data/org.gnome.Cheese.desktop.in:3
-#: src/cheese-application.vala:116 src/cheese-application.vala:582
+#: data/org.gnome.Cheese.appdata.xml.in:9+data/org.gnome.Cheese.desktop.in:3+src/cheese-application.vala:116+src/cheese-application.vala:582
 msgid "Cheese"
-msgstr ""
+msgstr "Cheese"
 
 #: data/org.gnome.Cheese.appdata.xml.in:10 data/org.gnome.Cheese.desktop.in:5
 #: src/cheese-application.vala:577
@@ -593,3 +590,7 @@ msgstr ""
 #: src/cheese-window.vala:1446
 msgid "Take Multiple Photos"
 msgstr ""
+
+#: libcheese/cheese-camera.c:1874
+msgid "%02i:%02i:%02i"
+msgstr "%02i:%02i:%02i"

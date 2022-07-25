@@ -702,3 +702,902 @@ msgstr "_Ажәақәа зегьы набан дула рылагара"
 #: gtksourceview/gtksourceview.c:1880
 msgid "C_hange Case"
 msgstr "_Аихшага аԥсахра"
+
+#: gdk/keyname-table.h:6843
+msgid "BackSpace"
+msgstr "BackSpace"
+
+#: gdk/keyname-table.h:6844
+msgctxt "gdk/keyname-table.h:6844"
+msgid "Tab"
+msgstr "Tab"
+
+#: gdk/keyname-table.h:6845
+msgid "Return"
+msgstr "Return"
+
+#: gdk/keyname-table.h:6846
+msgid "Pause"
+msgstr "Pause"
+
+#: gdk/keyname-table.h:6849
+msgid "Escape"
+msgstr "Escape"
+
+#: gdk/keyname-table.h:6851
+msgid "Home"
+msgstr "Home"
+
+#: gdk/keyname-table.h:6858
+msgid "End"
+msgstr "End"
+
+#: gdk/keyname-table.h:6859
+msgid "Begin"
+msgstr "Begin"
+
+#: gdk/keyname-table.h:6860
+msgid "Print"
+msgstr "Print"
+
+#: gdk/keyname-table.h:6861
+msgid "Insert"
+msgstr "Insert"
+
+#: gdk/keyname-table.h:6880
+msgid "Delete"
+msgstr "Delete"
+
+#: gdk/keyname-table.h:6905
+msgid "Battery"
+msgstr "Абатареиа"
+
+#: gdk/keyname-table.h:6907
+msgid "Forward"
+msgstr "Ԥхьаҟа"
+
+#: gdk/keyname-table.h:6911
+msgid "WLAN"
+msgstr "WLAN"
+
+#: gtk/a11y/gtkatspiaction.c:380
+msgid "Activates the color"
+msgstr "Активациа азнауеит аԥштәы"
+
+#: gtk/a11y/gtkatspiaction.c:440
+msgid "Activates the expander"
+msgstr "Активациа азнауеит аиҵыхга"
+
+#: gtk/a11y/gtkatspiaction.c:496+gtk/a11y/gtkatspiaction.c:604+gtk/a11y/gtkatspiaction.c:691
+msgid "Activates the entry"
+msgstr "Активациа азнауеит анҵамҭа"
+
+#: gtk/a11y/gtkatspiaction.c:503
+msgid "Activate primary icon"
+msgstr "Активациа азура ихадоу адыргаҷ"
+
+#: gtk/a11y/gtkatspiaction.c:504
+msgid "Activates the primary icon of the entry"
+msgstr "Активациа азнауеит ихадоу адырга анҵамҭаҟны"
+
+#: gtk/a11y/gtkatspiaction.c:511
+msgid "Activate secondary icon"
+msgstr "Аҩынтәтәи адыргаҷ активациа азура"
+
+#: gtk/gtkaboutdialog.c:130
+msgid "BSD 2-Clause License"
+msgstr "BSD 2-Clause License"
+
+#: gtk/gtkaboutdialog.c:131
+msgid "The MIT License (MIT)"
+msgstr "The MIT License (MIT)"
+
+#: gtk/gtkaboutdialog.c:132
+msgid "Artistic License 2.0"
+msgstr "Artistic License 2.0"
+
+#: gtk/gtkaboutdialog.c:2074
+msgid "Created by"
+msgstr "Аԥҵаҩы"
+
+#: gtk/gtkaccelgroup.c:837+gtk/gtkshortcutlabel.c:100+gtk/gtkshortcutlabel.c:136
+msgid "Shift"
+msgstr "Shift"
+
+#: gtk/gtkaccelgroup.c:856+gtk/gtkshortcutlabel.c:103+gtk/gtkshortcutlabel.c:138
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: gtk/gtkaccelgroup.c:875+gtk/gtkshortcutlabel.c:106+gtk/gtkshortcutlabel.c:140
+msgid "Alt"
+msgstr "Alt"
+
+#: gtk/gtkaccelgroup.c:893+gtk/gtkshortcutlabel.c:112+gtk/gtkshortcutlabel.c:142
+msgid "Super"
+msgstr "Super"
+
+#: gtk/gtkaccelgroup.c:907+gtk/gtkshortcutlabel.c:115+gtk/gtkshortcutlabel.c:144
+msgid "Hyper"
+msgstr "Hyper"
+
+#: gtk/gtkaccelgroup.c:922+gtk/gtkshortcutlabel.c:109+gtk/gtkshortcutlabel.c:146
+msgid "Meta"
+msgstr "Meta"
+
+#: gtk/gtkaccelgroup.c:942
+msgid "KP"
+msgstr "KP"
+
+#: gtk/gtkaccelgroup.c:952+gtk/gtkshortcutlabel.c:171
+msgid "Backslash"
+msgstr "Backslash"
+
+#: gtk/gtkaccessible.c:576
+msgid "group"
+msgstr "Агәыԥ"
+
+#: gtk/gtkaccessible.c:589
+msgid "marquee"
+msgstr "иҩуа ацәаҳәа"
+
+#: gtk/gtkcalendar.c:807
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+#: gtk/gtkcalendar.c:1394
+msgid "%Y"
+msgstr "%Y"
+
+#: gtk/gtkcalendar.c:1431
+msgctxt "gtk/gtkcalendar.c:1431"
+msgid "%d"
+msgstr "%d"
+
+#: gtk/gtkcalendar.c:1495
+msgctxt "gtk/gtkcalendar.c:1495"
+msgid "%d"
+msgstr "%d"
+
+#: gtk/gtkcellrendererprogress.c:128+gtk/gtkcellrendererprogress.c:318+gtk/gtkcellrendererprogress.c:348
+msgctxt ""
+"gtk/gtkcellrendererprogress.c:128 gtk/gtkcellrendererprogress.c:318 gtk/"
+"gtkcellrendererprogress.c:348"
+msgid "%d %%"
+msgstr "%d %%"
+
+#: gtk/gtkcolorchooserwidget.c:471
+msgid "White"
+msgstr "Ашкәакәа"
+
+#: gtk/gtkcustompaperunixdialog.c:112
+msgid "default:mm"
+msgstr "default:mm"
+
+#: gtk/gtkfilechooserutils.c:361
+msgid "%1$s on %2$s"
+msgstr "%1$s аҟны  %2$s"
+
+#: gtk/gtkfilechooserwidget.c:4214+gtk/gtkfilechooserwidget.c:4257
+msgid "%H:%M"
+msgstr "%H:%M"
+
+#: gtk/gtkfilechooserwidget.c:4216+gtk/gtkfilechooserwidget.c:4259
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+#: gtk/gtkfilechooserwidget.c:4325
+msgid "Archive"
+msgstr "Архивтәра"
+
+#: gtk/gtkfontbutton.c:395
+msgid "Sans 12"
+msgstr "Sans 12"
+
+#: gtk/gtkmain.c:786
+msgid "default:LTR"
+msgstr "default:LTR"
+
+#: gtk/gtkmediacontrols.c:99
+msgid "%d:%02d:%02d"
+msgstr "%d:%02d:%02d"
+
+#: gtk/gtkmediacontrols.c:107
+msgid "-%d:%02d:%02d"
+msgstr "-%d:%02d:%02d"
+
+#: gtk/gtkmediacontrols.c:118
+msgid "-%d:%02d"
+msgstr "-%d:%02d"
+
+#: gtk/gtkmediacontrols.c:127
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+#: gtk/gtkmessagedialog.c:158+gtk/gtkmessagedialog.c:176+gtk/gtkprintbackend.c:641+gtk/gtkwindow.c:6111
+msgid "_OK"
+msgstr "_OK"
+
+#: gtk/gtkmessagedialog.c:171
+msgid "_Yes"
+msgstr "_Ааи"
+
+#: gtk/gtkmountoperation.c:726
+msgid "_PIM"
+msgstr "_PIM"
+
+#: gtk/gtkmountoperation-x11.c:986
+msgid "Bourne Again Shell"
+msgstr "Bourne Again Shell"
+
+#: gtk/gtkmountoperation-x11.c:987
+msgid "Bourne Shell"
+msgstr "Bourne Shell"
+
+#: gtk/gtkmountoperation-x11.c:988
+msgid "Z Shell"
+msgstr "Z Shell"
+
+#: gtk/gtknotebook.c:4037
+msgctxt "gtk/gtknotebook.c:4037"
+msgid "Tab"
+msgstr "Tab"
+
+#: gtk/gtkplacesview.c:1605
+msgid "AppleTalk"
+msgstr "AppleTalk"
+
+#: gtk/gtkplacesview.c:1639
+msgid "WebDAV"
+msgstr "WebDAV"
+
+#: gtk/gtkprogressbar.c:606
+msgid "%.0f %%"
+msgstr "%.0f %%"
+
+#: gtk/gtkshortcutlabel.c:78
+msgid "L"
+msgstr "L"
+
+#: gtk/gtkshortcutlabel.c:91
+msgid "R"
+msgstr "R"
+
+#: gtk/gtkvolumebutton.c:245
+msgctxt "gtk/gtkvolumebutton.c:245"
+msgid "%d %%"
+msgstr "%d %%"
+
+#: gtk/inspector/a11y.ui:66
+msgid "Attribute"
+msgstr "Аҟазшьарбага"
+
+#: gtk/inspector/css-node-tree.ui:48+tools/gtk-builder-tool-preview.c:178+tools/gtk-builder-tool-screenshot.c:358
+msgid "ID"
+msgstr "ID"
+
+#: gtk/inspector/menu.c:95
+msgid "Unnamed section"
+msgstr "Ихьӡыдоу аҟәша"
+
+#: gtk/inspector/misc-info.ui:32
+msgid "Address"
+msgstr "Аҭыӡҭыԥ"
+
+#: gtk/inspector/prop-editor.c:1420
+msgid "Attribute:"
+msgstr "Аҟазшьарбага:"
+
+#: gtk/inspector/prop-editor.c:1596
+msgid "XSettings"
+msgstr "XSettings"
+
+#: gtk/inspector/visual.ui:307
+msgid "Animations"
+msgstr "Анимациа"
+
+#: gtk/inspector/window.ui:610
+msgid "CSS"
+msgstr "CSS"
+
+#: gtk/open-type-layout.h:17
+msgid "Alternative Fractions"
+msgstr "Альтернативтә фракциақәа"
+
+#: gtk/open-type-layout.h:18
+msgid "Akhands"
+msgstr "Ахандс"
+
+#: gtk/open-type-layout.h:48
+msgid "Alternate Half Widths"
+msgstr "Альтернативтә ибжатоу аҭбаара"
+
+#: gtk/open-type-layout.h:58
+msgid "Justification Alternates"
+msgstr "Аиҟаратәра альтерантива"
+
+#: gtk/open-type-layout.h:77
+msgid "Alternate Annotation Forms"
+msgstr "Аннотациа альтеранативтә формақәа"
+
+#: gtk/open-type-layout.h:136
+msgid "Trailing Jamo Forms"
+msgstr "Trailing Jamo Forms"
+
+#: gtk/open-type-layout.h:142
+msgid "Alternate Vertical Metrics"
+msgstr "Альтернативтә агәҵәылатәи аметрика"
+
+#: gtk/open-type-layout.h:145
+msgid "Alternate Vertical Half Metrics"
+msgstr "Альтернативтә агәҵәылатәи ибжатоу аметрикақәа"
+
+#: gtk/paper_names_offsets.c:4
+msgid "asme_f"
+msgstr "asme_f"
+
+#: gtk/paper_names_offsets.c:5
+msgid "A0×2"
+msgstr "A0×2"
+
+#: gtk/paper_names_offsets.c:6
+msgid "A0"
+msgstr "A0"
+
+#: gtk/paper_names_offsets.c:7
+msgid "A0×3"
+msgstr "A0×3"
+
+#: gtk/paper_names_offsets.c:8
+msgid "A1"
+msgstr "A1"
+
+#: gtk/paper_names_offsets.c:9
+msgid "A10"
+msgstr "A10"
+
+#: gtk/paper_names_offsets.c:10
+msgid "A1×3"
+msgstr "A1×3"
+
+#: gtk/paper_names_offsets.c:11
+msgid "A1×4"
+msgstr "A1×4"
+
+#: gtk/paper_names_offsets.c:12
+msgid "A2"
+msgstr "A2"
+
+#: gtk/paper_names_offsets.c:13
+msgid "A2×3"
+msgstr "A2×3"
+
+#: gtk/paper_names_offsets.c:14
+msgid "A2×4"
+msgstr "A2×4"
+
+#: gtk/paper_names_offsets.c:15
+msgid "A2×5"
+msgstr "A2×5"
+
+#: gtk/paper_names_offsets.c:16
+msgid "A3"
+msgstr "A3"
+
+#: gtk/paper_names_offsets.c:17
+msgid "A3 Extra"
+msgstr "A3 Extra"
+
+#: gtk/paper_names_offsets.c:18
+msgid "A3×3"
+msgstr "A3×3"
+
+#: gtk/paper_names_offsets.c:19
+msgid "A3×4"
+msgstr "A3×4"
+
+#: gtk/paper_names_offsets.c:20
+msgid "A3×5"
+msgstr "A3×5"
+
+#: gtk/paper_names_offsets.c:21
+msgid "A3×6"
+msgstr "A3×6"
+
+#: gtk/paper_names_offsets.c:22
+msgid "A3×7"
+msgstr "A3×7"
+
+#: gtk/paper_names_offsets.c:23
+msgid "A4"
+msgstr "A4"
+
+#: gtk/paper_names_offsets.c:24
+msgid "A4 Extra"
+msgstr "A4 Extra"
+
+#: gtk/paper_names_offsets.c:25
+msgid "A4 Tab"
+msgstr "A4 Tab"
+
+#: gtk/paper_names_offsets.c:26
+msgid "A4×3"
+msgstr "A4×3"
+
+#: gtk/paper_names_offsets.c:27
+msgid "A4×4"
+msgstr "A4×4"
+
+#: gtk/paper_names_offsets.c:28
+msgid "A4×5"
+msgstr "A4×5"
+
+#: gtk/paper_names_offsets.c:29
+msgid "A4×6"
+msgstr "A4×6"
+
+#: gtk/paper_names_offsets.c:30
+msgid "A4×7"
+msgstr "A4×7"
+
+#: gtk/paper_names_offsets.c:31
+msgid "A4×8"
+msgstr "A4×8"
+
+#: gtk/paper_names_offsets.c:32
+msgid "A4×9"
+msgstr "A4×9"
+
+#: gtk/paper_names_offsets.c:33
+msgid "A5"
+msgstr "A5"
+
+#: gtk/paper_names_offsets.c:34
+msgid "A5 Extra"
+msgstr "A5 Extra"
+
+#: gtk/paper_names_offsets.c:35
+msgid "A6"
+msgstr "A6"
+
+#: gtk/paper_names_offsets.c:36
+msgid "A7"
+msgstr "A7"
+
+#: gtk/paper_names_offsets.c:37
+msgid "A8"
+msgstr "A8"
+
+#: gtk/paper_names_offsets.c:38
+msgid "A9"
+msgstr "A9"
+
+#: gtk/paper_names_offsets.c:39
+msgid "B0"
+msgstr "B0"
+
+#: gtk/paper_names_offsets.c:40
+msgid "B1"
+msgstr "B1"
+
+#: gtk/paper_names_offsets.c:41
+msgid "B10"
+msgstr "B10"
+
+#: gtk/paper_names_offsets.c:42
+msgid "B2"
+msgstr "B2"
+
+#: gtk/paper_names_offsets.c:43
+msgid "B3"
+msgstr "B3"
+
+#: gtk/paper_names_offsets.c:44
+msgid "B4"
+msgstr "B4"
+
+#: gtk/paper_names_offsets.c:45
+msgid "B5"
+msgstr "B5"
+
+#: gtk/paper_names_offsets.c:46
+msgid "B5 Extra"
+msgstr "B5 Extra"
+
+#: gtk/paper_names_offsets.c:47
+msgid "B6"
+msgstr "B6"
+
+#: gtk/paper_names_offsets.c:48
+msgid "B6/C4"
+msgstr "B6/C4"
+
+#: gtk/paper_names_offsets.c:49
+msgid "B7"
+msgstr "B7"
+
+#: gtk/paper_names_offsets.c:50
+msgid "B8"
+msgstr "B8"
+
+#: gtk/paper_names_offsets.c:51
+msgid "B9"
+msgstr "B9"
+
+#: gtk/paper_names_offsets.c:52
+msgid "C0"
+msgstr "C0"
+
+#: gtk/paper_names_offsets.c:53
+msgid "C1"
+msgstr "C1"
+
+#: gtk/paper_names_offsets.c:54
+msgid "C10"
+msgstr "C10"
+
+#: gtk/paper_names_offsets.c:55
+msgid "C2"
+msgstr "C2"
+
+#: gtk/paper_names_offsets.c:56
+msgid "C3"
+msgstr "C3"
+
+#: gtk/paper_names_offsets.c:57
+msgid "C4"
+msgstr "C4"
+
+#: gtk/paper_names_offsets.c:58
+msgid "C5"
+msgstr "C5"
+
+#: gtk/paper_names_offsets.c:59
+msgid "C6"
+msgstr "C6"
+
+#: gtk/paper_names_offsets.c:60
+msgid "C6/C5"
+msgstr "C6/C5"
+
+#: gtk/paper_names_offsets.c:61
+msgid "C7"
+msgstr "C7"
+
+#: gtk/paper_names_offsets.c:62
+msgid "C7/C6"
+msgstr "C7/C6"
+
+#: gtk/paper_names_offsets.c:63
+msgid "C8"
+msgstr "C8"
+
+#: gtk/paper_names_offsets.c:64
+msgid "C9"
+msgstr "C9"
+
+#: gtk/paper_names_offsets.c:66
+msgid "RA0"
+msgstr "RA0"
+
+#: gtk/paper_names_offsets.c:67
+msgid "RA1"
+msgstr "RA1"
+
+#: gtk/paper_names_offsets.c:68
+msgid "RA2"
+msgstr "RA2"
+
+#: gtk/paper_names_offsets.c:69
+msgid "RA3"
+msgstr "RA3"
+
+#: gtk/paper_names_offsets.c:70
+msgid "RA4"
+msgstr "RA4"
+
+#: gtk/paper_names_offsets.c:71
+msgid "SRA0"
+msgstr "SRA0"
+
+#: gtk/paper_names_offsets.c:72
+msgid "SRA1"
+msgstr "SRA1"
+
+#: gtk/paper_names_offsets.c:73
+msgid "SRA2"
+msgstr "SRA2"
+
+#: gtk/paper_names_offsets.c:74
+msgid "SRA3"
+msgstr "SRA3"
+
+#: gtk/paper_names_offsets.c:76
+msgid "JB0"
+msgstr "JB0"
+
+#: gtk/paper_names_offsets.c:77
+msgid "JB1"
+msgstr "JB1"
+
+#: gtk/paper_names_offsets.c:78
+msgid "JB10"
+msgstr "JB10"
+
+#: gtk/paper_names_offsets.c:79
+msgid "JB2"
+msgstr "JB2"
+
+#: gtk/paper_names_offsets.c:80
+msgid "JB3"
+msgstr "JB3"
+
+#: gtk/paper_names_offsets.c:81
+msgid "JB4"
+msgstr "JB4"
+
+#: gtk/paper_names_offsets.c:82
+msgid "JB5"
+msgstr "JB5"
+
+#: gtk/paper_names_offsets.c:83
+msgid "JB6"
+msgstr "JB6"
+
+#: gtk/paper_names_offsets.c:84
+msgid "JB7"
+msgstr "JB7"
+
+#: gtk/paper_names_offsets.c:85
+msgid "JB8"
+msgstr "JB8"
+
+#: gtk/paper_names_offsets.c:86
+msgid "JB9"
+msgstr "JB9"
+
+#: gtk/paper_names_offsets.c:87
+msgid "jis exec"
+msgstr "jis exec"
+
+#: gtk/paper_names_offsets.c:103
+msgid "10×11"
+msgstr "10×11"
+
+#: gtk/paper_names_offsets.c:104
+msgid "10×13"
+msgstr "10×13"
+
+#: gtk/paper_names_offsets.c:105
+msgid "10×14"
+msgstr "10×14"
+
+#: gtk/paper_names_offsets.c:106
+msgid "10×15"
+msgstr "10×15"
+
+#: gtk/paper_names_offsets.c:107
+msgid "11×12"
+msgstr "11×12"
+
+#: gtk/paper_names_offsets.c:108
+msgid "11×15"
+msgstr "11×15"
+
+#: gtk/paper_names_offsets.c:109
+msgid "12×19"
+msgstr "12×19"
+
+#: gtk/paper_names_offsets.c:110
+msgid "5×7"
+msgstr "5×7"
+
+#: gtk/paper_names_offsets.c:117
+msgid "Arch A"
+msgstr "Arch A"
+
+#: gtk/paper_names_offsets.c:118
+msgid "Arch B"
+msgstr "Arch B"
+
+#: gtk/paper_names_offsets.c:119
+msgid "Arch C"
+msgstr "Arch C"
+
+#: gtk/paper_names_offsets.c:120
+msgid "Arch D"
+msgstr "Arch D"
+
+#: gtk/paper_names_offsets.c:121
+msgid "Arch E"
+msgstr "Arch E"
+
+#: gtk/paper_names_offsets.c:122
+msgid "b-plus"
+msgstr "b-plus"
+
+#: gtk/paper_names_offsets.c:123
+msgid "c"
+msgstr "c"
+
+#: gtk/paper_names_offsets.c:125
+msgid "d"
+msgstr "d"
+
+#: gtk/paper_names_offsets.c:126
+msgid "e"
+msgstr "e"
+
+#: gtk/paper_names_offsets.c:127
+msgid "edp"
+msgstr "edp"
+
+#: gtk/paper_names_offsets.c:129
+msgid "Executive"
+msgstr "Executive"
+
+#: gtk/paper_names_offsets.c:130
+msgid "f"
+msgstr "f"
+
+#: gtk/paper_names_offsets.c:132
+msgid "Fan-Fold US"
+msgstr "Fan-Fold US"
+
+#: gtk/paper_names_offsets.c:133
+msgid "Fan-Fold German Legal"
+msgstr "Fan-Fold German Legal"
+
+#: gtk/paper_names_offsets.c:134
+msgid "Government Legal"
+msgstr "Government Legal"
+
+#: gtk/paper_names_offsets.c:135
+msgid "Government Letter"
+msgstr "Government Letter"
+
+#: gtk/paper_names_offsets.c:136
+msgid "Index 3×5"
+msgstr "Index 3×5"
+
+#: gtk/paper_names_offsets.c:137
+msgid "Index 4×6 (postcard)"
+msgstr "Index 4×6 (ашәҟәаарт)"
+
+#: gtk/paper_names_offsets.c:138
+msgid "Index 4×6 ext"
+msgstr "Index 4×6 ext"
+
+#: gtk/paper_names_offsets.c:139
+msgid "Index 5×8"
+msgstr "Index 5×8"
+
+#: gtk/paper_names_offsets.c:140
+msgid "Invoice"
+msgstr "Invoice"
+
+#: gtk/paper_names_offsets.c:141
+msgid "Tabloid"
+msgstr "Tabloid"
+
+#: gtk/paper_names_offsets.c:142
+msgid "US Legal"
+msgstr "US Legal"
+
+#: gtk/paper_names_offsets.c:143
+msgid "US Legal Extra"
+msgstr "US Legal Extra"
+
+#: gtk/paper_names_offsets.c:144
+msgid "US Letter"
+msgstr "US Letter"
+
+#: gtk/paper_names_offsets.c:145
+msgid "US Letter Extra"
+msgstr "US Letter Extra"
+
+#: gtk/paper_names_offsets.c:146
+msgid "US Letter Plus"
+msgstr "US Letter Plus"
+
+#: gtk/paper_names_offsets.c:153
+msgid "Oficio"
+msgstr "Oficio"
+
+#: gtk/paper_names_offsets.c:155
+msgid "Quarto"
+msgstr "Quarto"
+
+#: gtk/paper_names_offsets.c:156
+msgid "Super A"
+msgstr "Super A"
+
+#: gtk/paper_names_offsets.c:157
+msgid "Super B"
+msgstr "Super B"
+
+#: gtk/paper_names_offsets.c:159
+msgid "Photo L"
+msgstr "Photo L"
+
+#: gtk/paper_names_offsets.c:160
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+#: gtk/paper_names_offsets.c:161
+msgid "Folio"
+msgstr "Folio"
+
+#: gtk/paper_names_offsets.c:162
+msgid "Folio sp"
+msgstr "Folio sp"
+
+#: gtk/paper_names_offsets.c:165
+msgid "juuro-ku-kai"
+msgstr "juuro-ku-kai"
+
+#: gtk/paper_names_offsets.c:168
+msgid "pa-kai"
+msgstr "pa-kai"
+
+#: gtk/paper_names_offsets.c:174
+msgid "prc 16k"
+msgstr "prc 16k"
+
+#: gtk/paper_names_offsets.c:177
+msgid "prc 32k"
+msgstr "prc 32k"
+
+#: gtk/paper_names_offsets.c:184
+msgid "ROC 16k"
+msgstr "ROC 16k"
+
+#: gtk/paper_names_offsets.c:185
+msgid "ROC 8k"
+msgstr "ROC 8k"
+
+#: gtk/ui/gtkaboutdialog.ui:123
+msgid "Credits"
+msgstr " Аҭабурақәа"
+
+#: gtk/ui/gtkcoloreditor.ui:153
+msgid "A"
+msgstr "A"
+
+#: gtk/ui/gtkplacesview.ui:28
+msgid "Server Addresses"
+msgstr "Асерверқәа рҭыӡҭыԥқәа"
+
+#: gtk/ui/gtkplacesview.ui:40
+msgid ""
+"Server addresses are made up of a protocol prefix and an address. Examples:"
+msgstr ""
+"Асерверқәа рҭыӡҭыԥқәа шьыкәгылоуп апртотокол апрефиксла, насгьы аҭыӡҭыԥла."
+"Аҿырԥштәқәа:"
+
+#: gtk/ui/gtkprintunixdialog.ui:828
+msgid "A_t:"
+msgstr "_Аҟны:"
+
+#: modules/printbackends/gtkprintbackendcups.c:2704
+msgid "; "
+msgstr "; "
+
+#: modules/printbackends/gtkprintbackendcups.c:4632+modules/printbackends/gtkprintbackendcups.c:4634+modules/printbackends/gtkprintbackendcups.c:4642
+msgid "Auto Select"
+msgstr "Автоматикла алхра"
+
+#: modules/printbackends/gtkprintbackendfile.c:637
+msgid "PDF"
+msgstr "PDF"
+
+#: modules/printbackends/gtkprintbackendfile.c:637
+msgid "PostScript"
+msgstr "PostScript"
+
+#: modules/printbackends/gtkprintbackendfile.c:637
+msgid "SVG"
+msgstr "SVG"
+
+#: tools/updateiconcache.c:1660
+msgid "Include image data in the cache"
+msgstr "Асахьақәа кеш аҟны рҿакра"

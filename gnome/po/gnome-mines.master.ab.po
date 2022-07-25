@@ -371,3 +371,17 @@ msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022."
 #: src/theme-selector-dialog.vala:104
 msgid "Select Theme"
 msgstr "Атема алхра"
+
+#: src/gnome-mines.vala:301
+msgid "%d × %d, %d mine\n"
+msgid_plural "%d × %d, %d mines"
+msgstr[0] "%d × %d, %d амина\n"
+msgstr[1] "%d × %d, %d минак\n"
+
+#: src/gnome-mines.vala:452
+msgid "<b>%d</b> mine\n"
+msgid_plural "<b>%d</b> mines"
+msgstr[0] "<b>%d</b> минак\n"
+msgstr[1] ""
+"<b>%d</b> минак\n"
+"<b>%d</b> минак"

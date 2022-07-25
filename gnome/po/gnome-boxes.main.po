@@ -17,12 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: data/org.gnome.Boxes.appdata.xml.in:7 data/org.gnome.Boxes.desktop.in:3
-#: data/ui/app-window.ui:6 data/ui/collection-toolbar.ui:7 src/app.vala:117
-#: src/app-window.vala:105 src/app-window.vala:218 src/app-window.vala:220
-#: src/main.vala:72 src/topbar.vala:70
+#: data/org.gnome.Boxes.appdata.xml.in:7+data/org.gnome.Boxes.desktop.in:3+data/ui/app-window.ui:6+data/ui/collection-toolbar.ui:7+src/app.vala:117+src/app-window.vala:105+src/app-window.vala:218+src/app-window.vala:220+src/main.vala:72+src/topbar.vala:70
 msgid "Boxes"
-msgstr ""
+msgstr "Boxes"
 
 #: data/org.gnome.Boxes.appdata.xml.in:8
 msgid "Virtualization made simple"
@@ -47,6 +44,8 @@ msgid ""
 "Automatically install CentOS Stream, Debian, Fedora, Microsoft Windows, "
 "OpenSUSE, Red Hat Enterprise Linux, and Ubuntu."
 msgstr ""
+"Автоматикла иқәшәыргылала CentOS Stream, Debian, Fedora, Microsoft Windows, "
+"openSUSE, Red Hat Enterprise Linux и Ubuntu."
 
 #: data/org.gnome.Boxes.appdata.xml.in:20
 msgid ""
@@ -74,6 +73,8 @@ msgstr ""
 #: data/org.gnome.Boxes.appdata.xml.in:25
 msgid "Automatically resize virtual machines displays to the window size."
 msgstr ""
+"Авиртуалтә машьынақәа автоматикла рдисплеи ашәагаа аԥсахра аԥенџьырқәа "
+"ршәага инақәыршәаны"
 
 #: data/org.gnome.Boxes.appdata.xml.in:26
 msgid "Share clipboard between your system and virtual machines."
@@ -286,9 +287,9 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: data/ui/assistant/pages/review-page.ui:141
+#: data/ui/assistant/pages/review-page.ui:140
 msgid "Enable EFI"
-msgstr ""
+msgstr "EFI аҿакра"
 
 #: data/ui/assistant/pages/setup-page.ui:5 data/ui/welcome-tutorial.ui:49
 msgid "Express Installation"
@@ -475,7 +476,7 @@ msgstr ""
 
 #: data/ui/preferences/resources-page.ui:48
 msgid "IP Address"
-msgstr ""
+msgstr "IP- Аҭыӡҭыԥ"
 
 #: data/ui/preferences/resources-page.ui:73
 msgid "CPUs"
@@ -771,11 +772,9 @@ msgstr ""
 msgid "Previous"
 msgstr ""
 
-#. Translators: We show 'Live' tag next or below the name of live OS media or box based on such media.
-#. http://en.wikipedia.org/wiki/Live_CD
-#: src/assistant/media-entry.vala:18 src/util-app.vala:172
+#: src/assistant/media-entry.vala:18+src/util-app.vala:172
 msgid "Live"
-msgstr ""
+msgstr "Live"
 
 #: src/assistant/media-entry.vala:23
 msgid "32-bit x86 system"
@@ -807,11 +806,9 @@ msgstr ""
 msgid "Press & release (left) Ctrl+Alt to ungrab keyboard."
 msgstr ""
 
-#. Translators: Showing size of widget as WIDTH×HEIGHT here.
-#: src/display-page.vala:318
-#, c-format
+#: src/display-page.vala:324
 msgid "%d×%d"
-msgstr ""
+msgstr "%d×%d"
 
 #: src/display-toolbar.vala:70
 msgid "Exit fullscreen"
@@ -842,32 +839,31 @@ msgstr ""
 
 #: src/keys-input-popover.vala:27
 msgid "Ctrl + Alt + Backspace"
-msgstr ""
+msgstr "Ctrl + Alt + Backspace"
 
 #: src/keys-input-popover.vala:28
 msgid "Ctrl + Alt + Del"
-msgstr ""
+msgstr "Ctrl + Alt + Del"
 
-#. New section
 #: src/keys-input-popover.vala:32
 msgid "Ctrl + Alt + F1"
-msgstr ""
+msgstr "Ctrl + Alt + F1"
 
 #: src/keys-input-popover.vala:33
 msgid "Ctrl + Alt + F2"
-msgstr ""
+msgstr "Ctrl + Alt + F2"
 
 #: src/keys-input-popover.vala:34
 msgid "Ctrl + Alt + F3"
-msgstr ""
+msgstr "Ctrl + Alt + F3"
 
 #: src/keys-input-popover.vala:35
 msgid "Ctrl + Alt + F7"
-msgstr ""
+msgstr "Ctrl + Alt + F7"
 
 #: src/keys-input-popover.vala:36
 msgid "Ctrl + Alt + F9"
-msgstr ""
+msgstr "Ctrl + Alt + F9"
 
 #. Translators: Accessibility name for context menu with a set of keyboard combos (that would normally be
 #. intercepted by host/client, to send to the box.
@@ -1157,9 +1153,8 @@ msgid "Express installation of %s requires an internet connection."
 msgstr ""
 
 #: src/unattended-setup-box.vala:206
-#, c-format
 msgid "GNOME Boxes credentials for “%s”"
-msgstr ""
+msgstr "GNOME Boxes аккредитив аҭоуп «%s»азы"
 
 #: src/util-app.vala:368
 #, c-format
@@ -1200,7 +1195,7 @@ msgstr ""
 
 #: src/util.vala:334
 msgid "yes"
-msgstr ""
+msgstr "Ааи"
 
 #: src/util.vala:334
 msgid "no"

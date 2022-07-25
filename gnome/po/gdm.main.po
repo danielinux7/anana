@@ -200,7 +200,7 @@ msgstr ""
 
 #: daemon/gdm-session-worker.c:776
 msgid "Sorry, auto login didn’t work. Please try again."
-msgstr ""
+msgstr "Автоматикла аҭалара залымшахеит. Ҳшәвҳәоит еиҭа шәҽазышәшәарц"
 
 #: daemon/gdm-session-worker.c:779
 msgid "Sorry, fingerprint authentication didn’t work. Please try again."

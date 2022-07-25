@@ -90,10 +90,9 @@ msgid ""
 "The name of the dictionary source used to retrieve the definitions of words."
 msgstr ""
 
-#. Translators: Do not translate the Name key
 #: data/thai.desktop.in:4
 msgid "Thai"
-msgstr ""
+msgstr "Thai"
 
 #: data/thai.desktop.in:5
 msgid "Longdo Thai-English Dictionaries"
@@ -101,7 +100,7 @@ msgstr ""
 
 #: src/gdict-about.c:52
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: src/gdict-about.c:54
 msgid "Look up words in dictionaries"
@@ -137,7 +136,7 @@ msgstr ""
 
 #: src/gdict-app-menus.ui:40
 msgid "_Sidebar"
-msgstr ""
+msgstr "_Аваратәи апанель"
 
 #: src/gdict-app-menus.ui:47
 msgid "Similar _Words"
@@ -597,11 +596,11 @@ msgstr ""
 
 #: src/gdict-source-dialog.ui:115
 msgid "2628"
-msgstr ""
+msgstr "2628"
 
 #: src/gdict-source-dialog.ui:127
 msgid "dict.org"
-msgstr ""
+msgstr "dict.org"
 
 #: src/gdict-source-dialog.ui:139
 msgid "Source Name"
@@ -692,7 +691,7 @@ msgstr ""
 
 #: src/gdict-window.c:826
 msgid "Untitled document"
-msgstr ""
+msgstr "Ихьӡыдоу адокумент"
 
 #: src/gdict-window.c:847
 #, c-format

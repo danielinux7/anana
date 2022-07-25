@@ -73,15 +73,9 @@ msgstr ""
 msgid "Show the application's version"
 msgstr ""
 
-#. Translators, this string is used to display information about
-#. * a 'font variation axis'. The %s gets replaced with the name
-#. * of the axis, for example 'Width'. The three %g get replaced
-#. * with the minimum, maximum and default values for the axis.
-#.
 #: src/font-view.c:327
-#, c-format
 msgid "%s %g — %g, default %g"
-msgstr ""
+msgstr "%s %g — %g, ишдыру еиԥш %g"
 
 #: src/font-view.c:378
 #, c-format
@@ -115,9 +109,9 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: src/font-view.c:529 src/font-view.c:556
+#: src/font-view.c:529+src/font-view.c:556
 msgid "Copyright"
-msgstr ""
+msgstr "Аԥҵаҩы изин"
 
 #: src/font-view.c:533
 msgid "Description"
@@ -145,7 +139,7 @@ msgstr ""
 
 #: src/font-view.c:571
 msgid "yes"
-msgstr ""
+msgstr "Ааи"
 
 #: src/font-view.c:571
 msgid "no"
@@ -1006,3 +1000,39 @@ msgstr ""
 msgctxt "OpenType layout"
 msgid "Slashed Zero"
 msgstr ""
+
+#: src/font-view.c:418
+msgid ", "
+msgstr ", "
+
+#: src/open-type-layout.h:17
+msgid "Alternative Fractions"
+msgstr "Альтернативтә фракциақәа"
+
+#: src/open-type-layout.h:18
+msgid "Akhands"
+msgstr "Ахандс"
+
+#: src/open-type-layout.h:67
+msgid "Alternate Half Widths"
+msgstr "Альтернативтә ибжатоу аҭбаара"
+
+#: src/open-type-layout.h:77
+msgid "Justification Alternates"
+msgstr "Аиҟаратәра альтерантива"
+
+#: src/open-type-layout.h:96
+msgid "Alternate Annotation Forms"
+msgstr "Аннотациа альтеранативтә формақәа"
+
+#: src/open-type-layout.h:155
+msgid "Trailing Jamo Forms"
+msgstr "Trailing Jamo Forms"
+
+#: src/open-type-layout.h:161
+msgid "Alternate Vertical Metrics"
+msgstr "Альтернативтә агәҵәылатәи аметрика"
+
+#: src/open-type-layout.h:164
+msgid "Alternate Vertical Half Metrics"
+msgstr "Альтернативтә агәҵәылатәи ибжатоу аметрикақәа"

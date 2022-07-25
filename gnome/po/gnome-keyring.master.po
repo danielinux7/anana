@@ -16,15 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. TRANSLATORS: This is the label for an keyring created without a label
-#: daemon/dbus/gkd-secret-change.c:84 daemon/dbus/gkd-secret-change.c:120
-#: daemon/dbus/gkd-secret-create.c:78
-#: daemon/ssh-agent/gkd-ssh-agent-service.c:254
-#: pkcs11/secret-store/gkm-secret-collection.c:324
-#: pkcs11/wrap-layer/gkm-wrap-login.c:345
-#: pkcs11/wrap-layer/gkm-wrap-prompt.c:733
+#: daemon/dbus/gkd-secret-change.c:84+daemon/dbus/gkd-secret-change.c:120+daemon/dbus/gkd-secret-create.c:78+daemon/ssh-agent/gkd-ssh-agent-service.c:254+pkcs11/secret-store/gkm-secret-collection.c:324+pkcs11/wrap-layer/gkm-wrap-login.c:345+pkcs11/wrap-layer/gkm-wrap-prompt.c:733
 msgid "Unnamed"
-msgstr ""
+msgstr "Ихьӡыдоу"
 
 #: daemon/dbus/gkd-secret-change.c:89
 #, c-format
@@ -109,7 +103,7 @@ msgstr ""
 
 #: daemon/gnome-keyring-ssh.desktop.in.in:4
 msgid "SSH Key Agent"
-msgstr ""
+msgstr "Ацаԥхақәа рагент SSH"
 
 #: daemon/gnome-keyring-ssh.desktop.in.in:5
 msgid "GNOME Keyring: SSH Agent"
@@ -143,10 +137,9 @@ msgstr ""
 msgid "An application wants access to the private key “%s”, but it is locked"
 msgstr ""
 
-#: daemon/ssh-agent/gkd-ssh-agent-interaction.c:111
-#: pkcs11/wrap-layer/gkm-wrap-prompt.c:650
+#: daemon/ssh-agent/gkd-ssh-agent-interaction.c:111+pkcs11/wrap-layer/gkm-wrap-prompt.c:650
 msgid "Automatically unlock this key whenever I’m logged in"
-msgstr ""
+msgstr "Ари ацаԥха автоматикла аужьра асистема аҭалараан"
 
 #: daemon/ssh-agent/gkd-ssh-agent-interaction.c:113
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:600
@@ -215,7 +208,7 @@ msgstr ""
 
 #: egg/egg-oid.c:45
 msgid "Email Address"
-msgstr ""
+msgstr "Аел. ԥошьҭа аҭыӡҭыԥ"
 
 #: egg/egg-oid.c:53
 msgid "Date of Birth"
@@ -303,7 +296,7 @@ msgstr ""
 
 #: egg/egg-oid.c:97
 msgid "RSA"
-msgstr ""
+msgstr "RSA"
 
 #: egg/egg-oid.c:98
 msgid "MD2 with RSA"
@@ -319,7 +312,7 @@ msgstr ""
 
 #: egg/egg-oid.c:102
 msgid "DSA"
-msgstr ""
+msgstr "DSA"
 
 #: egg/egg-oid.c:103
 msgid "SHA1 with DSA"
@@ -348,7 +341,7 @@ msgstr ""
 
 #: pkcs11/gkm/gkm-certificate.c:578
 msgid "Unnamed Certificate"
-msgstr ""
+msgstr "Ихьӡыдоу асертификат"
 
 #: pkcs11/ssh-store/gkm-ssh-private-key.c:341
 msgid "Couldn’t parse public SSH key"
@@ -388,7 +381,7 @@ msgstr ""
 
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:623
 msgid "Automatically unlock this keyring whenever I’m logged in"
-msgstr ""
+msgstr "Ари ацаԥхақәа реидҳәала автоматикла аужьра асистема аҭыҵраан"
 
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:636
 msgid "Unlock certificate"
@@ -400,14 +393,11 @@ msgstr ""
 
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:652
 msgid "Automatically unlock this certificate whenever I’m logged in"
-msgstr ""
+msgstr "Ари асертификат автоматикла аужьра асистема аҭалараан"
 
-#: pkcs11/wrap-layer/gkm-wrap-prompt.c:654
-#: pkcs11/wrap-layer/gkm-wrap-prompt.c:776
-#: pkcs11/wrap-layer/gkm-wrap-prompt.c:1140
-#: pkcs11/wrap-layer/gkm-wrap-prompt.c:1289
+#: pkcs11/wrap-layer/gkm-wrap-prompt.c:654+pkcs11/wrap-layer/gkm-wrap-prompt.c:776+pkcs11/wrap-layer/gkm-wrap-prompt.c:1140+pkcs11/wrap-layer/gkm-wrap-prompt.c:1289
 msgid "Automatically unlock whenever I’m logged in"
-msgstr ""
+msgstr "Автоматикла аужьра асистема аҭалараан"
 
 #. TRANSLATORS: The certificate is locked
 #: pkcs11/wrap-layer/gkm-wrap-prompt.c:668
@@ -485,4 +475,9 @@ msgstr ""
 #. Translators: keep same length as translated message "commands: "
 #: tool/gkr-tool.c:106
 msgid "          "
+msgstr ""
+
+#: tool/gkr-tool.c:106
+msgctxt "tool/gkr-tool.c:106"
+msgid ""
 msgstr ""

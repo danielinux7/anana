@@ -19,7 +19,7 @@ msgstr ""
 
 #: data/rygel.desktop.in.in:3
 msgid "Rygel"
-msgstr ""
+msgstr "Rygel"
 
 #: data/rygel.desktop.in.in:4
 msgid "UPnP/DLNA Services"
@@ -1043,11 +1043,9 @@ msgstr ""
 msgid "External provider %s did not provide mandatory property “%s”"
 msgstr ""
 
-#: src/plugins/lms/rygel-lms-albums.vala:166
-#: src/plugins/tracker3/rygel-tracker-albums.vala:31
-#: src/plugins/tracker/rygel-tracker-albums.vala:31
+#: src/plugins/lms/rygel-lms-albums.vala:166+src/plugins/tracker3/rygel-tracker-albums.vala:31+src/plugins/tracker/rygel-tracker-albums.vala:31
 msgid "Albums"
-msgstr ""
+msgstr "Альбомқәа"
 
 #: src/plugins/lms/rygel-lms-all-images.vala:89
 #: src/plugins/lms/rygel-lms-all-music.vala:171
@@ -1060,11 +1058,9 @@ msgstr ""
 msgid "Years"
 msgstr ""
 
-#: src/plugins/lms/rygel-lms-music-root.vala:35
-#: src/plugins/tracker3/rygel-tracker-artists.vala:31
-#: src/plugins/tracker/rygel-tracker-artists.vala:31
+#: src/plugins/lms/rygel-lms-music-root.vala:35+src/plugins/tracker3/rygel-tracker-artists.vala:31+src/plugins/tracker/rygel-tracker-artists.vala:31
 msgid "Artists"
-msgstr ""
+msgstr "Анагӡаҩцәа"
 
 #: src/plugins/lms/rygel-lms-root-container.vala:33
 msgid "Shared media"
@@ -1394,15 +1390,13 @@ msgstr ""
 msgid "Year"
 msgstr ""
 
-#. Titles and definitions of virtual folders for Music,
-#. for use with QueryContainer.
 #: src/plugins/media-export/rygel-media-export-root-container.vala:39
 msgid "Artist"
-msgstr ""
+msgstr "Анагӡаҩцәа"
 
 #: src/plugins/media-export/rygel-media-export-root-container.vala:40
 msgid "Album"
-msgstr ""
+msgstr "Альбом"
 
 #: src/plugins/media-export/rygel-media-export-root-container.vala:41
 #: src/plugins/tracker3/rygel-tracker-genre.vala:31

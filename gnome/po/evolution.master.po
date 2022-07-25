@@ -1143,7 +1143,7 @@ msgstr ""
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:11
 msgid "Automatic link recognition"
-msgstr ""
+msgstr "Автоматикла гиперазхьарԥшқәа  реҩдыраара"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:12
 msgid "Recognize links in text and replace them."
@@ -1151,7 +1151,7 @@ msgstr ""
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:13
 msgid "Automatic emoticon recognition"
-msgstr ""
+msgstr "Автоматикла аемоциақәа реҩдыраара"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:14
 msgid ""
@@ -1323,6 +1323,8 @@ msgid ""
 "Automatically enable PGP or S/MIME signatures when replying to a message "
 "which is also PGP or S/MIME signed."
 msgstr ""
+"Автоматла анапаҵыҩрақәа GP мамзар S/MIME рҿакра, ацҳамҭа анапаҵыҩра GP "
+"мамзар S/MIME змоу рҭак аҟаҵараан"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:49
 msgid "Encode filenames in an Outlook/GMail way"
@@ -1571,15 +1573,18 @@ msgstr ""
 msgid "Show image animations"
 msgstr ""
 
-#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:98
+#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:92
 msgid ""
 "Enable animated images in HTML mail. Many users find animated images "
 "annoying and prefer to see a static image instead."
 msgstr ""
+"HTML ацҳамҭақәа  рҟны аԥшранҵақәа анимациаркра аҿакра.Имаҷымкәа ахархәаҩцәа "
+"ианимациарку аԥшранҵақәа рыԥсахы еибадыркуеит, урҭ рцымхәрас рхы иадырхәоит "
+"астатикатә ԥшранҵақәа."
 
-#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:99
+#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:93
 msgid "Enable or disable type ahead search feature"
-msgstr ""
+msgstr "Аҭагалараан аԥшаара афункциа аҿакра, мамзар аҿыхра"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:100
 msgid ""
@@ -1587,9 +1592,9 @@ msgid ""
 "names."
 msgstr ""
 
-#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:101
+#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:95
 msgid "Enable or disable magic space bar"
-msgstr ""
+msgstr "Анашанара абжьажь' аҿакра , мамзар аҿыхра"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:102
 msgid ""
@@ -1605,9 +1610,9 @@ msgstr ""
 msgid "Enable to use a similar message list view settings for all folders."
 msgstr ""
 
-#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:105
+#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:99
 msgid "Enable to use the same search settings for all folders"
-msgstr ""
+msgstr "Аҭаӡқәа зегь рзы еиԥшу ахышәарақәа ахархәара рыҭара аҿакра"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:106
 msgid "This is considered only in combination with the 'global-view-setting'."
@@ -1645,9 +1650,9 @@ msgstr ""
 msgid "Default charset in which to display messages."
 msgstr ""
 
-#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:115
+#: ../data/org.gnome.evolution.mail.gschema.xml.in.h:109
 msgid "Automatically load images for HTML messages over HTTP"
-msgstr ""
+msgstr "Автоматикла аԥшранҵақәа рҭагалара ацҳамҭақәа HTML аформат змоу рзы "
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:116
 msgid "Show notification about missing remote content"
@@ -2707,10 +2712,11 @@ msgstr ""
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:2
 msgid "Address book to use for storing automatically synced contacts."
 msgstr ""
+"Аҭыӡҭыԥтә шәҟәы автоматикла асинхронизациа зызу аимадарақәа реиқәырхаразы"
 
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:3
 msgid "Auto sync Pidgin contacts"
-msgstr ""
+msgstr " Pidgin аимадарақәа автоматикла асинронтәра рзура"
 
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:4
 msgid "Whether Pidgin contacts should be automatically synced."
@@ -2718,7 +2724,7 @@ msgstr ""
 
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:5
 msgid "Enable autocontacts"
-msgstr ""
+msgstr "Автоматикатә еимадарақәа рҿакра"
 
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:6
 msgid ""
@@ -2740,7 +2746,7 @@ msgstr ""
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:10
 msgid ""
 "Address book to use for storing automatically synced contacts from Pidgin."
-msgstr ""
+msgstr "Аҭыӡҭыԥтә шәҟәы Pidgin асинхронизациа зызу аимадарақәа реиқәырхаразы"
 
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:11
 msgid "Pidgin check interval"
@@ -2792,6 +2798,8 @@ msgstr ""
 #: ../data/org.gnome.evolution.plugin.external-editor.gschema.xml.in.h:4
 msgid "Automatically launch editor when key is pressed in the mail composer."
 msgstr ""
+"Автоматикла аредактор аус арура арыд ақәыӷәӷәараан  ацҳамҭа аредакциазуратә "
+"ԥенџьыр аҟны  "
 
 #: ../data/org.gnome.evolution.plugin.face-picture.gschema.xml.in.h:1
 msgid "Insert Face picture by default"
@@ -2847,7 +2855,7 @@ msgstr ""
 
 #: ../data/org.gnome.evolution.plugin.mail-notification.gschema.xml.in.h:5
 msgid "Enable icon in notification area."
-msgstr ""
+msgstr "Ардырра аҵакыраҟны адыргаҷ аҿакра"
 
 #: ../data/org.gnome.evolution.plugin.mail-notification.gschema.xml.in.h:6
 msgid "Show new mail icon in notification area when new messages arrive."
@@ -2945,7 +2953,7 @@ msgstr ""
 
 #: ../data/org.gnome.evolution.plugin.sender-validator.gschema.xml.in.h:1
 msgid "[]"
-msgstr ""
+msgstr "[]"
 
 #: ../data/org.gnome.evolution.plugin.sender-validator.gschema.xml.in.h:2
 msgid "List of assignments for recipient and the address to be used with it"
@@ -3203,13 +3211,9 @@ msgid ""
 "message part to take into effect, like using right-click→Format As→...."
 msgstr ""
 
-#: ../data/org.gnome.Evolution.appdata.xml.in.in.h:1
-#: ../data/org.gnome.Evolution.desktop.in.in.h:1
-#: ../src/mail/e-mail-browser.c:1347
-#: ../src/modules/mailto-handler/evolution-mailto-handler.c:208
-#: ../src/shell/e-shell-window-private.c:265
+#: ../data/org.gnome.Evolution.appdata.xml.in.in.h:1+../data/org.gnome.Evolution.desktop.in.in.h:1+../src/mail/e-mail-browser.c:1293+../src/modules/mailto-handler/evolution-mailto-handler.c:208+../src/shell/e-shell-window-private.c:241
 msgid "Evolution"
-msgstr ""
+msgstr "Evolution"
 
 #: ../data/org.gnome.Evolution.appdata.xml.in.in.h:2
 #: ../data/org.gnome.Evolution.desktop.in.in.h:4
@@ -3754,7 +3758,7 @@ msgstr ""
 
 #: ../src/addressbook/addressbook.error.xml.h:30
 msgid "Address “{0}” already exists."
-msgstr ""
+msgstr "Аҭыӡҭыԥ «{0}» иҟалахьеит"
 
 #: ../src/addressbook/addressbook.error.xml.h:31
 msgid ""
@@ -4074,9 +4078,9 @@ msgstr ""
 msgid "Telephone"
 msgstr ""
 
-#: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:24
+#: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:26
 msgid "SIP Address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ SIP"
 
 #: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:25
 msgid "Instant Messaging"
@@ -4222,14 +4226,13 @@ msgstr ""
 msgid "_Country:"
 msgstr ""
 
-#: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:58
+#: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:60
 msgid "_PO Box:"
-msgstr ""
+msgstr "_Абоненттә иашьык:"
 
-#: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:59
-#: ../src/composer/e-composer-from-header.c:122
+#: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:61+../src/composer/e-composer-from-header.c:122
 msgid "_Address:"
-msgstr ""
+msgstr "_Аҭыӡҭыԥ"
 
 #: ../src/addressbook/gui/contact-editor/contact-editor.ui.h:60
 #: ../src/addressbook/gui/widgets/eab-contact-formatter.c:85
@@ -4316,17 +4319,13 @@ msgstr ""
 msgid "Undo"
 msgstr ""
 
-#: ../src/addressbook/gui/contact-editor/e-contact-editor.c:273
-#: ../src/calendar/gui/e-comp-editor.c:2220
-#: ../src/e-util/e-html-editor-actions.c:1147
+#: ../src/addressbook/gui/contact-editor/e-contact-editor.c:269+../src/calendar/gui/e-comp-editor.c:2189+../src/e-util/e-html-editor-actions.c:1147
 msgid "_Redo"
-msgstr ""
+msgstr "_архынҳәра"
 
-#: ../src/addressbook/gui/contact-editor/e-contact-editor.c:275
-#: ../src/calendar/gui/e-comp-editor.c:2222 ../src/e-util/e-focus-tracker.c:163
-#: ../src/e-util/e-focus-tracker.c:166
+#: ../src/addressbook/gui/contact-editor/e-contact-editor.c:271+../src/calendar/gui/e-comp-editor.c:2191+../src/e-util/e-focus-tracker.c:163+../src/e-util/e-focus-tracker.c:166
 msgid "Redo"
-msgstr ""
+msgstr "Архынҳәра"
 
 #: ../src/addressbook/gui/contact-editor/e-contact-editor.c:303
 #: ../src/addressbook/gui/widgets/eab-gui-util.c:501
@@ -4536,15 +4535,15 @@ msgstr ""
 
 #: ../src/addressbook/gui/contact-editor/fullname.ui.h:8
 msgid "I"
-msgstr ""
+msgstr "I"
 
 #: ../src/addressbook/gui/contact-editor/fullname.ui.h:9
 msgid "II"
-msgstr ""
+msgstr "II"
 
 #: ../src/addressbook/gui/contact-editor/fullname.ui.h:10
 msgid "III"
-msgstr ""
+msgstr "III"
 
 #: ../src/addressbook/gui/contact-editor/fullname.ui.h:11
 msgid "Esq."
@@ -4674,11 +4673,9 @@ msgstr ""
 msgid "Any field contains"
 msgstr ""
 
-#: ../src/addressbook/gui/widgets/ea-addressbook-view.c:92
-#: ../src/addressbook/gui/widgets/ea-addressbook-view.c:101
-#: ../src/addressbook/gui/widgets/ea-minicard-view.c:223
+#: ../src/addressbook/gui/widgets/ea-addressbook-view.c:92+../src/addressbook/gui/widgets/ea-addressbook-view.c:101+../src/addressbook/gui/widgets/ea-minicard-view.c:223
 msgid "evolution address book"
-msgstr ""
+msgstr "аҭыӡҭыԥтәи ашәҟәы evolution"
 
 #: ../src/addressbook/gui/widgets/eab-contact-display.c:186
 msgid "Copy _Email Address"
@@ -4825,11 +4822,9 @@ msgstr ""
 msgid "Free/Busy"
 msgstr ""
 
-#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:1010
-#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:1050
-#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:1076
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:1010+../src/addressbook/gui/widgets/eab-contact-formatter.c:1050+../src/addressbook/gui/widgets/eab-contact-formatter.c:1076
 msgid "Address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: ../src/addressbook/gui/widgets/eab-contact-formatter.c:1046
 msgid "Home Page"
@@ -4985,10 +4980,9 @@ msgstr ""
 msgid "This query did not complete successfully. %s"
 msgstr ""
 
-#. This is a filename. Translators take note.
 #: ../src/addressbook/gui/widgets/eab-gui-util.c:263
 msgid "card.vcf"
-msgstr ""
+msgstr "card.vcf"
 
 #: ../src/addressbook/gui/widgets/eab-gui-util.c:314
 msgid "Select Address Book"
@@ -5216,15 +5210,9 @@ msgstr ""
 msgid "Telex"
 msgstr ""
 
-#. Translators: This is a vcard standard and stands for the type of
-#. phone used by the hearing impaired. TTY stands for "teletype"
-#. (familiar from Unix device names), and TDD is "Telecommunications
-#. Device for Deaf". However, you probably want to leave this
-#. abbreviation unchanged unless you know that there is actually a
-#. different and established translation for this in your language.
 #: ../src/addressbook/gui/widgets/e-addressbook-view.etspec.h:33
 msgid "TTYTDD"
-msgstr ""
+msgstr "TTYTDD"
 
 #: ../src/addressbook/gui/widgets/e-addressbook-view.etspec.h:35
 msgid "Unit"
@@ -5308,7 +5296,7 @@ msgid ""
 "\n"
 "\n"
 "Searching for the Contacts…"
-msgstr ""
+msgstr "Аимадарақәа рыԥшаара..."
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:189
 msgid ""
@@ -5317,7 +5305,7 @@ msgid ""
 "Search for the Contact\n"
 "\n"
 "or double-click here to create a new Contact."
-msgstr ""
+msgstr "Ишәыԥшаа аимадара , мамзар абраҟа шәақәыӷәӷәа аҿыц аԥҵаразы"
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:192
 msgid ""
@@ -5327,20 +5315,22 @@ msgid ""
 "\n"
 "Double-click here to create a new Contact."
 msgstr ""
+"Иҟаӡам аелементқәа   ари аԥенџьыр аҟны иаарԥшразы. Ҩынтә абраҟа шәақәыӷәӷәа "
+"аимадара ҿыц аԥҵаразы"
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:196
 msgid ""
 "\n"
 "\n"
 "Search for the Contact."
-msgstr ""
+msgstr "Аимадара аԥшаара."
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:198
 msgid ""
 "\n"
 "\n"
 "There are no items to show in this view."
-msgstr ""
+msgstr "Иҟаӡам аелементқәа   ари аԥенџьыр аҟны иаарԥшразы"
 
 #: ../src/addressbook/importers/evolution-csv-importer.c:796
 #: ../src/addressbook/importers/evolution-ldif-importer.c:547
@@ -5389,15 +5379,15 @@ msgstr ""
 
 #: ../src/addressbook/importers/evolution-ldif-importer.c:820
 msgid "Evolution LDIF importer"
-msgstr ""
+msgstr "Evolution LDIF importer"
 
 #: ../src/addressbook/importers/evolution-vcard-importer.c:489
 msgid "vCard (.vcf, .gcrd)"
-msgstr ""
+msgstr "vCard (.vcf, .gcrd)"
 
 #: ../src/addressbook/importers/evolution-vcard-importer.c:490
 msgid "Evolution vCard Importer"
-msgstr ""
+msgstr "Evolution vCard Importer"
 
 #. Uncomment next if it is successful to get total number if pages in list view
 #. * g_object_get (operation, "n-pages", &n_pages, NULL)
@@ -6322,7 +6312,7 @@ msgstr ""
 
 #: ../src/calendar/gui/caltypes.xml.in.h:23
 msgid "More Than"
-msgstr ""
+msgstr "Иҵегь ахышәарақәа..."
 
 #: ../src/calendar/gui/caltypes.xml.in.h:24
 #: ../src/calendar/gui/memotypes.xml.in.h:17
@@ -6495,14 +6485,9 @@ msgstr ""
 msgid "Organizer: %s"
 msgstr ""
 
-#. Translators: It will display "Location: PlaceOfTheMeeting"
-#. Translators: It will display "Location: LocationOfTheAppointment"
-#: ../src/calendar/gui/comp-util.c:2260
-#: ../src/calendar/gui/e-meeting-time-sel.c:2580
-#: ../src/calendar/gui/e-to-do-pane.c:382 ../src/calendar/gui/print.c:3655
-#, c-format
+#: ../src/calendar/gui/comp-util.c:2260+../src/calendar/gui/e-meeting-time-sel.c:2580+../src/calendar/gui/e-to-do-pane.c:382+../src/calendar/gui/print.c:3655
 msgid "Location: %s"
-msgstr ""
+msgstr "Аҭыӡҭыԥ:%s"
 
 #. Translators: It will display "Start: ActualStartDateAndTime (DurationOfTheMeeting)"
 #: ../src/calendar/gui/comp-util.c:2315
@@ -6531,11 +6516,9 @@ msgstr ""
 msgid "Completed: %s"
 msgstr ""
 
-#: ../src/calendar/gui/comp-util.c:2416 ../src/calendar/gui/e-to-do-pane.c:596
-#: ../src/e-util/e-misc-utils.c:4838 ../src/e-util/e-text.c:566
-#: ../src/e-util/e-web-view.c:4187
+#: ../src/calendar/gui/comp-util.c:2416+../src/calendar/gui/e-to-do-pane.c:596+../src/e-util/e-misc-utils.c:4838+../src/e-util/e-text.c:566+../src/e-util/e-web-view.c:4187
 msgid "…"
-msgstr ""
+msgstr "…"
 
 #: ../src/calendar/gui/ea-cal-view.c:277
 msgid "New Appointment"
@@ -6764,12 +6747,9 @@ msgstr ""
 msgid "Categories:"
 msgstr ""
 
-#: ../src/calendar/gui/e-cal-component-preview.c:293
-#: ../src/modules/cal-config-weather/evolution-cal-config-weather.c:258
-#: ../src/modules/itip-formatter/itip-view.c:1919
-#: ../src/modules/itip-formatter/itip-view.c:2119
+#: ../src/calendar/gui/e-cal-component-preview.c:293+../src/modules/cal-config-weather/evolution-cal-config-weather.c:258+../src/modules/itip-formatter/itip-view.c:1919+../src/modules/itip-formatter/itip-view.c:2119
 msgid "Location:"
-msgstr ""
+msgstr "Аҭыӡҭыԥ:"
 
 #: ../src/calendar/gui/e-cal-component-preview.c:311
 msgid "Start Date:"
@@ -6910,7 +6890,7 @@ msgstr ""
 
 #: ../src/calendar/gui/e-cal-dialogs.c:711
 msgid "April"
-msgstr ""
+msgstr "Мшаԥы"
 
 #: ../src/calendar/gui/e-cal-dialogs.c:712
 msgid "May"
@@ -6926,7 +6906,7 @@ msgstr ""
 
 #: ../src/calendar/gui/e-cal-dialogs.c:715
 msgid "August"
-msgstr ""
+msgstr "Нанҳәа"
 
 #: ../src/calendar/gui/e-cal-dialogs.c:716
 msgid "September"
@@ -7040,17 +7020,9 @@ msgstr ""
 msgid "%d %b %Y"
 msgstr ""
 
-#. strftime format %d = day of month, %b = abbreviated month name.
-#. * Don't use any other specifiers.
-#. strftime format %d = day of month, %b = abbreviated
-#. * month name. You can change the order but don't
-#. * change the specifiers or add anything.
-#: ../src/calendar/gui/e-calendar-view.c:1177
-#: ../src/calendar/gui/e-day-view.c:3222
-#: ../src/calendar/gui/e-day-view-top-item.c:856
-#: ../src/calendar/gui/e-week-view-main-item.c:230
+#: ../src/calendar/gui/e-calendar-view.c:1177+../src/calendar/gui/e-day-view.c:3222+../src/calendar/gui/e-day-view-top-item.c:856+../src/calendar/gui/e-week-view-main-item.c:230
 msgid "%d %b"
-msgstr ""
+msgstr "%d %b"
 
 #: ../src/calendar/gui/e-calendar-view.c:1188
 msgid "%A %d %b %Y"
@@ -7184,10 +7156,9 @@ msgstr ""
 msgid "Assigned"
 msgstr ""
 
-#: ../src/calendar/gui/e-cal-model.c:1895
-#: ../src/calendar/gui/e-cal-model-tasks.c:1154
+#: ../src/calendar/gui/e-cal-model.c:1895+../src/calendar/gui/e-cal-model-tasks.c:1154
 msgid "Yes"
-msgstr ""
+msgstr "Ааи"
 
 #: ../src/calendar/gui/e-cal-model.c:1895
 #: ../src/calendar/gui/e-cal-model-tasks.c:1154
@@ -7699,7 +7670,7 @@ msgstr[1] ""
 
 #: ../src/calendar/gui/e-comp-editor-page-general.c:473
 msgid "Organizer address is not a valid user mail address"
-msgstr ""
+msgstr "Аиҽкаҩ иҭыӡҭыԥ иақәнагам ҭыӡҭыԥуп ахархәаҩ иелектрн пошьҭазы."
 
 #: ../src/calendar/gui/e-comp-editor-page-general.c:686
 msgid "A_ttendees"
@@ -7803,11 +7774,9 @@ msgstr ""
 msgid "Modify exception"
 msgstr ""
 
-#. TRANSLATORS: Entire string is for example: This appointment recurs/Every [x] week(s) on [Wednesday] [forever]'
-#. * (dropdown menu options are in [square brackets]). This means that after the 'on', name of a week day always follows.
 #: ../src/calendar/gui/e-comp-editor-page-recurrence.c:503
 msgid "on"
-msgstr ""
+msgstr "аҟны"
 
 #. TRANSLATORS: Entire string is for example: This appointment recurs/Every [x] month(s) on the [first] [Monday] [forever]'
 #. * (dropdown menu options are in [square brackets]). This means that after 'first', either the string 'day' or
@@ -8722,12 +8691,9 @@ msgstr ""
 msgid "Individual"
 msgstr ""
 
-#: ../src/calendar/gui/e-meeting-list-view.c:177
-#: ../src/calendar/gui/e-meeting-store.c:112
-#: ../src/calendar/gui/e-meeting-store.c:129 ../src/calendar/gui/print.c:1288
-#: ../src/e-util/e-table-config.ui.h:1
+#: ../src/calendar/gui/e-meeting-list-view.c:177+../src/calendar/gui/e-meeting-store.c:112+../src/calendar/gui/e-meeting-store.c:129+../src/calendar/gui/print.c:1288+../src/e-util/e-table-config.ui.h:1
 msgid "Group"
-msgstr ""
+msgstr "Агәыԥ"
 
 #: ../src/calendar/gui/e-meeting-list-view.c:178
 #: ../src/calendar/gui/e-meeting-store.c:114
@@ -8838,15 +8804,15 @@ msgstr ""
 
 #: ../src/calendar/gui/e-meeting-time-sel.c:631
 msgid "_<<"
-msgstr ""
+msgstr "<_<"
 
 #: ../src/calendar/gui/e-meeting-time-sel.c:651
 msgid "_Autopick"
-msgstr ""
+msgstr "_Автоматикла алхра"
 
 #: ../src/calendar/gui/e-meeting-time-sel.c:668
 msgid ">_>"
-msgstr ""
+msgstr ">_>"
 
 #: ../src/calendar/gui/e-meeting-time-sel.c:690
 msgid "_All people and resources"
@@ -8940,14 +8906,9 @@ msgstr ""
 msgid "Undefined"
 msgstr ""
 
-#. Translators: "%d%%" is the percentage of a task done.
-#. * %d is the actual value, %% is replaced with a percent sign.
-#. * Result values will be 0%, 10%, 20%, ... 100%
-#.
 #: ../src/calendar/gui/e-task-table.c:507
-#, c-format
 msgid "%d%%"
-msgstr ""
+msgstr "%d%%"
 
 #: ../src/calendar/gui/e-task-table.c:855
 msgid "Cut selected tasks to the clipboard"
@@ -9097,13 +9058,9 @@ msgctxt "SummaryWithLocation"
 msgid "%s (%s)"
 msgstr ""
 
-#. strftime format %d = day of month, %B = full
-#. * month name. You can change the order but don't
-#. * change the specifiers or add anything.
-#: ../src/calendar/gui/e-week-view-main-item.c:224
-#: ../src/calendar/gui/print.c:2122
+#: ../src/calendar/gui/e-week-view-main-item.c:224+../src/calendar/gui/print.c:2122
 msgid "%d %B"
-msgstr ""
+msgstr "%d %B"
 
 #: ../src/calendar/gui/e-year-view.c:1005
 #: ../src/calendar/gui/e-year-view.c:1054
@@ -9389,9 +9346,8 @@ msgid "Percent Complete: %i"
 msgstr ""
 
 #: ../src/calendar/gui/print.c:3781
-#, c-format
 msgid "URL: %s"
-msgstr ""
+msgstr "URL: %s"
 
 #: ../src/calendar/gui/print.c:3797
 #, c-format
@@ -9415,11 +9371,9 @@ msgstr ""
 msgid "% Completed"
 msgstr ""
 
-#: ../src/calendar/gui/tasktypes.xml.in.h:26
-#: ../src/mail/filtertypes.xml.in.h:31 ../src/mail/searchtypes.xml.in.h:33
-#: ../src/mail/vfoldertypes.xml.in.h:33
+#: ../src/calendar/gui/tasktypes.xml.in.h:26+../src/mail/filtertypes.xml.in.h:31+../src/mail/searchtypes.xml.in.h:33+../src/mail/vfoldertypes.xml.in.h:33
 msgid "is greater than"
-msgstr ""
+msgstr "Иҵегь ахышәарақәа..."
 
 #: ../src/calendar/gui/tasktypes.xml.in.h:27
 #: ../src/mail/filtertypes.xml.in.h:32 ../src/mail/searchtypes.xml.in.h:34
@@ -9665,712 +9619,689 @@ msgctxt "iCalImp"
 msgid "Type"
 msgstr ""
 
-#.
-#. *
-#. * This program is free software; you can redistribute it and/or modify it
-#. * under the terms of the GNU Lesser General Public License as published by
-#. * the Free Software Foundation.
-#. *
-#. * This program is distributed in the hope that it will be useful, but
-#. * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
-#. * or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
-#. * for more details.
-#. *
-#. * You should have received a copy of the GNU Lesser General Public License
-#. * along with this program; if not, see <http://www.gnu.org/licenses/>.
-#. *
-#. *
-#. * Copyright (C) 1999-2008 Novell, Inc. (www.novell.com)
-#. *
-#.
-#.
-#. * These are the timezone names from the Olson timezone data.
-#. * We only place them here so gettext picks them up for translation.
-#. * Don't include in any C files.
-#.
 #: ../src/calendar/zones.h:25
 msgid "Africa/Abidjan"
-msgstr ""
+msgstr "Африка/Абиджан"
 
 #: ../src/calendar/zones.h:26
 msgid "Africa/Accra"
-msgstr ""
+msgstr "Африка/Аккра"
 
 #: ../src/calendar/zones.h:27
 msgid "Africa/Addis_Ababa"
-msgstr ""
+msgstr "Африка/Аддис-Абеба"
 
 #: ../src/calendar/zones.h:28
 msgid "Africa/Algiers"
-msgstr ""
+msgstr "Африка/Алжир"
 
 #: ../src/calendar/zones.h:29
 msgid "Africa/Asmera"
-msgstr ""
+msgstr "Африка/Асмара"
 
 #: ../src/calendar/zones.h:30
 msgid "Africa/Bamako"
-msgstr ""
+msgstr "Африка/Бамако"
 
 #: ../src/calendar/zones.h:31
 msgid "Africa/Bangui"
-msgstr ""
+msgstr "Африка/Банги"
 
 #: ../src/calendar/zones.h:32
 msgid "Africa/Banjul"
-msgstr ""
+msgstr "Африка/Банжул"
 
 #: ../src/calendar/zones.h:33
 msgid "Africa/Bissau"
-msgstr ""
+msgstr "Африка/Бисау"
 
 #: ../src/calendar/zones.h:34
 msgid "Africa/Blantyre"
-msgstr ""
+msgstr "Африка/Блантир"
 
 #: ../src/calendar/zones.h:35
 msgid "Africa/Brazzaville"
-msgstr ""
+msgstr "Африка/Браззавиль"
 
 #: ../src/calendar/zones.h:36
 msgid "Africa/Bujumbura"
-msgstr ""
+msgstr "Африка/Бужумбура"
 
 #: ../src/calendar/zones.h:37
 msgid "Africa/Cairo"
-msgstr ""
+msgstr "Африка/Каир"
 
 #: ../src/calendar/zones.h:38
 msgid "Africa/Casablanca"
-msgstr ""
+msgstr "Африка/Касабланка"
 
 #: ../src/calendar/zones.h:39
 msgid "Africa/Ceuta"
-msgstr ""
+msgstr "Африка/Сеута"
 
 #: ../src/calendar/zones.h:40
 msgid "Africa/Conakry"
-msgstr ""
+msgstr "Африка/Конакри"
 
 #: ../src/calendar/zones.h:41
 msgid "Africa/Dakar"
-msgstr ""
+msgstr "Африка/Дакар"
 
 #: ../src/calendar/zones.h:42
 msgid "Africa/Dar_es_Salaam"
-msgstr ""
+msgstr "Африка/Дар-ес-Салам"
 
 #: ../src/calendar/zones.h:43
 msgid "Africa/Djibouti"
-msgstr ""
+msgstr "Африка/Джибути"
 
 #: ../src/calendar/zones.h:44
 msgid "Africa/Douala"
-msgstr ""
+msgstr "Африка/Дуала"
 
 #: ../src/calendar/zones.h:45
 msgid "Africa/El_Aaiun"
-msgstr ""
+msgstr "Африка/El_Aaiun"
 
 #: ../src/calendar/zones.h:46
 msgid "Africa/Freetown"
-msgstr ""
+msgstr "Африка/Фритаун"
 
 #: ../src/calendar/zones.h:47
 msgid "Africa/Gaborone"
-msgstr ""
+msgstr "Африка/Габороне"
 
 #: ../src/calendar/zones.h:48
 msgid "Africa/Harare"
-msgstr ""
+msgstr "Африка/Хараре"
 
 #: ../src/calendar/zones.h:49
 msgid "Africa/Johannesburg"
-msgstr ""
+msgstr "Африка/Иоханнесбург"
 
 #: ../src/calendar/zones.h:50
 msgid "Africa/Kampala"
-msgstr ""
+msgstr "Африка/Кампала"
 
 #: ../src/calendar/zones.h:51
 msgid "Africa/Khartoum"
-msgstr ""
+msgstr "Африка/Хартум"
 
 #: ../src/calendar/zones.h:52
 msgid "Africa/Kigali"
-msgstr ""
+msgstr "Африка/Кигали"
 
 #: ../src/calendar/zones.h:53
 msgid "Africa/Kinshasa"
-msgstr ""
+msgstr "Африка/Киншаса"
 
 #: ../src/calendar/zones.h:54
 msgid "Africa/Lagos"
-msgstr ""
+msgstr "Африка/Лагос"
 
 #: ../src/calendar/zones.h:55
 msgid "Africa/Libreville"
-msgstr ""
+msgstr "Африка/Либревиль"
 
 #: ../src/calendar/zones.h:56
 msgid "Africa/Lome"
-msgstr ""
+msgstr "Африка/Ломе"
 
 #: ../src/calendar/zones.h:57
 msgid "Africa/Luanda"
-msgstr ""
+msgstr "Африка/Луанда"
 
 #: ../src/calendar/zones.h:58
 msgid "Africa/Lubumbashi"
-msgstr ""
+msgstr "Африка/Лубумбаши"
 
 #: ../src/calendar/zones.h:59
 msgid "Africa/Lusaka"
-msgstr ""
+msgstr "Африка/Лусака"
 
 #: ../src/calendar/zones.h:60
 msgid "Africa/Malabo"
-msgstr ""
+msgstr "Африка/Малабо"
 
 #: ../src/calendar/zones.h:61
 msgid "Africa/Maputo"
-msgstr ""
+msgstr "Африка/Мапуту"
 
 #: ../src/calendar/zones.h:62
 msgid "Africa/Maseru"
-msgstr ""
+msgstr "Африка/Масеру"
 
 #: ../src/calendar/zones.h:63
 msgid "Africa/Mbabane"
-msgstr ""
+msgstr "Африка/Мбабане"
 
 #: ../src/calendar/zones.h:64
 msgid "Africa/Mogadishu"
-msgstr ""
+msgstr "Африка/Могадишо"
 
 #: ../src/calendar/zones.h:65
 msgid "Africa/Monrovia"
-msgstr ""
+msgstr "Африка/Монровииа"
 
 #: ../src/calendar/zones.h:66
 msgid "Africa/Nairobi"
-msgstr ""
+msgstr "Африка/Наироби"
 
 #: ../src/calendar/zones.h:67
 msgid "Africa/Ndjamena"
-msgstr ""
+msgstr "Африка/Нджамена"
 
 #: ../src/calendar/zones.h:68
 msgid "Africa/Niamey"
-msgstr ""
+msgstr "Африка/Ниамеи"
 
 #: ../src/calendar/zones.h:69
 msgid "Africa/Nouakchott"
-msgstr ""
+msgstr "Африка/Нуакшот"
 
 #: ../src/calendar/zones.h:70
 msgid "Africa/Ouagadougou"
-msgstr ""
+msgstr "Африка/Уагадугу"
 
 #: ../src/calendar/zones.h:71
 msgid "Africa/Porto-Novo"
-msgstr ""
+msgstr "Африка/Порто-Ново"
 
 #: ../src/calendar/zones.h:72
 msgid "Africa/Sao_Tome"
-msgstr ""
+msgstr "Африка/Сан-Томе"
 
 #: ../src/calendar/zones.h:73
 msgid "Africa/Timbuktu"
-msgstr ""
+msgstr "Африка/Тимбукту"
 
 #: ../src/calendar/zones.h:74
 msgid "Africa/Tripoli"
-msgstr ""
+msgstr "Африка/Триполи"
 
 #: ../src/calendar/zones.h:75
 msgid "Africa/Tunis"
-msgstr ""
+msgstr "Африка/Тунис"
 
 #: ../src/calendar/zones.h:76
 msgid "Africa/Windhoek"
-msgstr ""
+msgstr "Африка/Виндхук"
 
 #: ../src/calendar/zones.h:77
 msgid "America/Adak"
-msgstr ""
+msgstr "Америка/Адак"
 
 #: ../src/calendar/zones.h:78
 msgid "America/Anchorage"
-msgstr ""
+msgstr "Америка/Анкоридж"
 
 #: ../src/calendar/zones.h:79
 msgid "America/Anguilla"
-msgstr ""
+msgstr "Америка/Ангильиа"
 
 #: ../src/calendar/zones.h:80
 msgid "America/Antigua"
-msgstr ""
+msgstr "Америка/Антигуа"
 
 #: ../src/calendar/zones.h:81
 msgid "America/Araguaina"
-msgstr ""
+msgstr "Америка/Арагуари"
 
 #: ../src/calendar/zones.h:82
 msgid "America/Aruba"
-msgstr ""
+msgstr "Америка/а-а Аруба"
 
 #: ../src/calendar/zones.h:83
 msgid "America/Asuncion"
-msgstr ""
+msgstr "Америка/Асунсьон"
 
 #: ../src/calendar/zones.h:84
 msgid "America/Barbados"
-msgstr ""
+msgstr "Америка/Барбадос"
 
 #: ../src/calendar/zones.h:85
 msgid "America/Belem"
-msgstr ""
+msgstr "Америка/Белем"
 
 #: ../src/calendar/zones.h:86
 msgid "America/Belize"
-msgstr ""
+msgstr "Америка/Белиз"
 
 #: ../src/calendar/zones.h:87
 msgid "America/Boa_Vista"
-msgstr ""
+msgstr "Америка/Боа Виста"
 
 #: ../src/calendar/zones.h:88
 msgid "America/Bogota"
-msgstr ""
+msgstr "Америка/Богота"
 
 #: ../src/calendar/zones.h:89
 msgid "America/Boise"
-msgstr ""
+msgstr "Америка/Боисе"
 
 #: ../src/calendar/zones.h:90
 msgid "America/Buenos_Aires"
-msgstr ""
+msgstr "Америка/Буенос-Аирес"
 
 #: ../src/calendar/zones.h:91
 msgid "America/Cambridge_Bay"
-msgstr ""
+msgstr "Америка/Кембридж-Беи"
 
 #: ../src/calendar/zones.h:92
 msgid "America/Cancun"
-msgstr ""
+msgstr "Америка/Канкун"
 
 #: ../src/calendar/zones.h:93
 msgid "America/Caracas"
-msgstr ""
+msgstr "Америка/Каракас"
 
 #: ../src/calendar/zones.h:94
 msgid "America/Catamarca"
-msgstr ""
+msgstr "Америка/Катамарка"
 
 #: ../src/calendar/zones.h:95
 msgid "America/Cayenne"
-msgstr ""
+msgstr "Америка/Кайенна"
 
 #: ../src/calendar/zones.h:96
 msgid "America/Cayman"
-msgstr ""
+msgstr "Америка/Каиман"
 
 #: ../src/calendar/zones.h:97
 msgid "America/Chicago"
-msgstr ""
+msgstr "Америка/Чикаго"
 
 #: ../src/calendar/zones.h:98
 msgid "America/Chihuahua"
-msgstr ""
+msgstr "Америка/Чихуахуа"
 
 #: ../src/calendar/zones.h:99
 msgid "America/Cordoba"
-msgstr ""
+msgstr "Америка/Кордоба"
 
 #: ../src/calendar/zones.h:100
 msgid "America/Costa_Rica"
-msgstr ""
+msgstr "Америка/Коста-Рика"
 
 #: ../src/calendar/zones.h:101
 msgid "America/Cuiaba"
-msgstr ""
+msgstr "Америка/Куиаба"
 
 #: ../src/calendar/zones.h:102
 msgid "America/Curacao"
-msgstr ""
+msgstr "Америка/Курасао"
 
 #: ../src/calendar/zones.h:103
 msgid "America/Danmarkshavn"
-msgstr ""
+msgstr "Америка/Денмаркшавн"
 
 #: ../src/calendar/zones.h:104
 msgid "America/Dawson"
-msgstr ""
+msgstr "Америка/Досон"
 
 #: ../src/calendar/zones.h:105
 msgid "America/Dawson_Creek"
-msgstr ""
+msgstr "Америка/Досон-Крик"
 
 #: ../src/calendar/zones.h:106
 msgid "America/Denver"
-msgstr ""
+msgstr "Америка/Денвер"
 
 #: ../src/calendar/zones.h:107
 msgid "America/Detroit"
-msgstr ""
+msgstr "Америка/Детроит"
 
 #: ../src/calendar/zones.h:108
 msgid "America/Dominica"
-msgstr ""
+msgstr "Америка/Доминика"
 
 #: ../src/calendar/zones.h:109
 msgid "America/Edmonton"
-msgstr ""
+msgstr "Америка/Эдмонтон"
 
 #: ../src/calendar/zones.h:110
 msgid "America/Eirunepe"
-msgstr ""
+msgstr "Америка/Eirunepe"
 
 #: ../src/calendar/zones.h:111
 msgid "America/El_Salvador"
-msgstr ""
+msgstr "Америка/Ель-Сальвадор"
 
 #: ../src/calendar/zones.h:112
 msgid "America/Fortaleza"
-msgstr ""
+msgstr "Америка/Форталеза"
 
 #: ../src/calendar/zones.h:113
 msgid "America/Glace_Bay"
-msgstr ""
+msgstr "Америка/Glace_Bay"
 
 #: ../src/calendar/zones.h:114
 msgid "America/Godthab"
-msgstr ""
+msgstr "Америка/Готхоб"
 
 #: ../src/calendar/zones.h:115
 msgid "America/Goose_Bay"
-msgstr ""
+msgstr "Америка/Goose_Bay"
 
 #: ../src/calendar/zones.h:116
 msgid "America/Grand_Turk"
-msgstr ""
+msgstr "Америка/Grand_Turk"
 
 #: ../src/calendar/zones.h:117
 msgid "America/Grenada"
-msgstr ""
+msgstr "Америка/Гренада"
 
 #: ../src/calendar/zones.h:118
 msgid "America/Guadeloupe"
-msgstr ""
+msgstr "Америка/Гваделупа"
 
 #: ../src/calendar/zones.h:119
 msgid "America/Guatemala"
-msgstr ""
+msgstr "Америка/Гватемала"
 
 #: ../src/calendar/zones.h:120
 msgid "America/Guayaquil"
-msgstr ""
+msgstr "Америка/Гуаякиль"
 
 #: ../src/calendar/zones.h:121
 msgid "America/Guyana"
-msgstr ""
+msgstr "Америка/Гаиана"
 
 #: ../src/calendar/zones.h:122
 msgid "America/Halifax"
-msgstr ""
+msgstr "Америка/Галифакс"
 
 #: ../src/calendar/zones.h:123
 msgid "America/Havana"
-msgstr ""
+msgstr "Америка/Гавана"
 
 #: ../src/calendar/zones.h:124
 msgid "America/Hermosillo"
-msgstr ""
+msgstr "Америка/Гермосилло"
 
 #: ../src/calendar/zones.h:125
 msgid "America/Indiana/Indianapolis"
-msgstr ""
+msgstr "Америка/Индиана/Индианаполис"
 
 #: ../src/calendar/zones.h:126
 msgid "America/Indiana/Knox"
-msgstr ""
+msgstr "Америка/Индиана/Нокс"
 
 #: ../src/calendar/zones.h:127
 msgid "America/Indiana/Marengo"
-msgstr ""
+msgstr "Америка/Индиана/Маренго"
 
 #: ../src/calendar/zones.h:128
 msgid "America/Indiana/Vevay"
-msgstr ""
+msgstr "Америка/Индиана/Вивеи"
 
 #: ../src/calendar/zones.h:129
 msgid "America/Indianapolis"
-msgstr ""
+msgstr "Америка/Индианаполис"
 
 #: ../src/calendar/zones.h:130
 msgid "America/Inuvik"
-msgstr ""
+msgstr "Америка/Инувик"
 
 #: ../src/calendar/zones.h:131
 msgid "America/Iqaluit"
-msgstr ""
+msgstr "Америка/Iqaluit"
 
 #: ../src/calendar/zones.h:132
 msgid "America/Jamaica"
-msgstr ""
+msgstr "Америка/Иамаика"
 
 #: ../src/calendar/zones.h:133
 msgid "America/Jujuy"
-msgstr ""
+msgstr "Америка/Jujuy"
 
 #: ../src/calendar/zones.h:134
 msgid "America/Juneau"
-msgstr ""
+msgstr "Америка/Джуно"
 
 #: ../src/calendar/zones.h:135
 msgid "America/Kentucky/Louisville"
-msgstr ""
+msgstr "Америка/Кентукки/Луисвиль"
 
 #: ../src/calendar/zones.h:136
 msgid "America/Kentucky/Monticello"
-msgstr ""
+msgstr "Америка/Кентукки/Монтицелло"
 
 #: ../src/calendar/zones.h:137
 msgid "America/La_Paz"
-msgstr ""
+msgstr "Америка/Ла-Пас"
 
 #: ../src/calendar/zones.h:138
 msgid "America/Lima"
-msgstr ""
+msgstr "Америка/Лима"
 
 #: ../src/calendar/zones.h:139
 msgid "America/Los_Angeles"
-msgstr ""
+msgstr "Америка/Лос-Анджелес"
 
 #: ../src/calendar/zones.h:140
 msgid "America/Louisville"
-msgstr ""
+msgstr "Америка/Луисвиль"
 
 #: ../src/calendar/zones.h:141
 msgid "America/Maceio"
-msgstr ""
+msgstr "Америка/Масеио"
 
 #: ../src/calendar/zones.h:142
 msgid "America/Managua"
-msgstr ""
+msgstr "Америка/Манагуа"
 
 #: ../src/calendar/zones.h:143
 msgid "America/Manaus"
-msgstr ""
+msgstr "Америка/Манаус"
 
 #: ../src/calendar/zones.h:144
 msgid "America/Martinique"
-msgstr ""
+msgstr "Америка/Мартиника"
 
 #: ../src/calendar/zones.h:145
 msgid "America/Mazatlan"
-msgstr ""
+msgstr "Америка/Масатлан"
 
 #: ../src/calendar/zones.h:146
 msgid "America/Mendoza"
-msgstr ""
+msgstr "Америка/Мендоза"
 
 #: ../src/calendar/zones.h:147
 msgid "America/Menominee"
-msgstr ""
+msgstr "Америка/Menominee"
 
 #: ../src/calendar/zones.h:148
 msgid "America/Merida"
-msgstr ""
+msgstr "Америка/Мерида"
 
 #: ../src/calendar/zones.h:149
 msgid "America/Mexico_City"
-msgstr ""
+msgstr "Америка/Мехико"
 
 #: ../src/calendar/zones.h:150
 msgid "America/Miquelon"
-msgstr ""
+msgstr "Америка/Микелон"
 
 #: ../src/calendar/zones.h:151
 msgid "America/Monterrey"
-msgstr ""
+msgstr "Америка/Монтерей"
 
 #: ../src/calendar/zones.h:152
 msgid "America/Montevideo"
-msgstr ""
+msgstr "Америка/Монтевидео"
 
 #: ../src/calendar/zones.h:153
 msgid "America/Montreal"
-msgstr ""
+msgstr "Америка/Монреаль"
 
 #: ../src/calendar/zones.h:154
 msgid "America/Montserrat"
-msgstr ""
+msgstr "Америка/Монтсеррат"
 
 #: ../src/calendar/zones.h:155
 msgid "America/Nassau"
-msgstr ""
+msgstr "Америка/Нассау"
 
 #: ../src/calendar/zones.h:156
 msgid "America/New_York"
-msgstr ""
+msgstr "Америка/Ниу-Иорк"
 
 #: ../src/calendar/zones.h:157
 msgid "America/Nipigon"
-msgstr ""
+msgstr "Америка/Нипигон"
 
 #: ../src/calendar/zones.h:158
 msgid "America/Nome"
-msgstr ""
+msgstr "Америка/Ном"
 
 #: ../src/calendar/zones.h:159
 msgid "America/Noronha"
-msgstr ""
+msgstr "Америка/Noronha"
 
 #: ../src/calendar/zones.h:160
 msgid "America/North_Dakota/Center"
-msgstr ""
+msgstr "Америка/Аҩадатәи_Дакота/Ацентр"
 
 #: ../src/calendar/zones.h:161
 msgid "America/Panama"
-msgstr ""
+msgstr "Америка/Панама"
 
 #: ../src/calendar/zones.h:162
 msgid "America/Pangnirtung"
-msgstr ""
+msgstr "Америка/Pangnirtung"
 
 #: ../src/calendar/zones.h:163
 msgid "America/Paramaribo"
-msgstr ""
+msgstr "Америка/Парамарибо"
 
 #: ../src/calendar/zones.h:164
 msgid "America/Phoenix"
-msgstr ""
+msgstr "Америка/Феникс"
 
 #: ../src/calendar/zones.h:165
 msgid "America/Port-au-Prince"
-msgstr ""
+msgstr "Америка/Порто-Пренс"
 
 #: ../src/calendar/zones.h:166
 msgid "America/Port_of_Spain"
-msgstr ""
+msgstr "Америка/Порт-оф-Спеин"
 
 #: ../src/calendar/zones.h:167
 msgid "America/Porto_Velho"
-msgstr ""
+msgstr "Америка/Porto_Velho"
 
 #: ../src/calendar/zones.h:168
 msgid "America/Puerto_Rico"
-msgstr ""
+msgstr "Америка/Пуэрто-Рико"
 
 #: ../src/calendar/zones.h:169
 msgid "America/Rainy_River"
-msgstr ""
+msgstr "Америка/Rainy_River"
 
 #: ../src/calendar/zones.h:170
 msgid "America/Rankin_Inlet"
-msgstr ""
+msgstr "Америка/Rankin_Inlet"
 
 #: ../src/calendar/zones.h:171
 msgid "America/Recife"
-msgstr ""
+msgstr "Америка/Ресифи"
 
 #: ../src/calendar/zones.h:172
 msgid "America/Regina"
-msgstr ""
+msgstr "Америка/Регина"
 
 #: ../src/calendar/zones.h:173
 msgid "America/Rio_Branco"
-msgstr ""
+msgstr "Америка/Рио-Бранко"
 
 #: ../src/calendar/zones.h:174
 msgid "America/Rosario"
-msgstr ""
+msgstr "Америка/Розарио"
 
 #: ../src/calendar/zones.h:175
 msgid "America/Santiago"
-msgstr ""
+msgstr "Америка/Сантиаго"
 
 #: ../src/calendar/zones.h:176
 msgid "America/Santo_Domingo"
-msgstr ""
+msgstr "Америка/Санто-Доминго"
 
 #: ../src/calendar/zones.h:177
 msgid "America/Sao_Paulo"
-msgstr ""
+msgstr "Америка/Сан-Пауло"
 
 #: ../src/calendar/zones.h:178
 msgid "America/Scoresbysund"
-msgstr ""
+msgstr "Америка/Иллоккортоормиут"
 
 #: ../src/calendar/zones.h:179
 msgid "America/Shiprock"
-msgstr ""
+msgstr "Америка/Шипрок"
 
 #: ../src/calendar/zones.h:180
 msgid "America/St_Johns"
-msgstr ""
+msgstr "Америка/Сент-Джонс"
 
 #: ../src/calendar/zones.h:181
 msgid "America/St_Kitts"
-msgstr ""
+msgstr "Америка/Сент-Китси Невиси"
 
 #: ../src/calendar/zones.h:182
 msgid "America/St_Lucia"
-msgstr ""
+msgstr "Америка/Сент-Лиусиа"
 
 #: ../src/calendar/zones.h:183
 msgid "America/St_Thomas"
-msgstr ""
+msgstr "Америка/Сент-Томас"
 
 #: ../src/calendar/zones.h:184
 msgid "America/St_Vincent"
-msgstr ""
+msgstr "Америка/Сент-Винсент"
 
 #: ../src/calendar/zones.h:185
 msgid "America/Swift_Current"
-msgstr ""
+msgstr "Америка/Свифт Каррент"
 
 #: ../src/calendar/zones.h:186
 msgid "America/Tegucigalpa"
-msgstr ""
+msgstr "Америка/Тегучигалпа"
 
 #: ../src/calendar/zones.h:187
 msgid "America/Thule"
-msgstr ""
+msgstr "Америка/Туле"
 
 #: ../src/calendar/zones.h:188
 msgid "America/Thunder_Bay"
-msgstr ""
+msgstr "Америка/Тандер-Беи"
 
 #: ../src/calendar/zones.h:189
 msgid "America/Tijuana"
-msgstr ""
+msgstr "Америка/Тихуана"
 
 #: ../src/calendar/zones.h:190
 msgid "America/Tortola"
-msgstr ""
+msgstr "Америка/Тортола"
 
 #: ../src/calendar/zones.h:191
 msgid "America/Vancouver"
-msgstr ""
+msgstr "Америка/Ванкувер"
 
 #: ../src/calendar/zones.h:192
 msgid "America/Whitehorse"
-msgstr ""
+msgstr "Америка/Ваитхорс"
 
 #: ../src/calendar/zones.h:193
 msgid "America/Winnipeg"
-msgstr ""
+msgstr "Америка/Виннипег"
 
 #: ../src/calendar/zones.h:194
 msgid "America/Yakutat"
-msgstr ""
+msgstr "Америка/Иакутат"
 
 #: ../src/calendar/zones.h:195
 msgid "America/Yellowknife"
-msgstr ""
+msgstr "Америка/Иеллоунаиф"
 
 #: ../src/calendar/zones.h:196
 msgid "Antarctica/Casey"
@@ -10378,35 +10309,35 @@ msgstr ""
 
 #: ../src/calendar/zones.h:197
 msgid "Antarctica/Davis"
-msgstr ""
+msgstr "Антарктика/Деивис"
 
 #: ../src/calendar/zones.h:198
 msgid "Antarctica/DumontDUrville"
-msgstr ""
+msgstr "Антарктика/Диумон-д'Иурвиль"
 
 #: ../src/calendar/zones.h:199
 msgid "Antarctica/Mawson"
-msgstr ""
+msgstr "Антарктика/Моусон"
 
 #: ../src/calendar/zones.h:200
 msgid "Antarctica/McMurdo"
-msgstr ""
+msgstr "Антарктика/Марк-Мердо"
 
 #: ../src/calendar/zones.h:201
 msgid "Antarctica/Palmer"
-msgstr ""
+msgstr "Антарктика/Палмер"
 
 #: ../src/calendar/zones.h:202
 msgid "Antarctica/South_Pole"
-msgstr ""
+msgstr "Антарктика/Аладатәи аполиус"
 
 #: ../src/calendar/zones.h:203
 msgid "Antarctica/Syowa"
-msgstr ""
+msgstr "Антарктика/Сева"
 
 #: ../src/calendar/zones.h:204
 msgid "Antarctica/Vostok"
-msgstr ""
+msgstr "Антарктика/Восток"
 
 #: ../src/calendar/zones.h:205
 msgid "Arctic/Longyearbyen"
@@ -10414,315 +10345,315 @@ msgstr ""
 
 #: ../src/calendar/zones.h:206
 msgid "Asia/Aden"
-msgstr ""
+msgstr "Азиа/Аден"
 
 #: ../src/calendar/zones.h:207
 msgid "Asia/Almaty"
-msgstr ""
+msgstr "Азиа/Алматы"
 
 #: ../src/calendar/zones.h:208
 msgid "Asia/Amman"
-msgstr ""
+msgstr "Азиа.Амман"
 
 #: ../src/calendar/zones.h:209
 msgid "Asia/Anadyr"
-msgstr ""
+msgstr "АзиаАнадырь"
 
 #: ../src/calendar/zones.h:210
 msgid "Asia/Aqtau"
-msgstr ""
+msgstr "Азиа/Актау"
 
 #: ../src/calendar/zones.h:211
 msgid "Asia/Aqtobe"
-msgstr ""
+msgstr "АзияаАктиубинск"
 
 #: ../src/calendar/zones.h:212
 msgid "Asia/Ashgabat"
-msgstr ""
+msgstr "Азиа/Ашхабад"
 
 #: ../src/calendar/zones.h:213
 msgid "Asia/Baghdad"
-msgstr ""
+msgstr "Азиа/Багдад"
 
 #: ../src/calendar/zones.h:214
 msgid "Asia/Bahrain"
-msgstr ""
+msgstr "Азиа/Бахреин"
 
 #: ../src/calendar/zones.h:215
 msgid "Asia/Baku"
-msgstr ""
+msgstr "АзиаБаку"
 
 #: ../src/calendar/zones.h:216
 msgid "Asia/Bangkok"
-msgstr ""
+msgstr "Азиа/Бангкок"
 
 #: ../src/calendar/zones.h:217
 msgid "Asia/Beirut"
-msgstr ""
+msgstr "Азиа/Беирут"
 
 #: ../src/calendar/zones.h:218
 msgid "Asia/Bishkek"
-msgstr ""
+msgstr "Азия/Бишкек"
 
 #: ../src/calendar/zones.h:219
 msgid "Asia/Brunei"
-msgstr ""
+msgstr "Азия/Брунеи"
 
 #: ../src/calendar/zones.h:220
 msgid "Asia/Calcutta"
-msgstr ""
+msgstr "Азиа/Калькутта"
 
 #: ../src/calendar/zones.h:221
 msgid "Asia/Choibalsan"
-msgstr ""
+msgstr "Азиа/Чоибалсан"
 
 #: ../src/calendar/zones.h:222
 msgid "Asia/Chongqing"
-msgstr ""
+msgstr "Азиа/Чунцин"
 
 #: ../src/calendar/zones.h:223
 msgid "Asia/Colombo"
-msgstr ""
+msgstr "Азиа/Коломбо"
 
 #: ../src/calendar/zones.h:224
 msgid "Asia/Damascus"
-msgstr ""
+msgstr "Азиа/Дамаск"
 
 #: ../src/calendar/zones.h:225
 msgid "Asia/Dhaka"
-msgstr ""
+msgstr "Азиа/Дакка"
 
 #: ../src/calendar/zones.h:226
 msgid "Asia/Dili"
-msgstr ""
+msgstr "Азиа/Дили"
 
 #: ../src/calendar/zones.h:227
 msgid "Asia/Dubai"
-msgstr ""
+msgstr "Азиа/Дубаи"
 
 #: ../src/calendar/zones.h:228
 msgid "Asia/Dushanbe"
-msgstr ""
+msgstr "Азиа/Душанбе"
 
 #: ../src/calendar/zones.h:229
 msgid "Asia/Gaza"
-msgstr ""
+msgstr "Азиа/Газа"
 
 #: ../src/calendar/zones.h:230
 msgid "Asia/Harbin"
-msgstr ""
+msgstr "Азиа/Харбин"
 
 #: ../src/calendar/zones.h:231
 msgid "Asia/Hong_Kong"
-msgstr ""
+msgstr "Азиа/Гонконг"
 
 #: ../src/calendar/zones.h:232
 msgid "Asia/Hovd"
-msgstr ""
+msgstr "Asia/Hovd"
 
 #: ../src/calendar/zones.h:233
 msgid "Asia/Irkutsk"
-msgstr ""
+msgstr "Азиа/Иркутск"
 
 #: ../src/calendar/zones.h:234
 msgid "Asia/Istanbul"
-msgstr ""
+msgstr "Азиа/Стамбул"
 
 #: ../src/calendar/zones.h:235
 msgid "Asia/Jakarta"
-msgstr ""
+msgstr "Азиа/Джакарта"
 
 #: ../src/calendar/zones.h:236
 msgid "Asia/Jayapura"
-msgstr ""
+msgstr "Азиа/Джаиапура"
 
 #: ../src/calendar/zones.h:237
 msgid "Asia/Jerusalem"
-msgstr ""
+msgstr "Азиа/Иерусалим"
 
 #: ../src/calendar/zones.h:238
 msgid "Asia/Kabul"
-msgstr ""
+msgstr "Азиа/Кабул"
 
 #: ../src/calendar/zones.h:239
 msgid "Asia/Kamchatka"
-msgstr ""
+msgstr "Азиа/Камчатка"
 
 #: ../src/calendar/zones.h:240
 msgid "Asia/Karachi"
-msgstr ""
+msgstr "Азиа/Карачи"
 
 #: ../src/calendar/zones.h:241
 msgid "Asia/Kashgar"
-msgstr ""
+msgstr "Азиа/Кашгар"
 
 #: ../src/calendar/zones.h:242
 msgid "Asia/Kathmandu"
-msgstr ""
+msgstr "Азиа/Катманду"
 
 #: ../src/calendar/zones.h:243
 msgid "Asia/Krasnoyarsk"
-msgstr ""
+msgstr "Азиа/Красноярск"
 
 #: ../src/calendar/zones.h:244
 msgid "Asia/Kuala_Lumpur"
-msgstr ""
+msgstr "Азиа/Куала-Лумпур"
 
 #: ../src/calendar/zones.h:245
 msgid "Asia/Kuching"
-msgstr ""
+msgstr "Азиа/Кучинг"
 
 #: ../src/calendar/zones.h:246
 msgid "Asia/Kuwait"
-msgstr ""
+msgstr "Азиа/Кувеит"
 
 #: ../src/calendar/zones.h:247
 msgid "Asia/Macao"
-msgstr ""
+msgstr "Азиа/Макао"
 
 #: ../src/calendar/zones.h:248
 msgid "Asia/Macau"
-msgstr ""
+msgstr "Азиа/Макао"
 
 #: ../src/calendar/zones.h:249
 msgid "Asia/Magadan"
-msgstr ""
+msgstr "Азиа/Магадан"
 
 #: ../src/calendar/zones.h:250
 msgid "Asia/Makassar"
-msgstr ""
+msgstr "Азиа/Макассар"
 
 #: ../src/calendar/zones.h:251
 msgid "Asia/Manila"
-msgstr ""
+msgstr "Азиа/Манила"
 
 #: ../src/calendar/zones.h:252
 msgid "Asia/Muscat"
-msgstr ""
+msgstr "Азиа/Мускат"
 
 #: ../src/calendar/zones.h:253
 msgid "Asia/Nicosia"
-msgstr ""
+msgstr "Азиа/Никосия"
 
 #: ../src/calendar/zones.h:254
 msgid "Asia/Novosibirsk"
-msgstr ""
+msgstr "Азиа/Новосибирск"
 
 #: ../src/calendar/zones.h:255
 msgid "Asia/Omsk"
-msgstr ""
+msgstr "Азиа/Омск"
 
 #: ../src/calendar/zones.h:256
 msgid "Asia/Oral"
-msgstr ""
+msgstr "Азиа/Орал"
 
 #: ../src/calendar/zones.h:257
 msgid "Asia/Phnom_Penh"
-msgstr ""
+msgstr "Азиа/Пномпень"
 
 #: ../src/calendar/zones.h:258
 msgid "Asia/Pontianak"
-msgstr ""
+msgstr "Азиа/Понтианак"
 
 #: ../src/calendar/zones.h:259
 msgid "Asia/Pyongyang"
-msgstr ""
+msgstr "Азиа/Пхениан"
 
 #: ../src/calendar/zones.h:260
 msgid "Asia/Qatar"
-msgstr ""
+msgstr "Азиа/Катар"
 
 #: ../src/calendar/zones.h:261
 msgid "Asia/Qyzylorda"
-msgstr ""
+msgstr "Азиа/Кызыл-Орда"
 
 #: ../src/calendar/zones.h:262
 msgid "Asia/Rangoon"
-msgstr ""
+msgstr "Азиа/Рангун"
 
 #: ../src/calendar/zones.h:263
 msgid "Asia/Riyadh"
-msgstr ""
+msgstr "Азиа/Эр-Рияд"
 
 #: ../src/calendar/zones.h:264
 msgid "Asia/Saigon"
-msgstr ""
+msgstr "Азиа/Саигон"
 
 #: ../src/calendar/zones.h:265
 msgid "Asia/Sakhalin"
-msgstr ""
+msgstr "Азиа/Сахалин"
 
 #: ../src/calendar/zones.h:266
 msgid "Asia/Samarkand"
-msgstr ""
+msgstr "Азиа/Самарканд"
 
 #: ../src/calendar/zones.h:267
 msgid "Asia/Seoul"
-msgstr ""
+msgstr "Азиа/Сеул"
 
 #: ../src/calendar/zones.h:268
 msgid "Asia/Shanghai"
-msgstr ""
+msgstr "Азиа/Шанхаи"
 
 #: ../src/calendar/zones.h:269
 msgid "Asia/Singapore"
-msgstr ""
+msgstr "Азиа/Сингапур"
 
 #: ../src/calendar/zones.h:270
 msgid "Asia/Taipei"
-msgstr ""
+msgstr "Азиа/Таипеи"
 
 #: ../src/calendar/zones.h:271
 msgid "Asia/Tashkent"
-msgstr ""
+msgstr "Азиа/Ташкент"
 
 #: ../src/calendar/zones.h:272
 msgid "Asia/Tbilisi"
-msgstr ""
+msgstr "Азиа/Тбилиси"
 
 #: ../src/calendar/zones.h:273
 msgid "Asia/Tehran"
-msgstr ""
+msgstr "Азиа/Тегеран"
 
 #: ../src/calendar/zones.h:274
 msgid "Asia/Thimphu"
-msgstr ""
+msgstr "Азиа/Тхимпху"
 
 #: ../src/calendar/zones.h:275
 msgid "Asia/Tokyo"
-msgstr ""
+msgstr "Азиа/Токио"
 
 #: ../src/calendar/zones.h:276
 msgid "Asia/Ujung_Pandang"
-msgstr ""
+msgstr "Азиа/Унджунг-Панданг"
 
 #: ../src/calendar/zones.h:277
 msgid "Asia/Ulaanbaatar"
-msgstr ""
+msgstr "Азиа/Улан-Батор"
 
 #: ../src/calendar/zones.h:278
 msgid "Asia/Urumqi"
-msgstr ""
+msgstr "Азиа/Урумчи"
 
 #: ../src/calendar/zones.h:279
 msgid "Asia/Vientiane"
-msgstr ""
+msgstr "Азия/Вьентиан"
 
 #: ../src/calendar/zones.h:280
 msgid "Asia/Vladivostok"
-msgstr ""
+msgstr "Азия/Владивосток"
 
 #: ../src/calendar/zones.h:281
 msgid "Asia/Yakutsk"
-msgstr ""
+msgstr "Азиа/Якутск"
 
 #: ../src/calendar/zones.h:282
 msgid "Asia/Yekaterinburg"
-msgstr ""
+msgstr "Азиа/Екатеринбург"
 
 #: ../src/calendar/zones.h:283
 msgid "Asia/Yerevan"
-msgstr ""
+msgstr "Азиа/Ереван"
 
 #: ../src/calendar/zones.h:284
 msgid "Atlantic/Azores"
@@ -10770,43 +10701,43 @@ msgstr ""
 
 #: ../src/calendar/zones.h:295
 msgid "Australia/Adelaide"
-msgstr ""
+msgstr "Австралия/Аделаида"
 
 #: ../src/calendar/zones.h:296
 msgid "Australia/Brisbane"
-msgstr ""
+msgstr "Австралия/Брисбен"
 
 #: ../src/calendar/zones.h:297
 msgid "Australia/Broken_Hill"
-msgstr ""
+msgstr "Австралия/Брокен-Хилл"
 
 #: ../src/calendar/zones.h:298
 msgid "Australia/Darwin"
-msgstr ""
+msgstr "Австралия/Дарвин"
 
 #: ../src/calendar/zones.h:299
 msgid "Australia/Hobart"
-msgstr ""
+msgstr "Австралия/Хобарт"
 
 #: ../src/calendar/zones.h:300
 msgid "Australia/Lindeman"
-msgstr ""
+msgstr "Австралия/Линдеман"
 
 #: ../src/calendar/zones.h:301
 msgid "Australia/Lord_Howe"
-msgstr ""
+msgstr "Австралия/ат.Лорд-Хау(Онтонг-Джава)"
 
 #: ../src/calendar/zones.h:302
 msgid "Australia/Melbourne"
-msgstr ""
+msgstr "Австралия/Мельбурн"
 
 #: ../src/calendar/zones.h:303
 msgid "Australia/Perth"
-msgstr ""
+msgstr "Австралия/Перт"
 
 #: ../src/calendar/zones.h:304
 msgid "Australia/Sydney"
-msgstr ""
+msgstr "Австралия/Сиднеи"
 
 #: ../src/calendar/zones.h:305
 msgid "Europe/Amsterdam"
@@ -11782,7 +11713,7 @@ msgstr ""
 
 #: ../src/em-format/e-mail-formatter-headers.c:134
 msgid "(no subject)"
-msgstr ""
+msgstr "(Темада)"
 
 #: ../src/em-format/e-mail-formatter-headers.c:150
 #: ../src/em-format/e-mail-formatter-headers.c:514
@@ -11858,12 +11789,9 @@ msgstr ""
 msgid "Display part as enriched text"
 msgstr ""
 
-#: ../src/em-format/e-mail-formatter-quote-text-html.c:93
-#: ../src/em-format/e-mail-formatter-text-html.c:389
-#: ../src/modules/rss/evolution/e-rss-preferences.c:56
-#: ../src/modules/rss/evolution/e-rss-preferences.c:825
+#: ../src/em-format/e-mail-formatter-quote-text-html.c:93+../src/em-format/e-mail-formatter-text-html.c:389
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: ../src/em-format/e-mail-formatter-quote-text-html.c:94
 #: ../src/em-format/e-mail-formatter-text-html.c:390
@@ -12078,12 +12006,9 @@ msgstr ""
 msgid "partially S/MIME encrypted"
 msgstr ""
 
-#: ../src/em-format/e-mail-formatter-utils.c:699
-#: ../src/mail/e-mail-config-security-page.c:865
-#: ../src/modules/mail-config/e-mail-config-remote-accounts.c:273
-#: ../src/modules/mail-config/e-mail-config-smtp-backend.c:217
+#: ../src/em-format/e-mail-formatter-utils.c:695+../src/mail/e-mail-config-security-page.c:865+../src/modules/mail-config/e-mail-config-remote-accounts.c:273+../src/modules/mail-config/e-mail-config-smtp-backend.c:217
 msgid "Security"
-msgstr ""
+msgstr "Ашәарҭадара"
 
 #: ../src/em-format/e-mail-parser-application-mbox.c:125
 #, c-format
@@ -12158,11 +12083,9 @@ msgstr ""
 msgid "Reply-To"
 msgstr ""
 
-#: ../src/em-format/e-mail-part-headers.c:52 ../src/e-util/e-dateedit.c:612
-#: ../src/e-util/e-dateedit.c:635 ../src/mail/message-list.etspec.h:7
-#: ../src/modules/mail/em-mailer-prefs.c:77
+#: ../src/em-format/e-mail-part-headers.c:52+../src/e-util/e-dateedit.c:612+../src/e-util/e-dateedit.c:635+../src/mail/message-list.etspec.h:7+../src/modules/mail/em-mailer-prefs.c:77
 msgid "Date"
-msgstr ""
+msgstr "Аамҭарба"
 
 #: ../src/em-format/e-mail-part-headers.c:53
 #: ../src/modules/mail/em-mailer-prefs.c:78
@@ -12204,10 +12127,9 @@ msgstr ""
 msgid "Mail Accounts"
 msgstr ""
 
-#: ../src/e-util/e-accounts-window.c:564 ../src/e-util/e-accounts-window.c:710
-#: ../src/e-util/e-accounts-window.c:918
+#: ../src/e-util/e-accounts-window.c:564+../src/e-util/e-accounts-window.c:703+../src/e-util/e-accounts-window.c:908
 msgid "Address Books"
-msgstr ""
+msgstr "Аҭыӡҭыԥтә шәҟәы"
 
 #: ../src/e-util/e-accounts-window.c:570 ../src/e-util/e-accounts-window.c:711
 #: ../src/e-util/e-accounts-window.c:919
@@ -12309,9 +12231,8 @@ msgid "%s (cancelling)"
 msgstr ""
 
 #: ../src/e-util/e-activity.c:264
-#, c-format
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #. Translators: This is a running activity whose
 #. *              percent complete is known.
@@ -12353,11 +12274,9 @@ msgstr ""
 msgid "Operation was cancelled"
 msgstr ""
 
-#. Translators: Default attachment filename.
-#: ../src/e-util/e-attachment.c:2270 ../src/e-util/e-attachment.c:2974
-#: ../src/e-util/e-attachment.c:3426 ../src/e-util/e-attachment-store.c:914
+#: ../src/e-util/e-attachment.c:2270+../src/e-util/e-attachment.c:2974+../src/e-util/e-attachment.c:3426+../src/e-util/e-attachment-store.c:914
 msgid "attachment.dat"
-msgstr ""
+msgstr "attachment.dat"
 
 #: ../src/e-util/e-attachment.c:2352 ../src/e-util/e-attachment.c:3486
 msgid "A load operation is already in progress"
@@ -12533,7 +12452,7 @@ msgstr ""
 
 #: ../src/e-util/e-book-source-config.c:95
 msgid "Autocomplete with this address book"
-msgstr ""
+msgstr "Абри аҭыӡҭыԥшәҟәы ацхыраарала автоматикла ахарҭәаара"
 
 #: ../src/e-util/e-book-source-config.c:269
 msgid "Copy book content locally for offline operation"
@@ -12672,10 +12591,9 @@ msgstr ""
 msgid "popup list"
 msgstr ""
 
-#: ../src/e-util/e-cell-date.c:49 ../src/e-util/e-cell-date.c:138
-#: ../src/e-util/e-cell-date.c:158 ../src/mail/message-list.c:2189
+#: ../src/e-util/e-cell-date.c:49+../src/e-util/e-cell-date.c:138+../src/e-util/e-cell-date.c:158+../src/mail/message-list.c:2181
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: ../src/e-util/e-cell-date-edit.c:330
 msgid "Now"
@@ -12703,11 +12621,11 @@ msgstr ""
 
 #: ../src/e-util/e-charset.c:50
 msgid "Arabic"
-msgstr ""
+msgstr "Арабтәи"
 
 #: ../src/e-util/e-charset.c:51
 msgid "Baltic"
-msgstr ""
+msgstr "Абалтикатә"
 
 #: ../src/e-util/e-charset.c:52
 msgid "Central European"
@@ -12912,11 +12830,9 @@ msgstr ""
 msgid "Mail Send"
 msgstr ""
 
-#: ../src/e-util/e-collection-account-wizard.c:866
-#: ../src/e-util/e-name-selector-dialog.c:445
-#: ../src/mail/importers/pine-importer.c:430
+#: ../src/e-util/e-collection-account-wizard.c:866+../src/e-util/e-name-selector-dialog.c:445+../src/mail/importers/pine-importer.c:430
 msgid "Address Book"
-msgstr ""
+msgstr "Аҭыӡҭыԥтәи ашәҟәы"
 
 #: ../src/e-util/e-collection-account-wizard.c:868
 msgid "Memo List"
@@ -12949,7 +12865,7 @@ msgstr ""
 
 #: ../src/e-util/e-collection-account-wizard.c:1714
 msgid "_Email Address or User name:"
-msgstr ""
+msgstr "_Аел. ԥошьҭа аҭыӡҭыԥ мамзар ахархәаҩ ихьӡ"
 
 #: ../src/e-util/e-collection-account-wizard.c:1742
 msgid "_Advanced Options"
@@ -13148,7 +13064,7 @@ msgstr ""
 
 #: ../src/e-util/e-color-combo.c:607
 msgid "white"
-msgstr ""
+msgstr "Ашкәакәа"
 
 #: ../src/e-util/e-config-lookup.c:819
 msgid "Running…"
@@ -13531,9 +13447,8 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: ../src/e-util/e-filter-datespec.c:127
-#, c-format
 msgid "<click here to select a date>"
-msgstr ""
+msgstr "<шәақәыӷәӷәа аамҭарба алхразы>"
 
 #: ../src/e-util/e-filter-datespec.c:132 ../src/e-util/e-filter-datespec.c:143
 #: ../src/e-util/e-filter-datespec.c:154
@@ -13867,10 +13782,9 @@ msgstr ""
 msgid "Right Alignment"
 msgstr ""
 
-#: ../src/e-util/e-html-editor-actions.c:1347
-#: ../src/modules/text-highlight/languages.c:70
+#: ../src/e-util/e-html-editor-actions.c:1347+../src/modules/text-highlight/languages.c:70
 msgid "_HTML"
-msgstr ""
+msgstr "_HTML"
 
 #: ../src/e-util/e-html-editor-actions.c:1349
 msgid "HTML editing mode"
@@ -13884,10 +13798,9 @@ msgstr ""
 msgid "Plain text editing mode"
 msgstr ""
 
-#: ../src/e-util/e-html-editor-actions.c:1361
-#: ../src/modules/text-highlight/languages.c:96
+#: ../src/e-util/e-html-editor-actions.c:1361+../src/modules/text-highlight/languages.c:96
 msgid "_Markdown"
-msgstr ""
+msgstr "_Markdown"
 
 #: ../src/e-util/e-html-editor-actions.c:1363
 msgid "Markdown editing mode"
@@ -13943,7 +13856,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-actions.c:1441
 msgid "A_ddress"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: ../src/e-util/e-html-editor-actions.c:1448
 msgid "_Bulleted List"
@@ -13959,7 +13872,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-actions.c:1469
 msgid "_Alphabetical List"
-msgstr ""
+msgstr "_Алфавиттә ахьӡынҵа"
 
 #: ../src/e-util/e-html-editor-actions.c:1485
 #: ../src/e-util/e-html-editor-actions.c:1523
@@ -14072,15 +13985,13 @@ msgstr ""
 msgid "Underline"
 msgstr ""
 
-#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
 #: ../src/e-util/e-html-editor-actions.c:1638
 msgid "-2"
-msgstr ""
+msgstr "-2"
 
-#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
 #: ../src/e-util/e-html-editor-actions.c:1646
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 #. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
 #: ../src/e-util/e-html-editor-actions.c:1654
@@ -14199,7 +14110,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-actions.c:1860
 msgid "Paragraph…"
-msgstr ""
+msgstr "Абзац..."
 
 #. Translators: 'Rule' here means a horizontal line in an HTML text
 #: ../src/e-util/e-html-editor-actions.c:1868
@@ -14302,7 +14213,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-cell-dialog.c:408
 msgid "<b>Scope</b>"
-msgstr ""
+msgstr "<b>Адаԥа</b>"
 
 #: ../src/e-util/e-html-editor-cell-dialog.c:422
 msgid "C_ell"
@@ -14318,7 +14229,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-cell-dialog.c:471
 msgid "<b>Alignment &amp; Behavior</b>"
-msgstr ""
+msgstr "<b>Аиаҟаратәреи ахымҩаԥгашьеи</b>"
 
 #: ../src/e-util/e-html-editor-cell-dialog.c:484
 #: ../src/e-util/e-html-editor-hrule-dialog.c:306
@@ -14371,11 +14282,9 @@ msgstr ""
 msgid "_Header Style"
 msgstr ""
 
-#: ../src/e-util/e-html-editor-cell-dialog.c:540
-#: ../src/e-util/e-html-editor-image-dialog.c:609
-#: ../src/e-util/e-html-editor-table-dialog.c:551
+#: ../src/e-util/e-html-editor-cell-dialog.c:540+../src/e-util/e-html-editor-image-dialog.c:609+../src/e-util/e-html-editor-table-dialog.c:551
 msgid "<b>Layout</b>"
-msgstr ""
+msgstr "<b>Аҭыԥ аанкылара</b>"
 
 #. Width
 #: ../src/e-util/e-html-editor-cell-dialog.c:551
@@ -14390,10 +14299,9 @@ msgstr ""
 msgid "Co_lumn Span:"
 msgstr ""
 
-#: ../src/e-util/e-html-editor-cell-dialog.c:612
-#: ../src/e-util/e-html-editor-table-dialog.c:655
+#: ../src/e-util/e-html-editor-cell-dialog.c:612+../src/e-util/e-html-editor-table-dialog.c:655
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>адыԥшылахә</b>"
 
 #: ../src/e-util/e-html-editor-cell-dialog.c:625
 #: ../src/e-util/e-html-editor-table-dialog.c:668
@@ -14457,7 +14365,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-hrule-dialog.c:241
 msgid "<b>Size</b>"
-msgstr ""
+msgstr "<b>Ашәагаа</b>"
 
 #. Width
 #: ../src/e-util/e-html-editor-hrule-dialog.c:261
@@ -14472,7 +14380,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-hrule-dialog.c:293
 msgid "<b>Style</b>"
-msgstr ""
+msgstr "<b>Астиль</b>"
 
 #: ../src/e-util/e-html-editor-hrule-dialog.c:318
 #: ../src/e-util/e-html-editor-table-dialog.c:648
@@ -14488,11 +14396,9 @@ msgstr ""
 msgid "Rule properties"
 msgstr ""
 
-#: ../src/e-util/e-html-editor-image-dialog.c:554
-#: ../src/e-util/e-html-editor-paragraph-dialog.c:65
-#: ../src/e-util/e-html-editor-table-dialog.c:505
+#: ../src/e-util/e-html-editor-image-dialog.c:554+../src/e-util/e-html-editor-paragraph-dialog.c:65+../src/e-util/e-html-editor-table-dialog.c:505
 msgid "<b>General</b>"
-msgstr ""
+msgstr "<b>Азеиԥш</b>"
 
 #: ../src/e-util/e-html-editor-image-dialog.c:588
 msgid "_Source:"
@@ -14521,12 +14427,11 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-image-dialog.c:733
 msgid "<b>Link</b>"
-msgstr ""
+msgstr "<b>Азхьарԥш</b>"
 
-#: ../src/e-util/e-html-editor-image-dialog.c:751
-#: ../src/e-util/e-html-editor-link-dialog.c:212
+#: ../src/e-util/e-html-editor-image-dialog.c:751+../src/e-util/e-html-editor-link-dialog.c:212
 msgid "_URL:"
-msgstr ""
+msgstr "_URL:"
 
 #: ../src/e-util/e-html-editor-image-dialog.c:756
 msgid "_Test URL…"
@@ -14633,7 +14538,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-paragraph-dialog.c:89
 msgid "<b>Alignment</b>"
-msgstr ""
+msgstr "<b>Аиҟаратәра</b>"
 
 #: ../src/e-util/e-html-editor-paragraph-dialog.c:163
 msgid "Paragraph Properties"
@@ -14681,13 +14586,12 @@ msgid "Replace"
 msgstr ""
 
 #: ../src/e-util/e-html-editor-spell-check-dialog.c:83
-#, c-format
 msgid "<b>Suggestions for “%s”</b>"
-msgstr ""
+msgstr "<b>Аварианқәа «%s»</b> азы"
 
 #: ../src/e-util/e-html-editor-spell-check-dialog.c:387
 msgid "<b>Suggestions</b>"
-msgstr ""
+msgstr "<b>Авариантқәа</b>"
 
 #. Replace
 #: ../src/e-util/e-html-editor-spell-check-dialog.c:422
@@ -14717,7 +14621,7 @@ msgstr ""
 
 #: ../src/e-util/e-html-editor-spell-check-dialog.c:467
 msgid "<b>Dictionary</b>"
-msgstr ""
+msgstr "<b>Ажәар</b>"
 
 #. Add Word button
 #: ../src/e-util/e-html-editor-spell-check-dialog.c:487
@@ -14843,10 +14747,9 @@ msgstr ""
 msgid "Evolution Import Assistant"
 msgstr ""
 
-#: ../src/e-util/e-import-assistant.c:1406
-#: ../src/e-util/e-import-assistant.c:1463
+#: ../src/e-util/e-import-assistant.c:1406+../src/e-util/e-import-assistant.c:1463
 msgid "Import Location"
-msgstr ""
+msgstr "Аҭыӡҭыԥқәа аимпорт азы"
 
 #: ../src/e-util/e-import-assistant.c:1418
 msgid ""
@@ -14892,7 +14795,7 @@ msgstr ""
 
 #: ../src/e-util/e-mail-signature-combo-box.c:431
 msgid "Autogenerated"
-msgstr ""
+msgstr "Автоматикла агенерациа зызу"
 
 #: ../src/e-util/e-mail-signature-editor.c:330 ../src/mail/e-mail-notes.c:1106
 msgid "Close"
@@ -15115,7 +15018,7 @@ msgstr ""
 
 #: ../src/e-util/e-name-selector-dialog.c:306
 msgid "Address B_ook:"
-msgstr ""
+msgstr "_Аҭыӡҭыԥтәи ашәҟәы:"
 
 #: ../src/e-util/e-name-selector-dialog.c:313
 msgid "Cat_egory:"
@@ -15267,7 +15170,7 @@ msgstr ""
 
 #: ../src/e-util/e-proxy-editor.c:516
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматикла"
 
 #: ../src/e-util/e-proxy-editor.c:535
 msgid "Configuration _URL:"
@@ -15298,6 +15201,8 @@ msgid ""
 "<b>Advanced Proxy Preferences</b> lets you define alternate network proxies "
 "and apply them to specific accounts"
 msgstr ""
+"<b>Иҭбаау ахышәарақәа прокси</b> альтернативтә прокси ашьақәыргылара алшара "
+"шәнаҭоит, насгьы иҷыдоу аҳасабырбатә нҵамҭақәа  рахь ахархәара рыҭара"
 
 #: ../src/e-util/e-proxy-selector.c:86
 msgid "Custom Proxy"
@@ -15475,7 +15380,7 @@ msgstr ""
 
 #: ../src/e-util/e-send-options.ui.h:42
 msgid "A_uto-delete sent item"
-msgstr ""
+msgstr "А_втоматикла ишьҭу афаилқәа рныхра"
 
 #: ../src/e-util/e-send-options.ui.h:43
 msgid "Status Tracking"
@@ -15913,12 +15818,9 @@ msgstr ""
 msgid "Input Methods"
 msgstr ""
 
-#. Put the "UTC" entry at the top of the combo's list.
-#: ../src/e-util/e-timezone-dialog.c:270 ../src/e-util/e-timezone-dialog.c:510
-#: ../src/e-util/e-timezone-dialog.c:514 ../src/e-util/e-timezone-dialog.c:518
-#: ../src/e-util/e-timezone-dialog.c:1005
+#: ../src/e-util/e-timezone-dialog.c:270+../src/e-util/e-timezone-dialog.c:510+../src/e-util/e-timezone-dialog.c:514+../src/e-util/e-timezone-dialog.c:518+../src/e-util/e-timezone-dialog.c:1005
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 #: ../src/e-util/e-timezone-dialog.ui.h:1
 msgid "Select a Time Zone"
@@ -15969,10 +15871,9 @@ msgstr ""
 msgid "Identity"
 msgstr ""
 
-#: ../src/e-util/e-webdav-browser.c:511 ../src/mail/filtertypes.xml.in.h:64
-#: ../src/mail/searchtypes.xml.in.h:56 ../src/mail/vfoldertypes.xml.in.h:58
+#: ../src/e-util/e-webdav-browser.c:511+../src/mail/filtertypes.xml.in.h:64+../src/mail/searchtypes.xml.in.h:56+../src/mail/vfoldertypes.xml.in.h:58
 msgid "Address book"
-msgstr ""
+msgstr "Аҭыӡҭыԥтәи ашәҟәы"
 
 #: ../src/e-util/e-webdav-browser.c:522
 msgid "Events"
@@ -16698,17 +16599,13 @@ msgstr ""
 msgid "Trying to movemail a non-mbox source “%s”"
 msgstr ""
 
-#. Translators: This is a subject attribution for forwarded messages. The %s is replaced with subject of the original message.
 #: ../src/libemail-engine/mail-tools.c:199
-#, c-format
 msgid "Fwd: %s"
-msgstr ""
+msgstr "Fwd: %s"
 
-#. Translators: This is a subject attribution for forwarded messages, used when there could not be used any subject.
-#. It results in "[Fwd: No Subject]" being used as a subject of the forwarded message.
 #: ../src/libemail-engine/mail-tools.c:209
 msgid "No Subject"
-msgstr ""
+msgstr "(Темада)"
 
 #: ../src/libemail-engine/mail-tools.c:284
 #, c-format
@@ -16788,15 +16685,13 @@ msgstr ""
 msgid "Security method: %s"
 msgstr ""
 
-#: ../src/mail/e-mail-autoconfig.c:862
-#: ../src/mail/e-mail-config-summary-page.c:146
+#: ../src/mail/e-mail-autoconfig.c:862+../src/mail/e-mail-config-summary-page.c:146
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
-#: ../src/mail/e-mail-autoconfig.c:863
-#: ../src/mail/e-mail-config-summary-page.c:149
+#: ../src/mail/e-mail-autoconfig.c:863+../src/mail/e-mail-config-summary-page.c:149
 msgid "STARTTLS"
-msgstr ""
+msgstr "STARTTLS"
 
 #: ../src/mail/e-mail-autoconfig.c:867
 #, c-format
@@ -16837,7 +16732,7 @@ msgstr ""
 
 #: ../src/mail/e-mail-browser.c:353
 msgid "(No Subject)"
-msgstr ""
+msgstr "(Темада)"
 
 #: ../src/mail/e-mail-browser.c:532 ../src/mail/mail-dialogs.ui.h:5
 #: ../src/modules/mail/e-mail-shell-view-private.c:1511
@@ -17121,7 +17016,7 @@ msgstr ""
 
 #: ../src/mail/e-mail-config-identity-page.c:942
 msgid "Email Address cannot be empty"
-msgstr ""
+msgstr "Аел. ԥошьҭа аҭыӡҭыԥ ҭацәызар ҟалаӡом"
 
 #: ../src/mail/e-mail-config-identity-page.c:947
 msgid "Email Address is not a valid email"
@@ -17185,7 +17080,7 @@ msgstr ""
 
 #: ../src/mail/e-mail-config-security-page.c:488
 msgid "Pretty Good Privacy (OpenPGP)"
-msgstr ""
+msgstr "Pretty Good Privacy (OpenPGP)"
 
 #: ../src/mail/e-mail-config-security-page.c:497
 msgid "OpenPGP _Key ID:"
@@ -17193,31 +17088,23 @@ msgstr ""
 
 #: ../src/mail/e-mail-config-security-page.c:528
 msgid "Si_gning algorithm:"
-msgstr ""
+msgstr "А_напаҵыҩра алгоритм:"
 
-#: ../src/mail/e-mail-config-security-page.c:544
-#: ../src/mail/e-mail-config-security-page.c:720
-#: ../src/mail/mail-config.ui.h:80
+#: ../src/mail/e-mail-config-security-page.c:544+../src/mail/e-mail-config-security-page.c:720+../src/mail/mail-config.ui.h:80
 msgid "SHA1"
-msgstr ""
+msgstr "SHA1"
 
-#: ../src/mail/e-mail-config-security-page.c:547
-#: ../src/mail/e-mail-config-security-page.c:723
-#: ../src/mail/mail-config.ui.h:81
+#: ../src/mail/e-mail-config-security-page.c:547+../src/mail/e-mail-config-security-page.c:723+../src/mail/mail-config.ui.h:81
 msgid "SHA256"
-msgstr ""
+msgstr "SHA256"
 
-#: ../src/mail/e-mail-config-security-page.c:550
-#: ../src/mail/e-mail-config-security-page.c:726
-#: ../src/mail/mail-config.ui.h:82
+#: ../src/mail/e-mail-config-security-page.c:550+../src/mail/e-mail-config-security-page.c:726+../src/mail/mail-config.ui.h:82
 msgid "SHA384"
-msgstr ""
+msgstr "SHA384"
 
-#: ../src/mail/e-mail-config-security-page.c:553
-#: ../src/mail/e-mail-config-security-page.c:729
-#: ../src/mail/mail-config.ui.h:83
+#: ../src/mail/e-mail-config-security-page.c:553+../src/mail/e-mail-config-security-page.c:729+../src/mail/mail-config.ui.h:83
 msgid "SHA512"
-msgstr ""
+msgstr "SHA512"
 
 #: ../src/mail/e-mail-config-security-page.c:569
 msgid "Al_ways sign outgoing messages when using this account"
@@ -17245,7 +17132,7 @@ msgstr ""
 
 #: ../src/mail/e-mail-config-security-page.c:653
 msgid "Secure MIME (S/MIME)"
-msgstr ""
+msgstr "Ишәарҭам MIME (S/MIME)"
 
 #: ../src/mail/e-mail-config-security-page.c:662
 msgid "Sig_ning certificate:"
@@ -17264,7 +17151,7 @@ msgstr ""
 
 #: ../src/mail/e-mail-config-security-page.c:704
 msgid "Signing _algorithm:"
-msgstr ""
+msgstr "_Анапаҵыҩра алгоритм:"
 
 #: ../src/mail/e-mail-config-security-page.c:745
 msgid "Always sign outgoing messages when using this account"
@@ -17309,7 +17196,7 @@ msgstr ""
 
 #: ../src/mail/e-mail-config-summary-page.c:388
 msgid "Email Address:"
-msgstr ""
+msgstr "Аел. ԥошьҭа аҭыӡҭыԥ:"
 
 #: ../src/mail/e-mail-config-summary-page.c:402
 msgid "Receiving"
@@ -17866,9 +17753,9 @@ msgstr ""
 msgid "_Load Images"
 msgstr ""
 
-#: ../src/mail/e-mail-reader.c:2709
+#: ../src/mail/e-mail-reader.c:2701
 msgid "Force images in HTML mail to be loaded"
-msgstr ""
+msgstr "Аԥшранҵақәа  HTML аформат рыманы  аԥошьҭа ахь рҭагалара аҿакра "
 
 #: ../src/mail/e-mail-reader.c:2714 ../src/mail/e-mail-reader.c:3147
 msgid "_Ignore Subthread"
@@ -18094,9 +17981,9 @@ msgstr ""
 msgid "Compose a reply to all the recipients of the selected message"
 msgstr ""
 
-#: ../src/mail/e-mail-reader.c:2910
+#: ../src/mail/e-mail-reader.c:2902
 msgid "Al_ternative Reply…"
-msgstr ""
+msgstr "Аль_тернатиавтә ҭак..."
 
 #: ../src/mail/e-mail-reader.c:2912
 msgid "Choose reply options for the selected message"
@@ -18498,7 +18385,7 @@ msgstr ""
 
 #: ../src/mail/em-composer-utils.c:4134
 msgid "Alternative Reply"
-msgstr ""
+msgstr "Альтернативтә ҭак "
 
 #: ../src/mail/em-composer-utils.c:4137
 #: ../src/modules/calendar/e-cal-shell-view-actions.c:1579
@@ -18741,10 +18628,9 @@ msgstr ""
 msgid "Appearance"
 msgstr ""
 
-#. Translators: "Archive" is a noun (This is a tab heading in the mail folder properties)
-#: ../src/mail/em-folder-properties.c:1404
+#: ../src/mail/em-folder-properties.c:1403
 msgid "Archive"
-msgstr ""
+msgstr "Архивтәра"
 
 #: ../src/mail/em-folder-properties.c:1407 ../src/mail/mail-config.ui.h:128
 #: ../src/mail/message-list.etspec.h:19
@@ -18761,7 +18647,7 @@ msgstr ""
 
 #: ../src/mail/em-folder-selection-button.c:80
 msgid "<click here to select a folder>"
-msgstr ""
+msgstr "<шәақәыӷәӷәа, аҭаӡ алхразы >"
 
 #: ../src/mail/em-folder-selector.c:422
 msgid "Create a new folder"
@@ -18824,11 +18710,9 @@ msgstr ""
 msgid "Cannot drop message(s) into toplevel store"
 msgstr ""
 
-#. UNMATCHED is always last.
-#: ../src/mail/em-folder-tree-model.c:463
-#: ../src/mail/em-folder-tree-model.c:465
+#: ../src/mail/em-folder-tree-model.c:460+../src/mail/em-folder-tree-model.c:462
 msgid "UNMATCHED"
-msgstr ""
+msgstr "UNMATCHED"
 
 #: ../src/mail/em-folder-tree-model.c:1574
 #: ../src/mail/importers/kmail-libs.c:149
@@ -19021,7 +18905,7 @@ msgstr ""
 
 #: ../src/mail/em-vfolder-editor-rule.c:562
 msgid "Automatically update on any _source folder change"
-msgstr ""
+msgstr "Аҭаӡ аԥсахраан автоматикла арҿыцра"
 
 #: ../src/mail/em-vfolder-editor-rule.c:574
 msgid "All local folders"
@@ -19083,15 +18967,13 @@ msgstr ""
 msgid "Recipients"
 msgstr ""
 
-#: ../src/mail/filtertypes.xml.in.h:13 ../src/mail/searchtypes.xml.in.h:14
-#: ../src/mail/vfoldertypes.xml.in.h:14
+#: ../src/mail/filtertypes.xml.in.h:13+../src/mail/searchtypes.xml.in.h:14+../src/mail/vfoldertypes.xml.in.h:14
 msgid "CC"
-msgstr ""
+msgstr "CC"
 
-#: ../src/mail/filtertypes.xml.in.h:14 ../src/mail/searchtypes.xml.in.h:15
-#: ../src/mail/vfoldertypes.xml.in.h:15
+#: ../src/mail/filtertypes.xml.in.h:14+../src/mail/searchtypes.xml.in.h:15+../src/mail/vfoldertypes.xml.in.h:15
 msgid "BCC"
-msgstr ""
+msgstr "BCC"
 
 #: ../src/mail/filtertypes.xml.in.h:15 ../src/mail/searchtypes.xml.in.h:16
 #: ../src/mail/vfoldertypes.xml.in.h:16
@@ -19347,7 +19229,7 @@ msgstr ""
 
 #: ../src/mail/importers/elm-importer.c:377
 msgid "Evolution Elm importer"
-msgstr ""
+msgstr "Evolution Elm importer"
 
 #: ../src/mail/importers/elm-importer.c:378
 msgid "Import mail from Elm."
@@ -19385,10 +19267,9 @@ msgctxt "mboxImp"
 msgid "From"
 msgstr ""
 
-#: ../src/mail/importers/evolution-mbox-importer.c:569
-#: ../src/shell/e-shell-utils.c:166
+#: ../src/mail/importers/evolution-mbox-importer.c:569+../src/shell/e-shell-utils.c:166
 msgid "Berkeley Mailbox (mbox)"
-msgstr ""
+msgstr "Berkeley Mailbox (mbox)"
 
 #: ../src/mail/importers/evolution-mbox-importer.c:570
 msgid "Importer Berkeley Mailbox format folders"
@@ -19437,7 +19318,7 @@ msgstr ""
 
 #: ../src/mail/importers/pine-importer.c:478
 msgid "Evolution Pine importer"
-msgstr ""
+msgstr "Evolution Pine importer"
 
 #: ../src/mail/importers/pine-importer.c:479
 msgid "Import mail from Pine."
@@ -19700,13 +19581,13 @@ msgstr ""
 msgid "Send Account"
 msgstr ""
 
-#: ../src/mail/mail-config.ui.h:84 ../src/smime/gui/smime-ui.ui.h:27
+#: ../src/mail/mail-config.ui.h:84+../src/smime/gui/smime-ui.ui.h:27
 msgid "a"
-msgstr ""
+msgstr "a"
 
-#: ../src/mail/mail-config.ui.h:85 ../src/smime/gui/smime-ui.ui.h:28
+#: ../src/mail/mail-config.ui.h:85+../src/smime/gui/smime-ui.ui.h:28
 msgid "b"
-msgstr ""
+msgstr "b"
 
 #: ../src/mail/mail-config.ui.h:86
 msgid "Start up"
@@ -20082,6 +19963,8 @@ msgid ""
 "The following recipient was not recognized as a valid mail address:\n"
 "{0}"
 msgstr ""
+"Анаҩстәи адкылаҩ иԥошьҭа аиашашьа еилкаамхазеит :\n"
+"{0}"
 
 #: ../src/mail/mail.error.xml.h:20
 msgid "Are you sure you want to send a message with invalid addresses?"
@@ -20092,6 +19975,8 @@ msgid ""
 "The following recipients were not recognized as valid mail addresses:\n"
 "{0}"
 msgstr ""
+"Анаҩстәи адкылаҩцәа рԥошьҭақәа риашашьа еилкаамхазеит :\n"
+"{0}"
 
 #: ../src/mail/mail.error.xml.h:23
 msgid "Send private reply?"
@@ -20678,7 +20563,7 @@ msgstr ""
 
 #: ../src/mail/mail.error.xml.h:174
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: ../src/mail/mail.error.xml.h:175
 msgid "Message is not available in offline mode."
@@ -20772,10 +20657,9 @@ msgstr ""
 msgid "{0}, Completed on {1}"
 msgstr ""
 
-#. Translators: This constructs a string like "Follow-up by Tuesday, January 13, 2009"
 #: ../src/mail/mail.error.xml.h:199
 msgid "{0} by {1}"
-msgstr ""
+msgstr "{0} аҟны {1}"
 
 #. Translators: This constructs a string like "Overdue: Follow-up by Tuesday, January 13, 2009"
 #: ../src/mail/mail.error.xml.h:201
@@ -20958,9 +20842,9 @@ msgstr ""
 msgid "Yesterday %l:%M %p"
 msgstr ""
 
-#: ../src/mail/message-list.c:2218
+#: ../src/mail/message-list.c:2210
 msgid "%a %l:%M %p"
-msgstr ""
+msgstr "%a %l:%M %p"
 
 #: ../src/mail/message-list.c:2226
 msgid "%b %d %l:%M %p"
@@ -21037,12 +20921,11 @@ msgstr ""
 
 #: ../src/mail/message-list.etspec.h:20
 msgid "Subject — Trimmed"
-msgstr ""
+msgstr "(Темада)"
 
-#: ../src/mail/message-list.etspec.h:21
-#: ../src/plugins/save-calendar/csv-format.c:361
+#: ../src/mail/message-list.etspec.h:21+../src/plugins/save-calendar/csv-format.c:361
 msgid "UID"
-msgstr ""
+msgstr "UID"
 
 #: ../src/mail/message-list.etspec.h:22
 msgid "Sender Mail"
@@ -21189,7 +21072,7 @@ msgstr ""
 
 #: ../src/modules/addressbook/autocompletion-config.c:178
 msgid "Autocompletion"
-msgstr ""
+msgstr "Автоматикла ахарҭәаара"
 
 #: ../src/modules/addressbook/autocompletion-config.c:181
 msgid "Always _show address of the autocompleted contact"
@@ -21750,10 +21633,9 @@ msgstr ""
 msgid "Convert message text to _Unicode"
 msgstr ""
 
-#: ../src/modules/bogofilter/evolution-bogofilter.c:537
-#: ../src/modules/bogofilter/org.gnome.Evolution-bogofilter.metainfo.xml.in.h:1
+#: ../src/modules/bogofilter/evolution-bogofilter.c:537+../src/modules/bogofilter/org.gnome.Evolution-bogofilter.metainfo.xml.in.h:1
 msgid "Bogofilter"
-msgstr ""
+msgstr "Bogofilter"
 
 #: ../src/modules/bogofilter/org.gnome.Evolution-bogofilter.metainfo.xml.in.h:2
 msgid "Junk filter using Bogofilter"
@@ -21764,18 +21646,9 @@ msgstr ""
 msgid "Choose an Address Book"
 msgstr ""
 
-#: ../src/modules/book-config-carddav/evolution-book-config-carddav.c:199
-#: ../src/modules/book-config-carddav/evolution-book-config-carddav.c:212
-#: ../src/modules/cal-config-caldav/evolution-cal-config-caldav.c:249
-#: ../src/modules/cal-config-caldav/evolution-cal-config-caldav.c:270
-#: ../src/modules/cal-config-webcal/evolution-cal-config-webcal.c:81
-#: ../src/modules/cal-config-webcal/evolution-cal-config-webcal.c:102
-#: ../src/modules/cal-config-webdav-notes/evolution-cal-config-webdav-notes.c:239
-#: ../src/modules/cal-config-webdav-notes/evolution-cal-config-webdav-notes.c:260
-#: ../src/modules/itip-formatter/itip-view.c:1920
-#: ../src/modules/itip-formatter/itip-view.c:2122
+#: ../src/modules/book-config-carddav/evolution-book-config-carddav.c:199+../src/modules/book-config-carddav/evolution-book-config-carddav.c:212+../src/modules/cal-config-caldav/evolution-cal-config-caldav.c:249+../src/modules/cal-config-caldav/evolution-cal-config-caldav.c:270+../src/modules/cal-config-webcal/evolution-cal-config-webcal.c:81+../src/modules/cal-config-webcal/evolution-cal-config-webcal.c:102+../src/modules/cal-config-webdav-notes/evolution-cal-config-webdav-notes.c:239+../src/modules/cal-config-webdav-notes/evolution-cal-config-webdav-notes.c:260+../src/modules/itip-formatter/itip-view.c:1920+../src/modules/itip-formatter/itip-view.c:2122
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: ../src/modules/book-config-carddav/evolution-book-config-carddav.c:223
 msgid "Find Address Books"
@@ -21794,11 +21667,11 @@ msgstr ""
 
 #: ../src/modules/book-config-google/e-google-book-chooser-button.c:134
 msgid "Default User Address Book"
-msgstr ""
+msgstr "Ахархәаҩ иҭыӡҭыԥтә шәҟәы ишыҟоу еиԥш"
 
 #: ../src/modules/book-config-google/evolution-book-config-google.c:75
 msgid "Address Book:"
-msgstr ""
+msgstr "Аҭыӡҭыԥтәи ашәҟәы:"
 
 #: ../src/modules/book-config-google/evolution-book-config-google.c:102
 #: ../src/modules/book-config-ldap/evolution-book-config-ldap.c:1071
@@ -21895,10 +21768,9 @@ msgstr ""
 msgid "This is the method Evolution will use to authenticate you."
 msgstr ""
 
-#. Page 2
 #: ../src/modules/book-config-ldap/evolution-book-config-ldap.c:787
 msgid "Using LDAP"
-msgstr ""
+msgstr "Ахархәара"
 
 #: ../src/modules/book-config-ldap/evolution-book-config-ldap.c:804
 #: ../src/modules/mail/e-mail-shell-view.c:119
@@ -22032,21 +21904,9 @@ msgstr ""
 msgid "Allow Evolution to update the file"
 msgstr ""
 
-#. Recurse, adding the ADM1 name to the country name
-#. Translators: this is the name of a location followed by a region, for example:
-#. * 'London, United Kingdom'
-#. * You shouldn't need to translate this string unless the language has a different comma.
-#.
-#. <location> with no parent <city>
-#. Translators: this is the name of a location followed by a region, for example:
-#. * 'London, United Kingdom'
-#. * You shouldn't need to translate this string unless the language has a different comma.
-#.
-#: ../src/modules/cal-config-weather/e-weather-location-entry.c:571
-#: ../src/modules/cal-config-weather/e-weather-location-entry.c:609
-#, c-format
+#: ../src/modules/cal-config-weather/e-weather-location-entry.c:571+../src/modules/cal-config-weather/e-weather-location-entry.c:609
 msgid "%s, %s"
-msgstr ""
+msgstr "%s, %s"
 
 #. Translators: Please indicate whether your locale uses the
 #. * metric or imperial measurement system by changing this to
@@ -22497,7 +22357,7 @@ msgstr ""
 
 #: ../src/modules/calendar/e-calendar-preferences.ui.h:88
 msgid "Enable _audio notifications"
-msgstr ""
+msgstr "Абжьытә_дырраҭарақәа рҿакра"
 
 #: ../src/modules/calendar/e-calendar-preferences.ui.h:89
 msgid "Display reminders for completed _tasks"
@@ -22647,7 +22507,7 @@ msgstr ""
 
 #: ../src/modules/calendar/e-cal-shell-view-actions.c:1329
 msgid "Go Forward"
-msgstr ""
+msgstr "Ԥхьаҟа"
 
 #: ../src/modules/calendar/e-cal-shell-view-actions.c:1336
 msgid "Select today"
@@ -22961,7 +22821,7 @@ msgstr ""
 
 #: ../src/modules/calendar/e-cal-shell-view-actions.c:1845
 msgid "Active Appointments"
-msgstr ""
+msgstr "Иактиву аибабарақәа"
 
 #: ../src/modules/calendar/e-cal-shell-view-actions.c:1859
 msgid "Next 7 Days’ Appointments"
@@ -23374,7 +23234,7 @@ msgstr ""
 
 #: ../src/modules/calendar/e-task-shell-view-actions.c:949
 msgid "Active Tasks"
-msgstr ""
+msgstr "Иактиву аҳасабтәқәа"
 
 #: ../src/modules/calendar/e-task-shell-view-actions.c:963
 msgid "Cancelled Tasks"
@@ -23513,14 +23373,12 @@ msgid "Look up in SRV records"
 msgstr ""
 
 #: ../src/modules/config-lookup/e-webdav-config-lookup.c:104
-#, c-format
 msgid "CalDAV: %s"
-msgstr ""
+msgstr "CalDAV: %s"
 
 #: ../src/modules/config-lookup/e-webdav-config-lookup.c:111
-#, c-format
 msgid "CardDAV: %s"
-msgstr ""
+msgstr "CardDAV: %s"
 
 #: ../src/modules/config-lookup/e-webdav-config-lookup.c:117
 msgid "CalDAV and CardDAV server"
@@ -23536,7 +23394,7 @@ msgstr ""
 
 #: ../src/modules/itip-formatter/e-mail-formatter-itip.c:205
 msgid "ITIP"
-msgstr ""
+msgstr "ITIP"
 
 #: ../src/modules/itip-formatter/e-mail-formatter-itip.c:206
 msgid "Display part as an invitation"
@@ -23584,35 +23442,25 @@ msgstr ""
 msgid "Tomorrow %l:%M:%S %p"
 msgstr ""
 
-#. strftime format of a weekday.
 #: ../src/modules/itip-formatter/itip-view.c:337
-#, c-format
 msgid "%A"
-msgstr ""
+msgstr "%A"
 
-#. strftime format of a weekday and a
-#. * time, in 24-hour format, without seconds.
 #: ../src/modules/itip-formatter/itip-view.c:342
 msgid "%A %H:%M"
-msgstr ""
+msgstr "%A %H:%M"
 
-#. strftime format of a weekday and a
-#. * time, in 24-hour format.
 #: ../src/modules/itip-formatter/itip-view.c:346
 msgid "%A %H:%M:%S"
-msgstr ""
+msgstr "%A %H:%M:%S"
 
-#. strftime format of a weekday and a
-#. * time, in 12-hour format, without seconds.
 #: ../src/modules/itip-formatter/itip-view.c:351
 msgid "%A %l:%M %p"
-msgstr ""
+msgstr "%A %l:%M %p"
 
-#. strftime format of a weekday and a
-#. * time, in 12-hour format.
 #: ../src/modules/itip-formatter/itip-view.c:355
 msgid "%A %l:%M:%S %p"
-msgstr ""
+msgstr "%A %l:%M:%S %p"
 
 #. strftime format of a weekday and a date
 #. * without a year.
@@ -25197,7 +25045,7 @@ msgstr ""
 
 #: ../src/modules/plugin-manager/evolution-plugin-manager.c:65
 msgid "Author(s)"
-msgstr ""
+msgstr "Аԥҵаҩ(цәа)"
 
 #: ../src/modules/plugin-manager/evolution-plugin-manager.c:312
 msgid "Note: Some changes will not take effect until restart"
@@ -25476,10 +25324,9 @@ msgstr ""
 msgid "This will make SpamAssassin more reliable, but slower."
 msgstr ""
 
-#: ../src/modules/spamassassin/evolution-spamassassin.c:740
-#: ../src/modules/spamassassin/org.gnome.Evolution-spamassassin.metainfo.xml.in.h:1
+#: ../src/modules/spamassassin/evolution-spamassassin.c:740+../src/modules/spamassassin/org.gnome.Evolution-spamassassin.metainfo.xml.in.h:1
 msgid "SpamAssassin"
-msgstr ""
+msgstr "SpamAssassin"
 
 #: ../src/modules/spamassassin/org.gnome.Evolution-spamassassin.metainfo.xml.in.h:2
 msgid "Junk filter using SpamAssassin"
@@ -25551,19 +25398,19 @@ msgstr ""
 
 #: ../src/modules/text-highlight/languages.c:35
 msgid "_Assembler"
-msgstr ""
+msgstr "_Assembler"
 
 #: ../src/modules/text-highlight/languages.c:40
 msgid "_Bash"
-msgstr ""
+msgstr "_Bash"
 
 #: ../src/modules/text-highlight/languages.c:51
 msgid "_C/C++"
-msgstr ""
+msgstr "_C/C++"
 
 #: ../src/modules/text-highlight/languages.c:60
 msgid "_C#"
-msgstr ""
+msgstr "_C#"
 
 #: ../src/modules/text-highlight/languages.c:65
 msgid "_Cascade Style Sheet"
@@ -25571,71 +25418,71 @@ msgstr ""
 
 #: ../src/modules/text-highlight/languages.c:78
 msgid "_Java"
-msgstr ""
+msgstr "_Java"
 
 #: ../src/modules/text-highlight/languages.c:84
 msgid "_JavaScript"
-msgstr ""
+msgstr "_JavaScript"
 
 #: ../src/modules/text-highlight/languages.c:90
 msgid "_Patch/diff"
-msgstr ""
+msgstr "_Patch/diff"
 
 #: ../src/modules/text-highlight/languages.c:101
 msgid "_Perl"
-msgstr ""
+msgstr "_Perl"
 
 #: ../src/modules/text-highlight/languages.c:112
 msgid "_PHP"
-msgstr ""
+msgstr "_PHP"
 
 #: ../src/modules/text-highlight/languages.c:125
 msgid "_Python"
-msgstr ""
+msgstr "_Python"
 
 #: ../src/modules/text-highlight/languages.c:130
 msgid "_Ruby"
-msgstr ""
+msgstr "_Ruby"
 
 #: ../src/modules/text-highlight/languages.c:137
 msgid "_Tcl/Tk"
-msgstr ""
+msgstr "_Tcl/Tk"
 
 #: ../src/modules/text-highlight/languages.c:143
 msgid "_TeX/LaTeX"
-msgstr ""
+msgstr "_TeX/LaTeX"
 
 #: ../src/modules/text-highlight/languages.c:149
 msgid "_Vala"
-msgstr ""
+msgstr "_Vala"
 
 #: ../src/modules/text-highlight/languages.c:154
 msgid "_Visual Basic"
-msgstr ""
+msgstr "_Visual Basic"
 
 #: ../src/modules/text-highlight/languages.c:161
 msgid "_XML"
-msgstr ""
+msgstr "_XML"
 
 #: ../src/modules/text-highlight/languages.c:179
 msgid "_ActionScript"
-msgstr ""
+msgstr "_ActionScript"
 
 #: ../src/modules/text-highlight/languages.c:184
 msgid "_ADA95"
-msgstr ""
+msgstr "_ADA95"
 
 #: ../src/modules/text-highlight/languages.c:191
 msgid "_ALGOL 68"
-msgstr ""
+msgstr "_ALGOL 68"
 
 #: ../src/modules/text-highlight/languages.c:196
 msgid "(_G)AWK"
-msgstr ""
+msgstr "(_G)AWK"
 
 #: ../src/modules/text-highlight/languages.c:201
 msgid "_COBOL"
-msgstr ""
+msgstr "_COBOL"
 
 #: ../src/modules/text-highlight/languages.c:206
 msgid "_DOS Batch"
@@ -25643,115 +25490,115 @@ msgstr ""
 
 #: ../src/modules/text-highlight/languages.c:211
 msgid "_D"
-msgstr ""
+msgstr "_D"
 
 #: ../src/modules/text-highlight/languages.c:216
 msgid "_Erlang"
-msgstr ""
+msgstr "_Erlang"
 
 #: ../src/modules/text-highlight/languages.c:221
 msgid "_FORTRAN 77"
-msgstr ""
+msgstr "_FORTRAN 77"
 
 #: ../src/modules/text-highlight/languages.c:227
 msgid "_FORTRAN 90"
-msgstr ""
+msgstr "_FORTRAN 90"
 
 #: ../src/modules/text-highlight/languages.c:232
 msgid "_F#"
-msgstr ""
+msgstr "_F#"
 
 #: ../src/modules/text-highlight/languages.c:237
 msgid "_Go"
-msgstr ""
+msgstr "_Go"
 
 #: ../src/modules/text-highlight/languages.c:242
 msgid "_Haskell"
-msgstr ""
+msgstr "_Haskell"
 
 #: ../src/modules/text-highlight/languages.c:247
 msgid "_JSP"
-msgstr ""
+msgstr "_JSP"
 
 #: ../src/modules/text-highlight/languages.c:252
 msgid "_Lisp"
-msgstr ""
+msgstr "_Lisp"
 
 #: ../src/modules/text-highlight/languages.c:260
 msgid "_Lotus"
-msgstr ""
+msgstr "_Lotus"
 
 #: ../src/modules/text-highlight/languages.c:265
 msgid "_Lua"
-msgstr ""
+msgstr "_Lua"
 
 #: ../src/modules/text-highlight/languages.c:270
 msgid "_Maple"
-msgstr ""
+msgstr "_Maple"
 
 #: ../src/modules/text-highlight/languages.c:275
 msgid "_Matlab"
-msgstr ""
+msgstr "_Matlab"
 
 #: ../src/modules/text-highlight/languages.c:280
 msgid "_Maya"
-msgstr ""
+msgstr "_Maya"
 
 #: ../src/modules/text-highlight/languages.c:285
 msgid "_Oberon"
-msgstr ""
+msgstr "_Oberon"
 
 #: ../src/modules/text-highlight/languages.c:290
 msgid "_Objective C"
-msgstr ""
+msgstr "_Objective C"
 
 #: ../src/modules/text-highlight/languages.c:296
 msgid "_OCaml"
-msgstr ""
+msgstr "_OCaml"
 
 #: ../src/modules/text-highlight/languages.c:301
 msgid "_Octave"
-msgstr ""
+msgstr "_Octave"
 
 #: ../src/modules/text-highlight/languages.c:306
 msgid "_Object Script"
-msgstr ""
+msgstr "_Object Script"
 
 #: ../src/modules/text-highlight/languages.c:311
 msgid "_Pascal"
-msgstr ""
+msgstr "_Pascal"
 
 #: ../src/modules/text-highlight/languages.c:316
 msgid "_POV-Ray"
-msgstr ""
+msgstr "_POV-Ray"
 
 #: ../src/modules/text-highlight/languages.c:321
 msgid "_Prolog"
-msgstr ""
+msgstr "_Prolog"
 
 #: ../src/modules/text-highlight/languages.c:326
 msgid "_R"
-msgstr ""
+msgstr "_R"
 
 #: ../src/modules/text-highlight/languages.c:331
 msgid "_RPM Spec"
-msgstr ""
+msgstr "_RPM Spec"
 
 #: ../src/modules/text-highlight/languages.c:336
 msgid "_Scala"
-msgstr ""
+msgstr "_Scala"
 
 #: ../src/modules/text-highlight/languages.c:341
 msgid "_Smalltalk"
-msgstr ""
+msgstr "_Smalltalk"
 
 #: ../src/modules/text-highlight/languages.c:347
 msgid "_TCSH"
-msgstr ""
+msgstr "_TCSH"
 
 #: ../src/modules/text-highlight/languages.c:352
 msgid "_VHDL"
-msgstr ""
+msgstr "_VHDL"
 
 #: ../src/modules/vcard-inline/e-mail-formatter-vcard.c:153
 msgid "Show F_ull vCard"
@@ -25827,10 +25674,9 @@ msgstr ""
 msgid "Reminds you when you forgot to add an attachment to a mail message."
 msgstr ""
 
-#: ../src/plugins/bbdb/bbdb.c:715 ../src/plugins/bbdb/bbdb.c:838
-#: ../src/plugins/bbdb/org-gnome-evolution-bbdb.eplug.xml.h:1
+#: ../src/plugins/bbdb/bbdb.c:715+../src/plugins/bbdb/bbdb.c:838+../src/plugins/bbdb/org-gnome-evolution-bbdb.eplug.xml.h:1
 msgid "Automatic Contacts"
-msgstr ""
+msgstr "Автоматикатә еимадарақәа"
 
 #. Enable BBDB checkbox
 #: ../src/plugins/bbdb/bbdb.c:730
@@ -25866,7 +25712,7 @@ msgstr ""
 
 #: ../src/plugins/bbdb/org-gnome-evolution-bbdb.eplug.xml.h:2
 msgid "BBDB"
-msgstr ""
+msgstr "BBDB"
 
 #: ../src/plugins/bbdb/org-gnome-evolution-bbdb.eplug.xml.h:3
 msgid ""
@@ -26493,7 +26339,7 @@ msgstr ""
 
 #: ../src/plugins/pst-import/pst-importer.c:561
 msgid "_Address Book"
-msgstr ""
+msgstr "А_ҭыӡҭыԥтәи ашәҟәы"
 
 #: ../src/plugins/pst-import/pst-importer.c:566
 msgid "A_ppointments"
@@ -26515,7 +26361,7 @@ msgstr ""
 
 #: ../src/plugins/publish-calendar/org-gnome-publish-calendar.eplug.xml.h:2
 msgid "Locations"
-msgstr ""
+msgstr "Аҭыӡҭыԥқәа"
 
 #: ../src/plugins/publish-calendar/org-gnome-publish-calendar.eplug.xml.h:3
 msgid "Publish calendars to the web."
@@ -26559,7 +26405,7 @@ msgstr ""
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:1
 msgid "iCal"
-msgstr ""
+msgstr "iCal"
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:3
 msgid "Free/Busy with Details"
@@ -26579,7 +26425,7 @@ msgstr ""
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:10
 msgid "Secure FTP (SFTP)"
-msgstr ""
+msgstr "Ишәарҭам FTP (SFTP)"
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:11
 msgid "Public FTP"
@@ -26595,11 +26441,11 @@ msgstr ""
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:14
 msgid "WebDAV (HTTP)"
-msgstr ""
+msgstr "WebDAV (HTTP)"
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:15
 msgid "Secure WebDAV (HTTPS)"
-msgstr ""
+msgstr "Ишәарҭам WebDAV (HTTPS)"
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:16
 msgid "Custom Location"
@@ -26635,7 +26481,7 @@ msgstr ""
 
 #: ../src/plugins/publish-calendar/publish-calendar.ui.h:32
 msgid "Publishing Location"
-msgstr ""
+msgstr "Аҭыӡҭыԥ акьыԥхьразы"
 
 #: ../src/plugins/publish-calendar/publish-format-fb.c:83
 #: ../src/plugins/publish-calendar/publish-format-ical.c:102
@@ -26651,12 +26497,9 @@ msgstr ""
 msgid "Edit Location"
 msgstr ""
 
-#. Translators: the %F %T is the third argument for a
-#. * strftime function.  It lets you define the formatting
-#. * of the date in the csv-file.
 #: ../src/plugins/save-calendar/csv-format.c:154
 msgid "%F %T"
-msgstr ""
+msgstr "%F %T"
 
 #: ../src/plugins/save-calendar/csv-format.c:363
 msgid "Description List"
@@ -26726,10 +26569,9 @@ msgstr ""
 msgid "Comma separated values (.csv)"
 msgstr ""
 
-#: ../src/plugins/save-calendar/ical-format.c:181
-#: ../src/shell/e-shell-utils.c:172
+#: ../src/plugins/save-calendar/ical-format.c:181+../src/shell/e-shell-utils.c:172
 msgid "iCalendar (.ics)"
-msgstr ""
+msgstr "iCalendar (.ics)"
 
 #: ../src/plugins/save-calendar/org-gnome-save-calendar.eplug.xml.h:1
 msgid "Save Selected"
@@ -26739,18 +26581,13 @@ msgstr ""
 msgid "Save a calendar or task list to disk."
 msgstr ""
 
-#.
-#. * Translator: the %FT%T is the thirth argument for a strftime function.
-#. * It lets you define the formatting of the date in the rdf-file.
-#. * Also check out http://www.w3.org/2002/12/cal/tzd
-#. *
 #: ../src/plugins/save-calendar/rdf-format.c:145
 msgid "%FT%T"
-msgstr ""
+msgstr "%FT%T"
 
 #: ../src/plugins/save-calendar/rdf-format.c:373
 msgid "RDF (.rdf)"
-msgstr ""
+msgstr "RDF (.rdf)"
 
 #: ../src/plugins/save-calendar/save-calendar.c:114
 msgid "_Format:"
@@ -26873,26 +26710,21 @@ msgstr ""
 msgid "Sear_ch:"
 msgstr ""
 
-#. Translators: This is part of the quick search interface.
-#. * example: Search: [_______________] in [ Current Folder ]
 #: ../src/shell/e-shell-searchbar.c:1023
 msgid "i_n"
-msgstr ""
+msgstr "_аҟны"
 
 #: ../src/shell/e-shell-utils.c:169
 msgid "vCard (.vcf)"
-msgstr ""
+msgstr "vCard (.vcf)"
 
 #: ../src/shell/e-shell-utils.c:195
 msgid "All Files (*)"
 msgstr ""
 
-#. The translator-credits string is for translators to list
-#. * per-language credits for translation, displayed in the
-#. * about dialog.
 #: ../src/shell/e-shell-utils.c:349
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: ../src/shell/e-shell-utils.c:360
 msgid "Website"
@@ -27323,6 +27155,10 @@ msgid ""
 "If you choose to continue, you may not have access to some of your old "
 "data.\n"
 msgstr ""
+"{0}\n"
+"\n"
+"Иацышәҵар шәҭахызар, ажәытә дыррақәа ԥыҭк  рахь  анеира азин шәцәыӡыр "
+"шәылшоит\n"
 
 #: ../src/shell/shell.error.xml.h:7
 msgid "Continue Anyway"
@@ -27534,24 +27370,17 @@ msgstr ""
 msgid "MD5 Fingerprint"
 msgstr ""
 
-#: ../src/smime/gui/certificate-manager.c:106
-#: ../src/smime/gui/certificate-manager.c:127
+#: ../src/smime/gui/certificate-manager.c:103+../src/smime/gui/certificate-manager.c:124
 msgid "Email Address"
-msgstr ""
+msgstr "Аел. ԥошьҭа аҭыӡҭыԥ"
 
 #: ../src/smime/gui/certificate-manager.c:653
 msgid "Select a file to backup your key and certificate…"
 msgstr ""
 
-#. To Translators:
-#. * %s-backup.p12 is the default file name suggested by the file selection dialog,
-#. * when a user wants to backup one of her/his private keys/certificates.
-#. * For example: gnomedev-backup.p12
-#.
-#: ../src/smime/gui/certificate-manager.c:663
-#, c-format
+#: ../src/smime/gui/certificate-manager.c:660
 msgid "%s-backup.p12"
-msgstr ""
+msgstr "%s-backup.p12"
 
 #: ../src/smime/gui/certificate-manager.c:722
 msgid "Backup Certificate"
@@ -27893,3 +27722,282 @@ msgstr ""
 #: ../src/smime/lib/e-pkcs12.c:460
 msgid "Imported Certificate"
 msgstr ""
+
+#: ../src/addressbook/gui/contact-editor/e-contact-editor.c:3328
+msgid "X.509"
+msgstr "X.509"
+
+#: ../src/addressbook/gui/contact-editor/e-contact-editor.c:3328
+msgid "PGP"
+msgstr "PGP"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:453
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:453"
+msgid "SIP"
+msgstr "SIP"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:927
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:927"
+msgid "AIM"
+msgstr "AIM"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:928
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:928"
+msgid "GroupWise"
+msgstr "GroupWise"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:929
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:929"
+msgid "ICQ"
+msgstr "ICQ"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:930
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:930"
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:931
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:931"
+msgid "MSN"
+msgstr "MSN"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:932
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:932"
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:933
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:933"
+msgid "Gadu-Gadu"
+msgstr "Gadu-Gadu"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:934
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:934"
+msgid "Skype"
+msgstr "Skype"
+
+#: ../src/addressbook/gui/widgets/eab-contact-formatter.c:935
+msgctxt "../src/addressbook/gui/widgets/eab-contact-formatter.c:935"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../src/addressbook/util/eab-book-util.c:72
+msgctxt "../src/addressbook/util/eab-book-util.c:72"
+msgid "AIM"
+msgstr "AIM"
+
+#: ../src/addressbook/util/eab-book-util.c:73
+msgctxt "../src/addressbook/util/eab-book-util.c:73"
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../src/addressbook/util/eab-book-util.c:74
+msgctxt "../src/addressbook/util/eab-book-util.c:74"
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: ../src/addressbook/util/eab-book-util.c:75
+msgctxt "../src/addressbook/util/eab-book-util.c:75"
+msgid "Gadu-Gadu"
+msgstr "Gadu-Gadu"
+
+#: ../src/addressbook/util/eab-book-util.c:76
+msgctxt "../src/addressbook/util/eab-book-util.c:76"
+msgid "MSN"
+msgstr "MSN"
+
+#: ../src/addressbook/util/eab-book-util.c:77
+msgctxt "../src/addressbook/util/eab-book-util.c:77"
+msgid "ICQ"
+msgstr "ICQ"
+
+#: ../src/addressbook/util/eab-book-util.c:78
+msgctxt "../src/addressbook/util/eab-book-util.c:78"
+msgid "GroupWise"
+msgstr "GroupWise"
+
+#: ../src/addressbook/util/eab-book-util.c:79
+msgctxt "../src/addressbook/util/eab-book-util.c:79"
+msgid "Skype"
+msgstr "Skype"
+
+#: ../src/addressbook/util/eab-book-util.c:80
+msgctxt "../src/addressbook/util/eab-book-util.c:80"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../src/addressbook/util/eab-book-util.c:81
+msgid "Google Talk"
+msgstr "Google Talk"
+
+#: ../src/addressbook/util/eab-book-util.c:172
+msgctxt "../src/addressbook/util/eab-book-util.c:172"
+msgid "SIP"
+msgstr "SIP"
+
+#: ../src/addressbook/util/eab-book-util.c:215
+msgid "IM"
+msgstr "IM"
+
+#: ../src/calendar/gui/caltypes.xml.in.h:14+../src/calendar/gui/e-cal-list-view.etspec.h:5+../src/calendar/gui/e-task-table.etspec.h:13+../src/mail/message-list.etspec.h:14+../src/plugins/publish-calendar/publish-calendar.c:860+../src/plugins/publish-calendar/publish-calendar.ui.h:23+../src/plugins/save-calendar/csv-format.c:376
+msgctxt ""
+"../src/calendar/gui/caltypes.xml.in.h:14 ../src/calendar/gui/e-cal-list-view."
+"etspec.h:5 ../src/calendar/gui/e-task-table.etspec.h:13 ../src/mail/message-"
+"list.etspec.h:14 ../src/plugins/publish-calendar/publish-calendar.c:860 ../"
+"src/plugins/publish-calendar/publish-calendar.ui.h:23 ../src/plugins/save-"
+"calendar/csv-format.c:376"
+msgid "Location"
+msgstr "Аҭыӡҭыԥ"
+
+#: ../src/calendar/gui/e-alarm-list.c:484
+msgid "%s at %s"
+msgstr "%s аҟны %s"
+
+#: ../src/calendar/gui/e-calendar-view.c:1857
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#: ../src/calendar/gui/e-comp-editor-page-recurrence.c:817
+msgid "on the"
+msgstr "аҟны"
+
+#: ../src/calendar/gui/e-week-view.c:3878
+msgctxt ""
+"../src/calendar/gui/e-week-view.c:3878../src/calendar/gui/e-week-view.c:3878"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: ../src/calendar/importers/icalendar-importer.c:1416
+msgctxt "../src/calendar/importers/icalendar-importer.c:1416"
+msgid "Location"
+msgstr "Аҭыӡҭыԥ"
+
+#: ../src/calendar/importers/icalendar-importer.c:1486
+msgctxt "../src/calendar/importers/icalendar-importer.c:1486"
+msgid "URL"
+msgstr "URL"
+
+#: ../src/e-util/e-accounts-window.c:1484
+msgctxt "../src/e-util/e-accounts-window.c:1484"
+msgid "Address _Book"
+msgstr "Аҭыӡҭыԥтәи ашә_ҟәы"
+
+#: ../src/e-util/e-calendar-item.c:1368+../src/e-util/e-calendar-item.c:2262
+msgid "%B"
+msgstr "%B"
+
+#: ../src/e-util/e-calendar-item.c:1370
+msgid "%Y"
+msgstr "%Y"
+
+#: ../src/e-util/e-calendar-item.c:1407
+msgid "%B %Y"
+msgstr "%B %Y"
+
+#: ../src/e-util/e-client-selector.c:190+../src/mail/em-folder-tree.c:1035
+msgid "Offline"
+msgstr "Автономла"
+
+#: ../src/e-util/e-html-editor-actions.c:1654
+msgid "0"
+msgstr "0"
+
+#: ../src/e-util/e-html-editor-actions.c:1662
+msgid "1"
+msgstr "1"
+
+#: ../src/e-util/e-html-editor-actions.c:1670
+msgid "2"
+msgstr "2"
+
+#: ../src/e-util/e-html-editor-actions.c:1678
+msgid "3"
+msgstr "3"
+
+#: ../src/e-util/e-html-editor-actions.c:1686
+msgid "4"
+msgstr "4"
+
+#: ../src/e-util/e-misc-utils.c:4582
+msgctxt "../src/e-util/e-misc-utils.c:4582"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: ../src/mail/e-mail-config-security-page.c:375
+msgid "%s — %s"
+msgstr "%s — %s"
+
+#: ../src/mail/e-mail-config-summary-page.c:489
+msgctxt "../src/mail/e-mail-config-summary-page.c:489"
+msgid "Security:"
+msgstr "Ашәарҭадара:"
+
+#: ../src/mail/em-folder-properties.c:953
+msgid "Auto-_cleanup messages older than"
+msgstr "Автоматикла _ еиҳа еиҳабу ацҳамҭақәа рныхра"
+
+#: ../src/mail/em-folder-tree.c:887
+msgid "%s (%u%s)"
+msgstr "%s (%u%s)"
+
+#: ../src/mail/em-utils.c:1652
+msgid ":"
+msgstr ":"
+
+#: ../src/mail/importers/kmail-importer.c:259
+msgid "%d Address\n"
+msgid_plural "%d Addresses"
+msgstr[0] "%d ҭыӡҭыԥк\n"
+msgstr[1] "%d ҭыӡҭыԥк\n"
+
+#: ../src/modules/addressbook/autocompletion-config.c:159
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+#: ../src/modules/addressbook/autocompletion-config.c:162
+msgid "Google"
+msgstr "Google"
+
+#: ../src/modules/addressbook/e-book-shell-backend.c:295
+msgctxt "../src/modules/addressbook/e-book-shell-backend.c:295"
+msgid "Address _Book"
+msgstr "Аҭыӡҭыԥтәи ашә_ҟәы"
+
+#: ../src/modules/cal-config-weather/evolution-cal-config-weather.c:199
+msgid "default:mm"
+msgstr "default:mm"
+
+#: ../src/modules/itip-formatter/itip-view.c:438
+msgctxt "../src/modules/itip-formatter/itip-view.c:438"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: ../src/modules/mail/e-mail-shell-backend.c:992
+msgid "netlink"
+msgstr "netlink"
+
+#: ../src/modules/mail/e-mail-shell-backend.c:995
+msgid "networkmanager"
+msgstr "networkmanager"
+
+#: ../src/plugins/email-custom-header/email-custom-header.c:292
+msgctxt "../src/plugins/email-custom-header/email-custom-header.c:292"
+msgid "Security:"
+msgstr "Ашәарҭадара:"
+
+#: ../src/plugins/save-calendar/csv-format.c:374
+msgctxt "../src/plugins/save-calendar/csv-format.c:374"
+msgid "URL"
+msgstr "URL"
+
+#: ../src/shell/e-shell-window-private.c:822
+msgid "%s — Evolution"
+msgstr "%s — Evolution"
+
+#: ../src/smime/gui/certificate-manager.c:1120
+msgid "Ultimately"
+msgstr "Зегь рыла"
+
+#: ../src/smime/gui/certificate-manager.c:1369
+msgid "_Ultimately trusted"
+msgstr "_Зегь рыла агәрагара змоу"

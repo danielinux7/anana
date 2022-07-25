@@ -158,3 +158,39 @@ msgstr "_Аԥыхра"
 #: gspell/resources/language-dialog.ui:68
 msgid "_Select"
 msgstr "_Алхра"
+
+#: schemas/org.gnome.desktop.a11y.keyboard.gschema.xml.in:85
+msgid "Enable sticky keys"
+msgstr "Иҷабу арыдқәа рҿакра"
+
+#: schemas/org.gnome.desktop.datetime.gschema.xml.in:6
+msgid "Automatically update timezone"
+msgstr "Асааҭтә зона автомтикла аԥсахра"
+
+#: schemas/org.gnome.desktop.interface.gschema.xml.in:6
+msgid "Enable Toolkit Accessibility"
+msgstr "Иҷыдоу алшарақәа рмаруга аҿакра"
+
+#: schemas/org.gnome.desktop.interface.gschema.xml.in:13
+msgid "Enable Animations"
+msgstr "Анимациа аҿакра"
+
+#: schemas/org.gnome.desktop.media-handling.gschema.xml.in:11
+msgid "Whether to automatically open a folder for automounted media"
+msgstr "Аныҟәгага автоматикла иаҿаку азы автоматикла атаӡ аартара"
+
+#: schemas/org.gnome.desktop.notifications.gschema.xml.in:47
+msgid "Enable sound alerts"
+msgstr "Абжьытә сигналқәа  рҿакра"
+
+#: schemas/org.gnome.desktop.wm.keybindings.gschema.xml.in:148
+msgid "Activate the window menu"
+msgstr "Активациа азура аԥенџьыр амениу"
+
+#: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:159
+msgid "Automatically raises the focused window"
+msgstr "афокус змоу  аԥенџьыр  автоматикла аԥхьатәи аплан ахь аиҭагара"
+
+#: schemas/org.gnome.desktop.wm.preferences.gschema.xml.in:225
+msgid "Enable Visual Bell"
+msgstr "Лаԥшылатәи асигнал аҿакра"

@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the console package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: console\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/console/issues\n"
 "POT-Creation-Date: 2022-07-18 05:42+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"
@@ -21,10 +21,9 @@ msgstr ""
 msgid "Console"
 msgstr ""
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Console.desktop.in.in:8
 msgid "command;prompt;cmd;commandline;run;shell;terminal;kgx;kings cross;"
-msgstr ""
+msgstr "command;prompt;cmd;commandline;run;shell;terminal;kgx;kings cross;"
 
 #: data/org.gnome.Console.desktop.in.in:21
 msgid "New Window"
@@ -48,7 +47,7 @@ msgstr ""
 
 #: data/org.gnome.Console.metainfo.xml.in.in:104
 msgid "Zander Brown"
-msgstr ""
+msgstr "Zander Brown"
 
 #: src/help-overlay.ui:13
 msgctxt "shortcut window"
@@ -121,11 +120,9 @@ msgstr ""
 msgid "# KGX %s using VTE %u.%u.%u %s\n"
 msgstr ""
 
-#. Translators: %s is the year range
-#: src/kgx-application.c:624 src/kgx-window.c:525
-#, c-format
+#: src/kgx-application.c:624+src/kgx-window.c:525
 msgid "© %s Zander Brown"
-msgstr ""
+msgstr "© %s Zander Brown"
 
 #: src/kgx-application.c:638 src/kgx-window.ui:115
 msgid "King’s Cross"
@@ -182,7 +179,7 @@ msgstr ""
 
 #: src/kgx-application.c:830
 msgid "[-e|-- COMMAND [ARGUMENT...]]"
-msgstr ""
+msgstr "[-e|-- АДҴА [АҴАҴӶӘЫ...]]"
 
 #: src/kgx-application.h:44
 msgid "Console (Development)"
@@ -224,25 +221,17 @@ msgstr ""
 msgid "_Close"
 msgstr ""
 
-#. translators: <b> </b> marks the text as bold, ensure they are
-#. matched please!
 #: src/kgx-simple-tab.c:168
-#, c-format
 msgid "<b>Read Only</b> — Command exited with code %i"
-msgstr ""
+msgstr "<b>Аԥхьара мацаразы</b> —  Адҵа хырқәшоуп акод %i ала"
 
-#. translators: <b> </b> marks the text as bold, ensure they are
-#. matched please!
 #: src/kgx-simple-tab.c:177
 msgid "<b>Read Only</b> — Command exited"
-msgstr ""
+msgstr "<b>Аԥхьара мацаразы</b> —  Адҵа хырқәшоуп"
 
-#. translators: <b> </b> marks the text as bold, ensure they are
-#. matched please!
 #: src/kgx-simple-tab.c:210
-#, c-format
 msgid "<b>Failed to start</b> — %s"
-msgstr ""
+msgstr "<b>Алагара залымшахеит</b> — %s"
 
 #: src/kgx-tab.c:1162
 msgid "Command completed"
@@ -280,10 +269,9 @@ msgstr ""
 msgid "Use Dark Colors"
 msgstr ""
 
-#. Translators: Credit yourself here
 #: src/kgx-window.c:531
 msgid "translator-credits"
-msgstr ""
+msgstr "Aleksandr Melman <alexmelman88@gmail.com>, 2022"
 
 #: src/kgx-window.ui:26
 msgid "Shrink Text"

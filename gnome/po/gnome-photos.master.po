@@ -41,7 +41,7 @@ msgstr ""
 
 #: data/org.gnome.Photos.appdata.xml.in:18
 msgid "Automatically find all your pictures"
-msgstr ""
+msgstr "Автоматикла шәыԥшранҵақәа зегьы рыԥшаара"
 
 #: data/org.gnome.Photos.appdata.xml.in:19
 msgid "View recent local and online photos"
@@ -119,23 +119,13 @@ msgstr ""
 msgid "Show the application's version"
 msgstr ""
 
-#. Translators: this is the default sub-directory where photos will
-#. * be imported.
-#.
-#. Translators: this is the default sub-directory where photos
-#. * will be exported.
-#.
-#. Translators: this is the name of the default album that will be
-#. * created for imported photos.
-#.
-#: src/photos-application.c:1310 src/photos-export-dialog.c:195
-#: src/photos-import-dialog.c:134
+#: src/photos-application.c:1310+src/photos-export-dialog.c:195+src/photos-import-dialog.c:134
 msgid "%-d %B %Y"
-msgstr ""
+msgstr "%-d %B %Y"
 
 #: src/photos-base-item.c:1034
 msgid "Album"
-msgstr ""
+msgstr "Альбом"
 
 #: src/photos-base-item.c:2862
 msgid "Screenshots"
@@ -170,9 +160,9 @@ msgstr ""
 msgid "Collection View"
 msgstr ""
 
-#: src/photos-embed.c:830 src/photos-search-type-manager.c:83
+#: src/photos-embed.c:830+src/photos-search-type-manager.c:83
 msgid "Albums"
-msgstr ""
+msgstr "Альбомқәа"
 
 #: src/photos-embed.c:835 src/photos-search-type-manager.c:92
 msgid "Favorites"
@@ -188,7 +178,7 @@ msgstr ""
 
 #: src/photos-empty-results-box.c:116
 msgid "No Albums Found"
-msgstr ""
+msgstr "Альбомқәа пшааӡам"
 
 #: src/photos-empty-results-box.c:120
 msgid "Starred Photos Will Appear Here"
@@ -263,13 +253,9 @@ msgstr ""
 msgid "_Export"
 msgstr ""
 
-#. Translators: this is the estimated size of the exported image in
-#. * the form "1600×1067 (0.6 GB)".
-#.
 #: src/photos-export-dialog.c:66
-#, c-format
 msgid "%d×%d (%s)"
-msgstr ""
+msgstr "%d×%d (%s)"
 
 #: src/photos-export-dialog.c:252
 msgid "Calculating export size…"
@@ -316,14 +302,9 @@ msgstr ""
 msgid "Export Folder"
 msgstr ""
 
-#. Translators: this is the fallback title in the form
-#. * "Facebook — 2nd January 2013".
-#.
-#: src/photos-facebook-item.c:100 src/photos-flickr-item.c:102
-#: src/photos-google-item.c:98
-#, c-format
+#: src/photos-facebook-item.c:100+src/photos-flickr-item.c:102+src/photos-google-item.c:98
 msgid "%s — %s"
-msgstr ""
+msgstr "%s — %s"
 
 #: src/photos-help-overlay.ui:32
 msgctxt "shortcut window"
@@ -457,11 +438,11 @@ msgstr ""
 
 #: src/photos-import-dialog.c:194
 msgid "An album with that name already exists"
-msgstr ""
+msgstr "Ари аҩыза ахьаӡ змоу альбом аԥҵахахьеит"
 
 #: src/photos-import-dialog.c:211
 msgid "An album for that date already exists"
-msgstr ""
+msgstr "Иарбоу аамҭарбагазы альбом аԥҵоуп"
 
 #: src/photos-import-dialog.ui:22
 msgctxt "dialog title"
@@ -568,11 +549,12 @@ msgid ""
 "Copyright © 2012 – 2021 Red Hat, Inc.\n"
 "Copyright © 2015 – 2018 Umang Jain"
 msgstr ""
+"Аԥҵаҩы изин © 2012 – 2021 Red Hat, Inc.\n"
+"Аԥҵаҩы изин © 2015 – 2018 Umang Jain"
 
-#. Translators: Put your names here
 #: src/photos-main-window.c:466
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: src/photos-organize-collection-dialog.c:70
 msgid "_OK"
@@ -869,7 +851,7 @@ msgstr ""
 
 #: src/photos-share-point-email.c:78
 msgid "E-Mail"
-msgstr ""
+msgstr "E-Mail"
 
 #: src/photos-share-point-google.c:103
 msgid "Failed to upload photo: Service not authorized"
@@ -941,31 +923,31 @@ msgstr ""
 
 #: src/photos-tool-crop.c:194
 msgid "1×1 (Square)"
-msgstr ""
+msgstr "1×1 (Аквадрат)"
 
 #: src/photos-tool-crop.c:195
 msgid "10×8 / 5×4"
-msgstr ""
+msgstr "10×8 / 5×4"
 
 #: src/photos-tool-crop.c:196
 msgid "4×3 / 8×6 (1024×768)"
-msgstr ""
+msgstr "4×3 / 8×6 (1024×768)"
 
 #: src/photos-tool-crop.c:197
 msgid "7×5"
-msgstr ""
+msgstr "7×5"
 
 #: src/photos-tool-crop.c:198
 msgid "3×2 / 6×4"
-msgstr ""
+msgstr "3×2 / 6×4"
 
 #: src/photos-tool-crop.c:199
 msgid "16×10 (1280×800)"
-msgstr ""
+msgstr "16×10 (1280×800)"
 
 #: src/photos-tool-crop.c:200
 msgid "16×9 (1920×1080)"
-msgstr ""
+msgstr "16×9 (1920×1080)"
 
 #: src/photos-tool-crop.c:1459
 msgid "Lock aspect ratio"
@@ -1007,7 +989,7 @@ msgstr ""
 
 #: src/photos-tool-filters.c:189
 msgid "1947"
-msgstr ""
+msgstr "1947"
 
 #: src/photos-tool-filters.c:196
 msgid "Calistoga"
@@ -1040,3 +1022,19 @@ msgstr ""
 #: src/photos-tracker-controller.c:176
 msgid "Unable to fetch the list of photos"
 msgstr ""
+
+#: src/photos-properties-dialog.c:454
+msgctxt "src/photos-properties-dialog.c:454"
+msgid "Author"
+msgstr "Аԥҵаҩы"
+
+#: src/photos-properties-dialog.c:656
+msgid "%ld × %ld pixel\n"
+msgid_plural "%ld × %ld pixels"
+msgstr[0] "%ld × %ld пиксельк\n"
+msgstr[1] "%ld × %ld пиксельк\n"
+
+#: src/photos-search-match-manager.c:161
+msgctxt "src/photos-search-match-manager.c:161"
+msgid "Author"
+msgstr "Аԥҵаҩы"

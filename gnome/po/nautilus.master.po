@@ -540,9 +540,8 @@ msgid "%d kbps"
 msgstr ""
 
 #: extensions/audio-video-properties/totem-properties-view.c:182
-#, c-format
 msgid "%d × %d"
-msgstr ""
+msgstr "%d × %d"
 
 #: extensions/audio-video-properties/totem-properties-view.c:214
 #, c-format
@@ -593,9 +592,9 @@ msgstr ""
 msgid "Title:"
 msgstr ""
 
-#: extensions/audio-video-properties/resources/ui/properties.ui:48
+#: extensions/audio-video-properties/resources/ui/properties.ui:67
 msgid "Artist:"
-msgstr ""
+msgstr "Анагӡаҩ"
 
 #: extensions/audio-video-properties/resources/ui/properties.ui:63
 msgid "Duration:"
@@ -605,9 +604,9 @@ msgstr ""
 msgid "Year:"
 msgstr ""
 
-#: extensions/audio-video-properties/resources/ui/properties.ui:93
+#: extensions/audio-video-properties/resources/ui/properties.ui:127
 msgid "Album:"
-msgstr ""
+msgstr "Альбом:"
 
 #: extensions/audio-video-properties/resources/ui/properties.ui:186
 msgid "Comment:"
@@ -725,7 +724,7 @@ msgstr ""
 
 #: extensions/image-properties/nautilus-image-properties-page.c:250
 msgid "Creator"
-msgstr ""
+msgstr "Аԥҵаҩы"
 
 #: extensions/image-properties/nautilus-image-properties-page.c:251
 msgid "Created On"
@@ -733,7 +732,7 @@ msgstr ""
 
 #: extensions/image-properties/nautilus-image-properties-page.c:252
 msgid "Copyright"
-msgstr ""
+msgstr "аԥҵаҩы изин"
 
 #: extensions/image-properties/nautilus-image-properties-page.c:253
 msgid "Rating"
@@ -851,9 +850,9 @@ msgstr ""
 msgid "Select specified URI in parent folder."
 msgstr ""
 
-#: src/nautilus-application.c:1019
+#: src/nautilus-application.c:1074
 msgid "[URI…]"
-msgstr ""
+msgstr "[URI…]"
 
 #: src/nautilus-autorun-software.c:141 src/nautilus-autorun-software.c:144
 #, c-format
@@ -998,15 +997,15 @@ msgstr ""
 
 #: src/nautilus-batch-rename-dialog.h:188
 msgid "1, 2, 3"
-msgstr ""
+msgstr "1, 2, 3"
 
 #: src/nautilus-batch-rename-dialog.h:195
 msgid "01, 02, 03"
-msgstr ""
+msgstr "01, 02, 03"
 
 #: src/nautilus-batch-rename-dialog.h:202
 msgid "001, 002, 003"
-msgstr ""
+msgstr "001, 002, 003"
 
 #: src/nautilus-bookmark.c:113 src/nautilus-file-utilities.c:305
 #: src/nautilus-pathbar.c:372 src/nautilus-shell-search-provider.c:330
@@ -1085,10 +1084,9 @@ msgstr ""
 msgid "The owner of the file."
 msgstr ""
 
-#: src/nautilus-column-utilities.c:123
-#: src/resources/ui/nautilus-file-properties-change-permissions.ui:92
+#: src/nautilus-column-utilities.c:123+src/resources/ui/nautilus-file-properties-change-permissions.ui:92
 msgid "Group"
-msgstr ""
+msgstr "Агәыԥ"
 
 #: src/nautilus-column-utilities.c:124
 msgid "The group of the file."
@@ -1105,7 +1103,7 @@ msgstr ""
 
 #: src/nautilus-column-utilities.c:139
 msgid "Location"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: src/nautilus-column-utilities.c:140
 msgid "The location of the file."
@@ -1173,10 +1171,9 @@ msgstr ""
 msgid "Archive name is too long."
 msgstr ""
 
-#. We must warn about the side effect
 #: src/nautilus-compress-dialog-controller.c:138
 msgid "Archives with “.” at the beginning of their name are hidden."
-msgstr ""
+msgstr "Архивқәа акәаԥқәа «.»  змоу рахьӡ алагамҭазы рҽырҵәахуеит"
 
 #: src/nautilus-compress-dialog-controller.c:439
 msgid "Compatible with all operating systems."
@@ -1372,15 +1369,13 @@ msgstr ""
 msgid "Starred"
 msgstr ""
 
-#. Translators: Time in 24h format
 #: src/nautilus-file.c:5459
 msgid "%H:%M"
-msgstr ""
+msgstr "%H:%M"
 
-#. Translators: Time in 12h format
 #: src/nautilus-file.c:5464
 msgid "%l:%M %p"
-msgstr ""
+msgstr "%l:%M %p"
 
 #: src/nautilus-file.c:5473
 #, no-c-format
@@ -1402,30 +1397,20 @@ msgid "Yesterday %l:%M %p"
 msgstr ""
 
 #: src/nautilus-file.c:5499
-#, no-c-format
 msgid "%a"
-msgstr ""
+msgstr "%a"
 
-#. Translators: this is the name of the week day followed by
-#. * a time in 24h format. i.e. "Monday 23:04"
 #: src/nautilus-file.c:5508
-#, no-c-format
 msgid "%a %H:%M"
-msgstr ""
+msgstr "%a %H:%M"
 
-#. Translators: this is the week day name followed by
-#. * a time in 12h format. i.e. "Monday 9:04 PM"
 #: src/nautilus-file.c:5515
-#, no-c-format
 msgid "%a %l:%M %p"
-msgstr ""
+msgstr "%a %l:%M %p"
 
-#. Translators: this is the day of the month followed
-#. * by the abbreviated month name i.e. "3 Feb"
 #: src/nautilus-file.c:5526
-#, no-c-format
 msgid "%-e %b"
-msgstr ""
+msgstr "%-e %b"
 
 #. Translators: this is the day of the month followed
 #. * by the abbreviated month name followed by a time in
@@ -1467,9 +1452,8 @@ msgid "%-e %b %Y %l:%M %p"
 msgstr ""
 
 #: src/nautilus-file.c:5585
-#, no-c-format
 msgid "%c"
-msgstr ""
+msgstr "%c"
 
 #: src/nautilus-file.c:6011
 #, c-format
@@ -1522,10 +1506,9 @@ msgid_plural "%'u files"
 msgstr[0] ""
 msgstr[1] ""
 
-#. This means no contents at all were readable
 #: src/nautilus-file.c:7322
 msgid "? bytes"
-msgstr ""
+msgstr "?баит"
 
 #. This means no contents at all were readable
 #: src/nautilus-file.c:7334
@@ -1829,16 +1812,13 @@ msgstr ""
 msgid "%s (%'drd copy)%s"
 msgstr ""
 
-#. localizers: opening parentheses to match the "th copy)" string
 #: src/nautilus-file-operations.c:759
 msgid " ("
-msgstr ""
+msgstr " ("
 
-#. localizers: opening parentheses of the "th copy)" string
 #: src/nautilus-file-operations.c:769
-#, c-format
 msgid " (%'d"
-msgstr ""
+msgstr " (%'d"
 
 #: src/nautilus-file-operations.c:1685
 #, c-format
@@ -2425,15 +2405,13 @@ msgstr ""
 msgid "Setting permissions"
 msgstr ""
 
-#. localizers: the initial name of a new folder
 #: src/nautilus-file-operations.c:7647
 msgid "Untitled Folder"
-msgstr ""
+msgstr "Ихьӡыдоу аҭыӡ"
 
-#. localizers: the initial name of a new empty document
 #: src/nautilus-file-operations.c:7662
 msgid "Untitled Document"
-msgstr ""
+msgstr "Ихьӡыдоу адокумент"
 
 #: src/nautilus-file-operations.c:7945
 #, c-format
@@ -2606,26 +2584,13 @@ msgid_plural "%'d other items selected"
 msgstr[0] ""
 msgstr[1] ""
 
-#. This is marked for translation in case a localiser
-#. * needs to use something other than parentheses. The
-#. * the message in parentheses is the size of the selected items.
-#.
-#: src/nautilus-files-view.c:3504
-#, c-format
+#: src/nautilus-files-view.c:3505
 msgid "(%s)"
-msgstr ""
+msgstr "(%s)"
 
-#. This is marked for translation in case a localizer
-#. * needs to change ", " to something else. The comma
-#. * is between the message about the number of folders
-#. * and the number of items in those folders and the
-#. * message about the number of other items and the
-#. * total size of those items.
-#.
-#: src/nautilus-files-view.c:3554
-#, c-format
+#: src/nautilus-files-view.c:3555
 msgid "%s, %s"
-msgstr ""
+msgstr "%s, %s"
 
 #: src/nautilus-files-view.c:3652 src/gtk/nautilusgtkplacesview.ui:189
 msgid "No Results Found"
@@ -3252,10 +3217,9 @@ msgstr ""
 msgid "The item cannot be restored from trash"
 msgstr ""
 
-#. translators: these describe the contents of removable media
-#: src/nautilus-file-utilities.c:1004
+#: src/nautilus-file-utilities.c:1003
 msgid "Audio CD"
-msgstr ""
+msgstr "Audio CD"
 
 #: src/nautilus-file-utilities.c:1008
 msgid "Audio DVD"
@@ -3265,21 +3229,21 @@ msgstr ""
 msgid "Video DVD"
 msgstr ""
 
-#: src/nautilus-file-utilities.c:1016
+#: src/nautilus-file-utilities.c:1015
 msgid "Video CD"
-msgstr ""
+msgstr "Video CD"
 
-#: src/nautilus-file-utilities.c:1020
+#: src/nautilus-file-utilities.c:1019
 msgid "Super Video CD"
-msgstr ""
+msgstr "Super Video CD"
 
-#: src/nautilus-file-utilities.c:1024
+#: src/nautilus-file-utilities.c:1023
 msgid "Photo CD"
-msgstr ""
+msgstr "Photo CD"
 
-#: src/nautilus-file-utilities.c:1028
+#: src/nautilus-file-utilities.c:1027
 msgid "Picture CD"
-msgstr ""
+msgstr "Picture CD"
 
 #: src/nautilus-file-utilities.c:1032 src/nautilus-file-utilities.c:1080
 msgid "Contains digital photos"
@@ -3341,7 +3305,7 @@ msgstr ""
 
 #: src/nautilus-mime-actions.c:164
 msgid "PDF / PostScript"
-msgstr ""
+msgstr "PDF / PostScript"
 
 #: src/nautilus-mime-actions.c:171
 msgid "Picture"
@@ -3941,9 +3905,9 @@ msgstr ""
 msgid "Select Custom Icon"
 msgstr ""
 
-#: src/nautilus-properties-window.c:5238
+#: src/nautilus-properties-window.c:5227
 msgid "_Revert"
-msgstr ""
+msgstr "_архынҳәра"
 
 #: src/nautilus-properties-window.c:5240 src/gtk/nautilusgtkplacesview.c:1694
 #: src/gtk/nautilusgtkplacessidebar.c:3206
@@ -4014,11 +3978,13 @@ msgstr ""
 msgid "Put files in this folder to use them as templates for new documents."
 msgstr ""
 
-#: src/nautilus-special-location-bar.c:95
+#: src/nautilus-special-location-bar.c:57
 msgid ""
 "<a href=\"help:gnome-help/files-templates\" title=\"GNOME help for templates"
 "\">Learn more…</a>"
 msgstr ""
+"<a href=\"help:gnome-help/files-templates\" title=\"GNOME help for templates"
+"\">Иԥкааны адырра…</a>"
 
 #: src/nautilus-special-location-bar.c:101
 msgid "Executable files in this folder will appear in the Scripts menu."
@@ -4154,9 +4120,9 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: src/nautilus-window.c:154
+#: src/nautilus-window.c:155
 msgid "Forward"
-msgstr ""
+msgstr "Ԥхьаҟа"
 
 #. Translators: only one item has been deleted and %s is its name.
 #: src/nautilus-window.c:1144
@@ -4248,10 +4214,9 @@ msgid ""
 "Unable to find the requested file. Please check the spelling and try again."
 msgstr ""
 
-#: src/nautilus-window-slot.c:1602
-#, c-format
+#: src/nautilus-window-slot.c:1599
 msgid "“%s” locations are not supported."
-msgstr ""
+msgstr "Аҭыӡҭыԥқәа   «%s»  иаднакылом"
 
 #: src/nautilus-window-slot.c:1607
 msgid "Unable to handle this kind of location."
@@ -4601,19 +4566,19 @@ msgstr ""
 
 #: src/resources/ui/nautilus-batch-rename-dialog.ui:6
 msgid "Automatic Numbers"
-msgstr ""
+msgstr "Автоматикла аномерқәыргылара"
 
 #: src/resources/ui/nautilus-batch-rename-dialog.ui:8
 msgid "1, 2, 3, 4"
-msgstr ""
+msgstr "1, 2, 3, 4"
 
 #: src/resources/ui/nautilus-batch-rename-dialog.ui:12
 msgid "01, 02, 03, 04"
-msgstr ""
+msgstr "01, 02, 03, 04"
 
 #: src/resources/ui/nautilus-batch-rename-dialog.ui:16
 msgid "001, 002, 003, 004"
-msgstr ""
+msgstr "001, 002, 003, 004"
 
 #: src/resources/ui/nautilus-batch-rename-dialog.ui:21
 msgid "Metadata"
@@ -4671,9 +4636,9 @@ msgstr ""
 msgid "Add"
 msgstr ""
 
-#: src/resources/ui/nautilus-batch-rename-dialog.ui:215
+#: src/resources/ui/nautilus-batch-rename-dialog.ui:227
 msgid "Automatic Numbering Order"
-msgstr ""
+msgstr "Автоматикалатәи аномерркра аиҿкаара"
 
 #: src/resources/ui/nautilus-batch-rename-dialog.ui:241
 msgctxt "title"
@@ -5113,7 +5078,7 @@ msgstr ""
 
 #: src/resources/ui/nautilus-properties-window.ui:836
 msgid "_Group"
-msgstr ""
+msgstr "Агәыԥ"
 
 #: src/resources/ui/nautilus-properties-window.ui:1038
 msgid "Execute"
@@ -5332,9 +5297,9 @@ msgstr ""
 msgid "Cance_l"
 msgstr ""
 
-#: src/gtk/nautilusgtkplacesview.c:1641
+#: src/gtk/nautilusgtkplacesview.c:1626
 msgid "AppleTalk"
-msgstr ""
+msgstr "AppleTalk"
 
 #: src/gtk/nautilusgtkplacesview.c:1647
 msgid "File Transfer Protocol"
@@ -5349,9 +5314,9 @@ msgstr ""
 msgid "Network File System"
 msgstr ""
 
-#: src/gtk/nautilusgtkplacesview.c:1661
+#: src/gtk/nautilusgtkplacesview.c:1646
 msgid "Samba"
-msgstr ""
+msgstr "Samba"
 
 #: src/gtk/nautilusgtkplacesview.c:1667
 msgid "SSH File Transfer Protocol"
@@ -5362,9 +5327,9 @@ msgstr ""
 msgid "sftp:// or ssh://"
 msgstr ""
 
-#: src/gtk/nautilusgtkplacesview.c:1675
+#: src/gtk/nautilusgtkplacesview.c:1660
 msgid "WebDAV"
-msgstr ""
+msgstr "WebDAV"
 
 #. Translators: do not translate dav:// and davs://
 #: src/gtk/nautilusgtkplacesview.c:1677
@@ -5407,12 +5372,14 @@ msgstr ""
 
 #: src/gtk/nautilusgtkplacesview.ui:28
 msgid "Server Addresses"
-msgstr ""
+msgstr "Асерверқәа рҭыӡҭыԥқәа"
 
 #: src/gtk/nautilusgtkplacesview.ui:40
 msgid ""
 "Server addresses are made up of a protocol prefix and an address. Examples:"
 msgstr ""
+"Асерверқәа рҭыӡҭыԥқәа шьыкәгылоуп апртотокол апрефиксла, насгьы аҭыӡҭыԥла."
+"Аҿырԥштәқәа:"
 
 #: src/gtk/nautilusgtkplacesview.ui:66
 msgid "Available Protocols"
@@ -5581,3 +5548,29 @@ msgstr ""
 #: src/gtk/nautilusgtkplacessidebar.c:3941
 msgid "Computer"
 msgstr ""
+
+#: extensions/audio-video-properties/bacon-video-widget-properties.c:165
+msgid "%s %s %s"
+msgstr "%s %s %s"
+
+#: extensions/audio-video-properties/bacon-video-widget-properties.c:168
+msgid "%s %s"
+msgstr "%s %s"
+
+#: src/nautilus-directory.c:674
+msgctxt "src/nautilus-directory.c:674"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: src/nautilus-properties-window.c:1317
+msgctxt "src/nautilus-properties-window.c:1317"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: src/resources/gtk/help-overlay.ui:231
+msgid "Location bar with root location"
+msgstr "Аҭыӡҭыԥтә цәаҳәа ихарҭәаау аҭыӡҭыԥ зну иалагоит адац аҟынтә"
+
+#: src/resources/gtk/help-overlay.ui:238
+msgid "Location bar with home location"
+msgstr "Аҭыӡҭыԥтә цәаҳәа иркьаҿны аҭыӡҭыԥ зну алагоит аҩнытәи аҭаӡ аҟынтә"

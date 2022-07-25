@@ -117,7 +117,7 @@ msgstr ""
 
 #: lib/bluetooth-settings-widget.c:1138
 msgid "Yes"
-msgstr ""
+msgstr "Ааи"
 
 #: lib/bluetooth-settings-widget.c:1138
 msgid "No"
@@ -281,7 +281,7 @@ msgstr ""
 
 #: lib/settings.ui:117
 msgid "Address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: lib/settings.ui:143
 msgid "_Mouse & Touchpad Settings"
@@ -392,10 +392,9 @@ msgstr ""
 msgid "%d kB/s"
 msgstr ""
 
-#: sendto/main.c:621
-#, c-format
+#: sendto/main.c:616
 msgid "%d B/s"
-msgstr ""
+msgstr "%d Б/с"
 
 #: sendto/main.c:652
 #, c-format
@@ -424,9 +423,9 @@ msgstr ""
 msgid "Remote device to use"
 msgstr ""
 
-#: sendto/main.c:736
+#: sendto/main.c:731
 msgid "ADDRESS"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: sendto/main.c:738
 msgid "Remote device’s name"

@@ -92,7 +92,7 @@ msgstr ""
 
 #: data/org.gnome.clocks.gschema.xml.in:59
 msgid "Current clock panel."
-msgstr ""
+msgstr "асааҭ иактиву апанель."
 
 #: data/org.gnome.clocks.metainfo.xml.in.in:9
 msgid ""
@@ -390,10 +390,9 @@ msgstr ""
 msgid "1 h"
 msgstr ""
 
-#: data/ui/timer-setup.ui:178 data/ui/timer-setup.ui:210
-#: data/ui/timer-setup.ui:243
+#: data/ui/timer-setup.ui:178+data/ui/timer-setup.ui:210+data/ui/timer-setup.ui:243
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: data/ui/window.ui:49
 msgid "World"
@@ -528,10 +527,9 @@ msgstr ""
 msgid "Timer countdown finished"
 msgstr ""
 
-#. Translators: The time is the same as the local time
 #: src/utils.vala:61
 msgid "Current timezone"
-msgstr ""
+msgstr "Иактиву асааҭтә зона"
 
 #. Translators: The (possibly fractical) number hours in the past
 #. (relative to local) the clock/location is

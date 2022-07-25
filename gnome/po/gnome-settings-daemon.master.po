@@ -199,7 +199,7 @@ msgstr ""
 
 #: data/org.gnome.settings-daemon.peripherals.wacom.gschema.xml.in:10
 msgid "Wacom stylus absolute mode"
-msgstr ""
+msgstr "Ииашахаҭоу  астилус Wacom арежим"
 
 #: data/org.gnome.settings-daemon.peripherals.wacom.gschema.xml.in:11
 msgid "Enable this to set the tablet to absolute mode."
@@ -685,30 +685,27 @@ msgstr ""
 msgid "Binding to launch the web browser."
 msgstr ""
 
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:106
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:317
+#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:106+data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:317
 msgid "Toggle magnifier"
-msgstr ""
+msgstr "Аекрантә еизырҳага аҿакра, мамзар аҿыхра"
 
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:107
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:318
 msgid "Binding to show the screen magnifier"
 msgstr ""
 
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:111
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:292
+#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:111+data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:292
 msgid "Toggle screen reader"
-msgstr ""
+msgstr " Аекран аҟынтә аԥхьара  аҿакра, мамзар аҿыхра"
 
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:112
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:293
 msgid "Binding to start the screen reader"
 msgstr ""
 
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:116
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:297
+#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:116+data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:297
 msgid "Toggle on-screen keyboard"
-msgstr ""
+msgstr "Аекрантә рыдыркыра  аҿакра, мамзар аҿыхра"
 
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:117
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:298
@@ -735,10 +732,9 @@ msgstr ""
 msgid "Binding to decrease the text size"
 msgstr ""
 
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:131
-#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:312
+#: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:131+data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:312
 msgid "Toggle contrast"
-msgstr ""
+msgstr "Аиҿагылара аҿакра, мамзар аҿыхра"
 
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:132
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:313
@@ -1275,6 +1271,8 @@ msgid ""
 "Automatically enable the \"power-saver\" profile using power-profiles-daemon "
 "if the battery is low."
 msgstr ""
+"Абатареиа тәаны иҟазар автоматла иаҿанакуеит \"Афымцахьчаратә режим\"  "
+"афымцамч аҷыдахәра асервис ахы иархәаны ."
 
 #: data/org.gnome.settings-daemon.plugins.sharing.gschema.xml.in:6
 msgid "On which connections the service is enabled"
@@ -1399,11 +1397,9 @@ msgstr ""
 msgid "Color calibration device removed"
 msgstr ""
 
-#. Translators: UTC here means the Coordinated Universal Time.
-#. * %:::z will be replaced by the offset from UTC e.g. UTC+02
 #: plugins/datetime/gsd-datetime-manager.c:88
 msgid "UTC%:::z"
-msgstr ""
+msgstr "UTC%:::z"
 
 #: plugins/datetime/gsd-datetime-manager.c:92
 #, c-format
@@ -1477,11 +1473,11 @@ msgstr ""
 
 #: plugins/media-keys/gsd-media-keys-manager.c:2257
 msgid "Airplane mode enabled"
-msgstr ""
+msgstr "Авиарежим аҿакуп"
 
 #: plugins/media-keys/gsd-media-keys-manager.c:2260
 msgid "Airplane mode disabled"
-msgstr ""
+msgstr "Авиарежим аҿыхуп"
 
 #: plugins/media-keys/gsd-media-keys-manager.c:2299
 msgid "Hardware Airplane Mode"
@@ -1505,12 +1501,9 @@ msgid_plural "%i hours"
 msgstr[0] ""
 msgstr[1] ""
 
-#. TRANSLATOR: "%i %s %i %s" are "%i hours %i minutes"
-#. * Swap order with "%2$s %2$i %1$s %1$i if needed
 #: plugins/power/gpm-common.c:112
-#, c-format
 msgid "%i %s %i %s"
-msgstr ""
+msgstr "%i %s %i %s"
 
 #: plugins/power/gpm-common.c:113
 msgid "hour"
@@ -2224,7 +2217,7 @@ msgstr ""
 
 #: plugins/power/gsd-power-manager.c:2445
 msgid "Automatic logout"
-msgstr ""
+msgstr "Автоматикла асистема аҭыҵра"
 
 #: plugins/power/gsd-power-manager.c:2445
 msgid "You will soon log out because of inactivity."
@@ -2232,7 +2225,7 @@ msgstr ""
 
 #: plugins/power/gsd-power-manager.c:2450
 msgid "Automatic suspend"
-msgstr ""
+msgstr "Автоматикалатәи аԥшаара арежим"
 
 #: plugins/power/gsd-power-manager.c:2450
 #: plugins/power/gsd-power-manager.c:2455
@@ -2241,7 +2234,7 @@ msgstr ""
 
 #: plugins/power/gsd-power-manager.c:2455
 msgid "Automatic hibernation"
-msgstr ""
+msgstr "Автоматикалатәи ицәоу арежим"
 
 #. SECURITY:
 #. - A normal active user on the local machine does not need permission
@@ -2714,3 +2707,11 @@ msgid "You have %u try left"
 msgid_plural "You have %u tries left"
 msgstr[0] ""
 msgstr[1] ""
+
+#: plugins/wwan/gsd-wwan-manager.c:156
+msgid "%2$s. You have %1$u try left\n"
+msgid_plural "%2$s. You have %1$u tries left"
+msgstr[0] "%2$s. ишәзаанхеит %1$u ҽазышәарак\n"
+msgstr[1] ""
+"%2$s. ишәзаанхеит %1$u ҽазышәарак\n"
+"ҽазышәарак"

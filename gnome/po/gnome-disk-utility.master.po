@@ -201,17 +201,13 @@ msgstr ""
 msgid "--format-device must not be used together with --restore-disk-image"
 msgstr ""
 
-#. Translators: Shown in the About dialog to convey version numbers.
-#. *              The first %s is the version of Disks (for example "3.6").
-#. *              The second %s is the version of the running udisks daemon (for example "2.0.90").
-#. *              The third, fourth and fifth %d are the major, minor and micro versions of libudisks2 that was used when compiling the Disks application (for example 2, 0 and 90).
-#.
 #: src/disks/gduapplication.c:348
-#, c-format
 msgid ""
 "gnome-disk-utility %s\n"
 "UDisks %s (built against %d.%d.%d)"
 msgstr ""
+"gnome-disk-utility %s\n"
+"UDisks %s (аизга %d.%d.%d аҟынтә)"
 
 #. Translators: SMART attribute, see http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
@@ -406,12 +402,9 @@ msgstr ""
 msgid "Frequency of mistakes as a result of impact loads"
 msgstr ""
 
-#. Translators: SMART attribute, see http://smartmontools.sourceforge.net/doc.html
-#. * or the next string for a longer explanation.
-#.
-#: src/disks/gduatasmartdialog.c:286 src/disks/gduatasmartdialog.c:505
+#: src/disks/gduatasmartdialog.c:286+src/disks/gduatasmartdialog.c:505
 msgid "Power-off Retract Count"
-msgstr ""
+msgstr "Амашәыртә ҿыхрақәа"
 
 #: src/disks/gduatasmartdialog.c:287
 msgid "Number of power-off or emergency retract cycles"
@@ -606,12 +599,9 @@ msgstr ""
 msgid "Number of buzz routines to spin up the drive"
 msgstr ""
 
-#. Translators: SMART attribute, see http://smartmontools.sourceforge.net/doc.html
-#. * or the next string for a longer explanation.
-#.
 #: src/disks/gduatasmartdialog.c:431
 msgid "Offline Seek Performance"
-msgstr ""
+msgstr "Автономла аҭыԥыркра"
 
 #: src/disks/gduatasmartdialog.c:432
 msgid "Drive’s seek performance during offline operations"
@@ -824,17 +814,9 @@ msgid_plural "%d sectors"
 msgstr[0] ""
 msgstr[1] ""
 
-#. Translators: Used in the treeview for the pretty/interpreted value of an attribute
-#. * for a temperature-based unit - first %f is the temperature in degrees Celcius, second %f
-#. * is the temperature in degrees Fahrenheit
-#. Translators: Used to format a temperature.
-#. * The first %f is the temperature in degrees Celcius and
-#. * the second %f is the temperature in degrees Fahrenheit.
-#.
-#: src/disks/gduatasmartdialog.c:746 src/disks/gduatasmartdialog.c:879
-#, c-format
+#: src/disks/gduatasmartdialog.c:746+src/disks/gduatasmartdialog.c:879
 msgid "%.0f° C / %.0f° F"
-msgstr ""
+msgstr "%.0f° C / %.0f° F"
 
 #. SK_SMART_ATTRIBUTE_UNIT_UNKNOWN
 #. Translators: Used in the treeview for the pretty/interpreted value of an attribute
@@ -960,14 +942,9 @@ msgstr[1] ""
 msgid "Disk is OK"
 msgstr ""
 
-#. Translators: Used to convey the status and temperature in one line.
-#. * The first %s is the status of the drive.
-#. * The second %s is the temperature of the drive.
-#.
 #: src/disks/gduatasmartdialog.c:1030
-#, c-format
 msgid "%s (%s)"
-msgstr ""
+msgstr "%s (%s)"
 
 #: src/disks/gduatasmartdialog.c:1116
 msgid "Pre-Fail"
@@ -1011,15 +988,13 @@ msgstr ""
 msgid "An error occurred when trying to toggle whether SMART is enabled"
 msgstr ""
 
-#. Translators: This string is used as the column title in the treeview for the Attribute ID (0-255)
 #: src/disks/gduatasmartdialog.c:1566
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
-#. Translators: This string is used as the column title in the treeview for the attribute name and description
 #: src/disks/gduatasmartdialog.c:1578
 msgid "Attribute"
-msgstr ""
+msgstr "Аҟазшьарбага"
 
 #. Translators: This string is used as the column title in the treeview for the value
 #: src/disks/gduatasmartdialog.c:1592
@@ -1253,12 +1228,9 @@ msgstr ""
 msgid "%s — %s"
 msgstr ""
 
-#. Translators: Disk usage in the format '3 GB (7%)', unit string comes from UDisks.
-#.
 #: src/disks/gducreateconfirmpage.c:128
-#, c-format
 msgid "%s (%.1f%%)"
-msgstr ""
+msgstr "%s (%.1f%%)"
 
 #. Translators: The suggested name for the disk image to create.
 #. *              The first %s is a name for the disk (e.g. 'sdb').
@@ -1587,10 +1559,9 @@ msgstr ""
 msgid "Save Power"
 msgstr ""
 
-#. Translators: This is a mark on the APM scale. The string should be as short as possible. The left arrow ("←") is to signify that the left part of the scale offers spindown. In RTL locales, please use a right arrow ("→") instead.
 #: src/disks/gdudisksettingsdialog.c:428
 msgid "← Spindown"
-msgstr ""
+msgstr "← Аикәшарақәа рырмаҷра"
 
 #. Translators: This is a mark on the APM scale. The string should be as short as possible
 #: src/disks/gdudisksettingsdialog.c:430
@@ -1651,11 +1622,11 @@ msgstr ""
 
 #: src/disks/gduformatdiskdialog.c:194
 msgid "ATA Secure Erase"
-msgstr ""
+msgstr "ATA Secure Erase"
 
 #: src/disks/gduformatdiskdialog.c:209
 msgid "ATA Enhanced Secure Erase"
-msgstr ""
+msgstr "ATA Enhanced Secure Erase"
 
 #: src/disks/gduformatdiskdialog.c:253
 msgid "Compatible with all systems and devices"
@@ -1663,7 +1634,7 @@ msgstr ""
 
 #: src/disks/gduformatdiskdialog.c:254
 msgid "MBR / DOS"
-msgstr ""
+msgstr "MBR / DOS"
 
 #: src/disks/gduformatdiskdialog.c:264
 msgid "Compatible with modern systems and hard disks > 2TB"
@@ -1671,7 +1642,7 @@ msgstr ""
 
 #: src/disks/gduformatdiskdialog.c:265
 msgid "GPT"
-msgstr ""
+msgstr "GPT"
 
 #: src/disks/gduformatdiskdialog.c:282
 msgid "No partitioning"
@@ -1702,6 +1673,9 @@ msgid ""
 "computer or disk, you should use a more thorough erase type to keep your "
 "private information from falling into the wrong hands"
 msgstr ""
+"<b>Абжьгара</b>:Шәкомпиутер мамзар шәдиск шәҭиирц шәгәиҭазар, ишәыдаагалоит "
+"еиҳа шәацклыԥшны адырракәа анышәхарц, шәхатә дыррақәа ауаа цәгьакәа рнапаҟны "
+"иҟамларцазы."
 
 #. Translators: warning used when overwriting data
 #: src/disks/gduformatdiskdialog.c:394
@@ -1719,6 +1693,12 @@ msgid ""
 "href='https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase'>ATA Secure "
 "Erase</a> and make sure you understand the risks"
 msgstr ""
+"<b>АГӘҼАНҴАРА</b>: Ишәарҭадароу арыцқьара агәыԥ акыраамҭа иадхалар ҟалоит ,"
+"апыхрагьы ҟалаӡом,шьоукы-шьоукы  амаругакәа рҟны ари адца ииашаны аус "
+"амуозар ҟалоит. Иреицәаӡоу аҭагылазаашьала шәусруга бжьасоит, ипхасҭахоит "
+"мамзар асистема аанкылахоит. Иацышәҵаанӡа шәаԥхьа астатиа <a href='https://"
+"ata.wiki.kernel.org/index.php/ATA_Secure_Erase'>ATA Secure Erase</a> насгьы "
+"агәра шәга, ашәарҭара аҟалара шалшо  атәы шеилышәкаауа."
 
 #: src/disks/gdufstabdialog.c:155
 #, c-format
@@ -2054,14 +2034,9 @@ msgstr ""
 msgid "%s of %s — %s"
 msgstr ""
 
-#. Translators: Used in job progress bar.
-#. *              The %s is the job description (e.g. "Erasing Device").
-#. *              The %f is the completion percentage (between 0.0 and 100.0).
-#.
 #: src/disks/gduwindow.c:1860
-#, c-format
 msgid "%s: %2.1f%%"
-msgstr ""
+msgstr "%s: %2.1f%%"
 
 #: src/disks/gduwindow.c:1940 src/disks/gduwindow.c:2323
 msgid "Block device is empty"
@@ -2328,6 +2303,9 @@ msgid ""
 "Copyright © 2008-2013 David Zeuthen\n"
 "Copyright © 2009-2017 The GNOME Project\n"
 msgstr ""
+"Аԥҵаҩы изин © 2008-2013 Red Hat, Inc.\n"
+"Аԥҵаҩы изин © 2008-2013 David Zeuthen\n"
+"Аԥҵаҩы изин © 2009-2017 The GNOME Project\n"
 
 #: src/disks/ui/about-dialog.ui:15
 msgid "View, modify and configure disks and media"
@@ -2335,7 +2313,7 @@ msgstr ""
 
 #: src/disks/ui/about-dialog.ui:18
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: src/disks/ui/app-menu.ui:6
 msgid "_New Disk Image…"
@@ -2626,10 +2604,9 @@ msgstr ""
 msgid "The size of the partition to create"
 msgstr ""
 
-#: src/disks/ui/create-partition-page.ui:103
-#: src/disks/ui/new-disk-image-dialog.ui:140 src/disks/ui/resize-dialog.ui:119
+#: src/disks/ui/create-partition-page.ui:103+src/disks/ui/new-disk-image-dialog.ui:140+src/disks/ui/resize-dialog.ui:119
 msgid "bytes"
-msgstr ""
+msgstr "баит"
 
 #: src/disks/ui/create-partition-page.ui:104
 #: src/disks/ui/new-disk-image-dialog.ui:141 src/disks/ui/resize-dialog.ui:120
@@ -2762,10 +2739,12 @@ msgid ""
 "Aggressive spin-down may wear out the drive faster than anticipated. Please "
 "check the “Start/Stop Count” SMART attribute from time to time"
 msgstr ""
+"Агрессивтә ааҳәырақәа рларҟәра заанацтәи адиск ахараҟынӡа инанагар алшоит."
+"Аамҭа -аамҭала игәашәҭала  SMART-атрибут ациклқәа ''адәықә./аанкыл''."
 
 #: src/disks/ui/disk-settings-dialog.ui:308
 msgid "A_PM"
-msgstr ""
+msgstr "A_PM"
 
 #: src/disks/ui/disk-settings-dialog.ui:333
 msgid "Apply Automatic Acoustic Management Settings"
@@ -2785,7 +2764,7 @@ msgstr ""
 
 #: src/disks/ui/disk-settings-dialog.ui:473
 msgid "_AAM"
-msgstr ""
+msgstr "_AAM"
 
 #: src/disks/ui/disk-settings-dialog.ui:498
 msgid "Apply Write Cache Settings"
@@ -2881,7 +2860,7 @@ msgstr ""
 
 #: src/disks/ui/disks.ui:542
 msgid "Auto-clear"
-msgstr ""
+msgstr "Ахаларыцқьара"
 
 #: src/disks/ui/disks.ui:560
 msgid "Detach loop device after unmount action"
@@ -2943,7 +2922,7 @@ msgstr ""
 
 #: src/disks/ui/disks.ui:939
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: src/disks/ui/disks.ui:968
 msgid "Partition Type"
@@ -3107,6 +3086,8 @@ msgid ""
 "The <b>special device file</b> — use symlinks in the <b>/dev/disk</b> "
 "hierarchy to control the scope of the entry"
 msgstr ""
+"<b>Афаил аиҿартәыра </b>; ахархәара рыҭара азхьарԥшқәа аизакхьӡынҵа <b>/dev/"
+"disk</b> аҟынтәи анҵамҭа аконтекст ахархәара аҭаразы."
 
 #: src/disks/ui/edit-fstab-dialog.ui:91
 msgid ""
@@ -3549,7 +3530,7 @@ msgstr ""
 
 #: src/disks/ui/unlock-device-dialog.ui:161
 msgid "PI_M"
-msgstr ""
+msgstr "PI_M"
 
 #: src/disks/ui/unlock-device-dialog.ui:177
 msgid ""
@@ -3778,3 +3759,27 @@ msgstr ""
 msgctxt "notify-smart"
 msgid "Examine"
 msgstr ""
+
+#: src/disks/gducreateconfirmpage.c:110
+msgctxt "src/disks/gducreateconfirmpage.c:110"
+msgid "%s — %s"
+msgstr "%s — %s"
+
+#: src/disks/gduwindow.c:2589
+msgid "Active"
+msgstr "Иактиву"
+
+#: src/disks/gduwindow.c:2650
+msgctxt "src/disks/gduwindow.c:2650"
+msgid "%s — %s"
+msgstr "%s — %s"
+
+#: src/libgdu/gduutils.c:589
+msgctxt "src/libgdu/gduutils.c:589"
+msgid "%s"
+msgstr "%s"
+
+#: src/libgdu/gduutils.c:595
+msgctxt "src/libgdu/gduutils.c:595"
+msgid "%s"
+msgstr "%s"

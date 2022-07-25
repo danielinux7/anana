@@ -325,25 +325,22 @@ msgctxt "board size"
 msgid "Large"
 msgstr "Аду"
 
-#. Translators: About dialog text, name and email of one of the authors
 #: src/main.vala:95
 msgid "Robert Szokovacs <szo@szo.hu>"
-msgstr ""
+msgstr "Robert Szokovacs <szo@szo.hu>"
 
-#. Translators: About dialog text, name and email of one of the authors
 #: src/main.vala:98
 msgid "Szabolcs Bán <shooby@gnome.hu>"
-msgstr ""
+msgstr "Szabolcs Bán <shooby@gnome.hu>"
 
 #. Translators: About dialog text, name of one of the artists
 #: src/main.vala:103
 msgid "Callum McKenzie"
 msgstr ""
 
-#. Translators: About dialog text, name of a website that provided some artworks
 #: src/main.vala:106
 msgid "kenney.nl"
-msgstr ""
+msgstr "kenney.nl"
 
 #. Translators: About dialog text, name of one of the artists
 #: src/main.vala:109
@@ -360,15 +357,13 @@ msgstr ""
 msgid "Lanka Rathnayaka"
 msgstr ""
 
-#. Translators: About dialog text, first line of the copyright notice
 #: src/main.vala:121
 msgid "Copyright © 1997–2008 Free Software Foundation, Inc."
-msgstr ""
+msgstr "Аԥҵаҩы изин © 1997-2008 Free Software Foundation, Inc."
 
-#. Translators: About dialog text, second line of the copyright notice
 #: src/main.vala:124
 msgid "Copyright © 2013–2014 Michael Catanzaro"
-msgstr ""
+msgstr "Аԥҵаҩы изин © 2013-2014 Маикл Катанзаро"
 
 #. Translators: About dialog text, describing the application
 #: src/main.vala:131

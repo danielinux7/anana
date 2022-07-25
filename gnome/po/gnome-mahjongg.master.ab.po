@@ -360,3 +360,7 @@ msgstr "Ахәмарра аиҭалагара"
 #: src/window.vala:40
 msgid "Pause the game"
 msgstr "Ахәмарра аанкылара"
+
+#: data/help-overlay.ui:43
+msgid "Redo"
+msgstr "Архынҳәра"

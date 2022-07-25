@@ -352,10 +352,9 @@ msgstr ""
 msgid "Set the level of the computer’s AI"
 msgstr ""
 
-#. Translators: in the command-line options description, text to indicate the user should specify a level, see 'four-in-a-row --help'
 #: src/four-in-a-row.vala:98
 msgid "LEVEL"
-msgstr ""
+msgstr "LEVEL"
 
 #. Translators: command-line option description, see 'four-in-a-row --help'
 #: src/four-in-a-row.vala:101
@@ -367,20 +366,18 @@ msgstr ""
 msgid "Size of the board"
 msgstr ""
 
-#. Translators: in the command-line options description, text to indicate the user should specify a size, see 'four-in-a-row --help'
 #: src/four-in-a-row.vala:107
 msgid "SIZE"
-msgstr ""
+msgstr "SIZE"
 
 #. Translators: command-line option description, see 'four-in-a-row --help'
 #: src/four-in-a-row.vala:110
 msgid "Length of a winning line"
 msgstr ""
 
-#. Translators: in the command-line options description, text to indicate the user should specify the line length, see 'four-in-a-row --help'
 #: src/four-in-a-row.vala:113
 msgid "TARGET"
-msgstr ""
+msgstr "TARGET"
 
 #. Translators: command-line option description, see 'four-in-a-row --help'
 #: src/four-in-a-row.vala:116
@@ -495,15 +492,13 @@ msgstr ""
 msgid "Jacob Humphrey"
 msgstr ""
 
-#. Translators: in the About dialog, name of an author of the game
 #: src/four-in-a-row.vala:1138
 msgid "Arnaud Bonatti"
-msgstr ""
+msgstr "Арно Бонатти (Arnaud Bonatti)"
 
-#. Translators: in the About dialog, name of a theme designer
 #: src/four-in-a-row.vala:1143
 msgid "Alan Horkan"
-msgstr ""
+msgstr "Алан Хоркан (Alan Horkan)"
 
 #. Translators: in the About dialog, name of a theme designer
 #: src/four-in-a-row.vala:1147
@@ -520,36 +515,30 @@ msgstr ""
 msgid "Timothy Musson"
 msgstr ""
 
-#. Translators: text crediting a maintainer, in the about dialog text
 #: src/four-in-a-row.vala:1159
 msgid "Copyright © 1999-2008 – Tim Musson and David Neary"
-msgstr ""
+msgstr "Аԥҵаҩы изин © 1999-2008 - Тим Муссони  Девид Неригьы"
 
-#. Translators: text crediting a maintainer, in the about dialog text
 #: src/four-in-a-row.vala:1163
 msgid "Copyright © 2014 – Michael Catanzaro"
-msgstr ""
+msgstr "Аԥҵаҩы изин © 2014 - Маикл Катанзаро"
 
-#. Translators: text crediting a maintainer, in the about dialog text
 #: src/four-in-a-row.vala:1167
 msgid "Copyright © 2018 – Jacob Humphrey"
-msgstr ""
+msgstr "Copyright © 2018 - Джеикоб Хамфри"
 
-#. Translators: text crediting a maintainer, in the about dialog text; the %u are replaced with the years of start and end
 #: src/four-in-a-row.vala:1171
-#, c-format
 msgid "Copyright © %u-%u – Arnaud Bonatti"
-msgstr ""
+msgstr "Copyright © %u-%u - Арно Бонатти"
 
 #. Translators: about dialog text, introducing the game
 #: src/four-in-a-row.vala:1179
 msgid "Connect four in a row to win"
 msgstr ""
 
-#. Translators: about dialog text; this string should be replaced by a text crediting yourselves and your translation team, or should be left empty. Do not translate literally!
 #: src/four-in-a-row.vala:1184
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #. Translators: during a game, entry in the game menu, for undoing the last move
 #: src/four-in-a-row.vala:1285

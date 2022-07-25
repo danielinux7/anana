@@ -122,11 +122,11 @@ msgstr ""
 
 #: data/org.gnome.Nibbles.gschema.xml:51
 msgid "Enable sounds"
-msgstr ""
+msgstr "Абжьқәа рҿакра"
 
 #: data/org.gnome.Nibbles.gschema.xml:52
 msgid "Enable sounds."
-msgstr ""
+msgstr "Абжьқәа рҿакра"
 
 #. Translators: command-line option description, see 'gnome-nibbles --help'
 #: data/org.gnome.Nibbles.gschema.xml:56 src/gnome-nibbles.vala:49
@@ -392,29 +392,21 @@ msgstr ""
 msgid "Select the number of human players."
 msgstr ""
 
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play a solo game against AIs (with a mnemonic that appears when pressing Alt)
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with one AI, appearing when there are 3 or 4 humans set (with a mnemonic that appears when pressing Alt)
-#: data/ui/players.ui:72 src/players.vala:35
+#: data/ui/players.ui:72+src/players.vala:35
 msgid "_1"
-msgstr ""
+msgstr "_1"
 
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with 2 human players (with a mnemonic that appears when pressing Alt)
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with two AIs, appearing when there are 2, 3 or 4 humans set (with a mnemonic that appears when pressing Alt)
-#: data/ui/players.ui:86 src/players.vala:38
+#: data/ui/players.ui:86+src/players.vala:38
 msgid "_2"
-msgstr ""
+msgstr "_2"
 
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with 3 human players (with a mnemonic that appears when pressing Alt)
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with three AIs, appearing when there are 1, 2 or 3 humans set (with a mnemonic that appears when pressing Alt)
-#: data/ui/players.ui:100 src/players.vala:41
+#: data/ui/players.ui:100+src/players.vala:41
 msgid "_3"
-msgstr ""
+msgstr "_3"
 
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with 4 human players (with a mnemonic that appears when pressing Alt)
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with four AIs, appearing when there are 1 or 2 humans set (with a mnemonic that appears when pressing Alt)
-#: data/ui/players.ui:114 src/players.vala:44
+#: data/ui/players.ui:114+src/players.vala:44
 msgid "_4"
-msgstr ""
+msgstr "_4"
 
 #. Translators: label in one of the panels displayed during game configuration; allows to choose if the game has 0/1/2/3/4/5 ai-controlled worms
 #: data/ui/players.ui:136
@@ -539,10 +531,9 @@ msgstr ""
 msgid "Start playing"
 msgstr ""
 
-#. Translators: command-line option description, see 'gnome-nibbles --help'
 #: src/gnome-nibbles.vala:82
 msgid "Turn on the sound"
-msgstr ""
+msgstr "Абжьы аҿакра"
 
 #. Translators: command-line option description, see 'gnome-nibbles --help'
 #: src/gnome-nibbles.vala:85
@@ -575,66 +566,54 @@ msgid ""
 "Options --disable-fakes (-d) and --enable-fakes (-e) are mutually exclusive."
 msgstr ""
 
-#. Translators: text crediting an author, in the about dialog
 #: src/gnome-nibbles.vala:286
 msgid "Sean MacIsaac"
-msgstr ""
+msgstr "Sean MacIsaac"
 
-#. Translators: text crediting an author, in the about dialog
 #: src/gnome-nibbles.vala:290
 msgid "Ian Peters"
-msgstr ""
+msgstr "Ian Peters"
 
-#. Translators: text crediting an author, in the about dialog
 #: src/gnome-nibbles.vala:294
 msgid "Andreas Røsdal"
-msgstr ""
+msgstr "Andreas Røsdal"
 
-#. Translators: text crediting an author, in the about dialog
 #: src/gnome-nibbles.vala:298
 msgid "Guillaume Beland"
-msgstr ""
+msgstr "Guillaume Beland"
 
-#. Translators: text crediting an author, in the about dialog
 #: src/gnome-nibbles.vala:302
 msgid "Iulian-Gabriel Radu"
-msgstr ""
+msgstr "Iulian-Gabriel Radu"
 
-#. Translators: text crediting a documenter, in the about dialog
 #: src/gnome-nibbles.vala:306
 msgid "Kevin Breit"
-msgstr ""
+msgstr "Kevin Breit"
 
-#. Translators: text crediting a designer, in the about dialog
 #: src/gnome-nibbles.vala:310
 msgid "Allan Day"
-msgstr ""
+msgstr "Allan Day"
 
 #. Translators: small description of the game, seen in the About dialog
 #: src/gnome-nibbles.vala:316
 msgid "A worm game for GNOME"
 msgstr ""
 
-#. Translators: text crediting some maintainers, seen in the About dialog
 #: src/gnome-nibbles.vala:320
 msgid "Copyright © 1999-2008 – Sean MacIsaac, Ian Peters, Andreas Røsdal"
-msgstr ""
+msgstr "Copyright © 1999-2008 – Sean MacIsaac, Ian Peters, Andreas Røsdal"
 
-#. Translators: text crediting a maintainer, seen in the About dialog
 #: src/gnome-nibbles.vala:324
 msgid "Copyright © 2009 – Guillaume Beland"
-msgstr ""
+msgstr "Copyright © 2009 – Guillaume Beland"
 
-#. Translators: text crediting a maintainer, seen in the About dialog; the %u is replaced with the years of start and end
 #: src/gnome-nibbles.vala:328
-#, c-format
 msgid "Copyright © %u-%u – Iulian-Gabriel Radu"
-msgstr ""
+msgstr "Copyright © %u-%u – Iulian-Gabriel Radu"
 
-#. Translators: about dialog text; this string should be replaced by a text crediting yourselves and your translation team, or should be left empty. Do not translate literally!
 #: src/gnome-nibbles.vala:334
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #. Translators: possible color of a worm, as displayed in the Preferences dialog combobox
 #: src/nibbles-view.vala:898
@@ -776,15 +755,13 @@ msgstr ""
 msgid "_Play Again"
 msgstr ""
 
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game only with humans, appearing when there are 4 humans set (with a mnemonic that appears when pressing Alt)
 #: src/players.vala:32
 msgid "_0"
-msgstr ""
+msgstr "_0"
 
-#. Translators: in the "Number of players" configuration screen, label of a button allowing to play game with five AIs, appearing when there is only 1 human set (with a mnemonic that appears when pressing Alt)
 #: src/players.vala:47
 msgid "_5"
-msgstr ""
+msgstr "_5"
 
 #. Translators: in the Preferences dialog, label of a column in a table for changing the keys to move the given worm (available for each playable worm); are listed there all the actions a player can do with its worm; the other column is "Key"
 #: src/preferences-dialog.vala:114

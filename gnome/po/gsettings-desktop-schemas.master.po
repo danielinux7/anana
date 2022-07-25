@@ -3019,3 +3019,15 @@ msgid ""
 "The port on the machine defined by “/system/proxy/socks/host” that you proxy "
 "through."
 msgstr ""
+
+#: src/dmap/grl-daap-db.c:66+src/magnatune/grl-magnatune.c:122
+msgid "Albums"
+msgstr "Альбомқәа"
+
+#: src/dmap/grl-daap-db.c:68+src/magnatune/grl-magnatune.c:121
+msgid "Artists"
+msgstr "Анагӡаҩцәа"
+
+#: src/freebox/grl-freebox.c:48
+msgid "Freebox TV"
+msgstr "Freebox TV"

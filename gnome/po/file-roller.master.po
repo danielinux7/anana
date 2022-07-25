@@ -19,7 +19,7 @@ msgstr ""
 
 #: data/org.gnome.FileRoller.appdata.xml.in:9
 msgid "File Roller"
-msgstr ""
+msgstr "File Roller"
 
 #: data/org.gnome.FileRoller.appdata.xml.in:10
 msgid "Open, modify and create compressed archive files"
@@ -38,19 +38,19 @@ msgstr ""
 
 #: data/org.gnome.FileRoller.appdata.xml.in:20
 msgid "gzip archives (.tar.gz, .tgz)"
-msgstr ""
+msgstr "архивқәа gzip (.tar.gz, .tgz)"
 
 #: data/org.gnome.FileRoller.appdata.xml.in:21
 msgid "bzip archives (.tar.bz, .tbz)"
-msgstr ""
+msgstr "архивқәа bzip (.tar.bz, .tbz)"
 
 #: data/org.gnome.FileRoller.appdata.xml.in:22
 msgid "zip archives (.zip)"
-msgstr ""
+msgstr "архивқәа zip (.zip)"
 
 #: data/org.gnome.FileRoller.appdata.xml.in:23
 msgid "xz archives (.tar.xz)"
-msgstr ""
+msgstr "архивқәа xz (.tar.xz)"
 
 #: data/org.gnome.FileRoller.desktop.in.in:3 src/fr-application.c:476
 #: src/fr-window.c:1968 src/fr-window.c:5468
@@ -382,7 +382,7 @@ msgstr ""
 
 #: src/fr-application-menu.c:130
 msgid "Copyright © 2001–2014 Free Software Foundation, Inc."
-msgstr ""
+msgstr "Аԥҵаҩы изин © 2001-2014 Free Software Foundation, Inc."
 
 #: src/fr-application-menu.c:131
 msgid "An archive manager for GNOME."
@@ -390,7 +390,7 @@ msgstr ""
 
 #: src/fr-application-menu.c:134
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: src/fr-application.c:59
 msgid "Add files to the specified archive and quit the program"
@@ -499,9 +499,8 @@ msgid "Decompressing archive"
 msgstr ""
 
 #: src/fr-command.c:597
-#, c-format
 msgid "Archive not found"
-msgstr ""
+msgstr "Архив ԥшааӡам"
 
 #: src/fr-file-selector-dialog.c:802 src/fr-file-selector-dialog.c:847
 msgid "Could not load the location"
@@ -669,11 +668,9 @@ msgstr ""
 msgid "_Show the Files"
 msgstr ""
 
-#. Translators: %s is a filename
-#: src/fr-window.c:2770 src/fr-window.c:6149
-#, c-format
+#: src/fr-window.c:2770+src/fr-window.c:6149
 msgid "“%s” created successfully"
-msgstr ""
+msgstr " Архив  «%s» лԥхала иаԥҵоуп"
 
 #: src/fr-window.c:2777
 msgid "_Open the Archive"
@@ -932,12 +929,9 @@ msgstr ""
 msgid "_Paste"
 msgstr ""
 
-#. This is the time format used in the "Date Modified" column and
-#. * in the Properties dialog.  See the man page of strftime for an
-#. * explanation of the values.
 #: src/glib-utils.c:787
 msgid "%d %B %Y, %H:%M"
-msgstr ""
+msgstr "%-d %B %Y, %H∶%M"
 
 #: src/gtk-utils.c:234
 msgid "C_ommand Line Output:"
@@ -1099,7 +1093,7 @@ msgstr ""
 
 #: src/ui/app-menubar.ui:110
 msgid "Sidebar"
-msgstr ""
+msgstr "Аваратәи апанель"
 
 #: src/ui/app-menubar.ui:116 src/ui/gears-menu.ui:38
 msgid "View All _Files"
@@ -1184,7 +1178,7 @@ msgstr ""
 
 #: src/ui/gears-menu.ui:49
 msgid "Side_bar"
-msgstr ""
+msgstr "_Аваратәи апанель"
 
 #: src/ui/gears-menu.ui:55
 msgid "_Keyboard Shortcuts"
@@ -1352,7 +1346,7 @@ msgstr ""
 
 #: src/ui/new-archive-dialog.ui:233
 msgid "10,0"
-msgstr ""
+msgstr "10,0"
 
 #. MB means megabytes
 #: src/ui/new-archive-dialog.ui:250
@@ -1405,3 +1399,7 @@ msgstr ""
 #: src/ui/update.ui:48
 msgid "S_elect the files you want to update:"
 msgstr ""
+
+#: src/ui/help-overlay.ui:47
+msgid "Archive"
+msgstr "Архивтәра"

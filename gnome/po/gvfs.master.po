@@ -2217,3 +2217,59 @@ msgstr ""
 #: monitor/udisks2/udisks2volumemonitordaemon.c:39
 msgid "GVfs UDisks2 Volume Monitor"
 msgstr ""
+
+#: llvm.lang:22
+msgid "LLVM IR"
+msgstr "LLVM IR"
+
+#: Adwaita-dark.xml:20
+msgid "Adwaita Dark"
+msgstr "Adwaita Dark"
+
+#: Adwaita.xml:20
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#: cobalt-light.xml:20
+msgid "Cobalt Light"
+msgstr "Cobalt Light"
+
+#: cobalt.xml:25
+msgid "Cobalt"
+msgstr "Cobalt"
+
+#: oblivion.xml:23
+msgid "Oblivion"
+msgstr "Oblivion"
+
+#: solarized-dark.xml:23
+msgid "Solarized Dark"
+msgstr "Solarized Dark"
+
+#: solarized-light.xml:23
+msgid "Solarized Light"
+msgstr "Solarized Light"
+
+#: tango.xml:23
+msgid "Tango"
+msgstr "Tango"
+
+#: gtksourceview/gtksourceencoding.c:156+gtksourceview/gtksourceencoding.c:170+gtksourceview/gtksourceencoding.c:277
+msgid "Baltic"
+msgstr "Абалтикатә"
+
+#: gtksourceview/gtksourceencoding.c:160+gtksourceview/gtksourceencoding.c:234+gtksourceview/gtksourceencoding.c:275
+msgid "Arabic"
+msgstr "Арабтәи"
+
+#: gtksourceview/gtksourceencoding.c:194
+msgid "Armenian"
+msgstr "Аермантә"
+
+#: gtksourceview/gtksourceencoding.c:221
+msgid "Georgian"
+msgstr "қырҭтәылатәи"
+
+#: gtksourceview/gtksourceencoding.c:628
+msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
+msgstr "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"

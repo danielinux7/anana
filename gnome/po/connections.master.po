@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the connections package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: connections\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/connections/issues\n"
 "POT-Creation-Date: 2022-07-17 18:08+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"
@@ -129,11 +129,9 @@ msgstr ""
 msgid "Authentication failed: %s"
 msgstr ""
 
-#. Translators: Showing size of widget as WIDTH×HEIGHT here.
 #: src/display-view.vala:141
-#, c-format
 msgid "%d×%d"
-msgstr ""
+msgstr "%d×%d"
 
 #: src/onboarding-dialog.vala:86 src/ui/onboarding-dialog.ui:147
 msgid "No Thanks"
@@ -235,9 +233,9 @@ msgstr ""
 msgid "Connection preferences"
 msgstr ""
 
-#: src/ui/rdp-preferences.ui:22 src/ui/vnc-preferences.ui:22
+#: src/ui/rdp-preferences.ui:22+src/ui/vnc-preferences.ui:22
 msgid "Address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: src/ui/rdp-preferences.ui:37 src/ui/vnc-preferences.ui:37
 msgid "Name"
@@ -285,27 +283,27 @@ msgstr ""
 
 #: src/ui/topbar.ui:234
 msgid "Ctrl + Alt + Backspace"
-msgstr ""
+msgstr "Ctrl + Alt + Backspace"
 
 #: src/ui/topbar.ui:241
 msgid "Ctrl + Alt + Del"
-msgstr ""
+msgstr "Ctrl + Alt + Del"
 
 #: src/ui/topbar.ui:248
 msgid "Ctrl + Alt + F1"
-msgstr ""
+msgstr "Ctrl + Alt + F1"
 
 #: src/ui/topbar.ui:255
 msgid "Ctrl + Alt + F2"
-msgstr ""
+msgstr "Ctrl + Alt + F2"
 
 #: src/ui/topbar.ui:262
 msgid "Ctrl + Alt + F3"
-msgstr ""
+msgstr "Ctrl + Alt + F3"
 
 #: src/ui/topbar.ui:269
 msgid "Ctrl + Alt + F7"
-msgstr ""
+msgstr "Ctrl + Alt + F7"
 
 #: src/ui/vnc-preferences.ui:54
 msgid "Display"
@@ -321,7 +319,7 @@ msgstr ""
 
 #: src/ui/vnc-preferences.ui:80
 msgid "Enable audio"
-msgstr ""
+msgstr "Абжьы аҿакра"
 
 #: src/ui/vnc-preferences.ui:88
 msgid "Bandwidth"

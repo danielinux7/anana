@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the devhelp package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: devhelp\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/devhelp/issues\n"
 "POT-Creation-Date: 2022-07-13 21:12+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"
@@ -16,13 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Translators: please don't translate "Devhelp" (it's marked as
-#. * translatable for transliteration only).
-#.
-#: data/org.gnome.Devhelp.appdata.xml.in.in:6
-#: data/org.gnome.Devhelp.desktop.in.in:3 src/dh-app.c:141 src/dh-app.c:471
+#: data/org.gnome.Devhelp.appdata.xml.in.in:6+data/org.gnome.Devhelp.desktop.in.in:3+src/dh-app.c:141+src/dh-app.c:471
 msgid "Devhelp"
-msgstr ""
+msgstr "Devhelp"
 
 #: data/org.gnome.Devhelp.appdata.xml.in.in:7
 #: data/org.gnome.Devhelp.desktop.in.in:4 src/dh-app.c:143
@@ -272,7 +268,7 @@ msgstr ""
 
 #: src/dh-app.c:145
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>"
 
 #: src/dh-app.c:147
 msgid "Devhelp Website"
@@ -389,7 +385,7 @@ msgstr ""
 
 #: src/dh-window.ui:96
 msgid "Forward"
-msgstr ""
+msgstr "Ԥхьаҟа"
 
 #: src/dh-window.ui:121
 msgid "Toggle Side Panel"
@@ -483,3 +479,7 @@ msgstr ""
 msgctxt "shortcut window"
 msgid "Reset Zoom"
 msgstr ""
+
+#: src/help-overlay.ui:76
+msgid "Go forward"
+msgstr "Ԥхьаҟа"

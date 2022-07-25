@@ -116,22 +116,22 @@ msgstr ""
 
 #: data/org.gnome.totem.gschema.xml.in:55
 msgid "Default location for the “Open…” dialogs"
-msgstr ""
+msgstr "Аҭыӡҭыԥ ишыҟоу еипш аиҿцәажәарақәа рзы 'Аартра'"
 
 #: data/org.gnome.totem.gschema.xml.in:56
 msgid ""
 "Default location for the “Open…” dialogs. Default is the current directory."
-msgstr ""
+msgstr "\"Аҭыӡҭыԥ ишыҟоу еиԥш ахархәара зауо"
 
 #: data/org.gnome.totem.gschema.xml.in:60
 msgid "Default location for the “Take Screenshot” dialogs"
-msgstr ""
+msgstr "Аҭыӡҭыԥ ишыҟоу еипш аиҿцәажәарақәа рзы 'Акадр аиқәырхара'"
 
 #: data/org.gnome.totem.gschema.xml.in:61
 msgid ""
 "Default location for the “Take Screenshot” dialogs. Default is the Pictures "
 "directory."
-msgstr ""
+msgstr "\"Аҭыӡҭыԥ ишыҟоу еиԥш ахархәара зауо"
 
 #: data/org.gnome.totem.gschema.xml.in:65
 msgid "Whether to disable the plugins in the user’s home directory"
@@ -245,7 +245,7 @@ msgstr ""
 
 #: data/totem-preferences-dialog.ui:423
 msgid "Color Balance"
-msgstr ""
+msgstr "Апштәы абаланс"
 
 #: data/totem-preferences-dialog.ui:463
 msgid "_Brightness:"
@@ -737,10 +737,9 @@ msgstr[1] ""
 msgid "_Find in %s"
 msgstr ""
 
-#. translators: Unknown time
 #: src/gst/totem-time-helpers.c:45
 msgid "--:--"
-msgstr ""
+msgstr "--:--"
 
 #. hour:minutes:seconds
 #. Translators: This is a time format, like "9:05:02" for 9
@@ -850,16 +849,15 @@ msgstr ""
 msgid "Videos Preview"
 msgstr ""
 
-#. Translators: The first string is "Filename" (as translated); the second is an actual filename.
-#. The third string is "Resolution" (as translated); the fourth and fifth are screenshot height and width, respectively.
-#. The sixth string is "Duration" (as translated); the seventh is the movie duration in words.
 #: src/totem-gallery-thumbnailer.c:631
-#, c-format
 msgid ""
 "<b>%s</b>: %s\n"
 "<b>%s</b>: %d×%d\n"
 "<b>%s</b>: %s"
 msgstr ""
+"<b>%s</b>: %s\n"
+"<b>%s</b>: %d×%d\n"
+"<b>%s</b>: %s"
 
 #: src/totem-gallery-thumbnailer.c:632
 msgid "Filename"
@@ -1100,19 +1098,17 @@ msgstr ""
 msgid "Current Locale"
 msgstr ""
 
-#: src/totem-subtitle-encoding.c:159 src/totem-subtitle-encoding.c:161
-#: src/totem-subtitle-encoding.c:163 src/totem-subtitle-encoding.c:165
+#: src/totem-subtitle-encoding.c:159+src/totem-subtitle-encoding.c:161+src/totem-subtitle-encoding.c:163+src/totem-subtitle-encoding.c:165
 msgid "Arabic"
-msgstr ""
+msgstr "Арабтәи"
 
 #: src/totem-subtitle-encoding.c:168
 msgid "Armenian"
-msgstr ""
+msgstr "Аермантә"
 
-#: src/totem-subtitle-encoding.c:171 src/totem-subtitle-encoding.c:173
-#: src/totem-subtitle-encoding.c:175
+#: src/totem-subtitle-encoding.c:171+src/totem-subtitle-encoding.c:173+src/totem-subtitle-encoding.c:175
 msgid "Baltic"
-msgstr ""
+msgstr "Абалтикатә"
 
 #: src/totem-subtitle-encoding.c:178
 msgid "Celtic"
@@ -1153,7 +1149,7 @@ msgstr ""
 
 #: src/totem-subtitle-encoding.c:230
 msgid "Georgian"
-msgstr ""
+msgstr "қырҭтәылатәи"
 
 #: src/totem-subtitle-encoding.c:233 src/totem-subtitle-encoding.c:235
 #: src/totem-subtitle-encoding.c:237
@@ -1263,7 +1259,7 @@ msgstr ""
 
 #: src/plugins/apple-trailers/apple-trailers.plugin.desktop.in:6
 msgid "Apple Trailers"
-msgstr ""
+msgstr "Apple Trailers"
 
 #: src/plugins/apple-trailers/apple-trailers.plugin.desktop.in:7
 msgid "Sets the user agent for the Apple Trailers site"
@@ -1271,11 +1267,11 @@ msgstr ""
 
 #: src/plugins/autoload-subtitles/autoload-subtitles.plugin.desktop.in:6
 msgid "Autoload Subtitles"
-msgstr ""
+msgstr "Автоматикла субтитрқәа рҭагалара"
 
 #: src/plugins/autoload-subtitles/autoload-subtitles.plugin.desktop.in:7
 msgid "Autoloads text subtitles"
-msgstr ""
+msgstr "Автоматикатә  тексттә субтитрқәа рҭагалара"
 
 #: src/plugins/im-status/totem-im-status.plugin.desktop.in:6
 msgid "Instant Messenger Status"
@@ -1392,9 +1388,8 @@ msgid "Adds movie properties menu item"
 msgstr ""
 
 #: src/plugins/properties/totem-movie-properties.c:150
-#, c-format
 msgid "%d × %d"
-msgstr ""
+msgstr "%d × %d"
 
 #: src/plugins/properties/totem-movie-properties.c:153
 #: src/plugins/properties/totem-movie-properties.c:164
@@ -1432,7 +1427,7 @@ msgstr ""
 
 #: src/plugins/properties/properties.ui:67
 msgid "Artist:"
-msgstr ""
+msgstr "Анагӡаҩ"
 
 #: src/plugins/properties/properties.ui:87
 msgid "Duration:"
@@ -1444,7 +1439,7 @@ msgstr ""
 
 #: src/plugins/properties/properties.ui:127
 msgid "Album:"
-msgstr ""
+msgstr "Альбом:"
 
 #: src/plugins/properties/properties.ui:235
 msgid "Comment:"
@@ -1902,8 +1897,118 @@ msgstr ""
 
 #: src/plugins/vimeo/vimeo.plugin.desktop.in:6
 msgid "Vimeo"
-msgstr ""
+msgstr "Vimeo"
 
 #: src/plugins/vimeo/vimeo.plugin.desktop.in:7
 msgid "Sets the user agent for the Vimeo site"
 msgstr ""
+
+#: data/org.gnome.totem.gschema.xml.in:43
+msgid "UTF-8"
+msgstr "UTF-8"
+
+#: data/shortcuts.ui:199+data/shortcuts.ui:261
+msgid "Go forward 60 seconds"
+msgstr "60 секунд ԥхьаҟа"
+
+#: data/shortcuts.ui:229+data/shortcuts.ui:277
+msgid "Go forward 15 seconds"
+msgstr "15 минуҭ ԥхьаҟа "
+
+#: data/shortcuts.ui:245+data/shortcuts.ui:293
+msgid "Go forward 10 minutes"
+msgstr " 10 минуҭк ԥхьаҟа"
+
+#: data/totem.ui:54
+msgctxt "data/totem.ui:54"
+msgid "Auto"
+msgstr "Авто"
+
+#: data/totem.ui:74
+msgid "2.11∶1 (DVB)"
+msgstr "2.11:1 (DVB)"
+
+#: src/gst/totem-time-helpers.c:81+src/plugins/skipto/totem-time-entry.c:58
+msgid "%d:%02d:%02d"
+msgstr "%d:%02d:%02d"
+
+#: src/gst/totem-time-helpers.c:89
+msgid "%d:%02d:%02d.%03d"
+msgstr "%d:%02d:%02d.%03d"
+
+#: src/gst/totem-time-helpers.c:99
+msgid "-%d:%02d:%02d"
+msgstr "-%d:%02d:%02d"
+
+#: src/gst/totem-time-helpers.c:107
+msgid "-%d:%02d:%02d.%03d"
+msgstr "-%d:%02d:%02d.%03d"
+
+#: src/gst/totem-time-helpers.c:120
+msgid "-%d:%02d"
+msgstr "-%d:%02d"
+
+#: src/gst/totem-time-helpers.c:128
+msgid "-%d:%02d.%03d"
+msgstr "-%d:%02d.%03d"
+
+#: src/gst/totem-time-helpers.c:139
+msgid "%d:%02d.%03d"
+msgstr "%d:%02d.%03d"
+
+#: src/gst/totem-time-helpers.c:148
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+#: src/totem-menu.c:474
+msgctxt "src/totem-menu.c:474"
+msgid "Auto"
+msgstr "Авто"
+
+#: src/plugins/properties/bacon-video-widget-properties.c:160
+msgid "%s %s %s"
+msgstr "%s %s %s"
+
+#: src/plugins/properties/bacon-video-widget-properties.c:163
+msgctxt "src/plugins/properties/bacon-video-widget-properties.c:163"
+msgid "%s %s"
+msgstr "%s %s"
+
+#: src/plugins/properties/bacon-video-widget-properties.c:166
+msgctxt "src/plugins/properties/bacon-video-widget-properties.c:166"
+msgid "%s"
+msgstr "%s"
+
+#: src/plugins/properties/bacon-video-widget-properties.c:172
+msgctxt "src/plugins/properties/bacon-video-widget-properties.c:172"
+msgid "%s %s"
+msgstr "%s %s"
+
+#: src/plugins/properties/bacon-video-widget-properties.c:175
+msgctxt "src/plugins/properties/bacon-video-widget-properties.c:175"
+msgid "%s"
+msgstr "%s"
+
+#: src/plugins/skipto/totem-skipto.c:200
+msgid "7"
+msgstr "7"
+
+#: src/plugins/variable-rate/totem-variable-rate-plugin.c:65
+msgid "× 0.75"
+msgstr "× 0.75"
+
+#: src/plugins/variable-rate/totem-variable-rate-plugin.c:67
+msgid "× 1.1"
+msgstr "× 1.1"
+
+#: src/plugins/variable-rate/totem-variable-rate-plugin.c:68
+msgid "× 1.25"
+msgstr "× 1.25"
+
+#: src/plugins/variable-rate/totem-variable-rate-plugin.c:69
+msgid "× 1.5"
+msgstr "× 1.5"
+
+#: src/plugins/variable-rate/totem-variable-rate-plugin.c:70
+msgid "× 1.75"
+msgstr "× 1.75"

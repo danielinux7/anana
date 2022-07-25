@@ -62,7 +62,7 @@ msgstr ""
 
 #: src/goabackend/goaexchangeprovider.c:51
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "Microsoft Exchange"
 
 #. Translators: the first %s is the username
 #. * (eg., debarshi.ray@gmail.com or rishi), and the
@@ -75,10 +75,9 @@ msgstr ""
 msgid "Invalid password with username “%s” (%s, %d): "
 msgstr ""
 
-#: src/goabackend/goaexchangeprovider.c:394
-#: src/goabackend/goaimapsmtpprovider.c:647
+#: src/goabackend/goaexchangeprovider.c:394+src/goabackend/goaimapsmtpprovider.c:647
 msgid "_E-mail"
-msgstr ""
+msgstr "_E-mail"
 
 #: src/goabackend/goaexchangeprovider.c:395
 #: src/goabackend/goafedoraprovider.c:574
@@ -196,7 +195,7 @@ msgstr ""
 
 #: src/goabackend/goafedoraprovider.c:94
 msgid "Fedora"
-msgstr ""
+msgstr "Fedora"
 
 #: src/goabackend/goafedoraprovider.c:208
 #: src/goabackend/goakerberosprovider.c:240
@@ -224,9 +223,9 @@ msgstr ""
 msgid "Identity service returned invalid key"
 msgstr ""
 
-#: src/goabackend/goagoogleprovider.c:57
+#: src/goabackend/goagoogleprovider.c:56
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #: src/goabackend/goagoogleprovider.c:215
 #: src/goabackend/goawindowsliveprovider.c:157
@@ -348,21 +347,19 @@ msgstr ""
 
 #: src/goabackend/goaimapsmtpprovider.c:1476
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #: src/goabackend/goaimapsmtpprovider.c:1480
 msgid "Name"
 msgstr ""
 
-#: src/goabackend/goaimapsmtpprovider.c:1490
-#: src/goabackend/goaimapsmtpprovider.c:1494
+#: src/goabackend/goaimapsmtpprovider.c:1490+src/goabackend/goaimapsmtpprovider.c:1494
 msgid "IMAP"
-msgstr ""
+msgstr "IMAP"
 
-#: src/goabackend/goaimapsmtpprovider.c:1505
-#: src/goabackend/goaimapsmtpprovider.c:1509
+#: src/goabackend/goaimapsmtpprovider.c:1505+src/goabackend/goaimapsmtpprovider.c:1509
 msgid "SMTP"
-msgstr ""
+msgstr "SMTP"
 
 #: src/goabackend/goakerberosprovider.c:92
 msgid "Enterprise Login (Kerberos)"
@@ -395,7 +392,7 @@ msgstr ""
 
 #: src/goabackend/goalastfmprovider.c:57
 msgid "Last.fm"
-msgstr ""
+msgstr "Last.fm"
 
 #: src/goabackend/goalastfmprovider.c:692
 #: src/goabackend/goalastfmprovider.c:842
@@ -459,7 +456,7 @@ msgstr ""
 
 #: src/goabackend/goaowncloudprovider.c:58
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: src/goabackend/goaowncloudprovider.c:739
 #: src/goabackend/goaowncloudprovider.c:929
@@ -516,7 +513,7 @@ msgstr ""
 
 #: src/goabackend/goaprovider.c:169
 msgid "T_o Do"
-msgstr ""
+msgstr "T_o Do"
 
 #. Translators: This is a label for a series of
 #. * options switches. For example: “Use for Mail”.
@@ -659,7 +656,7 @@ msgstr ""
 
 #: src/goabackend/goawindowsliveprovider.c:56
 msgid "Microsoft"
-msgstr ""
+msgstr "Microsoft"
 
 #: src/goaidentity/goaidentityservice.c:564
 msgid "Initial secret key is invalid"

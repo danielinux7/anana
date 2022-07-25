@@ -26,7 +26,7 @@ msgstr ""
 
 #: egg/egg-oid.c:45
 msgid "Email Address"
-msgstr ""
+msgstr "Аел. ԥошьҭа аҭыӡҭыԥ"
 
 #: egg/egg-oid.c:53
 msgid "Date of Birth"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: egg/egg-oid.c:110
 msgid "RSA"
-msgstr ""
+msgstr "RSA"
 
 #: egg/egg-oid.c:111
 msgid "MD2 with RSA"
@@ -151,7 +151,7 @@ msgstr ""
 
 #: egg/egg-oid.c:115
 msgid "DSA"
-msgstr ""
+msgstr "DSA"
 
 #: egg/egg-oid.c:116
 msgid "SHA1 with DSA"
@@ -274,11 +274,11 @@ msgstr ""
 
 #: gcr/gcr-certificate-extensions.c:200
 msgid "XMPP Addr"
-msgstr ""
+msgstr "XMPP Addr"
 
 #: gcr/gcr-certificate-extensions.c:204
 msgid "DNS SRV"
-msgstr ""
+msgstr "DNS SRV"
 
 #: gcr/gcr-certificate-extensions.c:216
 msgid "Email"
@@ -286,11 +286,11 @@ msgstr ""
 
 #: gcr/gcr-certificate-extensions.c:224
 msgid "DNS"
-msgstr ""
+msgstr "DNS"
 
 #: gcr/gcr-certificate-extensions.c:232
 msgid "X400 Address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ X400"
 
 #: gcr/gcr-certificate-extensions.c:239
 msgid "Directory Name"
@@ -302,11 +302,11 @@ msgstr ""
 
 #: gcr/gcr-certificate-extensions.c:254
 msgid "URI"
-msgstr ""
+msgstr "URI"
 
 #: gcr/gcr-certificate-extensions.c:262
 msgid "IP Address"
-msgstr ""
+msgstr "IP- Аҭыӡҭыԥ"
 
 #: gcr/gcr-certificate-extensions.c:270
 msgid "Registered ID"
@@ -404,7 +404,7 @@ msgstr ""
 
 #: gcr/gcr-ssh-agent-interaction.c:161
 msgid "Automatically unlock this key whenever I’m logged in"
-msgstr ""
+msgstr "Ари ацаԥха автоматикла аужьра асистема аҭалара ашьҭахь"
 
 #: gcr/gcr-ssh-agent-interaction.c:163
 msgid "Unlock"
@@ -442,9 +442,9 @@ msgstr ""
 msgid "Couldn’t find a place to store the pinned certificate"
 msgstr ""
 
-#: gcr-gtk3/gcr-certificate-widget.c:251 gcr-gtk4/gcr-certificate-widget.c:258
+#: gcr-gtk3/gcr-certificate-widget.c:251+gcr-gtk4/gcr-certificate-widget.c:258
 msgid "Key Algorithm"
-msgstr ""
+msgstr "Ацаԥха алгоритм"
 
 #: gcr-gtk3/gcr-certificate-widget.c:257 gcr-gtk4/gcr-certificate-widget.c:264
 msgid "Key Parameters"
@@ -466,10 +466,9 @@ msgstr ""
 msgid "Certificate Authority"
 msgstr ""
 
-#: gcr-gtk3/gcr-certificate-widget.c:298 gcr-gtk3/gcr-certificate-widget.c:489
-#: gcr-gtk4/gcr-certificate-widget.c:305 gcr-gtk4/gcr-certificate-widget.c:496
+#: gcr-gtk3/gcr-certificate-widget.c:298+gcr-gtk3/gcr-certificate-widget.c:489+gcr-gtk4/gcr-certificate-widget.c:305+gcr-gtk4/gcr-certificate-widget.c:496
 msgid "Yes"
-msgstr ""
+msgstr "Ааи"
 
 #: gcr-gtk3/gcr-certificate-widget.c:298 gcr-gtk3/gcr-certificate-widget.c:489
 #: gcr-gtk4/gcr-certificate-widget.c:305 gcr-gtk4/gcr-certificate-widget.c:496
@@ -544,9 +543,9 @@ msgstr ""
 msgid "Usages"
 msgstr ""
 
-#: gcr-gtk3/gcr-certificate-widget.c:416 gcr-gtk4/gcr-certificate-widget.c:423
+#: gcr-gtk3/gcr-certificate-widget.c:416+gcr-gtk4/gcr-certificate-widget.c:423
 msgid "Subject Alternative Names"
-msgstr ""
+msgstr "Альтернативтә ахархәаҩ ихьӡқәа "
 
 #: gcr-gtk3/gcr-certificate-widget.c:442 gcr-gtk4/gcr-certificate-widget.c:449
 msgid "Extension"
@@ -619,9 +618,9 @@ msgstr ""
 msgid "Signature"
 msgstr ""
 
-#: gcr-gtk3/gcr-certificate-widget.c:653 gcr-gtk4/gcr-certificate-widget.c:660
+#: gcr-gtk3/gcr-certificate-widget.c:648+gcr-gtk4/gcr-certificate-widget.c:655
 msgid "Signature Algorithm"
-msgstr ""
+msgstr "Анапаҵыҩра алгоритм"
 
 #: gcr-gtk3/gcr-certificate-widget.c:658 gcr-gtk4/gcr-certificate-widget.c:665
 msgid "Signature Parameters"

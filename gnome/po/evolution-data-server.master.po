@@ -102,7 +102,7 @@ msgstr ""
 
 #: data/org.gnome.evolution-data-server.calendar.gschema.xml.in:47
 msgid "Enable desktop notifications"
-msgstr ""
+msgstr "Абжьытә _дырраҭарақәа рҿакра"
 
 #: data/org.gnome.evolution-data-server.calendar.gschema.xml.in:48
 msgid "When set to true, the desktop/system notifications are shown"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: data/org.gnome.evolution-data-server.calendar.gschema.xml.in:52
 msgid "Enable audio notifications"
-msgstr ""
+msgstr "Абжьытә _дырраҭарақәа рҿакра"
 
 #: data/org.gnome.evolution-data-server.calendar.gschema.xml.in:53
 msgid ""

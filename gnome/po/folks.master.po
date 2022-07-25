@@ -82,27 +82,15 @@ msgstr ""
 msgid "Bluetooth device ‘%s’ disappeared during address book transfer."
 msgstr ""
 
-#. The timeout after which we consider a property change to have failed if we
-#. * haven't received a property change notification for it.
-#. seconds
-#. The timeout after which we consider a contact addition to have failed if we
-#. * haven't received an object addition signal for it.
-#. seconds
-#. Translators: This should be translated to the name of the “Starred in
-#. * Android” group in Google Contacts for your language. If Google have not
-#. * localised the group for your language, or Google Contacts isn't available
-#. * in your language, please *do not* translate this string (i.e. just copy
-#. * the msgid to the msgstr unchanged).
 #: backends/eds/lib/edsf-persona-store.vala:69
 msgid "Starred in Android"
-msgstr ""
+msgstr "Starred in Android"
 
-#. Translators: the first parameter is an address book
-#. * URI and the second is a persona UID.
 #: backends/eds/lib/edsf-persona-store.vala:641
-#, c-format
 msgid "Address book ‘%s’ is offline, so contact ‘%s’ cannot be removed."
 msgstr ""
+"Аҭыӡҭыԥтә шәҟәы    «%s» аус ауоит автономтә режим  аҟны ,аимадара  %s  "
+"аныхра ауам."
 
 #. Translators: the first parameter is an address book
 #. * URI and the second is an error message.
@@ -122,13 +110,9 @@ msgstr ""
 msgid "Can’t remove contact ‘%s’: %s"
 msgstr ""
 
-#. Translators: the parameter is an address book
-#. * URI.
-#: backends/eds/lib/edsf-persona-store.vala:770
-#: backends/eds/lib/edsf-persona-store.vala:963
-#, c-format
+#: backends/eds/lib/edsf-persona-store.vala:770+backends/eds/lib/edsf-persona-store.vala:963
 msgid "Address book ‘%s’ is offline."
-msgstr ""
+msgstr "Аҭыӡҭыԥтә шәҟәы    «%s» аус ауоит автономтә режим  аҟны."
 
 #. Translators: the first parameter is an address
 #. * book URI and the second is an error message.
@@ -272,11 +256,11 @@ msgstr ""
 msgid "Permission denied when creating new contact: %s"
 msgstr ""
 
-#. Translators: the first parameter is an error message.
 #: backends/eds/lib/edsf-persona-store.vala:2690
-#, c-format
 msgid "Address book is offline and a new contact cannot be created: %s"
 msgstr ""
+"Аҭыӡҭыԥтә шәҟәы    «%s» аус ауоит автономтә режим  аҟны ,уи азы аимадара ҿыц "
+"заԥҵахаӡом: %s"
 
 #. Translators: the first parameter is a non-human-readable
 #. * property name and the second parameter is an error
@@ -554,12 +538,9 @@ msgstr ""
 msgid "Failed to change property ‘%s’: No suitable personas were found."
 msgstr ""
 
-#. Translators: This is the default name for an Individual
-#. * when displayed in the UI if no personal details are available
-#. * for them.
 #: folks/individual.vala:2110
 msgid "Unnamed Person"
-msgstr ""
+msgstr "Ихьӡыдоу аимадара"
 
 #. FIXME: Ideally we’d use a format string translated to the locale of the
 #. * persona whose name is being formatted, but no backend provides
@@ -616,9 +597,8 @@ msgid ""
 msgstr ""
 
 #: folks/postal-address-details.vala:232
-#, c-format
 msgid "%s, %s, %s, %s, %s, %s, %s"
-msgstr ""
+msgstr "%s, %s, %s, %s, %s, %s, %s"
 
 #: folks/presence-details.vala:171
 msgid "Unknown status"

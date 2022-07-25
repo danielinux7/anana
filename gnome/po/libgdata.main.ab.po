@@ -509,3 +509,11 @@ msgstr ""
 #: gdata/services/youtube/gdata-youtube-service.c:1004
 msgid "You must be authenticated to upload a video."
 msgstr "Авидео аҭагаларазы иаҭахуп ахаҭареилкаара ахысра"
+
+#: src/adw-inspector-page.c:98
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#: src/adw-preferences-window.c:242
+msgid "Untitled page"
+msgstr "Ихьӡыдоу адаҟьа"

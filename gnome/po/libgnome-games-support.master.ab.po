@@ -86,3 +86,7 @@ msgstr "Шәара шәылҵшәа зегьы иреиӷьуп!"
 #: games/scores/dialog.vala:319
 msgid "Your score has made the top ten."
 msgstr "Шәара шәылҵшәа  иреиӷьу жәаба рахь иалалеит."
+
+#: gdata/services/picasaweb/gdata-picasaweb-service.c:694
+msgid "The album has already been inserted."
+msgstr "Альбом щта иацҵоуп"

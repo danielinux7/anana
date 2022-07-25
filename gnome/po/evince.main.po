@@ -98,11 +98,9 @@ msgstr ""
 msgid "Adds support for reading PDF Documents"
 msgstr ""
 
-#. translators: this is the document security state
-#: backend/pdf/ev-poppler.c:731 backend/pdf/ev-poppler.c:737
-#: properties/ev-properties-view.c:433
+#: backend/pdf/ev-poppler.c:731+backend/pdf/ev-poppler.c:737+properties/ev-properties-view.c:433
 msgid "Yes"
-msgstr ""
+msgstr "Ааи"
 
 #. translators: this is the document security state
 #: backend/pdf/ev-poppler.c:734 backend/pdf/ev-poppler.c:737
@@ -112,31 +110,31 @@ msgstr ""
 
 #: backend/pdf/ev-poppler.c:879
 msgid "Type 1"
-msgstr ""
+msgstr "Type 1"
 
 #: backend/pdf/ev-poppler.c:881
 msgid "Type 1C"
-msgstr ""
+msgstr "Type 1C"
 
 #: backend/pdf/ev-poppler.c:883
 msgid "Type 3"
-msgstr ""
+msgstr "Type 3"
 
 #: backend/pdf/ev-poppler.c:885
 msgid "TrueType"
-msgstr ""
+msgstr "TrueType"
 
 #: backend/pdf/ev-poppler.c:887
 msgid "Type 1 (CID)"
-msgstr ""
+msgstr "Type 1 (CID)"
 
 #: backend/pdf/ev-poppler.c:889
 msgid "Type 1C (CID)"
-msgstr ""
+msgstr "Type 1C (CID)"
 
 #: backend/pdf/ev-poppler.c:891
 msgid "TrueType (CID)"
-msgstr ""
+msgstr "TrueType (CID)"
 
 #: backend/pdf/ev-poppler.c:893
 msgid "Unknown font type"
@@ -202,18 +200,7 @@ msgstr ""
 msgid " (Not one of the Standard 14 Fonts)"
 msgstr ""
 
-#. Translators: string is a concatenation of previous
-#. * translated strings to indicate the fonts properties
-#. * in a PDF document.
-#. *
-#. * Example:
-#. * Type 1 (One of the standard 14 Fonts)
-#. * Not embedded
-#. * Substituting with TeXGyreTermes-Regular
-#. * (/usr/share/textmf/.../texgyretermes-regular.otf)
-#.
 #: backend/pdf/ev-poppler.c:1026
-#, c-format
 msgid ""
 "%s%s\n"
 "Encoding: %s\n"
@@ -221,23 +208,19 @@ msgid ""
 "Substituting with <b>%s</b>\n"
 "(%s)"
 msgstr ""
+"%s%s\n"
+"Акодркра: %s\n"
+"%s иԥсахуа  <b>%s</b> аҟынтә %s "
 
-#. Translators: string is a concatenation of previous
-#. * translated strings to indicate the fonts properties
-#. * in a PDF document.
-#. *
-#. * Example:
-#. * TrueType (CID)
-#. * Encoding: Custom
-#. * Embedded subset
-#.
 #: backend/pdf/ev-poppler.c:1044
-#, c-format
 msgid ""
 "%s%s\n"
 "Encoding: %s\n"
 "%s"
 msgstr ""
+"%s%s\n"
+"Акодркра: %s\n"
+"%s"
 
 #: backend/ps/evince-psdocument.metainfo.xml.in.in:5
 #: backend/ps/psdocument.evince-backend.desktop.in.in:5
@@ -310,7 +293,7 @@ msgstr ""
 
 #: data/org.gnome.Evince.gschema.xml:19
 msgid "Automatically reload the document"
-msgstr ""
+msgstr "Адокумент автоматикла аиҭаҿакра"
 
 #: data/org.gnome.Evince.gschema.xml:20
 msgid "The document is automatically reloaded on file change."
@@ -535,7 +518,7 @@ msgstr ""
 
 #: libview/ev-print-operation.c:2739
 msgid "Auto Rotate and Center"
-msgstr ""
+msgstr "Автоматикла аргьежьреи агәҭеиҿкаареи"
 
 #: libview/ev-print-operation.c:2742
 msgid ""
@@ -722,9 +705,9 @@ msgstr ""
 msgid "The selected printer “%s” could not be found"
 msgstr ""
 
-#: previewer/ev-previewer-window.c:568 shell/ev-window.c:4220
+#: previewer/ev-previewer-window.c:568+shell/ev-window.c:4220
 msgid "Evince"
-msgstr ""
+msgstr "Evince"
 
 #: previewer/previewer.ui:7
 msgid "_Print"
@@ -770,10 +753,9 @@ msgstr ""
 msgid "Subject:"
 msgstr ""
 
-#: properties/ev-properties-view.c:65
-#: shell/ev-annotation-properties-dialog.c:172
+#: properties/ev-properties-view.c:65+shell/ev-annotation-properties-dialog.c:172
 msgid "Author:"
-msgstr ""
+msgstr "Аԥҵаҩы:"
 
 #: properties/ev-properties-view.c:66
 msgid "Keywords:"
@@ -809,7 +791,7 @@ msgstr ""
 
 #: properties/ev-properties-view.c:74
 msgid "Security:"
-msgstr ""
+msgstr "Ашәарҭадара:"
 
 #: properties/ev-properties-view.c:75
 msgid "Contains Javascript:"
@@ -823,25 +805,17 @@ msgstr ""
 msgid "Size:"
 msgstr ""
 
-#. Translate to the default units to use for presenting
-#. * lengths to the user. Translate to default:inch if you
-#. * want inches, otherwise translate to default:mm.
-#. * Do *not* translate it to "predefinito:mm", if it
-#. * it isn't default:mm or default:inch it will not work
-#.
 #: properties/ev-properties-view.c:270
 msgid "default:mm"
-msgstr ""
+msgstr "default:mm"
 
 #: properties/ev-properties-view.c:314
-#, c-format
 msgid "%.0f × %.0f mm"
-msgstr ""
+msgstr "%.0f × %.0f мм"
 
 #: properties/ev-properties-view.c:318
-#, c-format
 msgid "%.2f × %.2f inch"
-msgstr ""
+msgstr "%.2f × %.2f диуим"
 
 #. Note to translators: first placeholder is the paper name (eg.
 #. * A4), second placeholder is the paper size (eg. 297x210 mm)
@@ -888,7 +862,7 @@ msgstr ""
 
 #: shell/ev-annotation-properties-dialog.c:108
 msgid "Paragraph"
-msgstr ""
+msgstr "Абзац"
 
 #: shell/ev-annotation-properties-dialog.c:109
 msgid "Insert"
@@ -1067,9 +1041,9 @@ msgstr ""
 msgid "_Previous Page"
 msgstr ""
 
-#: shell/evince-menus.ui:153
+#: shell/evince-menus.ui:175
 msgid "_Next Page"
-msgstr ""
+msgstr "_Ԥхьаҟа"
 
 #: shell/evince-menus.ui:157 shell/ev-window.c:3974
 msgid "_Reload"
@@ -1137,9 +1111,9 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: shell/evince-menus.ui:251
+#: shell/evince-menus.ui:273
 msgid "Forward"
-msgstr ""
+msgstr "Ԥхьаҟа"
 
 #: shell/evince-menus.ui:273
 msgid "Annotation Properties…"
@@ -1195,9 +1169,9 @@ msgstr ""
 msgid "Fit _Width"
 msgstr ""
 
-#: shell/evince-zoom-action.ui:40
+#: shell/evince-menus.ui:137
 msgid "_Automatic"
-msgstr ""
+msgstr "_Автоматикла"
 
 #: shell/ev-keyring.c:86
 #, c-format
@@ -1359,7 +1333,7 @@ msgstr ""
 
 #: shell/ev-toolbar.c:211
 msgid "Side pane"
-msgstr ""
+msgstr "Аваратәи апанель"
 
 #: shell/ev-toolbar.c:227
 msgid "Annotate the document"
@@ -1557,7 +1531,7 @@ msgstr ""
 
 #: shell/ev-window.c:4222
 msgid "© 1996–2022 The Evince document viewer authors"
-msgstr ""
+msgstr "© 1996-2022 Адокуметқәа Evince рыхәаԥшыга аԥҵаҩцәа "
 
 #: shell/ev-window.c:4225
 msgid "Evince is a simple document viewer for GNOME"
@@ -1633,61 +1607,61 @@ msgstr ""
 msgid "Password Required"
 msgstr ""
 
-#: shell/ev-zoom-action.c:48
-msgid "50%"
-msgstr ""
-
 #: shell/ev-zoom-action.c:49
-msgid "70%"
-msgstr ""
+msgid "50%"
+msgstr "50%"
 
 #: shell/ev-zoom-action.c:50
-msgid "85%"
-msgstr ""
+msgid "70%"
+msgstr "70%"
 
 #: shell/ev-zoom-action.c:51
-msgid "100%"
-msgstr ""
+msgid "85%"
+msgstr "85%"
 
 #: shell/ev-zoom-action.c:52
-msgid "125%"
-msgstr ""
+msgid "100%"
+msgstr "100%"
 
 #: shell/ev-zoom-action.c:53
-msgid "150%"
-msgstr ""
+msgid "125%"
+msgstr "125%"
 
 #: shell/ev-zoom-action.c:54
-msgid "175%"
-msgstr ""
+msgid "150%"
+msgstr "150%"
 
 #: shell/ev-zoom-action.c:55
-msgid "200%"
-msgstr ""
+msgid "175%"
+msgstr "175%"
 
 #: shell/ev-zoom-action.c:56
-msgid "300%"
-msgstr ""
+msgid "200%"
+msgstr "200%"
 
 #: shell/ev-zoom-action.c:57
-msgid "400%"
-msgstr ""
+msgid "300%"
+msgstr "300%"
 
 #: shell/ev-zoom-action.c:58
-msgid "800%"
-msgstr ""
+msgid "400%"
+msgstr "400%"
 
 #: shell/ev-zoom-action.c:59
-msgid "1600%"
-msgstr ""
+msgid "800%"
+msgstr "800%"
 
 #: shell/ev-zoom-action.c:60
-msgid "3200%"
-msgstr ""
+msgid "1600%"
+msgstr "1600%"
 
 #: shell/ev-zoom-action.c:61
+msgid "3200%"
+msgstr "3200%"
+
+#: shell/ev-zoom-action.c:62
 msgid "6400%"
-msgstr ""
+msgstr "6400%"
 
 #: shell/help-overlay.ui:13
 msgctxt "shortcut window"
@@ -2054,3 +2028,7 @@ msgstr ""
 #: shell/main.c:83
 msgid "[FILE…]"
 msgstr ""
+
+#: shell/help-overlay.ui:175
+msgid "Automatic zoom"
+msgstr "Автоматикатә масштаб"

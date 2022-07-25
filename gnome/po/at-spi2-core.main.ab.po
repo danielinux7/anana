@@ -63,7 +63,7 @@ msgstr ""
 
 #: atk/atkobject.c:101
 msgid "animation"
-msgstr ""
+msgstr "Анимациа"
 
 #: atk/atkobject.c:102
 msgid "arrow"
@@ -252,7 +252,7 @@ msgstr ""
 
 #: atk/atkobject.c:149
 msgid "slider"
-msgstr ""
+msgstr "акәараҵа"
 
 #: atk/atkobject.c:150
 msgid "split pane"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: atk/atkobject.c:170
 msgid "paragraph"
-msgstr ""
+msgstr "абзац"
 
 #: atk/atkobject.c:171
 msgid "ruler"
@@ -348,7 +348,7 @@ msgstr ""
 
 #: atk/atkobject.c:173
 msgid "autocomplete"
-msgstr ""
+msgstr "автоматикла ахарҭәаара"
 
 #: atk/atkobject.c:174
 msgid "edit bar"
@@ -492,7 +492,7 @@ msgstr ""
 
 #: atk/atkobject.c:209
 msgid "marquee"
-msgstr ""
+msgstr "иҩуа ацәаҳәа"
 
 #: atk/atkobject.c:210
 msgid "math"

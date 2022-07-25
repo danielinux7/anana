@@ -798,10 +798,9 @@ msgstr ""
 msgid "Tiffany Antopolski"
 msgstr ""
 
-#. Translators: about dialog text; this string should be replaced by a text crediting yourselves and your translation team, or should be left empty. Do not translate literally!
-#: src/iagno.vala:1135
+#: src/interface.c:854
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #. Translators: about dialog text; label of the website link
 #: src/iagno.vala:1140
@@ -813,3 +812,75 @@ msgstr ""
 #, c-format
 msgid "Size: %d × %d ▾"
 msgstr ""
+
+#: data/hitori.ui:16
+msgid "_5×5"
+msgstr "_5×5"
+
+#: data/hitori.ui:21
+msgid "_6×6"
+msgstr "_6×6"
+
+#: data/hitori.ui:26
+msgid "_7×7"
+msgstr "_7×7"
+
+#: data/hitori.ui:31
+msgid "_8×8"
+msgstr "_8×8"
+
+#: data/hitori.ui:36
+msgid "_9×9"
+msgstr "_9×9"
+
+#: data/hitori.ui:41
+msgid "_10×10"
+msgstr "_10×10"
+
+#: src/interface.c:201
+msgid "1"
+msgstr "1"
+
+#: src/interface.c:202
+msgid "2"
+msgstr "2"
+
+#: src/interface.c:203
+msgid "3"
+msgstr "3"
+
+#: src/interface.c:204
+msgid "4"
+msgstr "4"
+
+#: src/interface.c:205
+msgid "5"
+msgstr "5"
+
+#: src/interface.c:206
+msgid "6"
+msgstr "6"
+
+#: src/interface.c:207
+msgid "7"
+msgstr "7"
+
+#: src/interface.c:208
+msgid "8"
+msgstr "8"
+
+#: src/interface.c:209
+msgid "9"
+msgstr "9"
+
+#: src/interface.c:210
+msgid "10"
+msgstr "10"
+
+#: src/interface.c:211
+msgid "11"
+msgstr "11"
+
+#: src/interface.c:851
+msgid "Copyright © 2007–2010 Philip Withnall"
+msgstr "Аԥҵаҩцәа рзинқәа  2007–2010 Филип Уизнел"

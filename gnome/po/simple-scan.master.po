@@ -217,35 +217,29 @@ msgstr ""
 msgid "_None"
 msgstr ""
 
-#. Radio button for cropping page to A4 size
 #: data/ui/app-window.ui:46
 msgid "A_4"
-msgstr ""
+msgstr "A_4"
 
-#. Radio button for cropping page to A5 size
 #: data/ui/app-window.ui:56
 msgid "A_5"
-msgstr ""
+msgstr "A_5"
 
-#. Radio button for cropping page to US letter size
 #: data/ui/app-window.ui:75
 msgid "_Letter"
-msgstr ""
+msgstr "US _Letter"
 
-#. Radio button for cropping to page to US legal size
 #: data/ui/app-window.ui:85
 msgid "Le_gal"
-msgstr ""
+msgstr "US Le_gal"
 
-#. Radio button for cropping page to 4x6 inch
 #: data/ui/app-window.ui:95
 msgid "4×6"
-msgstr ""
+msgstr "4×6"
 
-#. Radio button for cropping page to A3
 #: data/ui/app-window.ui:105
 msgid "A_3"
-msgstr ""
+msgstr "A_3"
 
 #. Radio button for cropping to custom page size
 #: data/ui/app-window.ui:115
@@ -479,30 +473,25 @@ msgstr ""
 msgid "Interval to scan multiple pages"
 msgstr ""
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
 #: data/ui/preferences-dialog.ui:131
 msgid "0"
-msgstr ""
+msgstr "0"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
 #: data/ui/preferences-dialog.ui:141
 msgid "3"
-msgstr ""
+msgstr "3"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
 #: data/ui/preferences-dialog.ui:152
 msgid "6"
-msgstr ""
+msgstr "6"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
 #: data/ui/preferences-dialog.ui:163
 msgid "10"
-msgstr ""
+msgstr "10"
 
-#. Preferences Dialog: Toggle button to select scanning on front side of a page
 #: data/ui/preferences-dialog.ui:174
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #. Preferences Dialog: Section label for quality settings
 #: data/ui/preferences-dialog.ui:195
@@ -767,7 +756,7 @@ msgstr ""
 
 #: src/app-window.vala:1554
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #. Text in dialog warning when a document is about to be lost
 #: src/app-window.vala:1573
@@ -960,10 +949,9 @@ msgstr ""
 msgid "Unable to encode page %i"
 msgstr ""
 
-#. Combo box value for automatic paper size
 #: src/preferences-dialog.vala:71
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматикала"
 
 #: src/preferences-dialog.vala:108
 msgid "Darker"
@@ -999,11 +987,9 @@ msgstr ""
 msgid "%d dpi (high resolution)"
 msgstr ""
 
-#. Preferences dialog: Label for resolution value in resolution list (dpi = dots per inch)
 #: src/preferences-dialog.vala:327
-#, c-format
 msgid "%d dpi"
-msgstr ""
+msgstr "%d dpi"
 
 #. Error displayed when no scanners to scan with
 #: src/scanner.vala:901
@@ -1015,10 +1001,9 @@ msgstr ""
 msgid "Unable to connect to scanner"
 msgstr ""
 
-#. Error displayed when no documents at the start of scanning
-#: src/scanner.vala:1361 src/scanner.vala:1496
+#: src/scanner.vala:1361+src/scanner.vala:1496
 msgid "Document feeder empty"
-msgstr ""
+msgstr "Адокументқәа рхала рынашьҭара ҭацәуп "
 
 #. Out of memory error message with help instruction.
 #. Message written in Pango text markup language,

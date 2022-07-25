@@ -311,3 +311,47 @@ msgstr "_Ахырқәшара"
 #: src/rules.c:273
 msgid "_Play Again"
 msgstr "_Еиҭа ахәмарра"
+
+#: daemon/gvfsbackendafpbrowse.c:450
+msgid "%s"
+msgstr "%s"
+
+#: daemon/gvfsbackendarchive.c:350
+msgid "/ in %s"
+msgstr "/ аҟны %s"
+
+#: daemon/gvfsbackenddnssd.c:794
+msgid "Dns-SD"
+msgstr "Dns-SD"
+
+#: daemon/gvfsdaemonutils.c:261
+msgid "The certificate’s algorithm is considered insecure."
+msgstr "Асертификат алгоритм ишәарҭоуп ҳәа иԥхьаӡоуп."
+
+#: daemon/gvfsdaemonutils.c:325
+msgid "Yes"
+msgstr "Ааи"
+
+#: daemon/main.c:187+metadata/meta-daemon.c:486
+msgid "%s: %s"
+msgstr "%s: %s"
+
+#: daemon/mount.c:1015
+msgid "Location is already mounted"
+msgstr "Аҭыӡҭыԥ аҿакуп"
+
+#: daemon/mount.c:1024
+msgid "Location is not mountable"
+msgstr "Аҭыӡҭыԥ иаҿаркуа иреиԥшӡам"
+
+#: monitor/udisks2/gvfsudisks2drive.c:290
+msgid "Unnamed Drive (%s)"
+msgstr "Ихьӡыдоу аиҿартәыра (%s)"
+
+#: monitor/udisks2/gvfsudisks2drive.c:292
+msgid "Unnamed Drive"
+msgstr " Ихьӡыдоу аиҿартәыра"
+
+#: monitor/udisks2/gvfsudisks2volume.c:1685
+msgid "%s (%s)"
+msgstr "%s (%s)"

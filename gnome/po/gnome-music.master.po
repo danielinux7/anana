@@ -40,7 +40,7 @@ msgstr ""
 
 #: data/org.gnome.Music.appdata.xml.in.in:167
 msgid "The GNOME Music developers"
-msgstr ""
+msgstr "Аԥҵаҩы изин © 2018 Аԥшьы Амузыка GNOME аԥҵаҩцәа"
 
 #: data/org.gnome.Music.desktop.in.in:4
 msgid "Music Player"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: data/org.gnome.Music.gschema.xml:28
 msgid "Enable ReplayGain"
-msgstr ""
+msgstr "ReplayGain аҿакра"
 
 #: data/org.gnome.Music.gschema.xml:29
 msgid "Enables or disables ReplayGain for albums"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: data/ui/AboutDialog.ui.in:9
 msgid "Copyright © 2018 GNOME Music Developers"
-msgstr ""
+msgstr "Аԥҵаҩы изин © 2018 Аԥшьы Амузыка GNOME аԥҵаҩцәа"
 
 #: data/ui/AboutDialog.ui.in:10
 msgid "A music player and management application for GNOME."
@@ -161,9 +161,9 @@ msgstr ""
 msgid "_Add to Playlist…"
 msgstr ""
 
-#: data/ui/AppMenu.ui:23 data/ui/LastfmDialog.ui:8
+#: data/ui/AppMenu.ui:23+data/ui/LastfmDialog.ui:8
 msgid "Last.fm Account"
-msgstr ""
+msgstr "Аккаунт Last.fm"
 
 #: data/ui/AppMenu.ui:36
 msgid "Report Music Listening"
@@ -361,17 +361,17 @@ msgstr ""
 msgid "_Add"
 msgstr ""
 
-#: data/ui/SearchView.ui:33 gnomemusic/views/artistsview.py:51
+#: data/ui/SearchView.ui:33+gnomemusic/views/artistsview.py:51
 msgid "Artists"
-msgstr ""
+msgstr "Анагӡаҩцәа"
 
 #: data/ui/SearchView.ui:42 data/ui/SearchView.ui:84
 msgid "View All"
 msgstr ""
 
-#: data/ui/SearchView.ui:75 gnomemusic/views/albumsview.py:56
+#: data/ui/SearchView.ui:75+gnomemusic/views/albumsview.py:56
 msgid "Albums"
-msgstr ""
+msgstr "Альбомқәа"
 
 #: data/ui/SearchView.ui:117 gnomemusic/views/songsview.py:52
 msgid "Songs"
@@ -435,10 +435,9 @@ msgstr ""
 msgid " and "
 msgstr ""
 
-#. TRANSLATORS: separator for a list of codecs
 #: gnomemusic/gstplayer.py:427
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: gnomemusic/gstplayer.py:429
 msgid "{} is required to play the file, but is not installed."

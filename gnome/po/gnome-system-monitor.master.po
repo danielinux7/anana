@@ -294,7 +294,7 @@ msgstr ""
 
 #: data/menus.ui:38
 msgid "_Active Processes"
-msgstr ""
+msgstr "Иактиву апроцессқәа"
 
 #: data/menus.ui:43
 msgid "A_ll Processes"
@@ -466,6 +466,8 @@ msgid ""
 "<small><i><b>Note:</b> The priority of a process is given by its nice value. "
 "A lower nice value corresponds to a higher priority.</i></small>"
 msgstr ""
+"<small><i><b>Азгәаҭа:</b> априоритет аԥыжәара арбахоит амамкра афактор "
+"(nice)ала. Иреиҵӡоу аҵакы «nice» иашьашәоит  еиҳау апыжәара </i></small>"
 
 #: src/application.cpp:387
 msgid "A simple process and system monitor."
@@ -528,12 +530,11 @@ msgstr ""
 
 #: src/interface.cpp:430
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
-#. xgettext: ? stands for unknown
 #: src/legacy/e_date.c:156
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: src/legacy/e_date.c:163
 msgid "Today %l∶%M %p"
@@ -596,11 +597,9 @@ msgstr ""
 msgid "Click to set graph colors"
 msgstr ""
 
-#. Translators: loadgraphs y axis percentage labels: 0 %, 50%, 100%
-#: src/load-graph.cpp:88 src/load-graph.cpp:94
-#, c-format
+#: src/load-graph.cpp:88+src/load-graph.cpp:94
 msgid "%.0f %%"
-msgstr ""
+msgstr "%.0f %%"
 
 #: src/load-graph.cpp:136
 #, c-format
@@ -623,12 +622,9 @@ msgid_plural "%u secs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. Update label
-#. Translators: CPU usage percentage label: 95.7%
 #: src/load-graph.cpp:505
-#, c-format
 msgid "%.1f%%"
-msgstr ""
+msgstr "%.1f%%"
 
 #: src/load-graph.cpp:530
 msgid "not available"
@@ -664,9 +660,9 @@ msgstr[1] ""
 msgid "Process"
 msgstr ""
 
-#: src/lsof.cpp:256
+#: src/lsof.cpp:257
 msgid "PID"
-msgstr ""
+msgstr "PID"
 
 #: src/lsof.cpp:266 src/memmaps.cpp:307
 msgid "Filename"
@@ -722,7 +718,7 @@ msgstr ""
 
 #: src/memmaps.cpp:330
 msgid "Inode"
-msgstr ""
+msgstr "Inode"
 
 #: src/memmaps.cpp:443
 msgid "Memory Maps"
@@ -757,12 +753,9 @@ msgstr ""
 msgid "unknown type"
 msgstr ""
 
-#. Translators: "FD" here means "File Descriptor". Please use
-#. a very short translation if possible, and at most
-#. 2-3 characters for it to be able to fit in the UI.
 #: src/openfiles.cpp:252
 msgid "FD"
-msgstr ""
+msgstr "FD"
 
 #: src/openfiles.cpp:254
 msgid "Object"
@@ -1392,9 +1385,9 @@ msgstr ""
 msgid "Priority"
 msgstr ""
 
-#: src/procproperties.cpp:83 src/proctable.cpp:347
+#: src/procproperties.cpp:83+src/proctable.cpp:347
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/procproperties.cpp:84 src/proctable.cpp:348
 msgid "Security Context"
@@ -1414,9 +1407,8 @@ msgid "Control Group"
 msgstr ""
 
 #: src/procproperties.cpp:199
-#, c-format
 msgid "%s (PID %u)"
-msgstr ""
+msgstr "%s (PID %u)"
 
 #: src/proctable.cpp:343
 #, no-c-format
@@ -1496,29 +1488,21 @@ msgstr ""
 msgid "Sleeping"
 msgstr ""
 
-#. xgettext: weeks, days
 #: src/util.cpp:106
-#, c-format
 msgid "%uw%ud"
-msgstr ""
+msgstr "%uw%ud"
 
-#. xgettext: days, hours (0 -> 23)
 #: src/util.cpp:110
-#, c-format
 msgid "%ud%02uh"
-msgstr ""
+msgstr "%ud%02uh"
 
-#. xgettext: hours (0 -> 23), minutes, seconds
 #: src/util.cpp:114
-#, c-format
 msgid "%u:%02u:%02u"
-msgstr ""
+msgstr "%u:%02u:%02u"
 
-#. xgettext: minutes, seconds, centiseconds
 #: src/util.cpp:117
-#, c-format
 msgid "%u:%02u.%02u"
-msgstr ""
+msgstr "%u:%02u.%02u"
 
 #: src/util.cpp:184
 msgid "Very High Priority"

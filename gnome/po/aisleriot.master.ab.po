@@ -44,6 +44,9 @@ msgid ""
 "features over 80 different solitaire-type card games which are designed to "
 "play using a mouse, keyboard, or trackpad."
 msgstr ""
+"Аислериот (sol ҳәа еицырдыруа)- ари аԥшьы ишәыднагалоит  аҳәынаԥи, "
+"ырыдыркреи насгьы атрекпади рхархәаразы ахырхарҭа змоу 80 инеиҳаны "
+"апасиансқәа."
 
 #: data/sol.metainfo.xml.in:46
 msgid ""
@@ -75,7 +78,7 @@ msgstr "GNOME"
 
 #: data/sol.metainfo.xml.in:55
 msgid "aisleriot"
-msgstr ""
+msgstr "Аислериот"
 
 #. Now construct the window contents
 #: src/ar-game-chooser.c:312 src/window.c:2014
@@ -163,24 +166,13 @@ msgid ""
 "this program.  If not, see <http://www.gnu.org/licenses/>."
 msgstr ""
 
-#. This is a generated file; DO NOT EDIT
-#. Translators: this string is the name of a game of patience.
-#. If there is an established standard name for this game in your
-#. locale, use that; otherwise you can translate this string
-#. freely, literally, or not at all, at your option.
-#.
 #: src/game-names.h:7
 msgid "Accordion"
-msgstr ""
+msgstr "Аккордеон"
 
-#. Translators: this string is the name of a game of patience.
-#. If there is an established standard name for this game in your
-#. locale, use that; otherwise you can translate this string
-#. freely, literally, or not at all, at your option.
-#.
 #: src/game-names.h:14
 msgid "Agnes"
-msgstr ""
+msgstr "Агнес"
 
 #. Translators: this string is the name of a game of patience.
 #. If there is an established standard name for this game in your
@@ -335,14 +327,9 @@ msgstr ""
 msgid "Cruel"
 msgstr ""
 
-#. Translators: this string is the name of a game of patience.
-#. If there is an established standard name for this game in your
-#. locale, use that; otherwise you can translate this string
-#. freely, literally, or not at all, at your option.
-#.
 #: src/game-names.h:140
 msgid "Diamond Mine"
-msgstr ""
+msgstr "Алмастә шахта"
 
 #. Translators: this string is the name of a game of patience.
 #. If there is an established standard name for this game in your
@@ -1524,9 +1511,9 @@ msgstr ""
 msgid "FreeCell Solitaire"
 msgstr ""
 
-#: src/sol.c:105 src/window.c:419
+#: src/sol.c:105+src/window.c:419
 msgid "AisleRiot"
-msgstr ""
+msgstr "Аислериот"
 
 #. Translators: this is the total number of won games
 #: src/stats-dialog.c:145
@@ -1609,7 +1596,7 @@ msgstr ""
 
 #: src/window.c:202
 msgid "There are no more moves"
-msgstr ""
+msgstr "Аныҟәарақәа рвариантқәа уаҳа ыҟаӡам"
 
 #: src/window.c:347
 msgid "Main game:"
@@ -1632,6 +1619,8 @@ msgid ""
 "AisleRiot provides a rule-based solitaire card engine that allows many "
 "different games to be played."
 msgstr ""
+"Аиселиот ишәыднагалоит  апасиансқәа рзы амацақәа реиҭагага, еиуеипшым "
+"ахәмарракәа рыхәмарразы."
 
 #: src/window.c:432
 msgid "translator-credits"
@@ -2743,10 +2732,9 @@ msgstr ""
 msgid "Look both ways before you cross the street"
 msgstr ""
 
-#. Translators: This is one of the sentences that are used when the user wants to get a hint. Since the 'clock' game is a joke in itself, the sentence it nonsensical and/or a joke. So you can substitute anything you like here; you don't have to translate the original sentence!
 #: games/clock.scm:177
 msgid "Have you read the help file?"
-msgstr ""
+msgstr "Афаил аилыркаа шәаԥхьахьоума?"
 
 #. Translators: This is one of the sentences that are used when the user wants to get a hint. Since the 'clock' game is a joke in itself, the sentence it nonsensical and/or a joke. So you can substitute anything you like here; you don't have to translate the original sentence!
 #: games/clock.scm:179
@@ -3369,7 +3357,7 @@ msgstr ""
 
 #: games/napoleons-tomb.scm:357
 msgid "Autoplay"
-msgstr ""
+msgstr "Автоматикатә хәмарра"
 
 #: games/osmosis.scm:74
 #, scheme-format
@@ -3509,3 +3497,39 @@ msgstr ""
 #: games/whitehead.scm:243
 msgid "Move a build of cards on to the empty Tableau slot"
 msgstr ""
+
+#: src/lib/ar-card.c:241
+msgid "2"
+msgstr "2"
+
+#: src/lib/ar-card.c:243
+msgid "3"
+msgstr "3"
+
+#: src/lib/ar-card.c:245
+msgid "4"
+msgstr "4"
+
+#: src/lib/ar-card.c:247
+msgid "5"
+msgstr "5"
+
+#: src/lib/ar-card.c:249
+msgid "6"
+msgstr "6"
+
+#: src/lib/ar-card.c:251
+msgid "7"
+msgstr "7"
+
+#: src/lib/ar-card.c:253
+msgid "8"
+msgstr "8"
+
+#: src/lib/ar-card.c:255
+msgid "9"
+msgstr "9"
+
+#: src/lib/ar-card.c:265
+msgid "1"
+msgstr "1"

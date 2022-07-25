@@ -17,15 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: data/appdata/org.gnome.Builder.appdata.xml.in.in:7
-#: data/org.gnome.Builder.desktop.in.in:3
-#: src/libide/editor/ide-editor-workspace.ui:21
-#: src/libide/gui/ide-application-actions.c:153
-#: src/libide/gui/ide-preferences-builtin.c:162
-#: src/libide/gui/ide-preferences-builtin.c:762 src/main.c:237
-#: src/plugins/newcomers/gbp-newcomers-section.ui:39
+#: data/appdata/org.gnome.Builder.appdata.xml.in:7+data/org.gnome.Builder.desktop.in.in:3+src/libide/gui/ide-preferences-builtin.c:144+src/main.c:235+src/plugins/newcomers/gbp-newcomers-section.ui:47
 msgid "Builder"
-msgstr ""
+msgstr "Builder"
 
 #: data/appdata/org.gnome.Builder.appdata.xml.in.in:8
 msgid "An IDE for GNOME"
@@ -80,17 +74,21 @@ msgid ""
 "PHPize, and Waf"
 msgstr ""
 
-#: data/appdata/org.gnome.Builder.appdata.xml.in.in:30
+#: data/appdata/org.gnome.Builder.appdata.xml.in:30
 msgid "Clang based auto-completion, semantic highlighting, and diagnostics"
 msgstr ""
+"Автоматикла ахарҭәаара Clang шьаҭас измоу, асематикатә арлашареи "
+"адиагностикеи"
 
-#: data/appdata/org.gnome.Builder.appdata.xml.in.in:31
+#: data/appdata/org.gnome.Builder.appdata.xml.in:31
 msgid "Python based auto-completion, semantic highlighting, and diagnostics"
 msgstr ""
+"Автоматикла ахарҭәаара Python, шьаҭас измоу, асематикатә арлашареи "
+"адиагностикеи"
 
-#: data/appdata/org.gnome.Builder.appdata.xml.in.in:32
+#: data/appdata/org.gnome.Builder.appdata.xml.in:32
 msgid "Vala based auto-completion and diagnostics"
-msgstr ""
+msgstr "Автоматикла ахарҭәаара Vala насгьы адиагностика шьаҭас измоу"
 
 #: data/appdata/org.gnome.Builder.appdata.xml.in.in:33
 msgid "Auto indentation support for C, Python, Vala, and XML"
@@ -191,7 +189,7 @@ msgstr ""
 
 #: data/gsettings/org.gnome.builder.code-insight.gschema.xml.in:5
 msgid "Ctags based autocompletion"
-msgstr ""
+msgstr "Автоматикла ахарҭәаара Ctags шьаҭас измоу"
 
 #: data/gsettings/org.gnome.builder.code-insight.gschema.xml.in:6
 msgid "Use Ctags for autocompletion."
@@ -317,7 +315,7 @@ msgstr ""
 
 #: data/gsettings/org.gnome.builder.editor.gschema.xml:84
 msgid "Automatically Hide Overview Map"
-msgstr ""
+msgstr "Автоматикла Алаԥшхагаратә Хсаала Аҵәахра"
 
 #: data/gsettings/org.gnome.builder.editor.gschema.xml:85
 msgid ""
@@ -350,14 +348,13 @@ msgstr ""
 msgid "The way to wrap a long line of text for a better visibility."
 msgstr ""
 
-#: data/gsettings/org.gnome.builder.editor.gschema.xml:110
-#: src/libide/gui/ide-preferences-builtin.c:212
+#: data/gsettings/org.gnome.builder.editor.gschema.xml:110+src/libide/gui/ide-preferences-builtin.c:194
 msgid "Autosave Enabled"
-msgstr ""
+msgstr "Аҽеикәырхара аҿакуп"
 
 #: data/gsettings/org.gnome.builder.editor.gschema.xml:111
 msgid "Enable or disable autosave feature."
-msgstr ""
+msgstr " Автоматикла аиқәырхара  аҿакра, мамзар аҿыхра"
 
 #: data/gsettings/org.gnome.builder.editor.gschema.xml:116
 #: src/libide/gui/ide-preferences-builtin.c:213
@@ -664,10 +661,9 @@ msgstr ""
 msgid "Build software for GNOME"
 msgstr ""
 
-#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Builder.desktop.in.in:14
 msgid "Build;Develop;"
-msgstr ""
+msgstr "Build;Develop;"
 
 #: data/org.gnome.Builder.desktop.in.in:20
 msgid "Open a Project"
@@ -726,9 +722,9 @@ msgstr ""
 msgid "Failed to save draft: %s"
 msgstr ""
 
-#: src/libide/core/ide-context.c:356 src/libide/core/ide-context.c:774
+#: src/libide/core/ide-context.c:366+src/libide/core/ide-context.c:810
 msgid "Untitled"
-msgstr ""
+msgstr "Ихьӡыдоу"
 
 #: src/libide/core/ide-transfer.c:547
 #: src/libide/greeter/ide-greeter-workspace.c:545
@@ -1101,12 +1097,9 @@ msgstr ""
 msgid "Directory"
 msgstr ""
 
-#: src/libide/greeter/ide-greeter-workspace.c:227
-#: src/libide/gui/ide-workbench.c:322 src/libide/gui/ide-workbench.c:861
-#: src/libide/gui/ide-workbench.c:2715
-#, c-format
+#: src/libide/greeter/ide-greeter-workspace.c:219+src/libide/gui/ide-workbench.c:315+src/libide/gui/ide-workbench.c:839
 msgid "Builder — %s"
-msgstr ""
+msgstr "Builder — %s"
 
 #: src/libide/greeter/ide-greeter-workspace.c:346
 msgid "Failed to load the project"
@@ -1737,9 +1730,9 @@ msgstr ""
 msgid "Builder — Preferences"
 msgstr ""
 
-#: src/libide/gui/ide-application-actions.c:161
+#: src/libide/gui/ide-application-actions.c:150
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: src/libide/gui/ide-application-actions.c:168
 msgid "Funded By"
@@ -2051,13 +2044,13 @@ msgstr ""
 msgid "A zoomed out view to enhance navigating source code"
 msgstr ""
 
-#: src/libide/gui/ide-preferences-builtin.c:200
+#: src/libide/gui/ide-preferences-builtin.c:182
 msgid "Automatically hide overview map"
-msgstr ""
+msgstr "Автоматикла алаԥшхагаратә хсаала аҵәахра"
 
-#: src/libide/gui/ide-preferences-builtin.c:200
+#: src/libide/gui/ide-preferences-builtin.c:182
 msgid "Automatically hide map when editor loses focus"
-msgstr ""
+msgstr "Автоматикла ахсаала аҵәахра аредактор афокус анацәыӡуа"
 
 #: src/libide/gui/ide-preferences-builtin.c:202
 msgid "Visible Whitespace Characters"
@@ -2095,13 +2088,13 @@ msgstr ""
 msgid "Leading Only"
 msgstr ""
 
-#: src/libide/gui/ide-preferences-builtin.c:211
+#: src/libide/gui/ide-preferences-builtin.c:193
 msgid "Autosave"
-msgstr ""
+msgstr "Аҽеикәырхара"
 
-#: src/libide/gui/ide-preferences-builtin.c:212
+#: src/libide/gui/ide-preferences-builtin.c:194
 msgid "Enable or disable autosave feature"
-msgstr ""
+msgstr " Автоматикла аиқәырхара  аҿакра, мамзар аҿыхра"
 
 #: src/libide/gui/ide-preferences-builtin.c:213
 msgid "The number of seconds after modification before auto saving"
@@ -2132,11 +2125,9 @@ msgstr ""
 msgid "Diagnostics"
 msgstr ""
 
-#: src/libide/gui/ide-preferences-builtin.c:230
-#: src/libide/gui/ide-preferences-builtin.c:679
-#: src/libide/gui/ide-preferences-builtin.c:684
+#: src/libide/gui/ide-preferences-builtin.c:212
 msgid "Completion"
-msgstr ""
+msgstr "Автоматикла ахарҭәаара"
 
 #: src/libide/gui/ide-preferences-builtin.c:233
 msgid "Completions Display Size"
@@ -2150,9 +2141,9 @@ msgstr ""
 msgid "Display code suggestions interactively as you type"
 msgstr ""
 
-#: src/libide/gui/ide-preferences-builtin.c:236
+#: src/libide/gui/ide-preferences-builtin.c:218
 msgid "Completion Providers"
-msgstr ""
+msgstr "Автоматикла ахарҭәаара"
 
 #: src/libide/gui/ide-preferences-builtin.c:242
 #: src/libide/gui/ide-preferences-builtin.c:681
@@ -2246,9 +2237,9 @@ msgstr ""
 msgid "Prefer spaces over use of tabs"
 msgstr ""
 
-#: src/libide/gui/ide-preferences-builtin.c:368
+#: src/libide/gui/ide-preferences-builtin.c:350
 msgid "Automatically indent"
-msgstr ""
+msgstr "Автоматикалатәи  ахьаҵ"
 
 #: src/libide/gui/ide-preferences-builtin.c:368
 msgid "Indent source code as you type"
@@ -2355,10 +2346,10 @@ msgstr ""
 msgid "Insert Breakpoint at Start of Application"
 msgstr ""
 
-#: src/libide/gui/ide-preferences-builtin.c:444
+#: src/libide/gui/ide-preferences-builtin.c:426
 msgid ""
 "Automatically stop execution at the start of the applications main function"
-msgstr ""
+msgstr "Автоматикла анагӡара аанкылара аԥшьы ихадоу афункциа аҿакраан"
 
 #: src/libide/gui/ide-preferences-builtin.c:450
 #: src/libide/gui/ide-preferences-builtin.c:658
@@ -2418,10 +2409,9 @@ msgstr ""
 msgid "Commands"
 msgstr ""
 
-#: src/libide/gui/ide-preferences-builtin.c:662
-#: src/libide/gui/ide-preferences-builtin.c:689
+#: src/libide/gui/ide-preferences-builtin.c:571
 msgid "SDKs"
-msgstr ""
+msgstr "SDKs"
 
 #: src/libide/gui/ide-preferences-builtin.c:664
 msgid "Plugins"
@@ -2694,9 +2684,9 @@ msgstr ""
 msgid "Undo"
 msgstr ""
 
-#: src/libide/sourceview/gtk/menus.ui:77
+#: src/plugins/glade/gtk/menus.ui:49
 msgid "Redo"
-msgstr ""
+msgstr "Архынҳәра"
 
 #: src/libide/sourceview/gtk/menus.ui:83
 msgid "Zoom"
@@ -2749,11 +2739,9 @@ msgstr ""
 msgid "Failed to launch subprocess. You may need to rebuild your project."
 msgstr ""
 
-#: src/libide/terminal/ide-terminal-page.c:122
-#: src/libide/terminal/ide-terminal-page.c:157
-#: src/libide/terminal/ide-terminal-page.c:271
+#: src/libide/terminal/ide-terminal-page.c:130+src/libide/terminal/ide-terminal-page.c:165+src/libide/terminal/ide-terminal-page.c:336
 msgid "Untitled terminal"
-msgstr ""
+msgstr "Ихьӡыдоу атерминал"
 
 #. translators: exited describes that the terminal shell process has exited
 #: src/libide/terminal/ide-terminal-page.c:124
@@ -2764,9 +2752,9 @@ msgstr ""
 msgid "Subprocess launcher failed too quickly, will not respawn."
 msgstr ""
 
-#: src/libide/terminal/ide-terminal-page.ui:7
+#: src/libide/terminal/ide-terminal-launcher.c:692
 msgid "Untitled Terminal"
-msgstr ""
+msgstr "Ихьӡыдоу атерминал"
 
 #: src/libide/terminal/ide-terminal-popover.ui:12
 msgid "Search runtimes"
@@ -3019,9 +3007,8 @@ msgid "All Runtimes"
 msgstr ""
 
 #: src/plugins/buildui/gbp-buildui-config-view-addin.c:405
-#: src/plugins/buildui/gbp-buildui-preferences-addin.c:426
 msgid "Make _Active"
-msgstr ""
+msgstr "Активациа азура"
 
 #: src/plugins/buildui/gbp-buildui-config-view-addin.c:405
 #: src/plugins/buildui/gbp-buildui-preferences-addin.c:427
@@ -3204,10 +3191,9 @@ msgstr ""
 msgid "Time completed:"
 msgstr ""
 
-#: src/plugins/buildui/gbp-buildui-pane.ui:53
-#: src/plugins/buildui/gbp-buildui-pane.ui:67
+#: src/plugins/buildui/gbp-buildui-pane.ui:51+src/plugins/buildui/gbp-buildui-pane.ui:66
 msgid "—"
-msgstr ""
+msgstr "—"
 
 #: src/plugins/buildui/gbp-buildui-preferences-addin.c:97
 msgid "No Version Control"
@@ -3447,9 +3433,9 @@ msgstr ""
 msgid "Cargo Run"
 msgstr ""
 
-#: src/plugins/clang/ide-clang-preferences-addin.c:42
+#: src/plugins/clang/ide-clang-preferences-addin.c:68
 msgid "Clang"
-msgstr ""
+msgstr "Clang"
 
 #: src/plugins/clang/ide-clang-preferences-addin.c:47
 msgid "Use Clang for Diagnostics"
@@ -3469,17 +3455,17 @@ msgid ""
 "Clang will be queried for completions within C, C++, and Objective-C sources"
 msgstr ""
 
-#: src/plugins/clang/ide-clang-preferences-addin.c:61
+#: src/plugins/clang/ide-clang-preferences-addin.c:95
 msgid "Complete Parenthesis"
-msgstr ""
+msgstr "Игьежьу ахыцқәа автоматикла рхарҭәаара"
 
 #: src/plugins/clang/ide-clang-preferences-addin.c:62
 msgid "Include parenthesis when completing clang proposals"
 msgstr ""
 
-#: src/plugins/clang/ide-clang-preferences-addin.c:66
+#: src/plugins/clang/ide-clang-preferences-addin.c:107
 msgid "Complete Parameters"
-msgstr ""
+msgstr "Аргументқәа автоматикла рхарҭәаара"
 
 #: src/plugins/clang/ide-clang-preferences-addin.c:67
 msgid "Include parameters and types when completing clang proposals"
@@ -3491,7 +3477,7 @@ msgstr ""
 
 #: src/plugins/clang/org.gnome.builder.clang.gschema.xml:6
 msgid "Complete parentheses"
-msgstr ""
+msgstr "Игьежьу ахыцқәа автоматикла рхарҭәаара"
 
 #: src/plugins/clang/org.gnome.builder.clang.gschema.xml:7
 msgid "If parentheses should be included when completing."
@@ -3509,7 +3495,7 @@ msgstr ""
 
 #: src/plugins/cmake/gbp-cmake-build-system.c:423
 msgid "CMake"
-msgstr ""
+msgstr "CMake"
 
 #: src/plugins/cmake/gbp-cmake-pipeline-addin.c:206
 #: src/plugins/meson/gbp-meson-pipeline-addin.c:257
@@ -3524,10 +3510,9 @@ msgstr ""
 msgid "Installing project"
 msgstr ""
 
-#: src/plugins/cmake/gbp-cmake-toolchain.c:218
-#, c-format
+#: src/plugins/cmake/gbp-cmake-toolchain.c:220
 msgid "%s (CMake)"
-msgstr ""
+msgstr "%s (CMake)"
 
 #: src/plugins/code-index/gbp-code-index-application-addin.c:53
 msgid "Create or update code-index for project file"
@@ -3757,77 +3742,70 @@ msgstr ""
 msgid "Color Components"
 msgstr ""
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:206
+#: src/gstyle/ui/gstyle-color-panel.ui:206
 msgid "H"
-msgstr ""
+msgstr "H"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:216
+#: src/gstyle/ui/gstyle-color-panel.ui:216
 msgid "S"
-msgstr ""
+msgstr "S"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:226
+#: src/gstyle/ui/gstyle-color-panel.ui:226
 msgid "V"
-msgstr ""
+msgstr "V"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:322
+#: src/gstyle/ui/gstyle-color-panel.ui:322
 msgid "L*"
-msgstr ""
+msgstr "L*"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:332
+#: src/gstyle/ui/gstyle-color-panel.ui:332
 msgid "a*"
-msgstr ""
+msgstr "a*"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:342
+#: src/gstyle/ui/gstyle-color-panel.ui:342
 msgid "b*"
-msgstr ""
+msgstr "b*"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:441
+#: src/gstyle/ui/gstyle-color-panel.ui:441
 msgid "R"
-msgstr ""
+msgstr "R"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:451
+#: src/gstyle/ui/gstyle-color-panel.ui:451
 msgid "G"
-msgstr ""
+msgstr "G"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:461
+#: src/gstyle/ui/gstyle-color-panel.ui:461
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:573
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:433
 msgid "Color strings"
 msgstr ""
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:634
-#: src/plugins/color-picker/gtk/color-picker-prefs.ui:490
+#: src/gstyle/ui/gstyle-color-panel.ui:634+src/plugins/color-picker/gtk/color-picker-prefs.ui:490
 msgid "HEX3"
-msgstr ""
+msgstr "HEX3"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:645
-#: src/plugins/color-picker/gtk/color-picker-prefs.ui:507
+#: src/gstyle/ui/gstyle-color-panel.ui:645+src/plugins/color-picker/gtk/color-picker-prefs.ui:507
 msgid "HEX6"
-msgstr ""
+msgstr "HEX6"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:656
-#: src/plugins/color-picker/gtk/color-picker-prefs.ui:122
-#: src/plugins/color-picker/gtk/color-picker-prefs.ui:524
+#: src/gstyle/ui/gstyle-color-panel.ui:656+src/plugins/color-picker/gtk/color-picker-prefs.ui:122+src/plugins/color-picker/gtk/color-picker-prefs.ui:524
 msgid "RGB"
-msgstr ""
+msgstr "RGB"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:667
-#: src/plugins/color-picker/gtk/color-picker-prefs.ui:541
+#: src/gstyle/ui/gstyle-color-panel.ui:667+src/plugins/color-picker/gtk/color-picker-prefs.ui:541
 msgid "RGBA"
-msgstr ""
+msgstr "RGBA"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:678
-#: src/plugins/color-picker/gtk/color-picker-prefs.ui:558
+#: src/gstyle/ui/gstyle-color-panel.ui:678+src/plugins/color-picker/gtk/color-picker-prefs.ui:558
 msgid "HSL"
-msgstr ""
+msgstr "HSL"
 
-#: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:689
-#: src/plugins/color-picker/gtk/color-picker-prefs.ui:575
+#: src/gstyle/ui/gstyle-color-panel.ui:689+src/plugins/color-picker/gtk/color-picker-prefs.ui:575
 msgid "HSLA"
-msgstr ""
+msgstr "HSLA"
 
 #: src/plugins/color-picker/gstyle/ui/gstyle-color-panel.ui:818
 msgid "Palettes"
@@ -3873,7 +3851,7 @@ msgstr ""
 
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:86
 msgid "HSV"
-msgstr ""
+msgstr "HSV"
 
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:87
 msgid "Hue Saturation Value"
@@ -3881,11 +3859,11 @@ msgstr ""
 
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:104
 msgid "L*a*b*"
-msgstr ""
+msgstr "L*a*b*"
 
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:105
 msgid "CIE L*a*b* 1976"
-msgstr ""
+msgstr "CIE L*a*b* 1976"
 
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:123
 msgid "Red Green Blue"
@@ -3953,7 +3931,7 @@ msgstr ""
 
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:405
 msgid "Websafe"
-msgstr ""
+msgstr "Ишәарҭам аҳаҟны ахархәаразы"
 
 #: src/plugins/color-picker/gtk/color-picker-prefs.ui:467
 msgid "Select the color strings you want to see in the panel."
@@ -4146,10 +4124,9 @@ msgstr ""
 msgid "Run with _Debugger"
 msgstr ""
 
-#: src/plugins/debuggerui/ide-debugger-breakpoints-view.ui:22
-#: src/plugins/debuggerui/ide-debugger-registers-view.ui:13
+#: src/plugins/debuggerui/ide-debugger-breakpoints-view.ui:22+src/plugins/debuggerui/ide-debugger-registers-view.ui:13
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/plugins/debuggerui/ide-debugger-breakpoints-view.ui:34
 msgid "File"
@@ -4166,7 +4143,7 @@ msgstr ""
 
 #: src/plugins/debuggerui/ide-debugger-breakpoints-view.ui:70
 msgid "Address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ"
 
 #: src/plugins/debuggerui/ide-debugger-breakpoints-view.ui:81
 #: src/plugins/debuggerui/ide-debugger-locals-view.ui:28
@@ -4241,9 +4218,9 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-#: src/plugins/debuggerui/ide-debugger-threads-view.ui:17
+#: src/plugins/debuggerui/ide-debugger-threads-view.ui:19
 msgid "Group"
-msgstr ""
+msgstr "Агәыԥ"
 
 #: src/plugins/debuggerui/ide-debugger-threads-view.ui:38
 msgid "Thread"
@@ -4438,25 +4415,25 @@ msgstr ""
 msgid "Spaces per Tab"
 msgstr ""
 
-#: src/plugins/editorui/gtk/menus.ui:15 src/plugins/editorui/gtk/menus.ui:51
+#: src/libide/editor/ide-editor-settings-dialog.ui:186
 msgid "2"
-msgstr ""
+msgstr "2"
 
-#: src/plugins/editorui/gtk/menus.ui:20 src/plugins/editorui/gtk/menus.ui:56
+#: src/libide/editor/ide-editor-settings-dialog.ui:196
 msgid "3"
-msgstr ""
+msgstr "3"
 
-#: src/plugins/editorui/gtk/menus.ui:25 src/plugins/editorui/gtk/menus.ui:61
+#: src/libide/editor/ide-editor-settings-dialog.ui:206
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: src/plugins/editorui/gtk/menus.ui:30 src/plugins/editorui/gtk/menus.ui:66
 msgid "5"
 msgstr ""
 
-#: src/plugins/editorui/gtk/menus.ui:35 src/plugins/editorui/gtk/menus.ui:71
+#: src/libide/editor/ide-editor-settings-dialog.ui:216
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: src/plugins/editorui/gtk/menus.ui:41
 msgid "Indentation Size"
@@ -4526,11 +4503,9 @@ msgid ""
 "your project."
 msgstr ""
 
-#: src/plugins/flatpak/gbp-flatpak-install-dialog.ui:70
-#: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:95
-#: src/plugins/sysroot/gbp-sysroot-preferences-row.ui:90
+#: src/plugins/flatpak/gbp-flatpak-install-dialog.ui:93+src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:95+src/plugins/sysroot/gbp-sysroot-preferences-row.ui:90
 msgid "Architecture"
-msgstr ""
+msgstr "Архитектура"
 
 #: src/plugins/flatpak/gbp-flatpak-pipeline-addin.c:181
 msgid "Creating flatpak workspace"
@@ -4927,10 +4902,9 @@ msgstr ""
 msgid "Change style-scheme to light variant"
 msgstr ""
 
-#: src/plugins/meson/gbp-meson-build-system.c:473
-#: src/plugins/meson/gbp-meson-config-view-addin.c:57
+#: src/plugins/meson/gbp-meson-build-system.c:470+src/plugins/meson/gbp-meson-config-view-addin.c:57
 msgid "Meson"
-msgstr ""
+msgstr "Meson"
 
 #: src/plugins/meson/gbp-meson-config-view-addin.c:58
 msgid "Meson Options"
@@ -4945,9 +4919,8 @@ msgid "Install project"
 msgstr ""
 
 #: src/plugins/meson/gbp-meson-toolchain.c:61
-#, c-format
 msgid "%s (Meson)"
-msgstr ""
+msgstr "%s (Meson)"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-addin.c:106
 msgid "Add toolchain"
@@ -4989,10 +4962,9 @@ msgstr ""
 msgid "Preprocessor"
 msgstr ""
 
-#: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:171
-#: src/plugins/meson/gbp-meson-utils.c:102
+#: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:171+src/plugins/meson/gbp-meson-utils.c:102
 msgid "Archiver"
-msgstr ""
+msgstr "архивтәга"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:172
 #: src/plugins/meson/gbp-meson-utils.c:104
@@ -5020,27 +4992,27 @@ msgstr ""
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:188
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:189
 msgid "C++"
-msgstr ""
+msgstr "C++"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:190
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:191
 msgid "Vala"
-msgstr ""
+msgstr "Vala"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:192
 msgid "Fortran"
-msgstr ""
+msgstr "Fortran"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:193
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #: src/plugins/meson/gbp-meson-toolchain-edition-preferences-row.ui:226
 msgid "Add Tool"
@@ -5135,9 +5107,9 @@ msgstr ""
 msgid "A clock application for GNOME"
 msgstr ""
 
-#: src/plugins/newcomers/gbp-newcomers-section.ui:67
+#: src/plugins/newcomers/gbp-newcomers-section.ui:78
 msgid "Gitg"
-msgstr ""
+msgstr "Gitg"
 
 #: src/plugins/newcomers/gbp-newcomers-section.ui:68
 msgid "Gitg is a graphical Git client"
@@ -5175,9 +5147,9 @@ msgstr ""
 msgid "Access, organize and share your photos on GNOME"
 msgstr ""
 
-#: src/plugins/newcomers/gbp-newcomers-section.ui:113
+#: src/plugins/newcomers/gbp-newcomers-section.ui:129
 msgid "Polari"
-msgstr ""
+msgstr "Polari"
 
 #: src/plugins/newcomers/gbp-newcomers-section.ui:114
 msgid "An IRC Client for GNOME"
@@ -5619,9 +5591,9 @@ msgstr ""
 msgid "Automatically check spelling as you type"
 msgstr ""
 
-#: src/plugins/symbol-tree/gbp-symbol-hover-provider.c:115
+#: src/plugins/symbol-tree/gbp-symbol-hover-provider.c:113
 msgid "Unnamed Symbol"
-msgstr ""
+msgstr "Ихьӡыдоу асимвол"
 
 #: src/plugins/symbol-tree/gbp-symbol-popover.ui:37
 msgid "Filter Symbols…"
@@ -5761,7 +5733,7 @@ msgstr ""
 
 #: src/plugins/sysroot/gbp-sysroot-preferences-row.ui:121
 msgid "An absolute file-system path to the sysroot."
-msgstr ""
+msgstr "Ииашахаҭоу амҩа  ашьаҭатә аизакхьӡынҵа ахь"
 
 #: src/plugins/sysroot/gbp-sysroot-preferences-row.ui:148
 msgid "Package Config Path"
@@ -6064,9 +6036,9 @@ msgstr ""
 msgid "A failure occurred while cloning the repository."
 msgstr ""
 
-#: src/plugins/vcsui/gbp-vcsui-clone-page.ui:19
+#: src/libide/greeter/ide-clone-surface.ui:48
 msgid "Repository URL"
-msgstr ""
+msgstr "URL- апхьакырҭа аҭыӡҭыԥ "
 
 #: src/plugins/vcsui/gbp-vcsui-clone-page.ui:38
 msgid "Choose an alternate branch"
@@ -6114,9 +6086,9 @@ msgstr ""
 msgid "_Push to origin"
 msgstr ""
 
-#: src/plugins/vim/gbp-vim-preferences-addin.c:38
+#: src/plugins/vim/gbp-vim-preferences-addin.c:52
 msgid "Vim"
-msgstr ""
+msgstr "Vim"
 
 #: src/plugins/vim/gbp-vim-preferences-addin.c:39
 msgid "Emulate keyboard shortcuts from Vim"
@@ -6134,3 +6106,159 @@ msgstr ""
 #: src/plugins/xml-pack/ide-xml-service.c:91
 msgid "File must be saved locally to parse."
 msgstr ""
+
+#: src/gstyle/tests/data/gstyle-color-editor.ui:64
+msgid "Hue"
+msgstr "Hue"
+
+#: src/gstyle/tests/data/gstyle-color-editor.ui:97
+msgid "Cielab l"
+msgstr "Cielab l"
+
+#: src/gstyle/tests/data/gstyle-color-editor.ui:108
+msgid "Cielab a"
+msgstr "Cielab a"
+
+#: src/gstyle/tests/data/gstyle-color-editor.ui:119
+msgid "Cielab b"
+msgstr "Cielab b"
+
+#: src/libide/editor/ide-editor-settings-dialog.ui:123
+msgid "Automatic indentation"
+msgstr "Ахьацқәа автоматикла рықәыргылара"
+
+#: src/libide/greeter/ide-clone-surface.ui:84
+msgid "user@host:repository.git"
+msgstr "user@host:repository.git"
+
+#: src/libide/gui/ide-application-actions.c:148
+msgid "GNOME Builder"
+msgstr "GNOME Builder"
+
+#: src/libide/sourceview/gtk/menus.ui:26
+msgid "_Redo"
+msgstr "Архын_ҳәра"
+
+#: src/libide/sourceview/ide-source-view.c:5407
+msgid "<b>%s</b> — <small>Line %u, Column %u</small>"
+msgstr "<b>%s</b> — <small>ацәаҳәа %u, аиҵагыла %u</small>"
+
+#: src/plugins/beautifier/gb-beautifier-editor-addin.c:352
+msgid "Trigger the default entry"
+msgstr "Анҵамҭ ишыҟоу еиԥш активациа азура"
+
+#: src/plugins/buildui/gbp-buildui-omni-bar-section.ui:482
+msgid "True"
+msgstr "True"
+
+#: src/plugins/create-project/gbp-create-project-surface.ui:203
+msgid "GPLv3+"
+msgstr "GPLv3+"
+
+#: src/plugins/create-project/gbp-create-project-surface.ui:204
+msgid "LGPLv3+"
+msgstr "LGPLv3+"
+
+#: src/plugins/create-project/gbp-create-project-surface.ui:205
+msgid "AGPLv3+"
+msgstr "AGPLv3+"
+
+#: src/plugins/create-project/gbp-create-project-surface.ui:206
+msgid "MIT/X11"
+msgstr "MIT/X11"
+
+#: src/plugins/create-project/gbp-create-project-surface.ui:207
+msgid "Apache 2.0"
+msgstr "Apache 2.0"
+
+#: src/plugins/create-project/gbp-create-project-surface.ui:208
+msgid "GPLv2+"
+msgstr "GPLv2+"
+
+#: src/plugins/create-project/gbp-create-project-surface.ui:209
+msgid "LGPLv2.1+"
+msgstr "LGPLv2.1+"
+
+#: src/plugins/dspy/libdspy/dspy-name-marquee.ui:14
+msgid "Bus Address"
+msgstr "Ашина аҭыӡҭыԥ"
+
+#: src/plugins/dspy/libdspy/dspy-name-row.c:80+src/plugins/dspy/libdspy/dspy-name-row.c:82
+msgid "%s: %s"
+msgstr "%s: %s"
+
+#: src/plugins/dspy/libdspy/dspy-name-row.c:80+src/plugins/dspy/libdspy/dspy-name-row.c:82
+msgid "Activatable"
+msgstr "Активациа ззухо"
+
+#: src/plugins/dspy/libdspy/dspy-name-row.c:80
+msgid "Yes"
+msgstr "Ааи"
+
+#: src/plugins/dspy/libdspy/dspy-name-row.c:87
+msgid "%s: %u"
+msgstr "%s: %u"
+
+#: src/plugins/emacs/gbp-emacs-preferences-addin.c:52
+msgid "Emacs"
+msgstr "Emacs"
+
+#: src/plugins/eslint/eslint_plugin.py:98
+msgid "Enable the use of ESLint, which may execute code in your project"
+msgstr "Шәыпроект аҟны акод анагӡара алшара шәоуразы ESLint ахархәара аҿакра ."
+
+#: src/plugins/eslint/org.gnome.builder.plugins.eslint.gschema.xml:5
+msgid "Enable ESLint"
+msgstr "ESLint аҿакра"
+
+#: src/plugins/flatpak/gbp-flatpak-runtime.c:788
+msgid "%s <b>%s</b>"
+msgstr "%s <b>%s</b>"
+
+#: src/plugins/flatpak/gbp-flatpak-runtime.c:790
+msgid "%s <b>%s</b> <span fgalpha='36044'>%s</span>"
+msgstr "%s <b>%s</b> <span fgalpha='36044'>%s</span>"
+
+#: src/plugins/flatpak/gbp-flatpak-runtime.c:792
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: src/plugins/glade/gbp-glade-page.c:502
+msgid "Unnamed Glade project"
+msgstr "Ихьӡыдоу апроект Glade"
+
+#: src/plugins/glade/gbp-glade-properties.c:69
+msgid "Unnamed Glade Project"
+msgstr "Ихьӡыдоу апроект Glade"
+
+#: src/plugins/glade/gtk/menus.ui:5
+msgid "Glade"
+msgstr "Glade"
+
+#: src/plugins/gnome-code-assistance/ide-gca-preferences-addin.c:64
+msgid "Pylint"
+msgstr "Pylint"
+
+#: src/plugins/gnome-code-assistance/ide-gca-preferences-addin.c:65
+msgid "Enable the use of pylint, which may execute code in your project"
+msgstr "Шәыпроект аҟны акод анагӡара алшара шәоуразы pylint ахархәара аҿакра ."
+
+#: src/plugins/gnome-code-assistance/org.gnome.builder.gnome-code-assistance.gschema.xml:5
+msgid "Enable Pylint"
+msgstr "Pylint аҿакра"
+
+#: src/plugins/stylelint/org.gnome.builder.plugins.stylelint.gschema.xml:5
+msgid "Enable Stylelint"
+msgstr "Stylelint аҿакра"
+
+#: src/plugins/stylelint/stylelint_plugin.py:77
+msgid "Stylelint"
+msgstr "Stylelint"
+
+#: src/plugins/sublime/gbp-sublime-preferences-addin.c:52
+msgid "Sublime Text"
+msgstr "Sublime Text"
+
+#: src/plugins/vagrant/gbp-vagrant-runtime-provider.c:52+src/plugins/vagrant/gbp-vagrant-runtime-provider.c:113
+msgid "Vagrant"
+msgstr "Vagrant"

@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the brasero package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: brasero\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/brasero/issues\n"
 "POT-Creation-Date: 2022-07-08 21:42+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../data/brasero.desktop.in.in.h:1
 msgid "Brasero"
-msgstr ""
+msgstr "Brasero"
 
 #: ../data/brasero.desktop.in.in.h:2
 msgid "Disc Burner and Copier"
@@ -1316,30 +1316,21 @@ msgid ""
 "This can be a problem when writing DVDs or large images."
 msgstr ""
 
-#. Translators %s.1f is the speed used to burn
 #: ../libbrasero-burn/brasero-drive-properties.c:524
-#, c-format
 msgid "%.1f× (DVD)"
-msgstr ""
+msgstr "%.1f× (DVD)"
 
-#. Translators %s.1f is the speed used to burn
 #: ../libbrasero-burn/brasero-drive-properties.c:528
-#, c-format
 msgid "%.1f× (CD)"
-msgstr ""
+msgstr "%.1f× (CD)"
 
-#. Translators %s.1f is the speed used to burn. BD = Blu Ray
 #: ../libbrasero-burn/brasero-drive-properties.c:532
-#, c-format
 msgid "%.1f× (BD)"
-msgstr ""
+msgstr "%.1f× (BD)"
 
-#. Translators %s.1f is the speed used to burn for every medium
-#. * type. BD = Blu Ray
 #: ../libbrasero-burn/brasero-drive-properties.c:537
-#, c-format
 msgid "%.1f× (BD) %.1f× (DVD) %.1f× (CD)"
-msgstr ""
+msgstr "%.1f× (BD) %.1f× (DVD) %.1f× (CD)"
 
 #: ../libbrasero-burn/brasero-drive-properties.c:575
 msgid "Impossible to retrieve speeds"
@@ -1421,7 +1412,7 @@ msgstr ""
 
 #: ../libbrasero-burn/brasero-image-type-chooser.c:97
 msgid "Autodetect"
-msgstr ""
+msgstr "Ахала аилкаара"
 
 #: ../libbrasero-burn/brasero-image-type-chooser.c:106
 msgid "ISO9660 image"
@@ -1820,7 +1811,7 @@ msgstr ""
 
 #: ../libbrasero-burn/brasero-video-options.c:458
 msgid "_NTSC"
-msgstr ""
+msgstr "_NTSC"
 
 #: ../libbrasero-burn/brasero-video-options.c:460
 msgid "Format used mostly on the North American continent"
@@ -1828,7 +1819,7 @@ msgstr ""
 
 #: ../libbrasero-burn/brasero-video-options.c:473
 msgid "_PAL/SECAM"
-msgstr ""
+msgstr "_PAL/SECAM"
 
 #: ../libbrasero-burn/brasero-video-options.c:475
 msgid "Format used mostly in Europe"
@@ -1844,11 +1835,11 @@ msgstr ""
 
 #: ../libbrasero-burn/brasero-video-options.c:515
 msgid "_4:3"
-msgstr ""
+msgstr "_4:3"
 
 #: ../libbrasero-burn/brasero-video-options.c:530
 msgid "_16:9"
-msgstr ""
+msgstr "_16:9"
 
 #. Video options for (S)VCD
 #: ../libbrasero-burn/brasero-video-options.c:545
@@ -2045,10 +2036,9 @@ msgstr ""
 msgid "Image File"
 msgstr ""
 
-#: ../libbrasero-media/brasero-drive-selection.c:341
-#: ../libbrasero-media/brasero-drive-selection.c:436
+#: ../libbrasero-media/brasero-drive-selection.c:341+../libbrasero-media/brasero-drive-selection.c:436
 msgid "Unnamed CD/DVD Drive"
-msgstr ""
+msgstr "Ихьӡыдоу аусруга  CD/DVD"
 
 #: ../libbrasero-media/brasero-media.c:54
 msgid "Display debug statements on stdout for Brasero media library"
@@ -2068,43 +2058,43 @@ msgstr ""
 
 #: ../libbrasero-media/brasero-medium.c:66
 msgid "CD-ROM"
-msgstr ""
+msgstr "CD-ROM"
 
 #: ../libbrasero-media/brasero-medium.c:67
 msgid "CD-R"
-msgstr ""
+msgstr "CD-R"
 
 #: ../libbrasero-media/brasero-medium.c:68
 msgid "CD-RW"
-msgstr ""
+msgstr "CD-RW"
 
 #: ../libbrasero-media/brasero-medium.c:69
 msgid "DVD-ROM"
-msgstr ""
+msgstr "DVD-ROM"
 
 #: ../libbrasero-media/brasero-medium.c:70
 msgid "DVD-R"
-msgstr ""
+msgstr "DVD-R"
 
 #: ../libbrasero-media/brasero-medium.c:71
 msgid "DVD-RW"
-msgstr ""
+msgstr "DVD-RW"
 
 #: ../libbrasero-media/brasero-medium.c:72
 msgid "DVD+R"
-msgstr ""
+msgstr "DVD+R"
 
 #: ../libbrasero-media/brasero-medium.c:73
 msgid "DVD+RW"
-msgstr ""
+msgstr "DVD+RW"
 
 #: ../libbrasero-media/brasero-medium.c:74
 msgid "DVD+R dual layer"
-msgstr ""
+msgstr "DVD+R DL"
 
 #: ../libbrasero-media/brasero-medium.c:75
 msgid "DVD+RW dual layer"
-msgstr ""
+msgstr "DVD+RW DL"
 
 #: ../libbrasero-media/brasero-medium.c:76
 msgid "DVD-R dual layer"
@@ -2112,7 +2102,7 @@ msgstr ""
 
 #: ../libbrasero-media/brasero-medium.c:77
 msgid "DVD-RAM"
-msgstr ""
+msgstr "DVD-RAM"
 
 #: ../libbrasero-media/brasero-medium.c:78
 msgid "Blu-ray disc"
@@ -2154,12 +2144,9 @@ msgstr ""
 msgid "Data %s in %s"
 msgstr ""
 
-#. NOTE for translators: the first %s is the disc type and the
-#. * second %s the name of the drive this disc is in.
 #: ../libbrasero-media/brasero-medium.c:244
-#, c-format
 msgid "%s in %s"
-msgstr ""
+msgstr "%s в %s"
 
 #. NOTE for translators, the first %s is the medium name
 #: ../libbrasero-media/brasero-medium-selection.c:158
@@ -2167,18 +2154,9 @@ msgstr ""
 msgid "%s: empty"
 msgstr ""
 
-#. NOTE for translators: the first %s is the medium name, the
-#. * second %s is the space (kio, gio) used by data on the disc.
-#.
-#. NOTE for translators: the first %s is the medium name, the
-#. * second %s is the space (time) used by data on the disc.
-#. * I really don't know if I should set this string as
-#. * translatable.
-#: ../libbrasero-media/brasero-medium-selection.c:174
-#: ../libbrasero-media/brasero-medium-selection.c:186
-#, c-format
+#: ../libbrasero-media/brasero-medium-selection.c:174+../libbrasero-media/brasero-medium-selection.c:186
 msgid "%s: %s"
-msgstr ""
+msgstr "%s: %s"
 
 #: ../libbrasero-media/brasero-medium-selection.c:451
 msgid "Searching for available discs"
@@ -2206,18 +2184,13 @@ msgstr ""
 msgid "%s h"
 msgstr ""
 
-#. Translators: this is 'hour:minute:second' like '2:14:25'
 #: ../libbrasero-media/brasero-units.c:86
-#, c-format
 msgid "%s:%s:%s"
-msgstr ""
+msgstr "%s:%s:%s"
 
-#. Translators: this is 'hour:minute' or 'minute:second'
-#: ../libbrasero-media/brasero-units.c:92
-#: ../libbrasero-media/brasero-units.c:107
-#, c-format
+#: ../libbrasero-media/brasero-units.c:92+../libbrasero-media/brasero-units.c:107
 msgid "%s:%s"
-msgstr ""
+msgstr "%s:%s"
 
 #. Translators: %s is a duration expressed in minutes
 #: ../libbrasero-media/brasero-units.c:99
@@ -2296,7 +2269,7 @@ msgstr ""
 
 #: ../libbrasero-media/scsi-error.c:48
 msgid "Outrange address"
-msgstr ""
+msgstr "Аҭыӡҭыԥ аҳәаақәа ирҭыҵоит"
 
 #: ../libbrasero-media/scsi-error.c:49
 msgid "Invalid address"
@@ -2866,20 +2839,17 @@ msgstr ""
 msgid "Hashing algorithm to be used:"
 msgstr ""
 
-#: ../plugins/checksum/burn-checksum-files.c:1507
-#: ../plugins/checksum/burn-checksum-image.c:859
+#: ../plugins/checksum/burn-checksum-files.c:1507+../plugins/checksum/burn-checksum-image.c:859
 msgid "MD5"
-msgstr ""
+msgstr "MD5"
 
-#: ../plugins/checksum/burn-checksum-files.c:1509
-#: ../plugins/checksum/burn-checksum-image.c:861
+#: ../plugins/checksum/burn-checksum-files.c:1509+../plugins/checksum/burn-checksum-image.c:861
 msgid "SHA1"
-msgstr ""
+msgstr "SHA1"
 
-#: ../plugins/checksum/burn-checksum-files.c:1511
-#: ../plugins/checksum/burn-checksum-image.c:863
+#: ../plugins/checksum/burn-checksum-files.c:1511+../plugins/checksum/burn-checksum-image.c:863
 msgid "SHA256"
-msgstr ""
+msgstr "SHA256"
 
 #. Translators: first %s is the filename, second %s
 #. * is the error generated from errno
@@ -3254,17 +3224,9 @@ msgstr ""
 msgid "Brasero Homepage"
 msgstr ""
 
-#. Translators: This is a special message that shouldn't be translated
-#. * literally. It is used in the about box to give credits to
-#. * the translators.
-#. * Thus, you should translate it to your name and email address.
-#. * You should also include other translators who have contributed to
-#. * this translation; in that case, please write each of them on a separate
-#. * line seperated by newlines (\n).
-#.
 #: ../src/brasero-app.c:1227
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: ../src/brasero-app.c:1449
 #, c-format
@@ -3345,7 +3307,7 @@ msgstr ""
 
 #: ../src/brasero-audio-disc.c:480
 msgid "Artist"
-msgstr ""
+msgstr "Анагӡаҩцәа"
 
 #: ../src/brasero-audio-disc.c:488 ../src/brasero-playlist.c:772
 #: ../src/brasero-split-dialog.c:1225
@@ -3844,7 +3806,7 @@ msgstr ""
 
 #: ../src/brasero-layout.c:110
 msgid "_Show Side Panel"
-msgstr ""
+msgstr "_Аваратәи апанель"
 
 #: ../src/brasero-layout.c:111
 msgid "Show a side pane along the project"
@@ -3870,14 +3832,9 @@ msgstr ""
 msgid "Click to close the side pane"
 msgstr ""
 
-#: ../src/brasero-multi-song-props.c:89 ../src/brasero-multi-song-props.c:97
-#: ../src/brasero-multi-song-props.c:105 ../src/brasero-multi-song-props.c:123
-#: ../src/brasero-multi-song-props.c:139 ../src/brasero-multi-song-props.c:160
-#: ../src/brasero-multi-song-props.c:173 ../src/brasero-multi-song-props.c:249
-#: ../src/brasero-multi-song-props.c:270 ../src/brasero-multi-song-props.c:291
-#: ../src/brasero-rename.c:90 ../src/brasero-rename.c:321
+#: ../src/brasero-multi-song-props.c:89+../src/brasero-multi-song-props.c:97+../src/brasero-multi-song-props.c:105+../src/brasero-multi-song-props.c:123+../src/brasero-multi-song-props.c:139+../src/brasero-multi-song-props.c:160+../src/brasero-multi-song-props.c:173+../src/brasero-multi-song-props.c:249+../src/brasero-multi-song-props.c:270+../src/brasero-multi-song-props.c:291+../src/brasero-rename.c:90+../src/brasero-rename.c:321
 msgid "<Keep current values>"
-msgstr ""
+msgstr "<Иҟоу аҵакы аиқәырхара>"
 
 #: ../src/brasero-multi-song-props.c:126 ../src/brasero-multi-song-props.c:143
 msgid "Remove silences"
@@ -3899,9 +3856,9 @@ msgstr ""
 msgid "Additional song information"
 msgstr ""
 
-#: ../src/brasero-multi-song-props.c:242 ../src/brasero-song-properties.c:189
+#: ../src/brasero-multi-song-props.c:242+../src/brasero-song-properties.c:189
 msgid "Artist:"
-msgstr ""
+msgstr "Анагӡаҩ"
 
 #: ../src/brasero-multi-song-props.c:263 ../src/brasero-song-properties.c:201
 msgid "Composer:"
@@ -3920,9 +3877,8 @@ msgid "Song Information"
 msgstr ""
 
 #: ../src/brasero-player.c:540
-#, c-format
 msgid "%i × %i pixels"
-msgstr ""
+msgstr "%i × %i пиксельк"
 
 #. No Preview view
 #: ../src/brasero-player.c:845
@@ -3967,9 +3923,8 @@ msgid "Enabled"
 msgstr ""
 
 #: ../src/brasero-plugin-manager-ui.c:143
-#, c-format
 msgid "Copyright %s"
-msgstr ""
+msgstr "Аԥҵаҩцәа рзинқәа %s"
 
 #: ../src/brasero-plugin-manager-ui.c:575
 #: ../src/brasero-plugin-manager-ui.c:963
@@ -3987,7 +3942,7 @@ msgstr ""
 
 #: ../src/brasero-plugin-manager-ui.c:605
 msgid "Ac_tivate All"
-msgstr ""
+msgstr "З_егьы рҿакра"
 
 #: ../src/brasero-plugin-manager-ui.c:610
 msgid "_Deactivate All"
@@ -4513,15 +4468,9 @@ msgstr ""
 msgid "{number}"
 msgstr ""
 
-#. *
-#. * Translators: this is the position being played in a stream. The
-#. * first %s is the position and the second %s is the whole length of
-#. * the stream. I chose to make that translatable in case some languages
-#. * don't allow the "/"
 #: ../src/brasero-song-control.c:99
-#, c-format
 msgid "%s / %s"
-msgstr ""
+msgstr "%s / %s"
 
 #: ../src/brasero-song-control.c:527
 msgid "No file"
@@ -4694,13 +4643,9 @@ msgstr ""
 msgid "Hours"
 msgstr ""
 
-#. Translators: separating hours and minutes
-#. Translators: separating minutes and seconds
-#. Translators: separating seconds and frames
-#: ../src/brasero-time-button.c:292 ../src/brasero-time-button.c:302
-#: ../src/brasero-time-button.c:312
+#: ../src/brasero-time-button.c:292+../src/brasero-time-button.c:302+../src/brasero-time-button.c:312
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: ../src/brasero-time-button.c:297
 msgid "Minutes"
@@ -4745,7 +4690,7 @@ msgstr ""
 
 #: ../src/main.c:84
 msgid "[URI] [URI] …"
-msgstr ""
+msgstr "[URI] [URI] …"
 
 #: ../src/main.c:96
 #, c-format

@@ -137,7 +137,7 @@ msgstr ""
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.c:559
 msgid "Administrator"
-msgstr ""
+msgstr "Анаԥхгаҩы"
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.c:565
 #: gnome-initial-setup/pages/account/gis-account-page-local.c:608
@@ -147,7 +147,7 @@ msgstr ""
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:21
 msgid "Avatar image"
-msgstr ""
+msgstr "Аватар"
 
 #: gnome-initial-setup/pages/account/gis-account-page-local.ui:38
 #: gnome-initial-setup/pages/account/gis-account-page.c:283
@@ -312,7 +312,7 @@ msgstr ""
 
 #: gnome-initial-setup/pages/network/gis-network-page.ui:18
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 #: gnome-initial-setup/pages/network/gis-network-page.ui:19
 msgid ""
@@ -542,7 +542,7 @@ msgstr ""
 
 #: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:74
 msgid "Automatic Problem Reporting"
-msgstr ""
+msgstr "Ауадаҩрақәа ирызкны автоматикатә  ҳасабырбақәа"
 
 #: gnome-initial-setup/pages/privacy/gis-privacy-page.ui:110
 msgid ""
@@ -620,22 +620,17 @@ msgctxt "timezone loc"
 msgid "%s, %s"
 msgstr ""
 
-#. Translators: UTC here means the Coordinated Universal Time.
-#. * %:::z will be replaced by the offset from UTC e.g. UTC+02
-#.
 #: gnome-initial-setup/pages/timezone/gis-timezone-page.c:308
 msgid "UTC%:::z"
-msgstr ""
+msgstr "UTC%:::z"
 
-#. Translators: This is the time format used in 12-hour mode.
 #: gnome-initial-setup/pages/timezone/gis-timezone-page.c:312
 msgid "%l:%M %p"
-msgstr ""
+msgstr "%l:%M %p"
 
-#. Translators: This is the time format used in 24-hour mode.
 #: gnome-initial-setup/pages/timezone/gis-timezone-page.c:315
 msgid "%R"
-msgstr ""
+msgstr "%R"
 
 #. Translators: "timezone (utc shift)"
 #: gnome-initial-setup/pages/timezone/gis-timezone-page.c:318
@@ -685,3 +680,19 @@ msgstr ""
 #: gnome-initial-setup/pages/welcome/gis-welcome-page.ui:54
 msgid "_Start Setup"
 msgstr ""
+
+#: gnome-initial-setup/pages/timezone/gis-location-entry.c:523+gnome-initial-setup/pages/timezone/gis-location-entry.c:551
+msgctxt ""
+"gnome-initial-setup/pages/timezone/gis-location-entry.c:523 gnome-initial-"
+"setup/pages/timezone/gis-location-entry.c:551"
+msgid "%s, %s"
+msgstr "%s, %s"
+
+#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:271
+msgctxt "gnome-initial-setup/pages/timezone/gis-timezone-page.c:271"
+msgid "%s, %s"
+msgstr "%s, %s"
+
+#: gnome-initial-setup/pages/timezone/gis-timezone-page.c:318
+msgid "%s (%s)"
+msgstr "%s (%s)"

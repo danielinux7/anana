@@ -119,5 +119,65 @@ msgstr ""
 msgid "Learn about the key features in {name} {version}."
 msgstr "Еилышәкаа хадара злоу алҿиаақәа ирызкны {name} {version} рҟны"
 
+#: src/gui/gtd-application.c:133
+msgid "Copyright © 2015–2020 The Endeavour authors"
+msgstr "Copyright © 2015–2020 Аԥшьы To Do аԥҵаҩцәа"
+
+#: src/gui/gtd-application.c:138
+msgid "translator-credits"
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
+
+#: src/gui/gtd-new-task-row.c:90
+msgid "%1$s  <small>%2$s</small>"
+msgstr "%1$s  <small>%2$s</small>"
+
+#: src/gui/gtd-provider-selector.ui:35
+msgid "Google"
+msgstr "Google"
+
+#: src/gui/gtd-provider-selector.ui:61
+msgid "ownCloud"
+msgstr "ownCloud"
+
+#: src/gui/gtd-provider-selector.ui:87
+msgid "Microsoft Exchange"
+msgstr "Microsoft Exchange"
+
+#: src/plugins/background/gtd-plugin-background.c:238
+msgid "%1$s and one more task\n"
+msgid_plural "%1$s and %2$d other tasks"
+msgstr[0] "%1$s даҽа %2$d ҳасабтәки\n"
+msgstr[1] "%1$s  даҽа %2$d  ҳасабтәқәеи\n"
+
+#: src/plugins/task-lists-workspace/gtd-sidebar.ui:90
+msgid "Archived"
+msgstr "Архивтәра азуп"
+
+#: src/plugins/task-lists-workspace/gtd-task-list-panel.c:208+src/plugins/task-lists-workspace/gtd-task-list-panel.ui:52
+msgid "Archive"
+msgstr "Архивтәра"
+
+#: src/plugins/todoist/gtd-provider-todoist.c:1100
+msgid "Todoist"
+msgstr "Todoist"
+
+#: src/plugins/todoist/gtd-provider-todoist.c:1411
+msgid "Todoist: %s"
+msgstr "Todoist: %s"
+
+#: src/plugins/todo-txt/gtd-plugin-todo-txt.c:201
+msgid ""
+"<b>Warning!</b> Todo.txt support is experimental and unstable. You may "
+"experience instability, errors and eventually data loss. It is not "
+"recommended to use Todo.txt integration on production systems."
+msgstr ""
+"<b>Шәгәышәҽаныз</b> Адкылара Todo.txt иԥышшәагоуп насгьы иҭышәынтәалоуп."
+"Ишәԥылар рылшоит агхақәа, адыррақәа шәцәыӡыргьы ҟалоит. Ишәабжьаҳгоит  Todo."
+"txt ахархәара ашәымҭаларц аусуратә системақәа рҟны."
+
+#: src/plugins/todo-txt/gtd-provider-todo-txt.c:643
+msgid "Todo.txt"
+msgstr "Todo.txt"
+
 #~ msgid "Main Window"
 #~ msgstr "Ихадоу аԥенџьыр"

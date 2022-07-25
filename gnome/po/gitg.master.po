@@ -22,10 +22,9 @@ msgstr ""
 msgid "Could not parse XML from stream"
 msgstr ""
 
-#: data/org.gnome.gitg.appdata.xml.in.in:5 gitg/gitg.vala:39
-#: gitg/resources/ui/gitg-window.ui:8
+#: data/org.gnome.gitg.appdata.xml.in.in:5+gitg/gitg.vala:39+gitg/resources/ui/gitg-window.ui:8
 msgid "gitg"
-msgstr ""
+msgstr "gitg"
 
 #: data/org.gnome.gitg.appdata.xml.in.in:9
 msgid "Graphical user interface for git"
@@ -81,7 +80,7 @@ msgstr ""
 
 #: data/org.gnome.gitg.desktop.in.in:3
 msgid "@binary@"
-msgstr ""
+msgstr "@binary@"
 
 #: data/org.gnome.gitg.desktop.in.in:4
 msgid "Git repository browser"
@@ -111,11 +110,11 @@ msgstr ""
 
 #: data/org.gnome.gitg.gschema.xml.in:45
 msgid "Default Activity"
-msgstr ""
+msgstr "Активра ишыҟоу еипш"
 
 #: data/org.gnome.gitg.gschema.xml.in:46
 msgid "The activity which gitg activates by default when first launched."
-msgstr ""
+msgstr "gitg  иҟанаҵо активра ишыҟоу еиԥш аҿакраан"
 
 #: data/org.gnome.gitg.gschema.xml.in:52
 msgid "Use Default Font"
@@ -155,10 +154,9 @@ msgstr ""
 msgid "Enable Monitoring"
 msgstr ""
 
-#: data/org.gnome.gitg.gschema.xml.in:71
-#: gitg/resources/ui/gitg-preferences-interface.ui:188
+#: data/org.gnome.gitg.gschema.xml.in:71+gitg/resources/ui/gitg-preferences-interface.ui:188
 msgid "Automatically update when external changes to .git are detected"
-msgstr ""
+msgstr "Автоматикла арҿыцра .git  анҭыҵынтә аԥсахрақәа аныԥшаархалак ашьҭахь"
 
 #: data/org.gnome.gitg.gschema.xml.in:77
 msgid "Enable Diff Highlighting"
@@ -235,7 +233,7 @@ msgstr ""
 
 #: data/org.gnome.gitg.gschema.xml.in:140
 msgid "Mainline Head"
-msgstr ""
+msgstr "Mainline Head"
 
 #: data/org.gnome.gitg.gschema.xml.in:141
 msgid ""
@@ -854,10 +852,9 @@ msgid ""
 "checkout the cherry pick to your working directory to resolve the conflicts?"
 msgstr ""
 
-#: gitg/gitg-commit-action-cherry-pick.vala:164
-#: gitg/gitg-ref-action-checkout.vala:48 gitg/gitg-ref-action-merge.vala:195
+#: gitg/gitg-commit-action-cherry-pick.vala:164+gitg/gitg-ref-action-checkout.vala:48+gitg/gitg-ref-action-merge.vala:195
 msgid "Checkout"
-msgstr ""
+msgstr "Checkout"
 
 #: gitg/gitg-commit-action-cherry-pick.vala:168
 msgid "Cherry pick failed with conflicts"
@@ -966,13 +963,13 @@ msgstr ""
 msgid "Create new repository"
 msgstr ""
 
-#. Translators: %s is a file name
 #: gitg/gitg-dash-view.vala:448
-#, c-format
 msgid ""
 "The location <i>%s</i> does not appear to be a valid git repository. Would "
 "you like to initialize a new git repository at this location?"
 msgstr ""
+"<i>%s</i>  git аԥхьакырҭс иҟаӡам. Ишәҭахума ари аҭыԥ аҿы иҿыцу git "
+"аԥхьакырҭа аҭагылазаашьа арбара?"
 
 #: gitg/gitg-dash-view.vala:454
 msgid "Create repository"
@@ -1421,7 +1418,7 @@ msgstr ""
 
 #: gitg/history/gitg-history.vala:949
 msgid "Mainline"
-msgstr ""
+msgstr "Mainline"
 
 #: gitg/preferences/gitg-preferences-commit.vala:142
 msgctxt "Preferences"
@@ -1475,7 +1472,7 @@ msgstr ""
 
 #: gitg/resources/ui/gitg-checkout-remote-branch-dialog.ui:34
 msgid "C_heckout"
-msgstr ""
+msgstr "C_heckout"
 
 #: gitg/resources/ui/gitg-checkout-remote-branch-dialog.ui:69
 msgid "Local branch _name:"
@@ -1559,15 +1556,13 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
-#: gitg/resources/ui/gitg-commit-submodule-history-view.ui:42
-#: gitg/resources/ui/gitg-history-paned.ui:111
+#: gitg/resources/ui/gitg-commit-submodule-history-view.ui:42+gitg/resources/ui/gitg-history-paned.ui:111
 msgid "Author"
-msgstr ""
+msgstr "Аԥҵаҩы"
 
-#: gitg/resources/ui/gitg-commit-submodule-history-view.ui:58
-#: gitg/resources/ui/gitg-history-paned.ui:127
+#: gitg/resources/ui/gitg-commit-submodule-history-view.ui:58+gitg/resources/ui/gitg-history-paned.ui:127
 msgid "Date"
-msgstr ""
+msgstr "Аамҭарба"
 
 #: gitg/resources/ui/gitg-create-branch-dialog.ui:7
 msgid "Create Branch"
@@ -1738,7 +1733,7 @@ msgstr ""
 
 #: gitg/resources/ui/gitg-preferences-interface.ui:124
 msgid "Avatars"
-msgstr ""
+msgstr "Аватары"
 
 #: gitg/resources/ui/gitg-preferences-interface.ui:144
 msgid "Use gravatar service to provide user avatars"
@@ -1972,33 +1967,21 @@ msgid_plural "%d days ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#. Translators: this is a strftime type date format which is
-#. used when the date is in the current year and uses a 24 hour
-#. clock.
 #: libgitg/gitg-date.vala:374
 msgid "%b %e, %H∶%M"
-msgstr ""
+msgstr "%b %e, %H∶%M"
 
-#. Translators: this is a strftime type date format which is
-#. used when the date is in the current year and uses a 12 hour
-#. clock.
 #: libgitg/gitg-date.vala:381
 msgid "%b %e, %I∶%M %p"
-msgstr ""
+msgstr "%b %e, %I∶%M %p"
 
-#. Translators: this is a strftime type date format which is
-#. used when the date is not in the current year and uses a 24
-#. hour clock.
 #: libgitg/gitg-date.vala:391
 msgid "%b %e %Y, %H∶%M"
-msgstr ""
+msgstr "%b %e %Y, %H∶%M"
 
-#. Translators: this is a strftime type date format which is
-#. used when the date is not in the current year and uses a 12
-#. hour clock.
 #: libgitg/gitg-date.vala:398
 msgid "%b %e %Y, %I∶%M %p"
-msgstr ""
+msgstr "%b %e %Y, %I∶%M %p"
 
 #. Translators: this label is displayed below the image diff, %s
 #. is substituted with the size of the image
@@ -2072,17 +2055,13 @@ msgstr ""
 msgid "_Copy file path"
 msgstr ""
 
-#. Translators: this is used to construct: "at <directory>", to indicate where the repository is at.
 #: libgitg/gitg-repository-list-box.vala:153
-#, c-format
 msgid "at %s"
-msgstr ""
+msgstr "%s аҟны"
 
-#. Translators: this is used to construct: "<branch-name> at <directory>"
 #: libgitg/gitg-repository-list-box.vala:162
-#, c-format
 msgid "%s at %s"
-msgstr ""
+msgstr "%s аҟны %s"
 
 #: libgitg/gitg-repository-list-box.vala:545
 msgid "Cloning…"
@@ -2095,7 +2074,7 @@ msgstr ""
 
 #: libgitg/resources/ui/gitg-authentication-dialog.ui:18
 msgid "_Authenticate"
-msgstr ""
+msgstr "_Ахаҭара ашьақәыргылара"
 
 #: libgitg/resources/ui/gitg-authentication-dialog.ui:76
 msgid ""
@@ -2133,7 +2112,7 @@ msgstr ""
 
 #: libgitg/resources/ui/gitg-diff-view-file-renderer-image.ui:35
 msgid "Side by side"
-msgstr ""
+msgstr "Бок о бок"
 
 #: libgitg/resources/ui/gitg-diff-view-file-renderer-image.ui:62
 msgid "Slider"

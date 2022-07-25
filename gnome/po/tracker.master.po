@@ -16,15 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Translators: this is a '|' (U+007C) separated list of common
-#. * title beginnings. Meant to be skipped for sorting purposes,
-#. * case doesn't matter. Given English media is quite common, it is
-#. * advised to leave the untranslated articles in addition to
-#. * the translated ones.
-#.
 #: src/libtracker-sparql/core/tracker-collation.c:333
 msgid "the|a|an"
-msgstr ""
+msgstr "the|a|an"
 
 #: src/portal/tracker-main.c:53
 msgid "Version"
@@ -82,10 +76,9 @@ msgstr ""
 msgid "List SPARQL endpoints available in DBus"
 msgstr ""
 
-#. TRANSLATORS: these are commandline arguments
 #: src/tracker/tracker-endpoint.c:103
 msgid "--list can only be used with --session or --system"
-msgstr ""
+msgstr "--list  ахархәара аиуоит --session или --system звҵәык аманы"
 
 #. TRANSLATORS: those are commandline arguments
 #: src/tracker/tracker-endpoint.c:109
@@ -261,7 +254,7 @@ msgstr ""
 
 #: src/tracker/tracker-sparql.c:127
 msgid "SPARQL"
-msgstr ""
+msgstr "SPARQL"
 
 #: src/tracker/tracker-sparql.c:130
 msgid "This is used with --query and for database updates only."
@@ -499,7 +492,7 @@ msgstr ""
 
 #: src/tracker/tracker-sql.c:53
 msgid "SQL"
-msgstr ""
+msgstr "SQL"
 
 #: src/tracker/tracker-sql.c:114
 msgid "Failed to initialize data manager"

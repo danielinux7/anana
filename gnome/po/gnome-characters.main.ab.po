@@ -222,9 +222,8 @@ msgid "Unassigned"
 msgstr "Иазкӡам"
 
 #: src/searchProvider.js:95
-#, javascript-format
 msgid "U+%s"
-msgstr ""
+msgstr "U+%s"
 
 #: src/searchProvider.js:112
 #, fuzzy

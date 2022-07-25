@@ -275,7 +275,7 @@ msgstr ""
 
 #: src/yelp-window.c:353
 msgid "Forward"
-msgstr ""
+msgstr "Ԥхьаҟа"
 
 #: src/yelp-window.c:364
 msgid "Menu"

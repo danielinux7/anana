@@ -70,6 +70,42 @@ msgstr "Азеиԥш фаилқәа ахархәаҩ %s  итәы"
 msgid "%s's public files on %s"
 msgstr "Азеиԥш фаилқәа ахархәаҩ%s итәы %s аҟны "
 
+#: gtweak/app.py:101+gtweak/app.py:103
+msgid "GNOME Shell"
+msgstr "GNOME Shell"
+
+#: gtweak/app.py:108
+msgid "GTK"
+msgstr "GTK"
+
+#: gtweak/tweaks/tweak_group_appearance.py:199
+msgid "<i>Default</i>"
+msgstr "<i>Ишыҟоу еиԥш</i>"
+
+#: gtweak/tweaks/tweak_group_startup.py:31+gtweak/tweaks/tweak_group_startup.py:307
+msgid "Startup Applications"
+msgstr "Автоматла аусура"
+
+#: gtweak/tweaks/tweak_group_startup.py:58
+msgid "<primary>f"
+msgstr "<primary>f"
+
+#: gtweak/tweaks/tweak_group_top_bar.py:17
+msgid "Date"
+msgstr "Аамҭарба"
+
+#: gtweak/tweaks/tweak_group_windows.py:197
+msgid "HiDPI"
+msgstr "HiDPI"
+
+#: gtweak/tweaks/tweak_wacom.py:25
+msgid "Wacom"
+msgstr "Wacom"
+
+#: gtweak/utils.py:63
+msgid "%s <i>(default)</i>"
+msgstr "%s <i>(ишыҟоу еиԥш)</i>"
+
 #~ msgid "Sharing"
 #~ msgstr "Азеиԥш неирҭа"
 

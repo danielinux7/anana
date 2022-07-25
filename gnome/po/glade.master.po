@@ -17,10 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: data/org.gnome.Glade.desktop.in.in:3 data/org.gnome.Glade.appdata.xml.in:6
-#: src/main.c:44 src/glade.glade:275
+#: data/org.gnome.Glade.desktop.in.in:3+data/org.gnome.Glade.appdata.xml.in:6+src/main.c:44+src/glade.glade:275
 msgid "Glade"
-msgstr ""
+msgstr "Glade"
 
 #: data/org.gnome.Glade.desktop.in.in:4
 msgid "Interface Designer"
@@ -81,9 +80,8 @@ msgid "Redo: %s"
 msgstr ""
 
 #: src/glade-window.c:463
-#, c-format
 msgid "Autosaving '%s'"
-msgstr ""
+msgstr "Аҽеикәырхара «%s»"
 
 #: src/glade-window.c:468
 #, c-format
@@ -470,6 +468,11 @@ msgid ""
 "© 2001-2006 Joaquin Cuenca Abela, Paolo Borelli, et al.\n"
 "© 2001-2006 Ximian, Inc."
 msgstr ""
+"© 2018-2020 Хуан Пабло Угарте (Juan Pablo Ugarte) уб.егь.\n"
+"© 2004-2018 Тристан Ван Берком (Tristan Van Berkom), Хуан Пабло Угарте (Juan "
+"Pablo Ugarte) уб.егь.\n"
+"© 2001-2006 Joaquin Cuenca Abela, Paolo Borelli, уб.егь.\n"
+"© 2001-2006 Ximian, Inc."
 
 #: src/glade.glade:852
 msgid "A user interface designer for GTK+ and GNOME."
@@ -501,12 +504,13 @@ msgid ""
 "saved"
 msgstr ""
 
-#: src/glade-preferences.glade:106 src/glade-preferences.glade:121
-#: src/glade-preferences.glade:140
+#: src/glade-preferences.glade:106+src/glade-preferences.glade:121+src/glade-preferences.glade:140
 msgid ""
 "Automatically save the project to an alternate file whenever\n"
 "the project is modified and the specified timeout elapses"
 msgstr ""
+"Автоматикла апроект даҽа фаилк ахь лассы-лассы аиқәырхара  , апроект "
+"аԥсахраангьы. "
 
 #: src/glade-preferences.glade:110
 msgid "seconds"
@@ -514,7 +518,7 @@ msgstr ""
 
 #: src/glade-preferences.glade:136
 msgid "Automatically save project after"
-msgstr ""
+msgstr "Автоматикла  апроект аиқәырхара "
 
 #: src/glade-preferences.glade:158
 msgid "Load and Save"
@@ -633,7 +637,7 @@ msgstr ""
 
 #: src/glade-registration.glade:217
 msgid "<Your name or nickname is required>"
-msgstr ""
+msgstr "<Шәыхьӡ мамзар шәыхьӡырҩашьа>"
 
 #: src/glade-registration.glade:230 gladeui/glade-project-properties.ui:521
 #: plugins/gtk+/glade-about-dialog-editor.ui:69
@@ -652,7 +656,7 @@ msgstr ""
 
 #: src/glade-registration.glade:256
 msgid "<Required to send back registration token>"
-msgstr ""
+msgstr "<мап>"
 
 #: src/glade-registration.glade:269
 msgid "Country:"
@@ -710,9 +714,9 @@ msgstr ""
 msgid "How long have you been programming?"
 msgstr ""
 
-#: src/glade-registration.glade:753 src/glade-registration.glade:1022
+#: src/glade-registration.glade:753+src/glade-registration.glade:1022
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: src/glade-registration.glade:769 src/glade-registration.glade:1038
 msgid "years"
@@ -732,39 +736,39 @@ msgstr ""
 
 #: src/glade-registration.glade:833
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: src/glade-registration.glade:848
 msgid "C++"
-msgstr ""
+msgstr "C++"
 
 #: src/glade-registration.glade:863
 msgid "C#"
-msgstr ""
+msgstr "C#"
 
 #: src/glade-registration.glade:878
 msgid "Java"
-msgstr ""
+msgstr "Java"
 
 #: src/glade-registration.glade:893
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: src/glade-registration.glade:908
 msgid "JavaScript"
-msgstr ""
+msgstr "JavaScript"
 
 #: src/glade-registration.glade:923
 msgid "Vala"
-msgstr ""
+msgstr "Vala"
 
 #: src/glade-registration.glade:938
 msgid "Perl"
-msgstr ""
+msgstr "Perl"
 
 #: src/glade-registration.glade:953
 msgid "Rust"
-msgstr ""
+msgstr "Rust"
 
 #: src/glade-registration.glade:968 src/glade-registration.glade:1173
 #: src/glade-registration.glade:1278 src/glade-registration.glade:1295
@@ -814,15 +818,15 @@ msgstr ""
 
 #: src/glade-registration.glade:1250
 msgid "Alpine"
-msgstr ""
+msgstr "Alpine"
 
 #: src/glade-registration.glade:1251
 msgid "Arch Linux"
-msgstr ""
+msgstr "Arch Linux"
 
 #: src/glade-registration.glade:1252
 msgid "Ataraxia Linux"
-msgstr ""
+msgstr "Ataraxia Linux"
 
 #: src/glade-registration.glade:1253
 msgid "CentOS"
@@ -830,99 +834,99 @@ msgstr ""
 
 #: src/glade-registration.glade:1254
 msgid "Chrome OS"
-msgstr ""
+msgstr "Chrome OS"
 
 #: src/glade-registration.glade:1255
 msgid "Clear Linux"
-msgstr ""
+msgstr "Clear Linux"
 
 #: src/glade-registration.glade:1256
 msgid "Debian"
-msgstr ""
+msgstr "Debian"
 
 #: src/glade-registration.glade:1257
 msgid "elementary OS"
-msgstr ""
+msgstr "elementary OS"
 
 #: src/glade-registration.glade:1258
 msgid "Endless OS"
-msgstr ""
+msgstr "Endless OS"
 
 #: src/glade-registration.glade:1259
 msgid "Fedora"
-msgstr ""
+msgstr "Fedora"
 
 #: src/glade-registration.glade:1260
 msgid "Gentoo"
-msgstr ""
+msgstr "Gentoo"
 
 #: src/glade-registration.glade:1261
 msgid "Kubuntu"
-msgstr ""
+msgstr "Kubuntu"
 
 #: src/glade-registration.glade:1262
 msgid "Linux Mint"
-msgstr ""
+msgstr "Linux Mint"
 
 #: src/glade-registration.glade:1263
 msgid "Mageia"
-msgstr ""
+msgstr "Mageia"
 
 #: src/glade-registration.glade:1264
 msgid "Mandriva"
-msgstr ""
+msgstr "Mandriva"
 
 #: src/glade-registration.glade:1265
 msgid "Nix OS"
-msgstr ""
+msgstr "Nix OS"
 
 #: src/glade-registration.glade:1266
 msgid "openSUSE"
-msgstr ""
+msgstr "openSUSE"
 
 #: src/glade-registration.glade:1267
 msgid "Oracle"
-msgstr ""
+msgstr "Oracle"
 
 #: src/glade-registration.glade:1268
 msgid "Pop!_OS"
-msgstr ""
+msgstr "Pop!_OS"
 
 #: src/glade-registration.glade:1269
 msgid "PureOS"
-msgstr ""
+msgstr "PureOS"
 
 #: src/glade-registration.glade:1270
 msgid "Raspbian"
-msgstr ""
+msgstr "Raspbian"
 
 #: src/glade-registration.glade:1271
 msgid "Red Hat"
-msgstr ""
+msgstr "Red Hat"
 
 #: src/glade-registration.glade:1272
 msgid "Solus"
-msgstr ""
+msgstr "Solus"
 
 #: src/glade-registration.glade:1273
 msgid "SulinOS"
-msgstr ""
+msgstr "SulinOS"
 
 #: src/glade-registration.glade:1274
 msgid "Turbolinux"
-msgstr ""
+msgstr "Turbolinux"
 
 #: src/glade-registration.glade:1275
 msgid "Ubuntu"
-msgstr ""
+msgstr "Ubuntu"
 
 #: src/glade-registration.glade:1276
 msgid "Void Linux"
-msgstr ""
+msgstr "Void Linux"
 
 #: src/glade-registration.glade:1277
 msgid "Xandros"
-msgstr ""
+msgstr "Xandros"
 
 #: src/glade-registration.glade:1291 src/glade-registration.glade:1308
 msgid "variant"
@@ -930,27 +934,27 @@ msgstr ""
 
 #: src/glade-registration.glade:1292
 msgid "FreeBSD"
-msgstr ""
+msgstr "FreeBSD"
 
 #: src/glade-registration.glade:1293
 msgid "OpenBSD"
-msgstr ""
+msgstr "OpenBSD"
 
 #: src/glade-registration.glade:1294
 msgid "NetBSD"
-msgstr ""
+msgstr "NetBSD"
 
 #: src/glade-registration.glade:1309
 msgid "Oracle Solaris"
-msgstr ""
+msgstr "Oracle Solaris"
 
 #: src/glade-registration.glade:1310
 msgid "OpenSolaris"
-msgstr ""
+msgstr "OpenSolaris"
 
 #: src/glade-registration.glade:1311
 msgid "illumos"
-msgstr ""
+msgstr "illumos"
 
 #: src/glade-registration.glade:1334 src/glade-registration.glade:1357
 msgid "version"
@@ -958,107 +962,107 @@ msgstr ""
 
 #: src/glade-registration.glade:1335
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: src/glade-registration.glade:1336
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: src/glade-registration.glade:1337
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: src/glade-registration.glade:1338
 msgid "Vista"
-msgstr ""
+msgstr "Vista"
 
 #: src/glade-registration.glade:1339
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 #: src/glade-registration.glade:1340
 msgid "2008"
-msgstr ""
+msgstr "2008"
 
 #: src/glade-registration.glade:1341
 msgid "2003"
-msgstr ""
+msgstr "2003"
 
 #: src/glade-registration.glade:1342
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 #: src/glade-registration.glade:1343
 msgid "2000"
-msgstr ""
+msgstr "2000"
 
 #: src/glade-registration.glade:1358
 msgid "Catalina"
-msgstr ""
+msgstr "Catalina"
 
 #: src/glade-registration.glade:1359
 msgid "Mojave"
-msgstr ""
+msgstr "Mojave"
 
 #: src/glade-registration.glade:1360
 msgid "High Sierra"
-msgstr ""
+msgstr "High Sierra"
 
 #: src/glade-registration.glade:1361
 msgid "Sierra"
-msgstr ""
+msgstr "Sierra"
 
 #: src/glade-registration.glade:1362
 msgid "El Capitan"
-msgstr ""
+msgstr "El Capitan"
 
 #: src/glade-registration.glade:1363
 msgid "Yosemite"
-msgstr ""
+msgstr "Yosemite"
 
 #: src/glade-registration.glade:1364
 msgid "Mavericks"
-msgstr ""
+msgstr "Mavericks"
 
 #: src/glade-registration.glade:1365
 msgid "Mountain Lion"
-msgstr ""
+msgstr "Mountain Lion"
 
 #: src/glade-registration.glade:1366
 msgid "Lion"
-msgstr ""
+msgstr "Lion"
 
 #: src/glade-registration.glade:1367
 msgid "Snow Leopard"
-msgstr ""
+msgstr "Snow Leopard"
 
 #: src/glade-registration.glade:1368
 msgid "Leopard"
-msgstr ""
+msgstr "Leopard"
 
 #: src/glade-registration.glade:1369
 msgid "Tiger"
-msgstr ""
+msgstr "Tiger"
 
 #: src/glade-registration.glade:1380
 msgid "GNU/Linux"
-msgstr ""
+msgstr "GNU/Linux"
 
-#: src/glade-registration.glade:1397 plugins/gtk+/gtk+.xml:3149
+#: src/glade-registration.glade:1397+plugins/gtk+/gtk+.xml:3149
 msgid "BSD"
-msgstr ""
+msgstr "BSD"
 
 #: src/glade-registration.glade:1414
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: src/glade-registration.glade:1431
 msgid "Mac OS X"
-msgstr ""
+msgstr "Mac OS X"
 
 #: src/glade-registration.glade:1448
 msgid "Solaris"
-msgstr ""
+msgstr "Solaris"
 
 #: src/glade-registration.glade:1503
 msgid "How often do you use it?"
@@ -1133,7 +1137,7 @@ msgstr ""
 
 #: src/glade-registration.glade:1839
 msgid "Academic"
-msgstr ""
+msgstr "Академиатә"
 
 #: src/glade-registration.glade:1853
 msgid "Embedded applications"
@@ -1195,10 +1199,9 @@ msgstr ""
 msgid "Have you ever encountered a bug?"
 msgstr ""
 
-#: src/glade-registration.glade:2233 src/glade-registration.glade:2305
-#: src/glade-registration.glade:2384 plugins/gtk+/gtk+.xml:1638
+#: src/glade-registration.glade:2233+src/glade-registration.glade:2305+src/glade-registration.glade:2384+plugins/gtk+/gtk+.xml:1638
 msgid "Yes"
-msgstr ""
+msgstr "Ааи"
 
 #: src/glade-registration.glade:2250 src/glade-registration.glade:2322
 #: src/glade-registration.glade:2401 plugins/gtk+/gtk+.xml:1640
@@ -1322,12 +1325,9 @@ msgstr ""
 msgid "The container object this editor is currently editing"
 msgstr ""
 
-#. Name
-#. translators: The unique identifier of an object in the project
-#: gladeui/glade-base-editor.c:1918 gladeui/glade-editor-table.c:315
-#: gladeui/glade-editor-table.c:599
+#: gladeui/glade-base-editor.c:1918+gladeui/glade-editor-table.c:315+gladeui/glade-editor-table.c:599
 msgid "ID:"
-msgstr ""
+msgstr "ID:"
 
 #. Type
 #: gladeui/glade-base-editor.c:1938 plugins/gtk+/glade-window-editor.ui:553
@@ -1342,6 +1342,12 @@ msgid ""
 "  * Drag &amp; Drop to reorder.\n"
 "  * Type column is editable."
 msgstr ""
+"<big><b>Аҵаҳәарақәа:</b></big>\n"
+"  * Аҵлаҟны  аелемент ацҵаразы , аҵла аҵаҟа аҳәынапԥ арыӷьаратәи пытҟәыр "
+"шәақәыӷәӷәа.\n"
+"  * Иалкаау аелементқәа рныхразы шәақәыӷәӷәа Delete.\n"
+"  * Аелеменқәа реишьҭагылашьа аԥсахразы еиҭажәга урҭ аҳәынаԥ ала.\n"
+"  * Ахкы аиҵагыла ариашара ҟалоит."
 
 #. GTK_STOCK_DIALOG_AUTHENTICATION
 #: gladeui/glade-builtins.c:71
@@ -1717,13 +1723,9 @@ msgstr ""
 msgid "Reset Widget Properties"
 msgstr ""
 
-#: gladeui/glade-editor.c:1153 gladeui/glade-editor-property.c:1775
-#: gladeui/glade-editor-property.c:2083 gladeui/glade-editor-property.c:3217
-#: gladeui/glade-editor-property.c:3326 gladeui/glade-editor-property.c:3336
-#: gladeui/glade-editor-property.c:3646 plugins/gtk+/glade-accels.c:524
-#: plugins/gtk+/glade-attributes.c:1208
+#: gladeui/glade-editor.c:1153+gladeui/glade-editor-property.c:1775+gladeui/glade-editor-property.c:2083+gladeui/glade-editor-property.c:3217+gladeui/glade-editor-property.c:3326+gladeui/glade-editor-property.c:3336+gladeui/glade-editor-property.c:3646+plugins/gtk+/glade-accels.c:524+plugins/gtk+/glade-attributes.c:1208
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #. Checklist
 #: gladeui/glade-editor.c:1165
@@ -1921,7 +1923,7 @@ msgstr ""
 
 #: gladeui/glade-inspector.c:568
 msgid " < Search Widgets >"
-msgstr ""
+msgstr "<Авиджетқәа рыԥшаара>"
 
 #: gladeui/glade-inspector.c:607
 msgid "Expand all"
@@ -2019,9 +2021,9 @@ msgstr ""
 msgid "Glade Previewer log"
 msgstr ""
 
-#: gladeui/glade-previewer.c:740 gladeui/glade-previewer.c:750
+#: gladeui/glade-previewer.c:740+gladeui/glade-previewer.c:750
 msgid "user_data"
-msgstr ""
+msgstr "user_data"
 
 #. translators: GConnectFlags values
 #: gladeui/glade-previewer.c:754
@@ -2133,11 +2135,13 @@ msgid "- previews a glade UI definition"
 msgstr ""
 
 #: gladeui/glade-previewer-main.c:332
-#, c-format
 msgid ""
 "%s\n"
 "Run '%s --help' to see a full list of available command line options.\n"
 msgstr ""
+"%s\n"
+"Аус ашәыруы  «%s --help» анеиразин ахьшәымоу адҵатә ҵәаҳәа  ахышәарақәа "
+"рыхҩылаақәа зегьы рыхәаԥшразы.\n"
 
 #: gladeui/glade-previewer-main.c:349
 msgid "Either --listen or --filename must be specified.\n"
@@ -2149,7 +2153,7 @@ msgstr ""
 
 #: gladeui/glade-project.c:1021
 msgid "Has Selection"
-msgstr ""
+msgstr "Активла алкаара"
 
 #: gladeui/glade-project.c:1022
 msgid "Whether project has a selection"
@@ -2262,9 +2266,8 @@ msgid "%s targets Gtk+ %d.%d"
 msgstr ""
 
 #: gladeui/glade-project.c:1970
-#, c-format
 msgid ", %s"
-msgstr ""
+msgstr ", %s"
 
 #: gladeui/glade-project.c:1978
 #, c-format
@@ -2285,12 +2288,15 @@ msgid ""
 msgstr ""
 
 #: gladeui/glade-project.c:2057
-#, c-format
 msgid ""
 "An automatically saved version of `%s' is more recent.\n"
 "\n"
 "Would you like to load the autosave version instead?"
 msgstr ""
+"Автоматикла еиқәырхоу аверсиа \"%s\"  еиҳа иҿыцуп. \n"
+"\n"
+"Ишәҭахума шәара иара ацынхәрас автоматикла аиқәырхара змоу аверсиа "
+"ҭажәгалар. "
 
 #. ******************************************************************
 #. Verify code here (versioning, incompatibility checks)
@@ -2568,7 +2574,7 @@ msgstr ""
 
 #: gladeui/glade-signal.c:167
 msgid "SignalClass"
-msgstr ""
+msgstr "SignalClass"
 
 #: gladeui/glade-signal.c:168
 msgid "The signal class of this signal"
@@ -2638,13 +2644,13 @@ msgstr ""
 msgid "The glade widget to edit signals"
 msgstr ""
 
-#: gladeui/glade-signal-model.c:31 gladeui/glade-signal-model.c:32
+#: gladeui/glade-signal-model.c:31+gladeui/glade-signal-model.c:32
 msgid "<Type here>"
-msgstr ""
+msgstr "<Иҭажәгал абраҟа>"
 
 #: gladeui/glade-signal-model.c:33
 msgid "<Click here>"
-msgstr ""
+msgstr "<Абраҟа шәықәықша>"
 
 #: gladeui/glade-utils.c:137 gladeui/glade-utils.c:168
 #, c-format
@@ -2834,7 +2840,7 @@ msgstr ""
 
 #: gladeui/glade-widget.c:1371
 msgid "Adaptor"
-msgstr ""
+msgstr "Арнаалага"
 
 #: gladeui/glade-widget.c:1372
 msgid "The class adaptor for the associated widget"
@@ -3061,7 +3067,7 @@ msgstr ""
 
 #: gladeui/glade-project-properties.ui:533
 msgid "Copyright:"
-msgstr ""
+msgstr "Аԥҵаҩцәа рзинқәа:"
 
 #: gladeui/glade-project-properties.ui:547
 msgid "program or library name"
@@ -3069,7 +3075,7 @@ msgstr ""
 
 #: gladeui/glade-project-properties.ui:559
 msgid "Author(s):"
-msgstr ""
+msgstr "Аԥҵаҩ(цәа)"
 
 #: gladeui/glade-project-properties.ui:571
 #: plugins/gtk+/glade-about-dialog-editor.ui:99
@@ -3102,23 +3108,23 @@ msgstr ""
 
 #: gladeui/glade-project-properties.ui:653
 msgid "BSD 2-clause"
-msgstr ""
+msgstr "BSD 2-clause"
 
 #: gladeui/glade-project-properties.ui:654
 msgid "BSD 3-clause"
-msgstr ""
+msgstr "BSD 3-clause"
 
 #: gladeui/glade-project-properties.ui:655
 msgid "Apache 2"
-msgstr ""
+msgstr "Apache 2"
 
 #: gladeui/glade-project-properties.ui:656
 msgid "MIT"
-msgstr ""
+msgstr "MIT"
 
 #: gladeui/glade-project-properties.ui:657
 msgid "GNU All permissive"
-msgstr ""
+msgstr "GNU All permissive"
 
 #: plugins/gtk+/glade-about-dialog-editor.c:141
 #, c-format
@@ -3135,9 +3141,9 @@ msgstr ""
 msgid "Setting %s to use a logo icon"
 msgstr ""
 
-#: plugins/gtk+/glade-accels.c:321 plugins/gtk+/glade-accels.c:393
+#: plugins/gtk+/glade-accels.c:321+plugins/gtk+/glade-accels.c:393
 msgid "<choose a key>"
-msgstr ""
+msgstr "<Арыд алышәх>"
 
 #: plugins/gtk+/glade-accels.c:465
 msgid "Accelerator Key"
@@ -3239,11 +3245,9 @@ msgctxt "textattr"
 msgid "Font Description"
 msgstr ""
 
-#: plugins/gtk+/glade-attributes.c:349 plugins/gtk+/glade-attributes.c:404
-#: plugins/gtk+/glade-attributes.c:412 plugins/gtk+/glade-attributes.c:418
-#: plugins/gtk+/glade-attributes.c:871
+#: plugins/gtk+/glade-attributes.c:349+plugins/gtk+/glade-attributes.c:404+plugins/gtk+/glade-attributes.c:412+plugins/gtk+/glade-attributes.c:418+plugins/gtk+/glade-attributes.c:871
 msgid "<Enter Value>"
-msgstr ""
+msgstr "<Иҭажәгал аҵакы>"
 
 #: plugins/gtk+/glade-attributes.c:403
 msgid "Unset"
@@ -3259,7 +3263,7 @@ msgstr ""
 
 #: plugins/gtk+/glade-attributes.c:937
 msgid "Attribute"
-msgstr ""
+msgstr "Аҟазшьарбага"
 
 #: plugins/gtk+/glade-attributes.c:945
 msgid "Value"
@@ -3326,7 +3330,7 @@ msgstr ""
 
 #: plugins/gtk+/glade-column-types.c:499
 msgid "< define a new column >"
-msgstr ""
+msgstr "<Аиҵагыла ҿыц ашәырба>"
 
 #: plugins/gtk+/glade-column-types.c:822
 msgid "Add and remove columns:"
@@ -3726,11 +3730,11 @@ msgstr ""
 
 #: plugins/gtk+/glade-gtk-menu-shell.c:195
 msgid "<separator>"
-msgstr ""
+msgstr "<Аиҟәшага>"
 
 #: plugins/gtk+/glade-gtk-menu-shell.c:209
 msgid "<custom>"
-msgstr ""
+msgstr "<даҽакы>"
 
 #: plugins/gtk+/glade-gtk-menu-shell.c:248
 msgid "Children cannot be added to a separator."
@@ -3894,7 +3898,7 @@ msgstr ""
 
 #: plugins/gtk+/glade-gtk-tool-palette.c:180
 msgid "Group"
-msgstr ""
+msgstr "Агәыԥ"
 
 #: plugins/gtk+/glade-gtk-tool-palette.c:227
 msgid "Tool Palette Editor"
@@ -4155,13 +4159,13 @@ msgid ""
 "rows and the Delete key to remove the selected row)"
 msgstr ""
 
-#: plugins/gtk+/glade-string-list.c:332 plugins/gtk+/glade-string-list.c:377
+#: plugins/gtk+/glade-string-list.c:332+plugins/gtk+/glade-string-list.c:377
 msgid "<Type Here>"
-msgstr ""
+msgstr "<Иҭажәгал абраҟа>"
 
 #: plugins/gtk+/glade-string-list.c:595
 msgid "<Enter ID>"
-msgstr ""
+msgstr "<Иҭажәгал ID>"
 
 #: plugins/gtk+/glade-tool-button-editor.c:164
 #: plugins/gtk+/glade-tool-item-group-editor.c:151
@@ -4325,9 +4329,9 @@ msgstr ""
 msgid "Grid"
 msgstr ""
 
-#: plugins/gtk+/gtk+.xml:49 plugins/gtk+/gtk+.xml:611
+#: plugins/gtk+/gtk+.xml:49+plugins/gtk+/gtk+.xml:611
 msgid "Box"
-msgstr ""
+msgstr "Агәыԥ"
 
 #: plugins/gtk+/gtk+.xml:50 plugins/gtk+/gtk+.xml:2288
 msgid "Paned"
@@ -4533,7 +4537,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:210
 msgid "Animation"
-msgstr ""
+msgstr "Анимациа"
 
 #: plugins/gtk+/gtk+.xml:212 plugins/gtk+/gtk+.xml:2891
 msgid "Arrow"
@@ -4780,7 +4784,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:352
 msgid "Autocomplete"
-msgstr ""
+msgstr "Автоматикла ахарҭәаара"
 
 #: plugins/gtk+/gtk+.xml:354
 msgid "Editbar"
@@ -4916,7 +4920,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:424
 msgid "Marquee"
-msgstr ""
+msgstr "Иҩуа ацәаҳәа"
 
 #: plugins/gtk+/gtk+.xml:426
 msgid "Math"
@@ -5196,7 +5200,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:738
 msgid "CSD"
-msgstr ""
+msgstr "CSD"
 
 #: plugins/gtk+/gtk+.xml:754
 msgid "North West"
@@ -5482,7 +5486,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:1216
 msgid "GtkToolItem"
-msgstr ""
+msgstr "GtkToolItem"
 
 #: plugins/gtk+/gtk+.xml:1228
 msgid "Separator Tool Item"
@@ -5526,7 +5530,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:1309
 msgid "In"
-msgstr ""
+msgstr "Аҟны"
 
 #: plugins/gtk+/gtk+.xml:1311
 msgid "Out"
@@ -5570,7 +5574,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:1420
 msgid "Alpha"
-msgstr ""
+msgstr "Альфа"
 
 #: plugins/gtk+/gtk+.xml:1422 plugins/gtk+/gtk+.xml:3573
 msgid "Digits"
@@ -5584,10 +5588,9 @@ msgstr ""
 msgid "Phone"
 msgstr ""
 
-#: plugins/gtk+/gtk+.xml:1428 plugins/gtk+/glade-about-dialog-editor.ui:287
-#: plugins/webkit2gtk/webkit2gtk.xml:18
+#: plugins/gtk+/gtk+.xml:1428+plugins/gtk+/glade-about-dialog-editor.ui:287+plugins/webkit2gtk/webkit2gtk.xml:18
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: plugins/gtk+/gtk+.xml:1430
 msgid "Email"
@@ -5611,7 +5614,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:1450
 msgid "Word Completion"
-msgstr ""
+msgstr "Ажәа авто-хырқәшара"
 
 #: plugins/gtk+/gtk+.xml:1452
 msgid "Lowercase"
@@ -5709,9 +5712,9 @@ msgstr ""
 msgid "Secondary Icon Tooltip Markup"
 msgstr ""
 
-#: plugins/gtk+/gtk+.xml:1536 plugins/gtk+/gtk+.xml:3036
+#: plugins/gtk+/gtk+.xml:1536+plugins/gtk+/gtk+.xml:3036
 msgid "Activate"
-msgstr ""
+msgstr "Активациа азура"
 
 #: plugins/gtk+/gtk+.xml:1540 plugins/gtk+/gtk+.xml:3040
 msgid "Set the description of the Activate atk action"
@@ -5875,10 +5878,9 @@ msgstr ""
 msgid "Font Button"
 msgstr ""
 
-#: plugins/gtk+/gtk+.xml:2018 plugins/gtk+/gtk+.xml:3082
-#: plugins/gtk+/gtk+.xml:3869
+#: plugins/gtk+/gtk+.xml:2018+plugins/gtk+/gtk+.xml:3082+plugins/gtk+/gtk+.xml:3869
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматикла"
 
 #: plugins/gtk+/gtk+.xml:2020
 msgid "On"
@@ -6389,27 +6391,27 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:3141
 msgid "GPL 2.0"
-msgstr ""
+msgstr "GPL 2.0"
 
 #: plugins/gtk+/gtk+.xml:3143
 msgid "GPL 3.0"
-msgstr ""
+msgstr "GPL 3.0"
 
 #: plugins/gtk+/gtk+.xml:3145
 msgid "LGPL 2.1"
-msgstr ""
+msgstr "LGPL 2.1"
 
 #: plugins/gtk+/gtk+.xml:3147
 msgid "LGPL 3.0"
-msgstr ""
+msgstr "LGPL 3.0"
 
 #: plugins/gtk+/gtk+.xml:3151
 msgid "MIT X11"
-msgstr ""
+msgstr "MIT X11"
 
 #: plugins/gtk+/gtk+.xml:3153
 msgid "Artistic"
-msgstr ""
+msgstr "Artistic"
 
 #: plugins/gtk+/gtk+.xml:3155
 msgid "GPL 2.0 Only"
@@ -6429,7 +6431,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:3163
 msgid "AGPL 3.0"
-msgstr ""
+msgstr "AGPL 3.0"
 
 #: plugins/gtk+/gtk+.xml:3165
 msgid "AGPL 3.0 Only"
@@ -6437,7 +6439,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:3167
 msgid "BSD 3"
-msgstr ""
+msgstr "BSD 3"
 
 #: plugins/gtk+/gtk+.xml:3169
 msgid "Apache 2.0"
@@ -6445,7 +6447,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:3171
 msgid "MPL 2.0"
-msgstr ""
+msgstr "MPL 2.0"
 
 #: plugins/gtk+/gtk+.xml:3182
 msgid ""
@@ -6647,7 +6649,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:3672
 msgid "Entry Completion"
-msgstr ""
+msgstr "Аҭагалара автоматикла ахарҭәаара"
 
 #: plugins/gtk+/gtk+.xml:3690
 msgid "Icon Factory"
@@ -7009,7 +7011,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:4622
 msgid "Gtk"
-msgstr ""
+msgstr "Gtk"
 
 #: plugins/gtk+/gtk+.xml:4627
 msgid "Accelerator Mode column"
@@ -7209,7 +7211,7 @@ msgstr ""
 
 #: plugins/gtk+/gtk+.xml:5084
 msgid "Activatable column"
-msgstr ""
+msgstr "Активациа зызухо ашьаҟа"
 
 #: plugins/gtk+/gtk+.xml:5110
 msgid "Inconsistent column"
@@ -7329,7 +7331,7 @@ msgstr ""
 
 #: plugins/gtk+/glade-about-dialog-editor.ui:346
 msgid "Authors"
-msgstr ""
+msgstr "Аԥҵаҩцәа"
 
 #: plugins/gtk+/glade-about-dialog-editor.ui:376
 msgid "Translators"
@@ -7341,11 +7343,11 @@ msgstr ""
 
 #: plugins/gtk+/glade-about-dialog-editor.ui:436
 msgid "Documenters"
-msgstr ""
+msgstr "Адокументқәа раԥҵаҩцәа"
 
 #: plugins/gtk+/glade-about-dialog-editor.ui:466
 msgid "Copyright"
-msgstr ""
+msgstr "Аԥҵаҩцәа рзинқәа"
 
 #: plugins/gtk+/glade-about-dialog-editor.ui:497
 msgid "Comments"
@@ -7365,7 +7367,7 @@ msgstr ""
 
 #: plugins/gtk+/glade-about-dialog-editor.ui:592
 msgid "Credits"
-msgstr ""
+msgstr " Аҭабурақәа"
 
 #: plugins/gtk+/glade-action-bar-editor.ui:54
 #: plugins/gtk+/glade-box-editor.ui:54
@@ -7395,7 +7397,7 @@ msgstr ""
 
 #: plugins/gtk+/glade-action-editor.ui:436
 msgid "Value ID:"
-msgstr ""
+msgstr "Value ID:"
 
 #: plugins/gtk+/glade-action-editor.ui:496
 msgid "Radio proxies"
@@ -7403,7 +7405,7 @@ msgstr ""
 
 #: plugins/gtk+/glade-activatable-editor.ui:120
 msgid "Activatable / Actionable"
-msgstr ""
+msgstr "Активациа зызухо/хархәара змоу"
 
 #: plugins/gtk+/glade-app-chooser-button-editor.ui:56
 msgid "App Chooser Button Attributes"
@@ -7590,10 +7592,9 @@ msgstr ""
 msgid "Icon View Attributes"
 msgstr ""
 
-#: plugins/gtk+/glade-icon-view-editor.ui:216
-#: plugins/gtk+/glade-real-tree-view-editor.ui:428
+#: plugins/gtk+/glade-icon-view-editor.ui:216+plugins/gtk+/glade-real-tree-view-editor.ui:428
 msgid "Single Click Activate"
-msgstr ""
+msgstr "Аҳәынаԥ зныктәи ахыкәласларала аквтивациа азура"
 
 #: plugins/gtk+/glade-icon-view-editor.ui:232
 msgid "Columns:"
@@ -7996,3 +7997,61 @@ msgstr ""
 #: plugins/webkit2gtk/webkit2gtk.xml:58
 msgid "WebKit2GTK+ Widgets"
 msgstr ""
+
+#: src/glade.glade:311
+msgid ""
+"<small>In memory of an extraordinary\n"
+"person and professor\n"
+"R.I.P Guido Macchi</small>"
+msgstr ""
+"<small> Зеиԥш дҟамлац ауаҩԥси апрофессори игәаларшәара иазкны R.I.P. Гвидо "
+"Маки</small>"
+
+#: gladeui/glade-project.c:3056
+msgid "[%s]Object class '<b>%s</b>' was introduced in %s %d.%d"
+msgstr ""
+"\n"
+"\n"
+"[%s] Аобиект акласс '<b>%s</b>' ҭагалан %s %d.%d ахь"
+
+#: gladeui/glade-project.c:3061
+msgid "[%s]Object class '<b>%s</b>' from %s %d.%d is deprecated"
+msgstr ""
+"[%s]\n"
+"Аобиект акласс '<b>%s</b>' %s %d.%d аҟынтә иажәхьеит"
+
+#: gladeui/glade-project.c:3070
+msgid ""
+"[%s]Property '<b>%s</b>' of object class '<b>%s</b>' was introduced in %s %d."
+"%d"
+msgstr ""
+"[%s]\n"
+"Аҷыдаҟазшьа «<b>%s</b>» аобиект «<b>%s</b>» акласс  иаҵанакуа ҭагалан %s %d."
+"%d ахь"
+
+#: gladeui/glade-project.c:3074
+msgid ""
+"[%s]Packing property '<b>%s</b>' of object class '<b>%s</b>' was introduced "
+"in %s %d.%d"
+msgstr ""
+"[%s]«<b>%s</b>» архиара  аҷыдаҟазшьа  «<b>%s</b>» рыкласс иаҵанакуа "
+"аобиектқәа ҭагалан %s %d.%d ахь"
+
+#: gladeui/glade-project.c:3080
+msgid "[%s]Property '<b>%s</b>' of object class '<b>%s</b>' is deprecated"
+msgstr "[%s]Аҷыдаҟазшьа «<b>%s</b>» аобиект «<b>%s</b>» акласс  ажәит"
+
+#: gladeui/glade-project.c:3088
+msgid ""
+"[%s]Signal '<b>%s</b>' of object class '<b>%s</b>' was introduced in %s %d.%d"
+msgstr ""
+"[%s]«<b>%s</b>» асигнал акласс иаҵанакуа аобиект «<b>%s</b>»ҭагалан %s %d.%d "
+"ахь"
+
+#: gladeui/glade-project.c:3094
+msgid "[%s]Signal '<b>%s</b>' of object class '<b>%s</b>' is deprecated"
+msgstr "[%s]«<b>%s</b>» асигнал   акласс иаҵанакуа аобиект «<b>%s</b>» ажәуп"
+
+#: plugins/gtk+/glade-attributes.c:280
+msgid "Absolute Size"
+msgstr "Ииашахаҭоу ашәагаа"

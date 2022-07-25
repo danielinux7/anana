@@ -108,7 +108,7 @@ msgstr ""
 
 #: data/org.gnome.Shell.desktop.in.in:4
 msgid "GNOME Shell"
-msgstr ""
+msgstr "GNOME Shell"
 
 #: data/org.gnome.Shell.desktop.in.in:5
 msgid "Window management and application launching"
@@ -117,6 +117,7 @@ msgstr ""
 #: data/org.gnome.shell.gschema.xml.in:6
 msgid "Enable internal tools useful for developers and testers from Alt-F2"
 msgstr ""
+"Аҭҵааҩцәеи аԥышәара азызуои рзы  Alt-F2 аҟынтәи аҩныҵҟатәи амаругақәа рҿакра "
 
 #: data/org.gnome.shell.gschema.xml.in:9
 msgid ""
@@ -377,7 +378,7 @@ msgstr ""
 
 #: data/org.gnome.shell.gschema.xml.in:305
 msgid "Automatic location"
-msgstr ""
+msgstr "Автоматикла ҭыԥс аҟазаара  аилкаара"
 
 #: data/org.gnome.shell.gschema.xml.in:306
 msgid "Whether to fetch the current location or not"
@@ -407,6 +408,8 @@ msgstr ""
 #: data/org.gnome.shell.gschema.xml.in:335
 msgid "Enable edge tiling when dropping windows on screen edges"
 msgstr ""
+"Аԥенџьырқәа аекран акьыԥшь ахь реиҭагараан автоматикла аԥенџьыр ашәагаа "
+"аҽаԥсахра аҿакра."
 
 #: data/org.gnome.shell.gschema.xml.in:343
 msgid "Workspaces are managed dynamically"
@@ -661,10 +664,9 @@ msgid_plural "%d years ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#. Translators: Time in 24h format
 #: js/misc/util.js:247
 msgid "%H∶%M"
-msgstr ""
+msgstr "%H∶%M"
 
 #. Translators: this is the word "Yesterday" followed by a
 #. time string in 24h format. i.e. "Yesterday, 14:30"
@@ -673,35 +675,21 @@ msgstr ""
 msgid "Yesterday, %H∶%M"
 msgstr ""
 
-#. Translators: this is the week day name followed by a time
-#. string in 24h format. i.e. "Monday, 14:30"
 #: js/misc/util.js:259
-#, no-c-format
 msgid "%A, %H∶%M"
-msgstr ""
+msgstr "%A, %H∶%M"
 
-#. Translators: this is the month name and day number
-#. followed by a time string in 24h format.
-#. i.e. "May 25, 14:30"
 #: js/misc/util.js:265
-#, no-c-format
 msgid "%B %-d, %H∶%M"
-msgstr ""
+msgstr "%-d %B, %H∶%M"
 
-#. Translators: this is the month name, day number, year
-#. number followed by a time string in 24h format.
-#. i.e. "May 25 2012, 14:30"
 #: js/misc/util.js:271
-#, no-c-format
 msgid "%B %-d %Y, %H∶%M"
-msgstr ""
+msgstr "%-d %B %Y, %H∶%M"
 
-#. Show only the time if date is on today
-#. eslint-disable-line no-lonely-if
-#. Translators: Time in 12h format
 #: js/misc/util.js:276
 msgid "%l∶%M %p"
-msgstr ""
+msgstr "%-l∶%M %p"
 
 #. Translators: this is the word "Yesterday" followed by a
 #. time string in 12h format. i.e. "Yesterday, 2:30 pm"
@@ -710,32 +698,21 @@ msgstr ""
 msgid "Yesterday, %l∶%M %p"
 msgstr ""
 
-#. Translators: this is the week day name followed by a time
-#. string in 12h format. i.e. "Monday, 2:30 pm"
 #: js/misc/util.js:288
-#, no-c-format
 msgid "%A, %l∶%M %p"
-msgstr ""
+msgstr "%A, %-l∶%M %p"
 
-#. Translators: this is the month name and day number
-#. followed by a time string in 12h format.
-#. i.e. "May 25, 2:30 pm"
 #: js/misc/util.js:294
-#, no-c-format
 msgid "%B %-d, %l∶%M %p"
-msgstr ""
+msgstr "%-d %B, %l∶%M %p"
 
-#. Translators: this is the month name, day number, year
-#. number followed by a time string in 12h format.
-#. i.e. "May 25 2012, 2:30 pm"
 #: js/misc/util.js:300
-#, no-c-format
 msgid "%B %-d %Y, %l∶%M %p"
-msgstr ""
+msgstr "%-d %B %Y, %l∶%M %p"
 
 #: js/portalHelper/main.js:55
 msgid "Hotspot Login"
-msgstr ""
+msgstr "Анеира аҭыԥ аҟны ахаҭара шьақәыргылара"
 
 #: js/portalHelper/main.js:108
 msgid ""
@@ -881,28 +858,13 @@ msgctxt "grid saturday"
 msgid "S"
 msgstr ""
 
-#. *
-#. * Translators: The header displaying just the month name
-#. * standalone, when this is a month of the current year.
-#. * "%OB" is the new format specifier introduced in glibc 2.27,
-#. * in most cases you should not change it.
-#.
 #: js/ui/calendar.js:402
 msgid "%OB"
-msgstr ""
+msgstr "%OB"
 
-#. *
-#. * Translators: The header displaying the month name and the year
-#. * number, when this is a month of a different year.  You can
-#. * reorder the format specifiers or add other modifications
-#. * according to the requirements of your language.
-#. * "%OB" is the new format specifier introduced in glibc 2.27,
-#. * in most cases you should not use the old "%B" here unless you
-#. * absolutely know what you are doing.
-#.
 #: js/ui/calendar.js:412
 msgid "%OB %Y"
-msgstr ""
+msgstr "%OB %Y"
 
 #: js/ui/calendar.js:473
 msgid "Previous month"
@@ -1035,7 +997,7 @@ msgstr ""
 
 #: js/ui/components/networkAgent.js:392
 msgid "PIN"
-msgstr ""
+msgstr "PIN"
 
 #: js/ui/components/networkAgent.js:403 js/ui/components/networkAgent.js:753
 #: js/ui/components/networkAgent.js:757 js/ui/components/networkAgent.js:769
@@ -1058,7 +1020,7 @@ msgstr ""
 
 #: js/ui/components/polkitAgent.js:81
 msgid "Administrator"
-msgstr ""
+msgstr "Анаԥхгаҩы"
 
 #: js/ui/components/polkitAgent.js:146
 msgid "Authenticate"
@@ -1495,9 +1457,9 @@ msgstr ""
 msgid "Undo"
 msgstr ""
 
-#: js/ui/main.js:334
+#: js/ui/main.js:314
 msgid "Logged in as a privileged user"
-msgstr ""
+msgstr "Ахаҭара шьақәыргылоуп аԥыжәара змоу хархәаҩҵас "
 
 #: js/ui/main.js:335
 msgid ""
@@ -1861,7 +1823,7 @@ msgstr ""
 
 #: js/ui/status/bluetooth.js:54
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: js/ui/status/bluetooth.js:67 js/ui/status/network.js:628
 msgid "Bluetooth Settings"
@@ -1955,7 +1917,7 @@ msgstr ""
 
 #: js/ui/status/network.js:71
 msgid "<unknown>"
-msgstr ""
+msgstr "<еилкаам>"
 
 #. Translators: %s is a network identifier
 #: js/ui/status/network.js:438 js/ui/status/network.js:1376
@@ -2060,9 +2022,9 @@ msgstr ""
 msgid "Wi-Fi needs to be turned on in order to connect to a network."
 msgstr ""
 
-#: js/ui/status/network.js:853
+#: js/ui/status/network.js:851
 msgid "Turn On Wi-Fi"
-msgstr ""
+msgstr " Wi-Fi аҿакра"
 
 #: js/ui/status/network.js:881
 msgid "Wi-Fi Networks"
@@ -2104,9 +2066,9 @@ msgstr ""
 msgid "unknown"
 msgstr ""
 
-#: js/ui/status/network.js:1468
+#: js/ui/status/network.js:1466
 msgid "activating…"
-msgstr ""
+msgstr "Активациа..."
 
 #: js/ui/status/network.js:1472
 msgid "deactivating…"
@@ -2133,9 +2095,9 @@ msgstr ""
 msgid "VPN Settings"
 msgstr ""
 
-#: js/ui/status/network.js:1610
+#: js/ui/status/network.js:1608
 msgid "VPN"
-msgstr ""
+msgstr "VPN"
 
 #: js/ui/status/network.js:1620
 msgid "VPN Off"
@@ -2220,11 +2182,9 @@ msgstr ""
 msgid "%d∶%02d Until Full (%d %%)"
 msgstr ""
 
-#. The icon label
 #: js/ui/status/power.js:145
-#, javascript-format
 msgid "%d %%"
-msgstr ""
+msgstr "%d %%"
 
 #: js/ui/status/powerProfiles.js:19
 msgctxt "Power profile"
@@ -2290,7 +2250,7 @@ msgstr ""
 
 #: js/ui/status/thunderbolt.js:265
 msgid "Thunderbolt"
-msgstr ""
+msgstr "Thunderbolt"
 
 #: js/ui/status/thunderbolt.js:326
 msgid "Unknown Thunderbolt device"
@@ -2420,12 +2380,9 @@ msgid_plural "Settings changes will revert in %d seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#. Translators: This represents the size of a window. The first number is
-#. * the width of the window and the second is the height.
 #: js/ui/windowManager.js:544
-#, javascript-format
 msgid "%d × %d"
-msgstr ""
+msgstr "%d × %d"
 
 #. Translators: entry in the window right click menu.
 #: js/ui/windowMenu.js:29
@@ -2589,9 +2546,9 @@ msgstr ""
 msgid "Remove"
 msgstr ""
 
-#: subprojects/extensions-app/js/main.js:213
+#: subprojects/extensions-app/js/main.js:209
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #: subprojects/extensions-app/js/main.js:342
 #, javascript-format
@@ -2954,7 +2911,7 @@ msgstr ""
 
 #: subprojects/extensions-tool/src/main.c:247
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: subprojects/extensions-tool/src/main.c:250
 msgid "Original author"
@@ -2972,10 +2929,9 @@ msgstr ""
 msgid "“version” takes no arguments"
 msgstr ""
 
-#: subprojects/extensions-tool/src/main.c:296
-#: subprojects/extensions-tool/src/main.c:316
+#: subprojects/extensions-tool/src/main.c:296+subprojects/extensions-tool/src/main.c:316
 msgid "Usage:"
-msgstr ""
+msgstr "Ахархәара:"
 
 #: subprojects/extensions-tool/src/main.c:299
 msgid "Print version information and exit."
@@ -3081,3 +3037,11 @@ msgstr[1] ""
 #: subprojects/gvc/gvc-mixer-control.c:2867
 msgid "System Sounds"
 msgstr ""
+
+#: js/ui/calendar.js:35
+msgid "6"
+msgstr "6"
+
+#: js/ui/calendar.js:642
+msgid "%d"
+msgstr "%d"

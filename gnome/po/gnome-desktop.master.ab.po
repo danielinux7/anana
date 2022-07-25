@@ -45,12 +45,9 @@ msgstr ""
 msgid "Unspecified"
 msgstr ""
 
-#. TRANSLATORS: Used to distinguish the labels representing the gez_ER
-#. and gez_ET locales from gez_ER@abegede respective gez_ET@abegede. The
-#. difference is related to collation.
 #: libgnome-desktop/gnome-languages.c:1385
 msgid "Abegede"
-msgstr ""
+msgstr "Абегеде"
 
 #. TRANSLATORS: Used to distinguish Cyrillic from Latin written language variants.
 #: libgnome-desktop/gnome-languages.c:1387
@@ -64,11 +61,9 @@ msgstr ""
 msgid "Devanagari"
 msgstr ""
 
-#. TRANSLATORS: Used to distinguish the label representing the tt_RU
-#. locale from tt_RU@iqtelif. It's a special alphabet for Tatar.
 #: libgnome-desktop/gnome-languages.c:1394
 msgid "IQTElif"
-msgstr ""
+msgstr "IQTElif"
 
 #. TRANSLATORS: The alphabet/script, not the language. Used to distinguish
 #. Latin from Cyrillic written language variants.
@@ -250,3 +245,7 @@ msgstr "%l:%M:%S %p"
 #: libgnome-desktop/gnome-wall-clock.c:377
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
+
+#: libgnome-desktop/gnome-wall-clock.c:258
+msgid "∶"
+msgstr "∶"

@@ -274,3 +274,71 @@ msgstr "Шәахьыҟоу аҭыԥ аҟны иалоу “%s” ауп,  аҵа
 #: json-glib/json-reader.c:1014
 msgid "The current position does not hold a string type"
 msgstr "Шәахьыҟоу аҭыԥ аҟны иалаӡам ацәаҳәатә ҵакы"
+
+#: data/themes/adwaita.theme.desktop.in:22
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#: src/about-list.vala:46
+msgid "Credits"
+msgstr " Аҭабурақәа"
+
+#: src/about-list.vala:135
+msgid ""
+"GNU General Public License\n"
+"version 3 or later"
+msgstr ""
+"GNU General Public License\n"
+"аверсиа 3 мамзар еиҳа иҿыцу "
+
+#: src/about-list.vala:154
+msgid "Creators"
+msgstr "Аԥҵаҩцәа"
+
+#: src/about-list.vala:161
+msgid "Documenters"
+msgstr "Адокументқәа раԥҵаҩцәа"
+
+#: src/iagno.vala:117
+msgid "Turn on the sound"
+msgstr "Абжьы аҿакра"
+
+#: src/iagno.vala:1096
+msgid "Masuichi Ito (pieces)"
+msgstr "Masuichi Ito (pieces)"
+
+#: src/iagno.vala:1100
+msgid "Arnaud Bonatti (themes)"
+msgstr "Arnaud Bonatti (themes)"
+
+#: src/iagno.vala:1105
+msgid "Ian Peters"
+msgstr "Ian Peters"
+
+#: src/iagno.vala:1109
+msgid "Robert Ancell"
+msgstr "Robert Ancell"
+
+#: src/iagno.vala:1113
+msgid "Arnaud Bonatti"
+msgstr "Arnaud Bonatti"
+
+#: src/iagno.vala:1118
+msgid "Copyright © %u-%u – Ian Peters"
+msgstr "Copyright © %u-%u – Ian Peters"
+
+#: src/iagno.vala:1122
+msgid "Copyright © %u-%u – Michael Catanzaro"
+msgstr "Copyright © %u-%u – Michael Catanzaro"
+
+#: src/iagno.vala:1126
+msgid "Copyright © %u-%u – Arnaud Bonatti"
+msgstr "Copyright © %u-%u – Arnaud Bonatti"
+
+#: src/iagno.vala:1130
+msgid "Tiffany Antopolski"
+msgstr "Tiffany Antopolski"
+
+#: src/iagno.vala:1135
+msgid "translator-credits"
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"

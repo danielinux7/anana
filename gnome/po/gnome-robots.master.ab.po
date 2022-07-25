@@ -155,14 +155,13 @@ msgid ""
 msgstr ""
 
 #: data/org.gnome.Robots.gschema.xml:35
-#, fuzzy
-#| msgid "_Enable sounds"
 msgid "Enable game sounds"
-msgstr "_ Абжьы аҿакра"
+msgstr "Ахәмарра абжьқәа рҿакра"
 
 #: data/org.gnome.Robots.gschema.xml:36
 msgid "Enable game sounds. Play sounds for various events throughout the game."
 msgstr ""
+"Ахәмарра абжьқәа рҿакра.Ахәмарраҟны еиуеԥшым ахҭысқәа раан абжьқәа рҿакра."
 
 #: data/org.gnome.Robots.gschema.xml:40 src/controls.vala:91
 msgid "Key to move NW"

@@ -40,9 +40,9 @@ msgstr ""
 msgid "System"
 msgstr ""
 
-#: data/gl-categorylist.ui:74 src/gl-eventviewrow.c:224
+#: data/gl-categorylist.ui:74+src/gl-eventviewrow.c:224
 msgid "Security"
-msgstr ""
+msgstr "Ашәарҭадара"
 
 #: data/gl-categorylist.ui:84 src/gl-eventviewrow.c:216
 msgid "Hardware"
@@ -227,9 +227,9 @@ msgstr ""
 msgid "Sec"
 msgstr ""
 
-#: data/gl-searchpopover.ui:540 data/gl-searchpopover.ui:789
+#: data/gl-searchpopover.ui:540+data/gl-searchpopover.ui:789
 msgid "AM/PM"
-msgstr ""
+msgstr "AM/PM"
 
 #: data/gl-searchpopover.ui:579
 msgid "Until…"
@@ -253,15 +253,15 @@ msgstr ""
 
 #: data/gl-searchpopover.ui:852
 msgid "PID"
-msgstr ""
+msgstr "PID"
 
 #: data/gl-searchpopover.ui:857
 msgid "UID"
-msgstr ""
+msgstr "UID"
 
 #: data/gl-searchpopover.ui:862
 msgid "GID"
-msgstr ""
+msgstr "GID"
 
 #: data/gl-searchpopover.ui:872
 msgid "Process Name"
@@ -269,7 +269,7 @@ msgstr ""
 
 #: data/gl-searchpopover.ui:877
 msgid "Systemd Unit"
-msgstr ""
+msgstr "Systemd Unit"
 
 #: data/gl-searchpopover.ui:892
 msgid "Executable Path"
@@ -457,48 +457,28 @@ msgid "%e %B %Y"
 msgstr ""
 
 #: src/gl-searchpopover.c:873
-#, c-format
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: src/gl-searchpopover.c:877
-#, c-format
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
-#. Translators: timestamp format for the custom start time button
-#. * label in the custom range submenu, showing the time with seconds
-#. * in 12-hour format.
-#. Translators: timestamp format for the custom end time button
-#. * label in the custom range submenu, showing the time with seconds
-#. * in 12-hour format.
-#: src/gl-searchpopover.c:985 src/gl-searchpopover.c:1225
+#: src/gl-searchpopover.c:985+src/gl-searchpopover.c:1225
 msgid "%I:%M:%S %p"
-msgstr ""
+msgstr "%I:%M:%S %p"
 
-#. Translators: timestamp format for the custom start time button
-#. * label in the custom range submenu, showing the time with seconds
-#. * in 24-hour format.
-#. Translators: timestamp format for the custom end time button
-#. * label in the custom range submenu, showing the time with seconds
-#. * in 24-hour format.
-#: src/gl-searchpopover.c:992 src/gl-searchpopover.c:1232
+#: src/gl-searchpopover.c:992+src/gl-searchpopover.c:1232
 msgid "%T"
-msgstr ""
+msgstr "%T"
 
-#. Translators: timestamp format for events on the
-#. * current day, showing the time with seconds in
-#. * 12-hour format.
 #: src/gl-util.c:126
 msgid "%l:%M:%S %p"
-msgstr ""
+msgstr "%l:%M:%S %p"
 
-#. Translators: timestamp format for events on the
-#. * current day, showing the time without seconds in
-#. * 12-hour format.
 #: src/gl-util.c:133
 msgid "%l:%M %p"
-msgstr ""
+msgstr "%l:%M %p"
 
 #. Translators: timestamp format for events in
 #. * the current year, showing the abbreviated
@@ -532,19 +512,13 @@ msgstr ""
 msgid "%b %e %Y %l:%M %p"
 msgstr ""
 
-#. Translators: timestamp format for events on the
-#. * current day, showing the time with seconds in
-#. * 24-hour format.
 #: src/gl-util.c:189
 msgid "%H:%M:%S"
-msgstr ""
+msgstr "%H:%M:%S"
 
-#. Translators: timestamp format for events on the
-#. * current day, showing the time without seconds in
-#. * 24-hour format.
 #: src/gl-util.c:196
 msgid "%H:%M"
-msgstr ""
+msgstr "%H:%M"
 
 #. Translators: timestamp format for events in the
 #. * current year, showing the abbreviated month name,
@@ -578,13 +552,9 @@ msgstr ""
 msgid "%b %e %Y %H:%M"
 msgstr ""
 
-#. Transltors: the first string is the earliest timestamp of the boot,
-#. * and the second string is the newest timestamp. An example string might
-#. * be '08:10 - 08:30'
 #: src/gl-util.c:297
-#, c-format
 msgid "%s – %s"
-msgstr ""
+msgstr "%s – %s"
 
 #: src/gl-window.c:174
 msgid "Unable to export log messages to a file"

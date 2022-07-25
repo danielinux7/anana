@@ -47,7 +47,7 @@ msgstr ""
 
 #: data/org.freedesktop.Tracker.FTS.gschema.xml:24
 msgid "Enable stemmer"
-msgstr ""
+msgstr "«stemmer» аҿакра"
 
 #: data/org.freedesktop.Tracker.FTS.gschema.xml:25
 msgid ""
@@ -404,11 +404,11 @@ msgstr ""
 
 #: src/miners/rss/tracker-main.c:44
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/miners/rss/tracker-main.c:47
 msgid "Title to use (must be used with --add-feed)"
-msgstr ""
+msgstr "Title to use (must be used with --add-feed)"
 
 #. Translators: this messagge will apper immediately after the
 #. * usage string - Usage: COMMAND <THIS_MESSAGE>
@@ -464,7 +464,7 @@ msgstr ""
 
 #: src/tracker-extract/tracker-main.c:87
 msgid "MIME"
-msgstr ""
+msgstr "MIME"
 
 #: src/tracker-extract/tracker-main.c:90
 msgid "Force a module to be used for extraction (e.g. “foo” for “foo.so”)"
@@ -567,7 +567,7 @@ msgstr ""
 
 #: src/tracker/tracker-daemon.c:133
 msgid "COOKIE"
-msgstr ""
+msgstr "COOKIE"
 
 #: src/tracker/tracker-daemon.c:136
 msgid ""
@@ -651,9 +651,8 @@ msgid "Could not pause miner: %s"
 msgstr ""
 
 #: src/tracker/tracker-daemon.c:474
-#, c-format
 msgid "Cookie is %d"
-msgstr ""
+msgstr "Cookie — %d"
 
 #: src/tracker/tracker-daemon.c:481 src/tracker/tracker-daemon.c:724
 #: src/tracker/tracker-daemon.c:841
@@ -841,10 +840,9 @@ msgstr ""
 msgid "--add and --remove are mutually exclusive"
 msgstr ""
 
-#. TRANSLATORS: These are commandline options
 #: src/tracker/tracker-index.c:296
 msgid "--recursive requires --add"
-msgstr ""
+msgstr "--recursive requires --add"
 
 #: src/tracker/tracker-index.c:356 src/tracker/tracker-status.c:331
 msgid "Path"
@@ -1060,11 +1058,11 @@ msgstr ""
 
 #: src/tracker/tracker-search.c:600
 msgid "No artists were found"
-msgstr ""
+msgstr "Анагӡаҩцәа"
 
 #: src/tracker/tracker-search.c:604
 msgid "Artists"
-msgstr ""
+msgstr "Анагӡаҩцәа"
 
 #: src/tracker/tracker-search.c:692
 msgid "No music was found"
@@ -1072,7 +1070,7 @@ msgstr ""
 
 #: src/tracker/tracker-search.c:696
 msgid "Albums"
-msgstr ""
+msgstr "Альбомқәа"
 
 #: src/tracker/tracker-search.c:784
 msgid "No feeds were found"

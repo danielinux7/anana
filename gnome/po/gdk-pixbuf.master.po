@@ -60,7 +60,7 @@ msgstr ""
 
 #: gdk-pixbuf/gdk-pixbuf.c:277
 msgid "Has Alpha"
-msgstr ""
+msgstr "Альфа-аканал"
 
 #: gdk-pixbuf/gdk-pixbuf.c:278
 msgid "Whether the pixbuf has an alpha channel"
@@ -487,7 +487,7 @@ msgstr ""
 
 #: gdk-pixbuf/io-ico.c:1081
 msgid "Cursor hotspot outside image"
-msgstr ""
+msgstr "Активациа ҟазҵо ахәҭа арбоуп асахьа аҳәаа анҭыҵ"
 
 #: gdk-pixbuf/io-ico.c:1104
 #, c-format
@@ -918,3 +918,51 @@ msgstr ""
 msgctxt "image format"
 msgid "XPM"
 msgstr ""
+
+#: gdk-pixbuf/io-bmp.c:1515+gdk-pixbuf/io-gdip-bmp.c:83
+msgid "BMP"
+msgstr "BMP"
+
+#: gdk-pixbuf/io-gdip-emf.c:61
+msgid "EMF"
+msgstr "EMF"
+
+#: gdk-pixbuf/io-gdip-gif.c:81+gdk-pixbuf/io-gif.c:1037
+msgid "GIF"
+msgstr "GIF"
+
+#: gdk-pixbuf/io-gdip-jpeg.c:147+gdk-pixbuf/io-jpeg.c:1691
+msgid "JPEG"
+msgstr "JPEG"
+
+#: gdk-pixbuf/io-gdip-tiff.c:83+gdk-pixbuf/io-tiff.c:1087
+msgid "TIFF"
+msgstr "TIFF"
+
+#: gdk-pixbuf/io-gdip-wmf.c:60
+msgid "WMF"
+msgstr "WMF"
+
+#: gdk-pixbuf/io-png.c:1246
+msgid "PNG"
+msgstr "PNG"
+
+#: gdk-pixbuf/io-pnm.c:1103
+msgid "PNM/PBM/PGM/PPM"
+msgstr "PNM/PBM/PGM/PPM"
+
+#: gdk-pixbuf/io-qtif.c:599
+msgid "QuickTime"
+msgstr "QuickTime"
+
+#: gdk-pixbuf/io-tga.c:764
+msgid "Targa"
+msgstr "Targa"
+
+#: gdk-pixbuf/io-xbm.c:521
+msgid "XBM"
+msgstr "XBM"
+
+#: gdk-pixbuf/io-xpm.c:845
+msgid "XPM"
+msgstr "XPM"

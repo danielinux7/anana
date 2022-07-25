@@ -1194,10 +1194,9 @@ msgstr ""
 msgid "Black has resigned."
 msgstr ""
 
-#. Game status when the game ends due to the white player resigning
 #: src/gnome-chess.vala:926
 msgid "White has resigned."
-msgstr ""
+msgstr "Ашкәакәақәа ҭахеит"
 
 #. Game status when a game is abandoned
 #: src/gnome-chess.vala:932
@@ -1297,10 +1296,9 @@ msgstr ""
 msgid "This does not look like a valid PGN game."
 msgstr ""
 
-#: src/gnome-chess.vala:1253 src/gnome-chess.vala:1266
-#: src/gnome-chess.vala:1371
+#: src/gnome-chess.vala:1253+src/gnome-chess.vala:1266+src/gnome-chess.vala:1371
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #. Title of save game dialog
 #: src/gnome-chess.vala:1288
@@ -1311,10 +1309,9 @@ msgstr ""
 msgid "_Save"
 msgstr ""
 
-#. Default filename for the save game dialog
 #: src/gnome-chess.vala:1322
 msgid "Untitled Chess Game"
-msgstr ""
+msgstr "Ихьӡыдоу ахәмарра"
 
 #. Save Game Dialog: Name of filter to show only PGN files
 #. Load Game Dialog: Name of filter to show only PGN files
