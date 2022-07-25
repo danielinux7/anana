@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the evince package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: evince\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/evince/issues\n"
 "POT-Creation-Date: 2022-07-18 03:14+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"
@@ -1539,7 +1539,7 @@ msgstr ""
 
 #: shell/ev-window.c:4228
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>"
 
 #: shell/ev-window.c:4658
 msgid "Running in presentation mode"

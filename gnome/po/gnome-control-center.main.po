@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the gnome-control-center package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: gnome-control-center\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-control-center/"
 "issues\n"
 "POT-Creation-Date: 2022-07-22 06:47+0000\n"

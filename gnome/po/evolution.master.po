@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the evolution package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: evolution\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/evolution/issues\n"
 "POT-Creation-Date: 2022-07-22 06:40+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"
@@ -5296,7 +5296,10 @@ msgid ""
 "\n"
 "\n"
 "Searching for the Contacts…"
-msgstr "Аимадарақәа рыԥшаара..."
+msgstr ""
+"\n"
+"\n"
+"Аимадарақәа рыԥшаара…"
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:189
 msgid ""
@@ -5305,7 +5308,12 @@ msgid ""
 "Search for the Contact\n"
 "\n"
 "or double-click here to create a new Contact."
-msgstr "Ишәыԥшаа аимадара , мамзар абраҟа шәақәыӷәӷәа аҿыц аԥҵаразы"
+msgstr ""
+"\n"
+"\n"
+"Ишәыԥшаа аимадара\n"
+"\n"
+"мамзар абраҟа шәақәыӷәӷәа аҿыц аԥҵаразы"
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:192
 msgid ""
@@ -5315,22 +5323,31 @@ msgid ""
 "\n"
 "Double-click here to create a new Contact."
 msgstr ""
-"Иҟаӡам аелементқәа   ари аԥенџьыр аҟны иаарԥшразы. Ҩынтә абраҟа шәақәыӷәӷәа "
-"аимадара ҿыц аԥҵаразы"
+"\n"
+"\n"
+"Иҟаӡам аелементқәа ари аԥенџьыр аҟны иаарԥшразы.\n"
+"\n"
+"Ҩынтә абраҟа шәақәыӷәӷәа аимадара ҿыц аԥҵаразы."
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:196
 msgid ""
 "\n"
 "\n"
 "Search for the Contact."
-msgstr "Аимадара аԥшаара."
+msgstr ""
+"\n"
+"\n"
+"Аимадара аԥшаара."
 
 #: ../src/addressbook/gui/widgets/e-minicard-view.c:198
 msgid ""
 "\n"
 "\n"
 "There are no items to show in this view."
-msgstr "Иҟаӡам аелементқәа   ари аԥенџьыр аҟны иаарԥшразы"
+msgstr ""
+"\n"
+"\n"
+"Иҟаӡам аелементқәа ари аԥенџьыр аҟны иаарԥшразы"
 
 #: ../src/addressbook/importers/evolution-csv-importer.c:796
 #: ../src/addressbook/importers/evolution-ldif-importer.c:547
@@ -19279,8 +19296,8 @@ msgstr ""
 #, c-format
 msgid "%d Address"
 msgid_plural "%d Addresses"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d ҭыӡҭыԥк"
+msgstr[1] "%d ҭыӡҭыԥк"
 
 #: ../src/mail/importers/kmail-importer.c:350
 msgid "Evolution KMail importer"
@@ -27943,12 +27960,6 @@ msgstr "%s (%u%s)"
 #: ../src/mail/em-utils.c:1652
 msgid ":"
 msgstr ":"
-
-#: ../src/mail/importers/kmail-importer.c:259
-msgid "%d Address\n"
-msgid_plural "%d Addresses"
-msgstr[0] "%d ҭыӡҭыԥк\n"
-msgstr[1] "%d ҭыӡҭыԥк\n"
 
 #: ../src/modules/addressbook/autocompletion-config.c:159
 msgid "OpenStreetMap"

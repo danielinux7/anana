@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the folks package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: folks\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/folks/issues\n"
 "POT-Creation-Date: 2022-05-22 10:02+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"

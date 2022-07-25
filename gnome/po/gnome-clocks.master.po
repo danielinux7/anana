@@ -1,11 +1,11 @@
 # Copyright (C) 2022 The Abkhazian language development fund named after Bagrat Shinkuba
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the gnome-clocks package.
 # Нанба Наала <naala-nanba@rambler.ru>, 2022.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: gnome-clocks\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-clocks/issues\n"
 "POT-Creation-Date: 2022-07-18 16:39+0000\n"
 "PO-Revision-Date: 2022-07-22 16:00+0000\n"
@@ -633,7 +633,7 @@ msgstr ""
 
 #: src/window.vala:291
 msgid "translator-credits"
-msgstr ""
+msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 
 #. Translators: Tooltip for the + button
 #: src/world-face.vala:29
