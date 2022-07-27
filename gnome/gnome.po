@@ -1,3 +1,12 @@
+msgid ""
+msgstr ""
+"Language-Team: Abkhazian <ab@li.org>\n"
+"Language: ab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 #: data/sol.metainfo.xml.in:33
 msgid "sol.desktop"
 msgstr "sol.desktop"
@@ -7127,11 +7136,6 @@ msgctxt "daemon/ssh-agent/gkd-ssh-agent-interaction.c:111 pkcs11/wrap-layer/gkm-
 msgid "Automatically unlock this key whenever I’m logged in"
 msgstr "Ари ацаԥха автоматикла аужьра асистема аҭалараан"
 
-#: egg/egg-oid.c:45
-msgctxt "egg/egg-oid.c:45"
-msgid "Email Address"
-msgstr "Аел. ԥошьҭа аҭыӡҭыԥ"
-
 #: egg/egg-oid.c:97
 msgctxt "egg/egg-oid.c:97"
 msgid "RSA"
@@ -10004,16 +10008,6 @@ msgctxt "modules/printbackends/file/gtkprintbackendfile.c:663"
 msgid "SVG"
 msgstr "SVG"
 
-#: gdk/keyname-table.h:6905
-msgctxt "gdk/keyname-table.h:6905"
-msgid "Battery"
-msgstr "Абатареиа"
-
-#: gdk/keyname-table.h:6907
-msgctxt "gdk/keyname-table.h:6907"
-msgid "Forward"
-msgstr "Ԥхьаҟа"
-
 #: gtk/a11y/gtkatspiaction.c:380
 msgctxt "gtk/a11y/gtkatspiaction.c:380"
 msgid "Activates the color"
@@ -10303,45 +10297,15 @@ msgctxt "gtk/inspector/window.ui:610"
 msgid "CSS"
 msgstr "CSS"
 
-#: gtk/open-type-layout.h:17
-msgctxt "gtk/open-type-layout.h:17"
-msgid "Alternative Fractions"
-msgstr "Альтернативтә фракциақәа"
-
-#: gtk/open-type-layout.h:18
-msgctxt "gtk/open-type-layout.h:18"
-msgid "Akhands"
-msgstr "Ахандс"
-
-#: gtk/open-type-layout.h:48
-msgctxt "gtk/open-type-layout.h:48"
-msgid "Alternate Half Widths"
-msgstr "Альтернативтә ибжатоу аҭбаара"
-
 #: gtk/open-type-layout.h:58
 msgctxt "gtk/open-type-layout.h:58"
 msgid "Justification Alternates"
 msgstr "Аиҟаратәра альтерантива"
 
-#: gtk/open-type-layout.h:77
-msgctxt "gtk/open-type-layout.h:77"
-msgid "Alternate Annotation Forms"
-msgstr "Аннотациа альтеранативтә формақәа"
-
 #: gtk/open-type-layout.h:136
 msgctxt "gtk/open-type-layout.h:136"
 msgid "Trailing Jamo Forms"
 msgstr "Trailing Jamo Forms"
-
-#: gtk/open-type-layout.h:142
-msgctxt "gtk/open-type-layout.h:142"
-msgid "Alternate Vertical Metrics"
-msgstr "Альтернативтә агәҵәылатәи аметрика"
-
-#: gtk/open-type-layout.h:145
-msgctxt "gtk/open-type-layout.h:145"
-msgid "Alternate Vertical Half Metrics"
-msgstr "Альтернативтә агәҵәылатәи ибжатоу аметрикақәа"
 
 #: gtk/ui/gtkaboutdialog.ui:123
 msgctxt "gtk/ui/gtkaboutdialog.ui:123"
@@ -10473,11 +10437,6 @@ msgstr "Cobalt Light"
 msgctxt "oblivion.xml:23"
 msgid "Oblivion"
 msgstr "Oblivion"
-
-#: tango.xml:23
-msgctxt "tango.xml:23"
-msgid "Tango"
-msgstr "Tango"
 
 #: gtksourceview/gtksourceencoding.c:156+gtksourceview/gtksourceencoding.c:170+gtksourceview/gtksourceencoding.c:277
 msgctxt "gtksourceview/gtksourceencoding.c:156 gtksourceview/gtksourceencoding.c:170 gtksourceview/gtksourceencoding.c:277"
@@ -10643,28 +10602,6 @@ msgstr "Нанба Наала <naala-nanba@rambler.ru>, 2022"
 msgctxt "data/themes/adwaita.theme.desktop.in:22"
 msgid "Adwaita"
 msgstr "Adwaita"
-
-#: src/about-list.vala:46
-msgctxt "src/about-list.vala:46"
-msgid "Credits"
-msgstr " Аҭабурақәа"
-
-#: src/about-list.vala:135
-msgctxt "src/about-list.vala:135"
-msgid "GNU General Public License\n"
-"version 3 or later"
-msgstr "GNU General Public License\n"
-"аверсиа 3 мамзар еиҳа иҿыцу"
-
-#: src/about-list.vala:154
-msgctxt "src/about-list.vala:154"
-msgid "Creators"
-msgstr "Аԥҵаҩцәа"
-
-#: src/about-list.vala:161
-msgctxt "src/about-list.vala:161"
-msgid "Documenters"
-msgstr "Адокументқәа раԥҵаҩцәа"
 
 #: src/iagno.vala:117
 msgctxt "src/iagno.vala:117"
@@ -11338,10 +11275,6 @@ msgstr "Алма"
 
 msgid "Alpena"
 msgstr "Алпина"
-
-msgctxt ""
-msgid "Alpine"
-msgstr "Альпина"
 
 msgctxt ""
 msgid "Alpine"
