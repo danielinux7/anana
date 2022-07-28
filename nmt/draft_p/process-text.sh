@@ -1,9 +1,9 @@
-for file in $(ls | grep '^[0-9]\+.tsv$');
+for file in $(ls | grep '^6.tsv$');
 do
   cp $file $file.temp;
 done
 
-for file in $(ls | grep '^[0-9]\+.tsv.temp$')
+for file in $(ls | grep '^6.tsv.temp$')
 do
   ### preprocess
   sed -i -e '/^\t$/d' $file;
