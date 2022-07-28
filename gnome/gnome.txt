@@ -1,3 +1,4 @@
+location	source	target
 data/sol.metainfo.xml.in:33	sol.desktop	sol.desktop
 data/sol.metainfo.xml.in:35	GPL-3.0+	GPL-3.0+
 data/sol.metainfo.xml.in:39	Aisleriot — also known as sol or solitaire — is a card game application that features over 80 different solitaire-type card games which are designed to play using a mouse, keyboard, or trackpad.	Аислериот (sol ҳәа еицырдыруа)- ари аԥшьы ишәыднагалоит  аҳәынаԥи, ырыдыркреи насгьы атрекпади рхархәаразы ахырхарҭа змоу 80 инеиҳаны апасиансқәа.
