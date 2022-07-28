@@ -2336,7 +2336,7 @@ msgid ""
 "\tObject class '<b>%s</b>' from %s %d.%d is deprecated\n"
 msgstr ""
 "[%s]\n"
-"\t[%s]Аобиект акласс '<b>%s</b>' %s %d.%d аҟынтә иажәхьеит\n"
+"\tАобиект акласс '<b>%s</b>' %s %d.%d аҟынтә иажәхьеит\n"
 
 #. translators: refers to a property in toolkit version '%s %d.%d'
 #. * and a project targeting toolkit version '%s %d.%d'
@@ -2370,7 +2370,7 @@ msgstr ""
 msgid "This property is deprecated"
 msgstr ""
 
-#. translators: refers to a property '%s' of widget '[%s]'
+#. translators: refers to a property '%s' and '%s' of widget '[%s]'
 #: gladeui/glade-project.c:3080
 #, c-format
 msgid ""
