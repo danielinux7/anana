@@ -117,6 +117,7 @@ msgid "Game type. The name of the game variation to use."
 msgstr ""
 
 #: data/org.gnome.Robots.gschema.xml:25
+#: src/properties-dialog.vala:95
 msgid "_Use safe moves"
 msgstr "_Ишәарҭам аныҟәарақәа рхархәара"
 
@@ -274,10 +275,6 @@ msgstr "Ахышәарақәа"
 #: src/properties-dialog.vala:84
 msgid "Game Type"
 msgstr "Ахәмарра ахкы"
-
-#: src/properties-dialog.vala:95
-msgid "_Use safe moves"
-msgstr "_Ишәарҭам аныҟәарақәа рхархәара"
 
 #: src/properties-dialog.vala:97
 msgid "Prevent accidental moves that result in getting killed."

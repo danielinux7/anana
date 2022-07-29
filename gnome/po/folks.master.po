@@ -272,7 +272,7 @@ msgstr ""
 #, c-format
 msgid "Address book is offline and a new contact cannot be created: %s"
 msgstr ""
-"Аҭыӡҭыԥтә шәҟәы «%s» аус ауоит автономтә режим  аҟны ,уи азы аимадара ҿыц заԥҵахаӡом: %s"
+"Аҭыӡҭыԥтә шәҟәы аус ауоит автономтә режим аҟны ,уи азы аимадара ҿыц заԥҵахаӡом: %s"
 
 #. Translators: the first parameter is a non-human-readable
 #. * property name and the second parameter is an error
