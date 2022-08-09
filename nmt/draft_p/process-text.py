@@ -27,6 +27,8 @@ for file in os.scandir('.'):
                             error = '0' if 0.66 < len(value1)/len(value2) < 1.5 else '1'
                             if value1 == value2:
                                 error = '1'
+                            if len(value1) < 20 or len(value2) < 20:
+                                error = '0' if 0.5 < len(value1)/len(value2) < 2 else '1'
                             id = (('+'+file.name[0:-9] if len(row[0]) >1 else file.name[0:-9]) if len(row[0]) == len(row[1]) else '-'+file.name[0:-9])
                             writer.writerow([id, value1, value2, error])
                 shutil.move(tempfile.name, file.name)
