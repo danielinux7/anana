@@ -1,0 +1,4337 @@
+msgid ""
+"{0}  If you choose to continue, you may not have access to some of your old "
+"data. "
+msgstr ""
+"Иацышәҵар шәҭахызар, ажәытә дыррақәа ԥыҭк  рахь  анеира азин шәцәыӡыр "
+"шәылшоит"
+
+msgid "%1$s   <small>%2$s</small>"
+msgstr "%1$s   <small>%2$s</small>"
+
+msgid "© 2011 Red Hat, Inc. © 2011-2020 The Contacts Developers"
+msgstr "© 2011 Red Hat, Inc. © 2011-2020 Аимадарақәа рыҟаҵаҩцәа"
+
+msgid ""
+"© 2018-2020 Juan Pablo Ugarte, et al. © 2004-2018 Tristan Van Berkom, Juan "
+"Pablo Ugarte, et al. © 2001-2006 Joaquin Cuenca Abela, Paolo Borelli, et al. "
+"© 2001-2006 Ximian, Inc."
+msgstr ""
+"© 2018-2020 Хуан Пабло Угарте (Juan Pablo Ugarte) уб.егь. © 2004-2018 "
+"Тристан Ван Берком (Tristan Van Berkom), Хуан Пабло Угарте (Juan Pablo "
+"Ugarte) уб.егь. © 2001-2006 Joaquin Cuenca Abela, Paolo Borelli, уб.егь. © "
+"2001-2006 Ximian, Inc."
+
+msgid "3 × 3 1 minute"
+msgstr "3 × 3        1 минуҭк"
+
+msgid "%.3f atm"
+msgstr "%.3f атм"
+
+msgid "4 × 4 3 minutes"
+msgstr "4 × 4        3 минуҭк"
+
+msgid "4 × 4 5 minutes"
+msgstr "4 × 4        5 минуҭк"
+
+msgid "5 × 5 15 minutes"
+msgstr "5 × 5        15 минуҭ"
+
+msgid "5 × 5 5 minutes"
+msgstr "5 × 5        5 минуҭк"
+
+msgid "Abandon this game to start a new one?"
+msgstr "Ари ахәмарра кажьны аҿыц шәалагар шәҭахума?"
+
+msgid "%A %B %-d"
+msgstr "%A, %-d %B"
+
+msgid "%A, %B %e"
+msgstr "%A, %e %b"
+
+msgid "%A, %B %e %H:%M"
+msgstr "%A, %e %b. %H:%M"
+
+msgid "%A, %B %e %H:%M:%S"
+msgstr "%A, %e %b. %H:%M:%S"
+
+msgid "%A, %B %e %l:%M %p"
+msgstr "%A, %e %b. %I:%M:%p"
+
+msgid "%A, %B %e %l:%M:%S %p"
+msgstr "%A, %e %b. %I:%M:%S %p"
+
+msgid "%a %b %-e_%R"
+msgstr "%a, %-e %B_%R"
+
+msgid "%a %b %-e_%R:%S"
+msgstr "%a, %-e %B_%R:%S"
+
+msgid "%A %B %e %Y"
+msgstr "%A, %-d %B %Y"
+
+msgid "%A, %B %e, %Y"
+msgstr "%A, %e %b. %Y"
+
+msgid "%A, %B %e, %Y %H:%M"
+msgstr "%A, %e %b. %Y %H:%M"
+
+msgid "%A, %B %e, %Y %H:%M:%S"
+msgstr "%A, %e %b. %Y %H:%M:%S"
+
+msgid "%A, %B %e, %Y %l:%M %p"
+msgstr "%A, %e %b. %Y %I:%M %p"
+
+msgid "%A, %B %e, %Y %l:%M:%S %p"
+msgstr "%A, %e %b. %Y %I:%M:%S %p"
+
+msgid "abstract"
+msgstr "ахҳәаа"
+
+msgid "A bytestring, type ‘ay’"
+msgstr "Абаиттә цәаҳәа, ахкы 'ay'"
+
+msgid "A byte (unsigned), type ‘y’"
+msgstr "баитк (дыргада), ахкы 'y'"
+
+msgid "Achromatomaly (blue cone monochromacy)"
+msgstr "Ахроматомалиа (аԥштәы агәынкылара ацәыӡра ииаҵәоу аколбахәыҷқәа рыла)"
+
+msgid "Achromatopsia (monochromacy)"
+msgstr "Ахроматопсиа ( аԥштәы агәынкылара ацәыӡра)"
+
+msgid "Achum"
+msgstr "Ачум"
+
+msgid "Action Attributes"
+msgstr "Аҟаҵара аҟазшьарбагақәа"
+
+msgid "Active"
+msgstr "Иаҿакуп"
+
+msgid "%a %d %b"
+msgstr "%a, %d %b"
+
+msgid "%A %d %B"
+msgstr "%A, %d %b"
+
+msgid "%a %d %b %Y"
+msgstr "%a, %d %b. %Y"
+
+msgid "%a, %d %B %Y"
+msgstr "%A, %d %b. %Y"
+
+msgid "%A %d %b %Y"
+msgstr "%A, %d %b. %Y"
+
+msgid "%a, %d %B %Y  %X"
+msgstr "%A, %d %b. %Y  %X"
+
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+msgid "Agnes"
+msgstr "Агнэс"
+
+msgid "%a %H∶%M"
+msgstr "%a, %H:%M"
+
+msgid "Ahom"
+msgstr "Ахом"
+
+msgid "Ahoskie"
+msgstr "Ахоски"
+
+msgid "Airplane Mode On"
+msgstr "Авиарежим аҿакуп"
+
+msgid "AisleRiot web site"
+msgstr "Веб-асаит Аислериот"
+
+msgid "Alaska"
+msgstr "Алиаска"
+
+msgid "All day:"
+msgstr "Амш зегьы:"
+
+msgid "All Day"
+msgstr "Амш зегьы"
+
+msgid "_All files"
+msgstr "_Афаилқәа зегьы"
+
+msgid "All files"
+msgstr "Афаилқәа зегьы"
+
+msgid "All Files"
+msgstr "Афаилқәа зегьы"
+
+msgid "All Files (*)"
+msgstr "Афаилқәа зегьы(*)"
+
+msgid "All Glade Files"
+msgstr "Афаилқәа зегьы Glade"
+
+msgid "All PKCS12 files"
+msgstr "Афаилқәа зегьы  PKCS12"
+
+msgid "All _Upper Case"
+msgstr "Хыхьтәи_арегистр ахь"
+
+msgid "_All"
+msgstr "_Зегьы"
+
+msgid "All"
+msgstr "Зегьы"
+
+msgid "%a %l∶%M %p"
+msgstr "%a %H:%M"
+
+msgid "Altitude"
+msgstr "Аҳаракыра"
+
+msgid "Always"
+msgstr "Еснагь"
+
+msgid "Amapá / East Pará"
+msgstr "Амапа / Амрагыларатә Пара"
+
+msgid "Amapala"
+msgstr "Амапала"
+
+msgid "Amapá"
+msgstr "Амапа"
+
+msgid "Amarillo"
+msgstr "Амарилло"
+
+msgid "Amazonas"
+msgstr "Амазонас"
+
+msgid "Ambler"
+msgstr "Амблер"
+
+msgid "%a %m/%d/%Y %H:%M:%S"
+msgstr "%a, %d.%m.%Y %H:%M:%S"
+
+msgid "%a %m/%d/%Y %I:%M:%S %p"
+msgstr "%a, %d.%m.%Y %I:%M:%S %p"
+
+msgid "American Samoa"
+msgstr "Америкатә Самоа"
+
+msgid "Amharic (EZ+)"
+msgstr "Амхартәи (EZ+)"
+
+msgid "Amiens"
+msgstr "Амьен"
+
+msgid "Ami"
+msgstr "Ами"
+
+msgid "Amplitude of heads trembling (GMR-head) in running mode"
+msgstr "Ахы(GMR-ахы) аҵысҵысра амплитуда еиҭаҵуа арежим  аҟны"
+
+msgid "Anadyr'"
+msgstr "Анадырь"
+
+msgid "Anaheim"
+msgstr "Анахаим"
+
+msgid "Anaktuvuk Pass"
+msgstr "Анкчувек Пасс"
+
+msgid "Analysing audio files"
+msgstr "Абжьтәы фаилқәа ранализ"
+
+msgid "Analysing files"
+msgstr "Афаилқәа ранализ"
+
+msgid "Analysing \"%s\""
+msgstr "Анализ «%s»"
+
+msgid "Analysing track %02i"
+msgstr "Абжьымҩахәасҭа анализ  %02i"
+
+msgid "Analysing video files"
+msgstr "Авидеонҵамҭа анализ"
+
+msgid "Analyze"
+msgstr "Анализҟаҵара"
+
+msgid "Anapa"
+msgstr "Анапа"
+
+msgid "Anápolis"
+msgstr "Анаполис"
+
+msgid "an arabic factorial symbol"
+msgstr "Арабтә символ факториал"
+
+msgid "An archive cannot be called “..”."
+msgstr "Архив иамазар ҟалаӡом хьӡыс«..»."
+
+msgid "An archive cannot be called “.”."
+msgstr "Архив иамазар ҟалаӡом хьӡыс «.»."
+
+msgid "Anatol Drlicek"
+msgstr "Анатоль Дрличек (Anatol Drlicek)"
+
+msgid "Anatolian Hieroglyphs"
+msgstr "Анатолиатә иероглифқәа"
+
+msgid ""
+"An audio or video stream is not handled due to missing codecs. You might "
+"need to install additional plugins to be able to play some types of movies"
+msgstr ""
+"Аудио- мамзара авидео еишьҭаҵа анаԥхгара амаӡам акодекқәа рыҟымзаара "
+"иахҟьаны.Иҟалап, афильмқәа рыхкқәа рҿакразы ишьақәыргылатәуп иацу амодульқәа."
+
+msgid ""
+"An automatically saved version of `%s' is more recent.  Would you like to "
+"load the autosave version instead?"
+msgstr ""
+"Автоматикла еиқәырхоу аверсиа \"%s\"  еиҳа иҿыцуп. Ишәҭахума шәара иара "
+"ацынхәрас автоматикла аиқәырхара змоу аверсиа ҭажәгалар. "
+
+msgid "Anchorage"
+msgstr "Анкоридж"
+
+msgid "Ancona"
+msgstr "Анкона"
+
+msgid "Andravída"
+msgstr "Андравида"
+
+msgid "Andrews"
+msgstr "Андриус"
+
+msgid "Andria"
+msgstr "Андриа"
+
+msgid "and"
+msgstr "амперсанд"
+
+msgid "A newer file with the same name already exists in “%s”."
+msgstr "Еиҳа иҿыцу афаил ари аҩыза ахьӡ змоу ыҟоуп «%s» аҟны"
+
+msgid "A newer folder with the same name already exists in “%s”."
+msgstr "Еиҳа иҿыцу аҭаӡ ари аҩыза ахьӡ змоу ыҟоуп «%s» аҟны"
+
+msgid "Angeles"
+msgstr "Анжелес"
+
+msgid "Ängelholm"
+msgstr "Ангехольм"
+
+msgid "Ange_l"
+msgstr "_Амаалықь"
+
+msgid "Angle Inlet"
+msgstr "Англе-Инлет"
+
+msgid "Angleton"
+msgstr "Англетон"
+
+msgid "Angola"
+msgstr "Ангола"
+
+msgid "Anhui"
+msgstr "Аньхои"
+
+msgid "Aniak"
+msgstr "Аниак"
+
+msgid "Animism"
+msgstr "Анимизм"
+
+msgid "Ankara"
+msgstr "Анкара"
+
+msgid "Ankarena"
+msgstr "Анкарена"
+
+msgid "Ankeny"
+msgstr "Анкени"
+
+msgid "Annaba"
+msgstr "Аннаба"
+
+msgid "Annapolis"
+msgstr "Аннаполис"
+
+msgid "Ann Arbor"
+msgstr "Анн-Арбор"
+
+msgid "Annette"
+msgstr "Аннетт"
+
+msgid "Anniston"
+msgstr "Аннистон"
+
+msgid "An older file with the same name already exists in “%s”."
+msgstr "Еиҳа иажәу афаил ари аҩыза ахьӡ змоу ыҟоуп «%s» аҟны"
+
+msgid "An older folder with the same name already exists in “%s”."
+msgstr "Еиҳа иажәу аҭаӡ ари аҩыза ахьӡ змоу ыҟоуп «%s» аҟны"
+
+msgid "Anonymous access denied"
+msgstr "Ахьӡыдоу аҭалара мап ацәкуп"
+
+msgid "Anony_mous identity"
+msgstr "И_хьӡыдоу ахаҭареилкаара"
+
+msgid "anonymous"
+msgstr "ихьӡыдоу"
+
+msgid "Anonymous"
+msgstr "Ихьӡыдоу"
+
+msgid "Áno Síros"
+msgstr "Ано-Сирос"
+
+msgid "Antakya"
+msgstr "Антакьиа"
+
+msgid "Antalya"
+msgstr "Анталиа"
+
+msgid "Antananarivo"
+msgstr "Антананариво"
+
+msgid "Antarctica/Casey"
+msgstr "Антарктида/Кеиси"
+
+msgid "Antarctica"
+msgstr "Антарктида"
+
+msgid "Antigo"
+msgstr "Антиго"
+
+msgid "Antigua and Barbuda"
+msgstr "Антигуеи Барбудеи"
+
+msgid "antique white"
+msgstr "антикатә ашкәакәа"
+
+msgid "Antofagasta"
+msgstr "Антофагаста"
+
+msgid "Antsiranana"
+msgstr "Антисарана"
+
+msgid "An unsigned long integer, type ‘t’"
+msgstr "Адырга змам идуу еибгоу ахыԥхьаӡара, ахкы 't'"
+
+msgid "Anvik"
+msgstr "Анвик"
+
+msgid "Anything"
+msgstr "Зегьы"
+
+msgid "Any time"
+msgstr "аамҭарбада"
+
+msgid "Aomori"
+msgstr "Аомори"
+
+msgid "Aosta"
+msgstr "Аоста"
+
+msgid "Apache 2.0"
+msgstr "GPL 2.0"
+
+msgid "Apache License, Version 2.0"
+msgstr "Apache License, Аверсиа 2.1"
+
+msgid "Apalachicola"
+msgstr "Апаличикола"
+
+msgid "Aperture"
+msgstr "Апертура"
+
+msgid "Apia"
+msgstr "Апиа"
+
+msgid "apostrophe"
+msgstr "аиҟәыҭхага"
+
+msgid "App Chooser Button Attributes"
+msgstr "Апшьы алхра апытҟәыр аҟазшьарбагақәа"
+
+msgid "A_ppearance"
+msgstr "_Аԥшра"
+
+msgid "Appearance"
+msgstr "Аԥшра"
+
+msgid "Appleton"
+msgstr "Аплтон"
+
+msgid "April"
+msgstr "Мшаԥымза"
+
+msgid "Apr"
+msgstr "Мшаԥ"
+
+msgid "Arabic Grade 1"
+msgstr "Арабтә аҩаӡара"
+
+msgid "Arabic"
+msgstr "Арабтә"
+
+msgid "Aracaju"
+msgstr "Аракаиу"
+
+msgid "Arad"
+msgstr "Арад"
+
+msgid "%a %R"
+msgstr "%a, %R"
+
+msgid "'Ar'ar"
+msgstr "Арар"
+
+msgid "Áraxos"
+msgstr "Арахос"
+
+msgid "Àrbatax"
+msgstr "Арбатакс"
+
+msgid "Arcade"
+msgstr "Аркадақәа"
+
+msgid "Arcata"
+msgstr "Арката"
+
+msgid "Archi_ve Folder:"
+msgstr "Архив_тә ҭаӡ:"
+
+msgid "Archive is encrypted"
+msgstr "Архив шифрркуп"
+
+msgid "Archive Mail"
+msgstr "Аԥошьҭа архивтәра"
+
+msgid "Archive selected directories using this format:"
+msgstr "Иалху аҭаӡқәа ари аформат алхны архивтәра :"
+
+msgid "Archive this folder using these settings:"
+msgstr "Уажәтәи аҭаӡ архивтәра абарҭ архиаракәа шәхы иархәаны:"
+
+msgid "Archive"
+msgstr "Архив"
+
+msgid "ARCHIVE"
+msgstr "АРХИВ"
+
+msgid "_Archive…"
+msgstr "_Архивтәра..."
+
+msgid "Arctic/Longyearbyen"
+msgstr "Арктика/Лонгир"
+
+msgid "Arctic Village"
+msgstr "Арктик Виллидж"
+
+msgid "Ardabil"
+msgstr "Ардебиль"
+
+msgid "Ardmore"
+msgstr "Ардмор"
+
+msgid "Arequipa"
+msgstr "Арекипа"
+
+msgid "Are you sure you want to convert the event into a message?"
+msgstr "Шәара агәра ганы шәыҟоума ахҭыс ацҳамҭа ахь еиҭашәкыр шышәҭаху?"
+
+msgid "Are you sure you want to convert the memo into a message?"
+msgstr "Шәара агәра ганы шәыҟоума азгәаҭа ацҳамҭа ахь еиҭашәкыр шышәҭаху?"
+
+msgid "Are you sure you want to convert the message into a meeting?"
+msgstr "Шәара агәра ганы шәыҟоума ацҳамҭа аизара  ахь еиҭашәкыр шышәҭаху?"
+
+msgid "Are you sure you want to convert the task into a message?"
+msgstr "Шәара агәра ганы шәыҟоума аҳасабтә ацҳамҭа ахь еиҭашәкыр шышәҭаху?"
+
+msgid ""
+"Are you sure you want to discard the message, titled “{0}”, you are "
+"composing?"
+msgstr "Аус здыжәуло ацҳамҭа «{0}» анышәхыр шышәҭаху агәра ганы шәыҟоума?"
+
+msgid "Are you sure you want to discard the message you are composing?"
+msgstr "Аус здыжәуло ацҳамҭа анышәхыр шышәҭаху агәра ганы шәыҟоума?"
+
+msgid "Arezzo"
+msgstr "Ареццо"
+
+msgid "Argostólion"
+msgstr "Аргостолион"
+
+msgid "[ARGS…]"
+msgstr "[АҴАҴӶӘҚӘА…]"
+
+msgid "Argument not defined for zero"
+msgstr "Аҵаҵӷәы арбаӡам ноль азы"
+
+msgid "_Arguments:"
+msgstr "_Аҵаҵӷәқәа:"
+
+msgid "Arguments"
+msgstr "Аҵаҵӷәқәа"
+
+msgid "Arguments: "
+msgstr "Аҵаҵӷәқәа:"
+
+msgid "Argument to “%s” is not a valid command: %s"
+msgstr "Аҵаҵӷәы «%s» азы изин змоу  дҵаӡам : %s"
+
+msgid ""
+"Argument used to execute programs in the terminal defined by the “exec” key. "
+"DEPRECATED: This key is deprecated and ignored. The default terminal and how "
+"to invoke it is handled in GIO."
+msgstr ""
+"Аҵаҵӷәы, ахархәара змоу апрограммақәа атерминал арыд  \"exec\" ала иарбахо "
+"рыҟаҵаразы.ИАЖӘХЬОУ:ари ацаԥха ажәит,насгьы азхьаԥшра амаӡам.Атерминал "
+"ишыҟоу еиԥш, насгьы ааԥхьаршьа аус адулахоит GIO аҟны."
+
+msgid "Arica"
+msgstr "Арика"
+
+msgid "Arizona"
+msgstr "Аризона"
+
+msgid "Arkadelphia"
+msgstr "Аркадельфиа"
+
+msgid "Arkansas"
+msgstr "Арканзас"
+
+msgid "Arkhangel'sk"
+msgstr "Архангельск"
+
+msgid "Arlington"
+msgstr "Арлингтон"
+
+msgid "Armenia"
+msgstr "Ермантәыла"
+
+msgid "Armilla"
+msgstr "Армилла"
+
+msgid "Ar Ruqayyiqah"
+msgstr "Ар Рувкаииквах"
+
+msgid "%a %R:%S"
+msgstr "%a, %R:%S"
+
+msgid "Artesia"
+msgstr "Артижа"
+
+msgid "As check _pattern"
+msgstr "Ахацтә _дәы аԥшра аҭаны"
+
+msgid "Ascoli Piceno"
+msgstr "Асколи Пичено"
+
+msgid "Aspen"
+msgstr "Аспен"
+
+msgid "Assiniboia"
+msgstr "Ассинибоиа"
+
+msgid "Astana"
+msgstr "Астана"
+
+msgid "Asti"
+msgstr "Асти"
+
+msgid "Astoria"
+msgstr "Асториа"
+
+msgid "Astrakhan'"
+msgstr "Астрахань"
+
+msgid "Astronomical Units"
+msgstr "Астрономиатә акака"
+
+msgid "Astronomy"
+msgstr "Астрономиа"
+
+msgid "Asunción"
+msgstr "Асуньсон"
+
+msgid "Aswan"
+msgstr "Асуан"
+
+msgid "asymptotically equal to"
+msgstr "асимптотикала иҟалоит"
+
+msgid "Asyut"
+msgstr "Асиут"
+
+msgid "'Ataq"
+msgstr "Атак"
+
+msgid "Athena"
+msgstr "Афина"
+
+msgid "Athens"
+msgstr "Афинақәа"
+
+msgid "Athlone"
+msgstr "Атлон"
+
+msgid "Atlanta"
+msgstr "Атланта"
+
+msgid "Atlantic/Azores"
+msgstr "Атлантика/Азоры"
+
+msgid "Atlantic/Bermuda"
+msgstr "Атлантика/Бермудақәа"
+
+msgid "Atlantic/Canary"
+msgstr "Атлантика/Канарақәа"
+
+msgid "Atlantic/Cape_Verde"
+msgstr "Атлантика/Кеип Верде"
+
+msgid "Atlantic City"
+msgstr "Атлантик-Сити"
+
+msgid "Atlantic/Faeroe"
+msgstr "Атлантика/Фаеро"
+
+msgid "Atlantic/Jan_Mayen"
+msgstr "Атлантикатә океан/о-в Иан-Маиен"
+
+msgid "Atlantic/Madeira"
+msgstr "Атлантика/Мадера"
+
+msgid "Atlantic/Reykjavik"
+msgstr "Атлантика/Реикиавик"
+
+msgid "Atlantic/South_Georgia"
+msgstr "Атлантикатә океан/о-в Аладатәи Георгиа"
+
+msgid "Atlantic/Stanley"
+msgstr "Атлантикатә океан/Стенли"
+
+msgid "Atlantic/St_Helena"
+msgstr "Атлантика/Св.Елена"
+
+msgid "Atlantic Time, no DST (Eastern Quebec)"
+msgstr "Атлантикатә аамҭа, апхынтәи ада (мрагыларатәи Квебек)"
+
+msgid "Atlantic Time"
+msgstr "Атлантикатә аамҭа"
+
+msgid "Atlantic"
+msgstr "Атлантик"
+
+msgid "Atogo"
+msgstr "Атого"
+
+msgid "Atoka"
+msgstr "Атока"
+
+msgid "['attachment','attaching','attached','enclosed']"
+msgstr "['аттач','аҭаҵа','attachment','attaching','attached','enclosed']"
+
+msgid "Attack a face-down pile."
+msgstr "Идырым амацеизга шәажәла"
+
+msgid ""
+"Attackers on %s may trick you into doing something dangerous like installing "
+"software or revealing your personal information (for example, passwords, "
+"phone numbers, or credit cards)."
+msgstr ""
+"Ижәыло %s шәыржьар ҟалоит, насгьы ишәыдыргалар ишәарҭоу акы аҟаҵара, иаҳҳәап "
+"апрограмма ақәыргылара, мамзар шәхатәы дыррақәа раарԥшра(Иаҳҳәап ажәамаӡа, "
+"аҭел аномер, мамзар акредиттә хсаала)"
+
+msgid "At Ta'if"
+msgstr "Ат-Таиф"
+
+msgid "Attribute not specified"
+msgstr "Аҟазшьарбага \"%s\" еилкааӡам"
+
+msgid "Attribute \"%s\" is invalid on <%s> element in this context"
+msgstr "Аҟазшьарбага \"%s\" гхоуп <%s> аелемент аҟны ари аконтекст ала"
+
+msgid "Attribute \"%s\" repeated twice on the same <%s> element"
+msgstr "Аҟазшьарбага \"%s\" ҩынтәны  еиҭаҟалеит ахәҭа <%s> аҟны"
+
+msgid "attributes: "
+msgstr "Аҟазшьарбагақәа:"
+
+msgid "ATTRIBUTES"
+msgstr "АҞАЗШЬАРБАГАҚӘА"
+
+msgid "Attributes"
+msgstr "Аҟашьарбагақәа"
+
+msgid "Atyrau"
+msgstr "Атырау"
+
+msgid "Audio CD"
+msgstr "Аудио CD"
+
+msgid "Audio DVD"
+msgstr "DVD-Audio"
+
+msgid "Audio Output"
+msgstr "Аудиоҭыҵра"
+
+msgid "Audio Player"
+msgstr "Аудиорҳәага"
+
+msgid "Audio Track"
+msgstr "Аудио амҩахәасҭа"
+
+msgid "Audio/Video"
+msgstr "Аудио/авидио"
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Auditable code"
+msgstr "Аудио ззыруа акод"
+
+msgid "Augsburg"
+msgstr "Аугсбург"
+
+msgid "Aurangabad"
+msgstr "Аурангабад"
+
+msgid "Aurillac"
+msgstr "Ауриллак"
+
+msgid "Authenticated"
+msgstr "Зхаҭареилкаау"
+
+msgid "Authenticate proxy server connections"
+msgstr "Апрокси-сервер ахь аҿакрақәа рхаҭареилкаара "
+
+msgid "A_uthenticate"
+msgstr "А_хаҭареилкаара"
+
+msgid "Authentication dialog was dismissed by the user"
+msgstr "Ахаҭареилкаара ахархәаҩ ила мап ацәкын"
+
+msgid "Authentication failed: %s"
+msgstr "Ахаҭареилкаара мҩаԥымсӡеит: %s"
+
+msgid "Authentication Failed"
+msgstr "Ахаҭареилкаара иманшәаламкәа имҩаԥысит"
+
+msgid "Au_thentication"
+msgstr "А_хаҭареилкаара"
+
+msgid "Authentication"
+msgstr "Ахаҭареилкаара"
+
+msgid ""
+"Automatically save the project to an alternate file whenever the project is "
+"modified and the specified timeout elapses"
+msgstr ""
+"Автоматикла апроект даҽа фаилк ахь лассы-лассы аиқәырхара  , апроект "
+"аԥсахраангьы. "
+
+msgid "Available"
+msgstr "Аҳа аҿы"
+
+msgid "A “vardict”, type ‘a{sv}’"
+msgstr "Авердикт "
+
+msgid "A variant, type ‘v’"
+msgstr "Авариант, ахкы 'v'"
+
+msgid "A variation on poker with dice and less money."
+msgstr "Апокер  аҟамаҭелқәеи аԥарақәеи рыла ахәмарр ахкы."
+
+msgid "a vertical strike"
+msgstr "Гәҵәыла  аҵәаӷәара"
+
+msgid "Bacău"
+msgstr "Бакау"
+
+msgid "Bad Axe"
+msgstr "Бед-Акс"
+
+msgid "Bahia"
+msgstr "Баиа"
+
+msgid "Bahraini Dinar"
+msgstr "Бахреинтәи адинар"
+
+msgid "Bahrain"
+msgstr "Бахреин"
+
+msgid "Baia Mare"
+msgstr "Баиа-Маре"
+
+msgid "Baie-Comeau"
+msgstr "Баи-Комиу"
+
+msgid "Baie-de-la-Trinité"
+msgstr "Баи-дела-Тринити"
+
+msgid "Baie-Sainte-Catherine"
+msgstr "Баи-Саинт-Катрин"
+
+msgid "Bainbridge"
+msgstr "Баинбридж"
+
+msgid "Baja California Sur"
+msgstr "Баиа Калифорниа Сур"
+
+msgid "Baja California"
+msgstr "Баиа Калифорниа"
+
+msgid "Baku"
+msgstr "Баку"
+
+msgid "Baldonnel"
+msgstr "Балдоннел"
+
+msgid "Balinese"
+msgstr "Балиатә"
+
+msgid "Balmaceda"
+msgstr "Балмаседа"
+
+msgid "Balneário Camboriú"
+msgstr "Балнеариу-Камбориу"
+
+msgid "Bamboo"
+msgstr "Бамбу"
+
+msgid "Bamum"
+msgstr "Бамум"
+
+msgid "Bancroft"
+msgstr "Бенкрофт"
+
+msgid "Bandirma"
+msgstr "Бандирма"
+
+msgid "Banff"
+msgstr "Бенф"
+
+msgid "Banja Luka"
+msgstr "Баниа-Лука"
+
+msgid "banner"
+msgstr "абаннер"
+
+msgid "Baraboo"
+msgstr "Бар-Харбор"
+
+msgid "Barahona"
+msgstr "Барахона"
+
+msgid "Barajas"
+msgstr "Барахас"
+
+msgid "Barbacena"
+msgstr "Барбацена"
+
+msgid "Barbados"
+msgstr "Барбадос"
+
+msgid "Barcelona"
+msgstr "Барселона"
+
+msgid "Bar Harbor"
+msgstr "Бар-Харбор"
+
+msgid "Barinas"
+msgstr "Баринас"
+
+msgid "Bari"
+msgstr "Бари"
+
+msgid "Barletta"
+msgstr "Барретта"
+
+msgid "Barnaul"
+msgstr "Барнаул"
+
+msgid "Barquisimeto"
+msgstr "Баркисимето"
+
+msgid "Barra do Garças"
+msgstr "Барра-до-Гарцас"
+
+msgid "Barranquilla"
+msgstr "Барранкилиа"
+
+msgid "Barretts"
+msgstr "Барретс"
+
+msgid "Barre"
+msgstr "Барр"
+
+msgid "Barrow"
+msgstr "Барроу"
+
+msgid "Bartlesville"
+msgstr "Бартлсвилль"
+
+msgid "Bartow"
+msgstr "Бартоу"
+
+msgid "Baseline"
+msgstr "Абазатә цәаҳәа"
+
+msgid "Baseline:"
+msgstr "Абазатә цәаҳәа:"
+
+msgid "Basel"
+msgstr "Базель"
+
+msgid "Basename of the default keybinding theme used by gtk+."
+msgstr ""
+" gtk+ ахархәара змоу, арыдқәа ишыҟоу еиԥш рыдҳәаларҭа атема абазатә хьӡы."
+
+msgid "Basename of the default theme used by gtk+."
+msgstr "Ишыҟоу еиԥш gtk+ ахархәара змоу атема  абазатә хьӡы"
+
+msgid "base"
+msgstr "абазатә"
+
+msgid "Basic Protection"
+msgstr "Абазатә ҽацәыхьчара"
+
+msgid "Basic Security Protections"
+msgstr "Абазатә ашәарҭадаратә уснагӡатәқәа"
+
+msgid "Basic"
+msgstr "Абазатә"
+
+msgid "Basseterre"
+msgstr "Бастер"
+
+msgid "Basse-Terre"
+msgstr "Бас-Тер"
+
+msgid "Bastia"
+msgstr "Бастиа"
+
+msgid "Batak"
+msgstr "Батак"
+
+msgid "Batesville"
+msgstr "Батсвилл"
+
+msgid "Bathurst"
+msgstr "Батерст"
+
+msgid "Batna"
+msgstr "Батна"
+
+msgid "Baton Rouge"
+msgstr "Батон-Руж"
+
+msgid "Båtsfjord"
+msgstr "Ботсфьорд"
+
+msgid "Bay City"
+msgstr "Беи-Сити"
+
+msgid "Bay Saint Lawrence"
+msgstr "Беи-Саинт-Лоурентс"
+
+msgid "%B %-d"
+msgstr "%-d %B %Y"
+
+msgid "%b %d %H∶%M"
+msgstr "%e %b., %H:%M"
+
+msgid "%b %d %l:%M %p"
+msgstr "%b. %d %l:%M %p"
+
+msgid "%b %d %l∶%M %p"
+msgstr "%-d %B %H:%M"
+
+msgid "%b %d %Y"
+msgstr "%e %b. %Y"
+
+msgid "%B %-d %Y"
+msgstr "%-d %B %Y"
+
+msgid "Beardmore"
+msgstr "Беардмор"
+
+msgid "Beatrice"
+msgstr "Биатрис"
+
+msgid "Beauceville"
+msgstr "Босевиль"
+
+msgid "Beaufort force %.1f"
+msgstr "%.1f абаллқәа аихшарба Боффорт ала"
+
+msgid "Beaufort"
+msgstr "Бофорт"
+
+msgid "Beaumont"
+msgstr "Бомонт"
+
+msgid "Beauport"
+msgstr "Бопорт"
+
+msgid "Beauvais"
+msgstr "Боваис"
+
+msgid "Beauvechain"
+msgstr "Бовечан"
+
+msgid "Beaver Falls"
+msgstr "Бивер-Фоллс"
+
+msgid "Beaver Harbour"
+msgstr "Бивер-Харбор"
+
+msgid "Bechar"
+msgstr "Бичар"
+
+msgid "%b %e"
+msgstr "%b %e"
+
+msgid "%b %e %H:%M"
+msgstr "%e %b., %H:%M"
+
+msgid "%b %e %H:%M:%S"
+msgstr "%e %b., %H:%M:%S"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Belém"
+msgstr "Бетлехем"
+
+msgid "Belfast"
+msgstr "Белфаст"
+
+msgid "Belgium Dutch Grade 1"
+msgstr "Бельгиа голландиатәи аҩаӡара 1"
+
+msgid "Belgium"
+msgstr "Бельгиа"
+
+msgid "Belgrade"
+msgstr "Белград"
+
+msgid "Belize"
+msgstr "Белиз"
+
+msgid "Bella Coola"
+msgstr "Белла-Кула"
+
+msgid "Bellaire"
+msgstr "Беллер"
+
+msgid "Belleville"
+msgstr "Белвилль"
+
+msgid "Bellevue"
+msgstr "Белвиу"
+
+msgid "%b %e %l:%M %p"
+msgstr "%e %b., %l:%M %p"
+
+msgid "%b %e %l:%M:%S %p"
+msgstr "%e %b., %l:%M:%S %p"
+
+msgid "Belo Horizonte"
+msgstr "Белу-Оризонте"
+
+msgid "Bemidji"
+msgstr "Бемиджи"
+
+msgid "Benares"
+msgstr "Варанаши"
+
+msgid "Benevento"
+msgstr "Беневенто"
+
+msgid "Bengali"
+msgstr "Бенгальтәи"
+
+msgid "Benin"
+msgstr "Бенин"
+
+msgid "Benners"
+msgstr "Беннерс"
+
+msgid "Bennington"
+msgstr "Беннингтон"
+
+msgid "Benson"
+msgstr "Бенсон"
+
+msgid "Benton Harbor"
+msgstr "Бентон-Харбор"
+
+msgid "Bentonville"
+msgstr "Бентонвилль"
+
+msgid "%b %-e_%R"
+msgstr "%a, %-e %B_%R"
+
+msgid "Berberati"
+msgstr "Берберати"
+
+msgid "Berens River"
+msgstr "Беренс Ривер"
+
+msgid "Bergamo"
+msgstr "Бергамо"
+
+msgid "Bergen"
+msgstr "Берген"
+
+msgid "Bergerac"
+msgstr "Бержерак"
+
+msgid "Berkeley"
+msgstr "Беркли"
+
+msgid "Berlevåg"
+msgstr "Берлевог"
+
+msgid "Berlin"
+msgstr "Берлин"
+
+msgid "Bermuda"
+msgstr "Абермудқәа"
+
+msgid "Bern"
+msgstr "Берн"
+
+msgid "Berriane"
+msgstr "Берриан"
+
+msgid "%b %-e_%R:%S"
+msgstr "%a, %-e %B_%R:%S"
+
+msgid "Bethel"
+msgstr "Бетел"
+
+msgid "Bettles"
+msgstr "Бетлс"
+
+msgid "Beverly"
+msgstr "Беверли"
+
+msgid "%b %e, %Y"
+msgstr "%-d %b %Y"
+
+msgid "%b %e %Y %H:%M"
+msgstr "%e %b. %Y, %H:%M"
+
+msgid "%b %e %Y %H:%M:%S"
+msgstr "%e %b. %Y, %H:%M:%S"
+
+msgid "%B %e %Y, %I∶%M∶%S %p"
+msgstr "%e %B %Y, %H:%M:%S"
+
+msgid "%b %e %Y %l:%M %p"
+msgstr "%e %b. %Y, %l:%M %p"
+
+msgid "%b %e %Y %l:%M:%S %p"
+msgstr "%e %b. %Y, %l:%M:%S %p"
+
+msgid "Biarritz"
+msgstr "Биариц"
+
+msgid "bibliography entry"
+msgstr "Абиблиографиатә нҵамҭа"
+
+msgid "bibliography"
+msgstr "абиблиографиа"
+
+msgid "Biella"
+msgstr "Бьелла"
+
+msgid "Bielsko-Biala"
+msgstr "Бельско-Биала"
+
+msgid "Bierset"
+msgstr "Бирсет"
+
+msgid "Big board"
+msgstr "Идуу аԥшранҵа"
+
+msgid ""
+"<big><b>The photo is too large</b></big> The recommended size for a photo on "
+"your key is %d × %d pixels."
+msgstr ""
+"<big><b>Аԥшранҵа амцхә идууп</b></big> адгаларатә рышәага аԥшранҵақәа  "
+"ацаԥхаҟны   — %d × %d акәаԥқәа."
+
+msgid ""
+"<big><b>Tips:</b></big>   * Right-click over the treeview to add items.   * "
+"Press Delete to remove the selected item.   * Drag &amp; Drop to reorder.   *"
+" Type column is editable."
+msgstr ""
+"<big><b>Аҵаҳәарақәа:</b></big>   * Аҵлаҟны  аелемент ацҵаразы , аҵла аҵаҟа "
+"аҳәынапԥ арыӷьаратәи пытҟәыр шәақәыӷәӷәа.   * Иалкаау аелементқәа рныхразы "
+"шәақәыӷәӷәа Delete.   * Аелеменқәа реишьҭагылашьа аԥсахразы еиҭажәга урҭ "
+"аҳәынаԥ ала.   * Ахкы аиҵагыла ариашара ҟалоит."
+
+msgid "Bigfork"
+msgstr "Бигфорк"
+
+msgid "Big game"
+msgstr "Идуу ахәмарра"
+
+msgid "Biggin Hill"
+msgstr "Биггин-Хил"
+
+msgid "Big Piney"
+msgstr "Биг-Пинеи"
+
+msgid "Big Rapids"
+msgstr "Биг-Репидс"
+
+msgid "Big Spring"
+msgstr "Биг-Спрингс"
+
+msgid "Bilbao"
+msgstr "Бильбао"
+
+msgid "Billings"
+msgstr "Биллингс"
+
+msgid "Billund"
+msgstr "Биллунн"
+
+msgid "Biloxi"
+msgstr "Билокси"
+
+msgid "Bindersleben"
+msgstr "Биндерслебен"
+
+msgid "Binghamton"
+msgstr "Бингментон"
+
+msgid "Bintulu"
+msgstr "Бинтулу"
+
+msgid "Biography"
+msgstr "Абиографиа"
+
+msgid "Birchwood"
+msgstr "Бирчвуд"
+
+msgid "Birjand"
+msgstr "Биржанд"
+
+msgid "Birmingham"
+msgstr "Бирмингем"
+
+msgid "Bishkek"
+msgstr "Бишкек"
+
+msgid "Bishop"
+msgstr "Бишоп"
+
+msgid "Biskra"
+msgstr "Бискра"
+
+msgid "Bismarck"
+msgstr "Бисмарк"
+
+msgid "bisque"
+msgstr "абиквиттә"
+
+msgid "Bistrita"
+msgstr "Бистрица"
+
+msgid "Bizerte"
+msgstr "Бизерта"
+
+msgid "Black Eagle"
+msgstr "Блек-Игл"
+
+msgid "Blackpool"
+msgstr "Блекпул"
+
+msgid "Black River"
+msgstr "Блек-Ривер"
+
+msgid "Blacksburg"
+msgstr "Блексбург"
+
+msgid "Blagoveschensk"
+msgstr "Благовешьенск"
+
+msgid "blanched almond"
+msgstr "аӡыршы иӡааху аминдаль"
+
+msgid "Blanc-Sablon"
+msgstr "Бланк-Саблон"
+
+msgid "Block"
+msgstr "Аидкыла"
+
+msgid "Bloemfontein"
+msgstr "Блумфонтеин"
+
+msgid "_Blog:"
+msgstr "_Аблог:"
+
+msgid "Blog"
+msgstr "Аблог"
+
+msgid "Blog:"
+msgstr "Аблог:"
+
+msgid "Bloomington"
+msgstr "Блумингтон"
+
+msgid "Bluefields"
+msgstr "Блуфилдс"
+
+msgid "Bluefield"
+msgstr "Блуфилд"
+
+msgid "Blue River"
+msgstr "Блиу Ривер"
+
+msgid "Bluetooth enabled"
+msgstr "Bluetooth аҿакуп"
+
+msgid "Bluetooth On"
+msgstr "Bluetooth аҿакуп"
+
+msgid "Bluetooth RF kill"
+msgstr "Bluetooth Rf kill"
+
+msgid "Blumenau"
+msgstr "Блуменау"
+
+msgid "Blytheville"
+msgstr "Блитевилл"
+
+msgid "Blythe"
+msgstr "Блаит"
+
+msgid "Boat Basin"
+msgstr "Боат-Базин"
+
+msgid "Boa Vista"
+msgstr "Боа-Виста"
+
+msgid "Bodrum"
+msgstr "Бодрум"
+
+msgid "Bogotá"
+msgstr "Богота"
+
+msgid "Bogue"
+msgstr "Бог"
+
+msgid "Bolivia"
+msgstr "Боливиа"
+
+msgid "Bolle"
+msgstr "Болле"
+
+msgid "Bologna"
+msgstr "Болониа"
+
+msgid "Boltåsen"
+msgstr "Болтасен"
+
+msgid "Bolzano"
+msgstr "Больцано"
+
+msgid "Bol"
+msgstr "Бол"
+
+msgid "Bom Jesus da Lapa"
+msgstr "Бом-Иисус-да-Лапа"
+
+msgid "Bon Accord"
+msgstr "Бон-Аккорд"
+
+msgid "Bonn"
+msgstr "Бонн"
+
+msgid "Bonus if >62"
+msgstr "Абонус , >62 акәзар"
+
+msgid "Boone"
+msgstr "Бун"
+
+msgid "Bopomofo"
+msgstr "Бопомофо"
+
+msgid "Bordeaux"
+msgstr "Бордо"
+
+msgid "Borden"
+msgstr "Борден"
+
+msgid "Borger"
+msgstr "Боргер"
+
+msgid "Borlänge"
+msgstr "Борленге"
+
+msgid "Boryspil'"
+msgstr "Борисполь"
+
+msgid "Boscobel"
+msgstr "Боскобель"
+
+msgid "Boscombe"
+msgstr "Боскомбе"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Босниеи Герцеговинеи"
+
+msgid "Boston"
+msgstr "Бостон"
+
+msgid "Botoşani"
+msgstr "Ботошани"
+
+msgid "Botswana Pula"
+msgstr "Ботсванская пула"
+
+msgid "Botswana"
+msgstr "Ботсвана"
+
+msgid "Boukot Ouolof"
+msgstr "Боукот-Оулоф"
+
+msgid "Boulder"
+msgstr "Боулдер"
+
+msgid "Bournemouth"
+msgstr "Борнмут"
+
+msgid "Bou Saada"
+msgstr "Боу-Саада"
+
+msgid "Bow Island"
+msgstr "Боу-Аиленд"
+
+msgid "Bowling Green"
+msgstr "Боулинг-Грин"
+
+msgid "Bowman"
+msgstr "Боумен"
+
+msgid "Box Elder"
+msgstr "Бокс-Елдер"
+
+msgid "Boxes"
+msgstr "Абоксқәа"
+
+msgid "Bozeman"
+msgstr "Бозмен"
+
+msgid "Brahmi"
+msgstr "Брахми"
+
+msgid "Braille"
+msgstr "Браиль"
+
+msgid "Brainerd"
+msgstr "Бреинерд"
+
+msgid "Branches"
+msgstr "Амахәқәа"
+
+msgid "Branch"
+msgstr "Амахә"
+
+msgid "Brandenburg"
+msgstr "Бранденбург"
+
+msgid "Brandon"
+msgstr "Брендон"
+
+msgid "Brasero media burning library"
+msgstr "Абиблиотека Brasero аныҟәгага анҵаразы"
+
+msgid "Brasero optical media library"
+msgstr "Абиблиотека Brasero аоптикатә ныҟәгага аус рыдуларазы"
+
+msgid "Brasero utilities library"
+msgstr "Абиблиотека аутилит  Brasero"
+
+msgid "Brasília Time"
+msgstr "Бразилиатәи аамҭа"
+
+msgid "Brasília"
+msgstr "Бразилиа"
+
+msgid "Braşov"
+msgstr "Брашов"
+
+msgid "Bratislava"
+msgstr "Братислава"
+
+msgid "Bratsk"
+msgstr "Братск"
+
+msgid "Braunschweig"
+msgstr "Брауншвеиг"
+
+msgid "Bravo! You equalized your best score."
+msgstr "Аферым ! Шәара еиҟарашәтәит иреиӷьу шәылҵшәа."
+
+msgid "Bravo! You finished the game again."
+msgstr "Аферым ! Шәара еиҭа ахәмарра шәахысит!"
+
+msgid "Bravo! You finished the game!"
+msgstr "Аферым ! Шәара ахәмарра хшәырқәшеит!"
+
+msgid "Bravo! You improved your best score!"
+msgstr "Аферым ! Шәара  иреиӷьыз шәылҵшәа еиҳа еиӷьышәтәит!"
+
+msgid "Bray"
+msgstr "Бреи"
+
+msgid "Brazilian Portuguese"
+msgstr "Бразилиатәи португалиатәи"
+
+msgid "Brazilian Real"
+msgstr "Бразилиатәи реал"
+
+msgid "Brazil"
+msgstr "Бразилиа"
+
+msgid "Brazzaville"
+msgstr "Браззавиль"
+
+msgid "Bredeck"
+msgstr "Бредек"
+
+msgid "Bremen"
+msgstr "Бремен"
+
+msgid "Bremerton"
+msgstr "Бремертон"
+
+msgid "Brenham"
+msgstr "Бренхем"
+
+msgid "Brescia"
+msgstr "Брескиа"
+
+msgid "Brest"
+msgstr "Брест"
+
+msgid "Breuil-Cervinia"
+msgstr "Бреул-Сервиниа"
+
+msgid "breve"
+msgstr "бревис"
+
+msgid "Bridgeport"
+msgstr "Бриджпорт"
+
+msgid "Bridgetown"
+msgstr "Бриджтаун"
+
+msgid "Brighton"
+msgstr "Браитон"
+
+msgid "Brindisi"
+msgstr "Бриндизи"
+
+msgid "Brisbane"
+msgstr "Брисбен"
+
+msgid "Bristol"
+msgstr "Бристоль"
+
+msgid "British Columbia"
+msgstr "Брианиатәи Колумбиа"
+
+msgid "British Indian Ocean Territory"
+msgstr "Британиатәи аҵакырадгьыл Индиатәи аокеан аҟны"
+
+msgid "British Pound Sterling"
+msgstr "Британиатәи  афунт стерлингқәа"
+
+msgid "British Virgin Islands"
+msgstr "Британиатәи Вирджиниатәи адгьылбжьахақәа"
+
+msgid "Brive"
+msgstr "Биве"
+
+msgid "Brize Norton"
+msgstr "Бриз Нортон"
+
+msgid "Brno"
+msgstr "Брно"
+
+msgid "Broadview"
+msgstr "Бродвиу"
+
+msgid "broken bar"
+msgstr "агәҵәытә цәаҳәа аиԥырҟьа аманы"
+
+msgid "Broken Bow"
+msgstr "Брокен-Боу"
+
+msgid "Brønnøysund"
+msgstr "Бронноизунд"
+
+msgid "Bronstein"
+msgstr "Бронштеин"
+
+msgid "Brookings"
+msgstr "Брукингс"
+
+msgid "Brooksville"
+msgstr "Бруксвиль"
+
+msgid "Brooks"
+msgstr "Брукс"
+
+msgid "Broome"
+msgstr "Брум"
+
+msgid "Broomfield"
+msgstr "Брумфилд"
+
+msgid "Browning"
+msgstr "Браунинг"
+
+msgid "Brownsville"
+msgstr "Браунсвиль"
+
+msgid "Brownwood"
+msgstr "Браунвуд"
+
+msgid "Brunei Dollar"
+msgstr "Брунеитәи адоллар"
+
+msgid "Brunei"
+msgstr "Брунеи"
+
+msgid "Brunswick"
+msgstr "Брунсвик"
+
+msgid "Brusque"
+msgstr "Бруски"
+
+msgid "Bryce Canyon"
+msgstr "Браис Каньон"
+
+msgid "<b>%s</b>: %s <b>%s</b>: %d×%d <b>%s</b>: %s"
+msgstr "<b>%s</b>: %s <b>%s</b>: %d×%d <b>%s</b>: %s"
+
+msgid "Bucaramanga"
+msgstr "Букараманга"
+
+msgid "Büchel"
+msgstr "Биухель"
+
+msgid "Buckhannon"
+msgstr "Бакханнон"
+
+msgid "Buckland"
+msgstr "Бакленд"
+
+msgid "Bujumbura"
+msgstr "Бужумбура"
+
+msgid "Bukoba"
+msgstr "Букоба"
+
+msgid "Bulgarian Lev"
+msgstr "Болгариатәи алым"
+
+msgid "Bulgaria"
+msgstr "Болгариа"
+
+msgid "Bullhead City"
+msgstr "Буллхед Сити"
+
+msgid "Bullsbrook"
+msgstr "Буллсбрук"
+
+msgid "Burbank"
+msgstr "Бербанк"
+
+msgid "Burley"
+msgstr "Берли"
+
+msgid "Burlington"
+msgstr "Берлингтон"
+
+msgid "Burnet"
+msgstr "Барнет"
+
+msgid "Burns Lake"
+msgstr "Бернс-Леик"
+
+msgid "Burns"
+msgstr "Бернс"
+
+msgid "Butler"
+msgstr "Батлер"
+
+msgid "Butte"
+msgstr "Бьиутт"
+
+msgid "Button Attributes"
+msgstr "Апытҟәыр аҟазшьарбагақәа"
+
+msgid "Buzău"
+msgstr "Бузеу"
+
+msgid "byte,bytes,B"
+msgstr "баит,абаитқәа,Б"
+
+msgid "BytesSourceSeqTimeUnits "
+msgstr "Абаитқәа       Ахықәкы        Азҵаалара        Аамҭа        Ашәара ак"
+
+msgid "Bytes"
+msgstr "Абаитқәа"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+msgid "Caps lock is on."
+msgstr "Caps Lock  аҿакуп."
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock аҿакуп"
+
+msgid "CentOS"
+msgstr "Centos OS"
+
+msgid "century,centuries"
+msgstr "ашәышықәса, ашәышықәсақәа"
+
+msgid "Character Variants"
+msgstr "Асимволқәа рвариантқәа"
+
+msgid "Character Variation 10"
+msgstr "Асимвол 10 авариант"
+
+msgid "Character Variation 11"
+msgstr "Асимвол 11 авариант"
+
+msgid "Character Variation 12"
+msgstr "Асимвол 12 авариант"
+
+msgid "Character Variation 13"
+msgstr "Асимвол 13 авариант"
+
+msgid "Character Variation 14"
+msgstr "Асимвол 14 авариант"
+
+msgid "Character Variation 15"
+msgstr "Асимвол 15 авариант"
+
+msgid "Character Variation 16"
+msgstr "Асимвол 16 авариант"
+
+msgid "Character Variation 17"
+msgstr "Асимвол 17 авариант"
+
+msgid "Character Variation 18"
+msgstr "Асимвол 18 авариант"
+
+msgid "Character Variation 19"
+msgstr "Асимвол 19 авариант"
+
+msgid "Character Variation 1"
+msgstr "Асимвол 1 авариант"
+
+msgid "Character Variation 2"
+msgstr "Асимвол 2 авариант"
+
+msgid "Character Variation 3"
+msgstr "Асимвол 3 авариант"
+
+msgid "Character Variation 4"
+msgstr "Асимвол 4 авариант"
+
+msgid "Character Variation 5"
+msgstr "Асимвол 5 авариант"
+
+msgid "Character Variation 6"
+msgstr "Асимвол 6 авариант"
+
+msgid "Character Variation 7"
+msgstr "Асимвол 7 авариант"
+
+msgid "Character Variation 8"
+msgstr "Асимвол 8 авариант"
+
+msgid "Character Variation 9"
+msgstr "Асимвол 9 авариант"
+
+msgid "Cheese Website"
+msgstr "Веб-асаит Cheese"
+
+msgid "Client Authentication"
+msgstr "Аҭааҩ ихаҭареилкаара"
+
+msgid "Code Insight"
+msgstr "Акод анализ"
+
+msgid "Combo Box Attributes"
+msgstr "Иалшәо ахьӡынҵа аҟазшьарбагақәа"
+
+msgid "Combo Box Text Attributes"
+msgstr "Иалшәо атекст ахьӡынҵа аҟазшьарбагақәа"
+
+msgid "Cookies"
+msgstr "Cookie"
+
+msgid ""
+"Copyright © 2008-2013 Red Hat, Inc. Copyright © 2008-2013 David Zeuthen "
+"Copyright © 2009-2017 The GNOME Project "
+msgstr ""
+"Аԥҵаҩы изин © 2008-2013 Red Hat, Inc. Аԥҵаҩы изин © 2008-2013 David Zeuthen "
+"Аԥҵаҩы изин © 2009-2017 The GNOME Project "
+
+msgid ""
+"Copyright © 2012 – 2021 Red Hat, Inc. Copyright © 2015 – 2018 Umang Jain"
+msgstr ""
+"Аԥҵаҩы изин © 2012 – 2021 Red Hat, Inc. Аԥҵаҩы изин © 2015 – 2018 Umang Jain"
+
+msgid "Currencies"
+msgstr "Авалиутақәа"
+
+msgid "Currency of the current calculation"
+msgstr "Уажәтәи аихшьалара авалиута"
+
+msgid "Currency"
+msgstr "Авалиута"
+
+msgid "cyan"
+msgstr "ахаҳәиаҵәатә"
+
+msgid "Database"
+msgstr "Адыррақәа рбаза"
+
+msgid "%d %b %Y"
+msgstr "%d %b. %Y"
+
+msgid "%d-%b-%Y"
+msgstr "%d-%b.-%Y"
+
+msgid "%d %B %Y"
+msgstr "%d %b. %Y"
+
+msgid "(deadlock?) "
+msgstr "(анибакылара)"
+
+msgid ""
+"Default arguments are “-i -f %F -- %R”, where    %F — stands for the From "
+"address    %R — stands for the recipient addresses"
+msgstr ""
+"Аҵаҵӷәқәа ишыҟоу еиԥш: «-i -f %F -- %R», уаҟа    %F — ашьҭҩы иҭыӡҭыԥ    %R — "
+"аиуаа рҭыӡҭыԥ"
+
+msgid "(Deprecated) Proxy authentication password"
+msgstr "Аамҭалатәи ахаҭареилкаара аиԥырҟьара"
+
+msgid "(Deprecated) Proxy authentication user name"
+msgstr "Аамҭалатәи ахаҭареилкаара аиԥырҟьара"
+
+msgid "Devhelp Website"
+msgstr "Веб-асаит Devhelp"
+
+msgid "De_vilish"
+msgstr "Иа_апку"
+
+msgid ""
+"Disk Usage Analyzer can scan specific folders, storage devices and online "
+"accounts. It provides both a tree and a graphical representation showing the "
+"size of each folder, making it easy to identify where disk space is wasted."
+msgstr ""
+"Адискқәа ранализҟаҵага азин амоуп хазытәи аҭаӡқәа рықәҭыхра, аиқәырхара "
+"аиҿыртәырақәа насгьы аҳасабырбатә нҵамҭақәа рықәҭыхра.Еиқәнаршәоит "
+"аграфикатә аарԥшра ,насгьы ҵлаҵас аарԥшра, аҭаӡцыԥхьаӡа ашәагаа шәзырбо , уи "
+"ишәнаҭоит алшара имарианы адиск аиужьра ахьыӡо ашьақәыргылара."
+
+msgid "Disk Usage Analyzer"
+msgstr "Адиск ахархәара анализҟаҵага"
+
+msgid "Display"
+msgstr "Аԥшра"
+
+msgid "_Do not show this dialog again"
+msgstr "_Ари ааиҿцәажәара уаҳа  иаарԥштәым"
+
+msgid "Do not show this message again"
+msgstr "Ари ацҳамҭа уаҳа  иаарԥштәым"
+
+msgid "Do not _show this wizard again"
+msgstr "Ари ацхырааҩ уаҳа  даарԥштәым"
+
+msgid "Don’t Warn Again"
+msgstr "  Уаҳа  агәҽанымҵара"
+
+msgid "Dotless Forms"
+msgstr "Икәаԥдоу аформақәа"
+
+msgid "dotless %s"
+msgstr "%s  кәаԥда"
+
+msgid "Do you want to continue?"
+msgstr "Иацышәҵар шәҭахума?"
+
+msgid "Do you want to detach event from the series?"
+msgstr "Ишәҭахума шәара ахҭыс асериа аҟынтә аҿыгара ? "
+
+msgid "Do you want to reload this website?"
+msgstr "Ари асаит  еиҭаҿашәкыр  шәҭахума?"
+
+msgid "Do you want to use GTK Inspector?"
+msgstr "Шәхы иашәырхәар шәҭахума GTK Inspector?"
+
+msgid "Drop marble"
+msgstr "Ампыл аршәра"
+
+msgid "dropped data"
+msgstr "икажьу адыррақәа"
+
+msgid "Dropped Text.txt"
+msgstr "Икажьу Текст.txt"
+
+msgid "Drop"
+msgstr "Аршәра"
+
+msgid "DSL authentication"
+msgstr "Ахаҭареилкаара DSL"
+
+msgid "Duration"
+msgstr "Аамҭа"
+
+msgid "During a game"
+msgstr "Ахәмарра аан"
+
+msgid "During game selection"
+msgstr "Ахәмарра алхраан"
+
+msgid "DVD-R dual layer"
+msgstr "DVD-R DL"
+
+msgid "Dynamic column header cleared."
+msgstr "Аамҭалатәи аиҵаргыла ахы рыцқьоуп."
+
+msgid "Dynamic row header cleared."
+msgstr "Аамҭалатәи ацәаҳәа ахы рыцқьоуп."
+
+msgid "East Amazonas"
+msgstr "Амрагыларатәи Амазонас"
+
+msgid "Eastern Congo"
+msgstr "Амрагыларатәи Конго"
+
+msgid "Eastern Greenland"
+msgstr "Амрагыларатәи Гринландиа"
+
+msgid "Eastern Kazakhstan"
+msgstr "Амрагыларатәи Казахстан"
+
+msgid "Eastern Mongolia"
+msgstr "Амрагыларатәи Монголиа"
+
+msgid "Eastern Time (Queensland)"
+msgstr "Амрагыларатәи  аамҭа(Квинсленд)"
+
+msgid "Eastern Time (Tasmania)"
+msgstr "Амрагыларатәи  аамҭа (Тасманиа)"
+
+msgid "Eastern Time (Victoria)"
+msgstr "Амрагыларатәи  аамҭа(Викториа)"
+
+msgid "Eastern Time"
+msgstr "Амрагыларатәи  аамҭа"
+
+msgid "east"
+msgstr "амрагыларатәи"
+
+msgid "East"
+msgstr "Амрагыларатәи"
+
+msgid "%-e %b"
+msgstr "%-e %B"
+
+msgid "%-e %b %H:%M"
+msgstr "%-e %b. %H:%M"
+
+msgid "%-e %b %l:%M %p"
+msgstr "%-e %b. %l:%M %p"
+
+msgid "%-e %b %Y"
+msgstr "%-e %b. %Y"
+
+msgid "%e %B %Y"
+msgstr "%e %b. %Y"
+
+msgid "%-e %b %Y %H:%M"
+msgstr "%-e %b. %Y %H:%M"
+
+msgid "%-e %b %Y %l:%M %p"
+msgstr "%-e %b. %Y %l:%M %p"
+
+msgid "%e %B %Y, %R"
+msgstr "%-d %B %Y, %R"
+
+msgid "Eight Off"
+msgstr "аабақәа рыда"
+
+msgid "Embedded NUL byte in conversion input"
+msgstr "Абаит  NUL аҵакы змоу аҭаларатә аиҭакра ззухо  дыррақәа рҟны"
+
+msgid "Embedded NUL byte in conversion output"
+msgstr "Абаит  NUL аҵакы змоу аҭыҵратә аиҭакратә дыррақәа рҟны"
+
+msgid "Emojis"
+msgstr "Emoji"
+
+msgid "enabled"
+msgstr "Иаҿакуп"
+
+msgid "_Enabled"
+msgstr "_Иаҿакуп"
+
+msgid "Enabled"
+msgstr "Иаҿакуп"
+
+msgid "English (_US-ASCII)"
+msgstr "Англыз(_US-ASCII)"
+
+msgid "Entire Journal"
+msgstr "Ажурнал зегьы"
+
+msgid "ESlint"
+msgstr "ESLint"
+
+msgid "Evening"
+msgstr "ахәылбыҽха"
+
+msgid "Exec Arguments"
+msgstr "Адәықәҵара аҵаҵӷәқәа"
+
+msgid "Exiting learn mode."
+msgstr "Аҭҵаара арежим аҟынтә аҭыҵра "
+
+msgid "Exiting list notification messages mode."
+msgstr " ардыррақәа  рыхьӡынҵа аҟынтә аҭыҵра"
+
+msgid "E"
+msgstr "Аҟны"
+
+msgid "File &amp; Link Associations"
+msgstr "Афаилқәеи азхьарԥшқәеи реидгыла"
+
+msgid "File Chooser Attributes"
+msgstr "Афаил алхра аҟазшьарбагақәа"
+
+msgid "File & Link Associations"
+msgstr "Афаилқәеи азхьарԥшқәеи реидгыла"
+
+msgid "Firmware attestation"
+msgstr "Аҭаӡахра аттестациа азура"
+
+msgid "Flying Height"
+msgstr "Ашьҭԥраара аҳаракыра"
+
+msgid "Font Button Attributes"
+msgstr "Ашрифт змоу апытҟәыр аҟазшьарбагақәа"
+
+msgid "Font Chooser Attributes"
+msgstr "Ашрифт алхра аҟазшьарбагақәа"
+
+msgid "Forever"
+msgstr "Еснагь"
+
+msgid "Framework version"
+msgstr "Фреимворк аверсиа"
+
+msgid "_Fullscreen"
+msgstr "_Аекран зегьы иҭаӡо"
+
+msgid "Fullscreen"
+msgstr "Аекран зегьы иҭаӡо"
+
+msgid "Gay Gordons"
+msgstr "Илахҿыху Агордонқәа"
+
+msgid "GL Version"
+msgstr "Аверсиа GL"
+
+msgid "GMR Head Amplitude"
+msgstr "Амплитуда GMR-ахы"
+
+msgid "gnome-disk-utility %s UDisks %s (built against %d.%d.%d)"
+msgstr "gnome-disk-utility %s UDisks %s (аизга %d.%d.%d аҟынтә)"
+
+msgid "GNOME version (1998):"
+msgstr "Аверсиа GNOME (1998):"
+
+msgid "GNOME Version"
+msgstr "Аверсиа GNOME"
+
+msgid "GNU Affero General Public License, version 3 or later"
+msgstr "GNU Affero General Public License, аверсиа 3 мамзар еиҳа ихьшәоу"
+
+msgid "GNU General Public License, version 2 or later"
+msgstr "GNU General Public License, аверсиа 2 мамзар еиҳа ихьшәоу"
+
+msgid "GNU General Public License version 3 or later"
+msgstr "GNU General Public License аверсиа 3 мамзар еиҳа иҿыцу "
+
+msgid "GNU General Public License, version 3 or later"
+msgstr "GNU General Public License, аверсиа 3 мамзар еиҳа ихьшәоу"
+
+msgid "GNU Lesser General Public License, version 2.1 or later"
+msgstr "GNU Lesser General Public License, аверсиа 2.1 мамзар еиҳа ихьшәоу"
+
+msgid "GNU Lesser General Public License, version 3 or later"
+msgstr "GNU Lesser General Public License, аверсиа 3 мамзар еиҳа ихьшәоу"
+
+msgid "greater than"
+msgstr " Еиҳа еиҳауп"
+
+msgid "greater"
+msgstr "еиҳаны"
+
+msgid "Grid Attributes"
+msgstr "Аихыршь аҟазшьарбагақәа"
+
+msgid "Grid view"
+msgstr "Аихыршь аԥшра аҭаны"
+
+msgid "Gross Profit Margin"
+msgstr "Азеиԥш хашәалахәы"
+
+msgid "GTK Version"
+msgstr "Аверсиа GTK"
+
+msgid "%g%t%m%t%f"
+msgstr "%d%t%g%t%m%t%f"
+
+msgid "Hardware address:%s "
+msgstr "Аппараттә ҭыӡҭыԥ:        %s"
+
+msgid "Hardware address:"
+msgstr "Аппараттә ҭыӡҭыԥ:  "
+
+msgid "Hardware Address"
+msgstr "Аппараттә ҭыӡҭыԥ"
+
+msgid "Hardware Airplane Mode is On"
+msgstr "Аппараттә авиарежим аҿакуп"
+
+msgid "Hardware Airplane Mode"
+msgstr "Аппараттә авиарежим"
+
+msgid "Hardware ECC Recovered"
+msgstr "Аппараттә ариашара"
+
+msgid "Have you ever encountered a bug?"
+msgstr "Ишәыхьхьома шәара зныкыр агха?"
+
+msgid "Headerbar Attributes"
+msgstr "Апанель ахы аҟазшьарбагақәа"
+
+msgid "Height (in pixels) of the window."
+msgstr "Аԥенџьыр аҳаракыра пиксельла"
+
+msgid "Height of assistant window"
+msgstr "Ацхырааҩ иԥенџьыр аҳаракыра"
+
+msgid "Height of main window"
+msgstr "Ихадоу аԥенџьыр аҳаракыра"
+
+msgid "Height of the window in pixels"
+msgstr "Аԥенџьыр аҳаракыра пиксельла"
+
+msgid "Height of the window in pixels."
+msgstr "Аԥенџьыр аҳаракыра пиксельла"
+
+msgid "Height of the window"
+msgstr "Аԥенџьыр аҳаракыра"
+
+msgid "Height property"
+msgstr "Аҳаракыра"
+
+msgid "height"
+msgstr "Аҳаракыра"
+
+msgid "_Height"
+msgstr "_Аҳаракыра"
+
+msgid "_Height:"
+msgstr "_Аҳаракыра:"
+
+msgid "Height"
+msgstr "Аҳаракыра"
+
+msgid "Height: "
+msgstr "Аҳаракыра:"
+
+msgid "HEIGHT"
+msgstr "АҲАРАКЫРА"
+
+msgid "Hitori Website"
+msgstr "Веб-асаит Хитори"
+
+msgid "honeydew"
+msgstr "амускаттә шьынка шкәакәа"
+
+msgid "HTML bookmarks database could not be parsed: %s"
+msgstr "Агәылаҵақәа  HTML рдыррақәа рбаза аимыхра ауам    : %s"
+
+msgid "Hungarian 8 dot computer"
+msgstr "Венгриатәи 8- кәаԥкны иҟоу акомпиутер"
+
+msgid "Hungarian Forint"
+msgstr "Венгриатәи афоринт"
+
+msgid "Hungarian Grade 1"
+msgstr "Венгриатәи аҩаӡара 1"
+
+msgid "Hungarian Grade 2"
+msgstr "Венгриатәи аҩаӡара 2"
+
+msgid "Hungary"
+msgstr "Венгриа"
+
+msgid "Icon View Attributes"
+msgstr "Адыргаҷа адгалара аҟазшьарбагақәа"
+
+msgid "Icon View"
+msgstr "Адыргаҷақәа  рыԥшра рыҭаны"
+
+msgid "Idle"
+msgstr "Аус ауӡом"
+
+msgid "Important Messages"
+msgstr "Ихадоу"
+
+msgid "Important"
+msgstr "Ихадоу"
+
+msgid "Inbox"
+msgstr "Иаашьҭу"
+
+msgid "Includes %s, %s and %s."
+msgstr "%s, %s насгьы %s алаҵаны"
+
+msgid "Incoming"
+msgstr "Иаашьҭу"
+
+msgid "IndexedDB databases"
+msgstr "Адыррақәа рбаза IndexedDB"
+
+msgid "infinity"
+msgstr "аҳәаадара"
+
+msgid "initial temporary item"
+msgstr "Аамҭалатәи аелемент аҭагылазаашьа арбаразы"
+
+msgid "In Process"
+msgstr "Апроцесс аҟны"
+
+msgid "In Progress"
+msgstr "Апроцесс аҟны"
+
+msgid "input"
+msgstr "Аҭалара"
+
+msgid "Input"
+msgstr "Аҭалара"
+
+msgid "introduction"
+msgstr "алагалара"
+
+msgid "Intro"
+msgstr "Алагалара"
+
+msgid "is greater than or equal to"
+msgstr "Еиҳаны ма еиҟараны"
+
+msgid "is greater than"
+msgstr " Еиҳа еиҳауп"
+
+msgid "ISO Speed"
+msgstr "ISO"
+
+msgid "jack of clubs"
+msgstr "валет треф"
+
+msgid "jack of diamonds"
+msgstr "валет бубен"
+
+msgid "jack of hearts"
+msgstr "Афурҭ агәыҟаԥшь"
+
+msgid "jack of spades"
+msgstr "валет пик"
+
+msgid "jack"
+msgstr "валет"
+
+msgid "Johnston Atoll (Hawaii Time)"
+msgstr "Атол Джонстон (Гаваиатәи аамҭа)"
+
+msgid "JOKER"
+msgstr "JOKER"
+
+msgid "Justification Alternates"
+msgstr "Аҵаҵӷәыркра авариантқәа"
+
+msgid "J"
+msgstr "аҟны"
+
+msgid "('', 'KNYC', nothing)"
+msgstr "('', 'UUEE', nothing)"
+
+msgid "KP_Right"
+msgstr "Арӷьарахь(кеипад)"
+
+msgid "_Large (20 × 15)"
+msgstr "_Удуу (20 × 15)"
+
+msgid "Large Photo"
+msgstr "Идуу аԥшранҵа"
+
+msgid "Large Toolbar"
+msgstr "Амаругақәа рпанель  ду"
+
+msgid "Large"
+msgstr "Идуу"
+
+msgid "Last month"
+msgstr "Иаҳхысыз амз азы"
+
+msgid "Last year"
+msgstr "Иаҳхысыз ашықәс азы"
+
+msgid "LCD (white LED backlight)"
+msgstr "LCD (ишкәакәоу LED-арлашара)"
+
+msgid "Leading Jamo Forms"
+msgstr "Ихадоу аформа Джамо"
+
+msgid "leaving abstract."
+msgstr "аннотациа аҟынтә аҭыҵра."
+
+msgid "leaving acknowledgments."
+msgstr " Аҭабурақәа рыхьӡынҵа аҟынтә аҭыҵра"
+
+msgid "leaving afterword."
+msgstr "ашьҭахьажәа аҟынтә аҭыҵра"
+
+msgid "leaving appendix."
+msgstr "аԥшьы аҟынтә аҭыҵра"
+
+msgid "leaving banner."
+msgstr "абаннер аҟынтә аҭыҵра."
+
+msgid "leaving bibliography."
+msgstr "абиблиогриа аҟынтә аҭыҵра."
+
+msgid "leaving blockquote."
+msgstr "ацитатаагара аидкыла аҟынтә аҭыҵра."
+
+msgid "leaving chapter."
+msgstr "ахы  аҟынтә аҭыҵра"
+
+msgid "leaving colophon."
+msgstr "аҭыҵратә дыррақәа рҟынтә аҭыҵра"
+
+msgid "leaving complementary content."
+msgstr "иацҵоу аҭаҵа аҟынтә аҭыҵра"
+
+msgid "leaving conclusion."
+msgstr "анҵәамҭа аҟынтә аҭыҵра."
+
+msgid "leaving credits."
+msgstr "агәаларашәарақәа рҟынтә аҭыҵра"
+
+msgid "leaving credit."
+msgstr "агәаларашәара аҟынтә аҭыҵра"
+
+msgid "leaving dedication."
+msgstr "ахьӡынҩылара аҟынтә аҭыҵра"
+
+msgid "leaving endnotes."
+msgstr "анҵәамҭаҭә лбаагақәа  рҟынтә аҭыҵра."
+
+msgid "leaving epigraph."
+msgstr "аепиграф аҟынтә аҭыҵра"
+
+msgid "leaving epilogue."
+msgstr " аҵыхәтәажәа аҟынтә аҭыҵра"
+
+msgid "leaving errata."
+msgstr "агхақәа рыхьӡынҵа  аҟынтә аҭыҵра"
+
+msgid "leaving example."
+msgstr "аҿырԥштәы аҟынтә аҭыҵра "
+
+msgid "leaving feed."
+msgstr "Алента аҟынтә аҭыҵра"
+
+msgid "leaving figure."
+msgstr "асахьа аҟынтә аҭыҵра "
+
+msgid "leaving foreword."
+msgstr "аԥхьажәа аҟынтә аҭыҵра"
+
+msgid "leaving form."
+msgstr "аформа аҟынтә аҭыҵра"
+
+msgid "leaving glossary."
+msgstr "глоссари аҟынтә аҭыҵра"
+
+msgid "leaving index."
+msgstr "арбага аҟынтә аҭыҵра"
+
+msgid "leaving information."
+msgstr "Адыррақәа рҟынтә аҭыҵра "
+
+msgid "leaving introduction."
+msgstr "аҭагалара  аҟынтә аҭыҵра"
+
+msgid "leaving list."
+msgstr "ахьӡынҵа аҟынтә аҭыҵра"
+
+msgid "leaving main content."
+msgstr "ихадоу аҭаҵа  аҟынтә аҭыҵра"
+
+msgid "leaving navigation."
+msgstr "ахырхарҭарбара  аҟынтә аҭыҵра"
+
+msgid "leaving page list."
+msgstr " адаҟьақәа рыхьӡынҵа аҟынтә аҭыҵра"
+
+msgid "leaving panel."
+msgstr "апанель аҟынтә аҭыҵра"
+
+msgid "leaving part."
+msgstr "ахәҭа  аҟынтә аҭыҵра"
+
+msgid "leaving preface."
+msgstr "алагалажәа аҟынтә аҭыҵра."
+
+msgid "leaving prologue."
+msgstr "алагалажәа аҟынтә аҭыҵра."
+
+msgid "leaving pullquote."
+msgstr "ацитата аҟынтә аҭыҵра"
+
+msgid "leaving QNA."
+msgstr "азҵаарақәеи аҭакқәеи рҟынтә аҭыҵра."
+
+msgid "leaving region."
+msgstr "аҵакыра аҟынтә аҭыҵра"
+
+msgid "leaving search."
+msgstr "аԥшаара аҟынтә аҭыҵра"
+
+msgid "leaving suggestion."
+msgstr "Ахеилак алҵра"
+
+msgid "leaving table of contents."
+msgstr "аҵакы аҟынтә аҭыҵра"
+
+msgid "leaving table."
+msgstr "аҭаӡҩыра аҟынтә аҭыҵра"
+
+msgid "Legacy BIOS _Bootable"
+msgstr "_Legacy BIOS Bootable"
+
+msgid "Length"
+msgstr "Аамҭа"
+
+msgid "Letters & Symbols"
+msgstr "Анбанқәеи асимволқәеи"
+
+msgid "Letters"
+msgstr "Анбанқәа"
+
+msgid "Level Bar Attributes"
+msgstr "Апанель аҩаӡара аҟазшьарбагақәа"
+
+msgid "Libraries"
+msgstr "Абиблиотекақәа"
+
+msgid "Library"
+msgstr "Абиблиотека"
+
+msgid "List view"
+msgstr "Ахьӡынҵа аԥшра аҭаны"
+
+msgid "_List View"
+msgstr "Ахьӡынҵа_аԥшра аҭаны"
+
+msgid "List View"
+msgstr "Ахьӡынҵа аԥшра аҭаны"
+
+msgid "_Login"
+msgstr "_Аҭалара"
+
+msgid "Login"
+msgstr "Аҭалара"
+
+msgid "Log Out %s"
+msgstr " %s ахархәаҩ иҭыҵра"
+
+msgid "Manual (via Actions menu)"
+msgstr "Напыла (амениу  Аҟаҵара аҟынтә)"
+
+msgid "Manual"
+msgstr "Напыла"
+
+msgid "Marietta"
+msgstr "Mариетта"
+
+msgid "%m/%d"
+msgstr "%d/%m"
+
+msgid "%m/%d/%y"
+msgstr "%d.%m.%y"
+
+msgid "Meaningless key/value pair combination in address entry “%s”"
+msgstr "Иҵакыдоу аилаҵа ацаԥха/ аҵакы аҭыӡҭыԥ «%s» аелемент аҟны"
+
+msgid "Media whitepoint"
+msgstr "Аныҟәгага акәаԥ шкәакәа"
+
+msgid "MEI version"
+msgstr "Аверсиа MEI"
+
+msgid "Menu Attributes"
+msgstr "Амениу аҟазшьарбагақәа"
+
+msgid "Message Dialog Attributes"
+msgstr "Аиҿцәажәара ацҳамҭа аҟазшьарбагақәа"
+
+msgid "Message Thread"
+msgstr "Анҵамҭа амахә"
+
+msgid "Midway Atoll (Samoa Time)"
+msgstr "Атолл Мидвей (Самоанатәи аамҭа)"
+
+msgid "Model Button Attributes"
+msgstr "Амодель апытҟәыр аҟазшьарбагақәа"
+
+msgid "'Monospace 12'"
+msgstr "«Monospace 12»"
+
+msgid "more information"
+msgstr "Еиҳаны аинформациа"
+
+msgid "More Than"
+msgstr " Еиҳа еиҳауп"
+
+msgid "More"
+msgstr "Еиҳаны"
+
+msgid "M_ost"
+msgstr "_Еиҳарак"
+
+msgid "Most"
+msgstr "Еиҳарак"
+
+msgid "Move right"
+msgstr "Арӷьарахь"
+
+msgid "MTU:%s "
+msgstr "MTU:%s "
+
+msgid "Multicast:%s "
+msgstr "Multicast:%s "
+
+msgid "Multi_key"
+msgstr "Multi key"
+
+msgid ""
+"[ {'name': <'DuckDuckGo'>, 'url': <'https://duckduckgo.com/"
+"?q=%s&t=epiphany'>, 'bang': <'!ddg'>}, {'name': <'Google'>, 'url': "
+"<'https://www.google.com/search?q=%s'>, 'bang': <'!g'>}, {'name': "
+"<'Bing'>, 'url': <'https://www.bing.com/search?q=%s'>, 'bang': <'!b'>} ]"
+msgstr ""
+"[ {'name': <'DuckDuckGo'>, 'url': <'https://duckduckgo.com/"
+"?q=%s&t=epiphany'>, 'bang': <'!ddg'>}, {'name': <'Google'>, 'url': "
+"<'https://www.google.com/search?q=%s'>, 'bang': <'!g'>}, {'name': "
+"<'Bing'>, 'url': <'https://www.bing.com/search?q=%s'>, 'bang': <'!b'>} ]"
+
+msgid "navajo white"
+msgstr "навахо шкәакәа"
+
+msgid "Navan"
+msgstr "Ан-Уавь"
+
+msgid "Networks"
+msgstr "Аҳа аҿы"
+
+msgid "No change"
+msgstr "Ԥсахрада"
+
+msgid "No Desktop Background"
+msgstr "Аусуратә ишәа адыԥшылахә ада"
+
+msgid "No Effect"
+msgstr "Еффектда"
+
+msgid "No encryption"
+msgstr "Ашифрркрада"
+
+msgid "No files in archive"
+msgstr "Архив аҟны афаилқәа ыҟаӡам"
+
+msgid "No Filesystem"
+msgstr "Афаилтә система ада"
+
+msgid "No grouping"
+msgstr "аидыргәыԥларада"
+
+msgid "_No Image"
+msgstr "_Сахьада"
+
+msgid "no justification"
+msgstr "риашарада"
+
+msgid "No Label"
+msgstr "Дыргада"
+
+msgid "No license"
+msgstr "Лицензиада"
+
+msgid "No limit"
+msgstr "Ԥкрада"
+
+msgid "No longer in use."
+msgstr "Уаҳа ахархәара аиуӡом."
+
+msgid "No name"
+msgstr "Хьӡыда"
+
+msgid "None - distributed internally"
+msgstr "Лицензиада-аҩныҵҟатәи аҭаххарақәа рзы"
+
+msgid "no password"
+msgstr "Ажәамаӡада"
+
+msgid "No Preference"
+msgstr "Аиӷьашьарақәа рыда"
+
+msgid "No pre-filtering"
+msgstr "Заанаҵтәи араӡарада"
+
+msgid "No problems have been detected with your connection."
+msgstr "Шәара шәеиԥшьырҭа аҟны апроблемақәа ԥшааӡам."
+
+msgid "No profile"
+msgstr "Аҷыдахәрада"
+
+msgid "No protection when the device is started."
+msgstr "Аиҿыртәара аҿакраан хьчарада"
+
+msgid "No Protection"
+msgstr "Хьчарада"
+
+msgid "No proxy"
+msgstr "Прокси ада"
+
+msgid "No redeals"
+msgstr "Аиҭаҭарақәа рыда"
+
+msgid "No tab popup"
+msgstr "Ицәырҵуа аҭаӡҩырартәрада"
+
+msgid "Notebook Attributes"
+msgstr "Анҵамҭа шәҟәы аҟазшьарбагақәа"
+
+msgid "Not sorted"
+msgstr "Аилыԥшаарада"
+
+msgid "Not tagged, file is not indexed"
+msgstr "Дыргада, афаил аиндексркра азуӡамызт"
+
+msgid "No wireless available"
+msgstr "Иҭелдоу аҳақәа ԥшааӡам"
+
+msgid "Num_Lock"
+msgstr "Num Lock"
+
+msgid "On, fired"
+msgstr "Иаҿакуп, аус ауит"
+
+msgid "Online"
+msgstr "Аҳа аҿы"
+
+msgid "On This Computer A_rchive folder:"
+msgstr "Архивтә ҭаӡ 'Ари акомпиутер аҟны'"
+
+msgid "on"
+msgstr "иаҿакуп"
+
+msgid "On"
+msgstr "Иаҿакуп"
+
+msgid "Out of paper"
+msgstr "Ақьаад нҵәеит"
+
+msgid "output %s does not support mode %dx%d@%dHz"
+msgstr "аҭыҵра %s иаднакылом арежим %dx%d@%dГц"
+
+msgid "Output"
+msgstr "Аҭыҵра"
+
+msgid "Out"
+msgstr "Аҭыҵра"
+
+msgid "Page_Down"
+msgstr "Page Down"
+
+msgid "Page_Up"
+msgstr "Page Up"
+
+msgid "Pansy"
+msgstr "Адәыкрын"
+
+msgid "Paper"
+msgstr "Ақьаад"
+
+msgid "partial fog"
+msgstr "аамҭала анаҟә хылоит"
+
+msgid "Partial fog"
+msgstr "Аамҭала анаҟә хылоит"
+
+msgid "PCRE library is compiled with incompatible options"
+msgstr "Абиблиотека PCRE еизгоуп еимарам ахышәарақәа рыла"
+
+msgid "PCRE library is compiled without UTF8 properties support"
+msgstr "Абиблиотека PCRE еизгоуп UTF-8 аҷыдаҟазшьақәа рмаҵурада"
+
+msgid "PCRE library is compiled without UTF8 support"
+msgstr "Абиблиотека PCRE еизгоуп UTF-8 амаҵурада"
+
+msgid "PEAP _version"
+msgstr "_Аверсиа PEAP"
+
+msgid "Permanently remove this folder"
+msgstr "Ари аҭаӡ ихнымҳәуа  аныхра"
+
+msgid "Pick up and drop cards by clicking"
+msgstr "Ақәыӷәӷәара ацхыраарала амацақәа ргара, мамзар рықәҵара  "
+
+msgid "Pixel Bytes"
+msgstr "Апиксельқәа рбаитқәа"
+
+msgid "Places Sidebar"
+msgstr "Аҭыԥ аваратәи апанель"
+
+msgid "PNG (lossless)"
+msgstr "PNG (ахаҭабзиараҟны ацәыӡрақәа рыда)"
+
+msgid "Popover Attributes"
+msgstr "Ихыло аелемент аҟазшьарбагақәа"
+
+msgid "prc3 Envelope"
+msgstr "prc3"
+
+msgid "Print at"
+msgstr "Аамҭа"
+
+msgid "Printer “%s” has no toner left."
+msgstr "Апринтер «%s» аҟны атонер нҵәеит"
+
+msgid "Printer “%s” is low on a marker supply."
+msgstr "Апринтер «%s» аҟны иԥштәылоу ашәыгаҭра анҵәара иаҿуп"
+
+msgid "Printer “%s” is low on at least one marker supply."
+msgstr "Апринтер «%s» аҟны атонерқәа руак анҵәара иаҿуп"
+
+msgid "Printer “%s” is low on developer."
+msgstr "Апринтер «%s» аҟны аарԥшыга анҵәара иаҿуп"
+
+msgid "Printer “%s” is low on paper."
+msgstr "Апринтер «%s» аҟны ақьаад анҵәара иаҿуп"
+
+msgid "Printer “%s” is low on toner."
+msgstr "Апринтер «%s» аҟны атонер  анҵәара иаҿуп"
+
+msgid "Printer “%s” is out of a marker supply."
+msgstr "Апринтер «%s» аҟны иԥштәылоу ашәыгаҭра нҵәеит"
+
+msgid "Printer “%s” is out of at least one marker supply."
+msgstr "Апринтер «%s» аҟны атонерқәа руак нҵәеит"
+
+msgid "Printer “%s” is out of developer."
+msgstr "Апринтер «%s» аҟны аарԥшыга нҵәеит"
+
+msgid "Printer “%s” is out of paper."
+msgstr "Апринтер «%s» аҟны ақьаад нҵәеит"
+
+msgid "Program Attributes"
+msgstr "Апрграмма аҟазшьарбагақәа"
+
+msgid "Progress Bar Attributes"
+msgstr "Анагӡара аиндикатор аҟазшьарбагақәа"
+
+msgid "Project \"%s\" has errors. Save anyway?"
+msgstr "Апроект  «%s» аҟны иҟоуп агхақәа .Зегь акоуп еиқәырхатәума?"
+
+msgid "Project sidebar"
+msgstr "Апроект аваратәи апанель"
+
+msgid "Project _Website"
+msgstr "Веб-асаит _апроекта"
+
+msgid "Proximity Out"
+msgstr "Иааигәаны"
+
+msgid "Quit mode"
+msgstr "Арежим аҟынтә аҭыҵра  "
+
+msgid "Quit"
+msgstr "Аҭыҵра"
+
+msgid "Revocation list signature"
+msgstr "Анапаҵыҩрақәа рыхьӡынҵа  аԥыхра "
+
+msgid "RF kill"
+msgstr "Rf kill"
+
+msgid "RGB unit"
+msgstr "Аидкыла RGB"
+
+msgid "right"
+msgstr "Арӷьарахь"
+
+msgid "Right"
+msgstr "Арӷьарахь"
+
+msgid "Roll all!"
+msgstr "Зегьы аршәра!"
+
+msgid "Roll the dice"
+msgstr "Аҟамаҭелқәа рыршәра"
+
+msgid "Roll"
+msgstr "Аршәра"
+
+msgid "Roll!"
+msgstr "Аршәра!"
+
+msgid "_Safely Remove Drive"
+msgstr "_Ишәарҭамкәа аусруга аныхра"
+
+msgid "Safely store a password or secret"
+msgstr "Ишәарҭамкәа еиқәшәырха ажәамаӡа,мамзар амаӡа"
+
+msgid "Safe"
+msgstr "Ишәарҭам"
+
+msgid "Sandbox escape"
+msgstr "аԥслымӡҭра"
+
+msgid "sans-serif %s"
+msgstr "% аԥыҳәҳәақәа рыда"
+
+msgid "Sans"
+msgstr "Аԥыҳәҳәақәа рыда"
+
+msgid "Scale Attributes"
+msgstr "Аихшарба аҟазшьарбагақәа"
+
+msgid "Scale Button Attributes"
+msgstr "Амасштабркра апытҟәыр аҟазшьарбагақәа"
+
+msgid "Scale Button"
+msgstr "Агәҵәытә аихшарба"
+
+msgid "%s centuries"
+msgstr "%s ашәышықәсақәа"
+
+msgid "Score"
+msgstr "Акапан"
+
+msgid "_Script arguments"
+msgstr "_Ақәныҟәа аҵаҵӷәқәа "
+
+msgid "Scrollbar Attributes"
+msgstr "Аҭаргьежьра апанель аҟазшьарбагақәа"
+
+msgid "Scrolled Window Attributes"
+msgstr "Иҭаргьежьу аԥенџьыр аҟазшьарбагақәа"
+
+msgid "Scrolling Attributes"
+msgstr "Аҭаргьежьра аҟазшьарбагақәа"
+
+msgid "Scroll_Lock"
+msgstr "Scroll Lock"
+
+msgid "Search Base:"
+msgstr "Аԥшаара абаза:"
+
+msgid "  Search for the Contact  or double-click here to create a new Contact."
+msgstr "Ишәыԥшаа аимадара , мамзар абраҟа шәақәыӷәӷәа аҿыц аԥҵаразы"
+
+msgid "  Search for the Contact."
+msgstr "Аимадара аԥшаара."
+
+msgid "  Searching for the Contacts…"
+msgstr "Аимадарақәа рыԥшаара..."
+
+msgid "Secondary click enabled"
+msgstr "Аҩынтәтәи ақәыӷәӷәара аҿакуп"
+
+msgid "Secondary-Click"
+msgstr "Аҩбатәи ақәыӷәӷәара"
+
+msgid "Secondary Icon Activatable"
+msgstr "Аҩынтәтәи адырга иактивуп"
+
+msgid "Secondary Icon Pixbuf"
+msgstr "Pixbuf аҩынтәтәи адырга "
+
+msgid "Secondary Icon Sensitive"
+msgstr "Аҩынтәтәи адырга анырра амоуп"
+
+msgid "Secondary Icon"
+msgstr "Аҩынтәтәи  адырга"
+
+msgid "Secondary Stock Icon"
+msgstr "Аҩынтәтәи  иҭаӡу адырга"
+
+msgid "Second Mouse Button"
+msgstr "Аҳәынаԥ аҩбатәи  апытҟәыр"
+
+msgid "Se_cond zone:"
+msgstr "Аҩбатәи_асааҭзона:"
+
+msgid "second"
+msgstr "Аҩбатәи"
+
+msgid "Second"
+msgstr "Аҩбатәи"
+
+msgid "Second:"
+msgstr "Аҩбатәи алҵшәа:"
+
+msgid "Secure Boot disabled"
+msgstr "Ишәарҭадароу аҭагалара аҿыхуп"
+
+msgid "Secure Boot enabled"
+msgstr "Ишәарҭадароу аҭагалара аҿакуп"
+
+msgid "Secure Boot is Active"
+msgstr "Ишәарҭадароу аҭагалара активуп"
+
+msgid "Secure Boot is Inactive"
+msgstr "Ишәарҭадароу аҭагалара иактивым"
+
+msgid ""
+"Secure boot prevents malicious software from being loaded when the device "
+"starts.  For more information, contact the hardware manufacturer or IT "
+"support."
+msgstr ""
+"Ишәарҭадароу аҭагалара  аԥхасҭа ҟазҵо апрограмматә еиқәыршәарақәа рҭагалара  "
+"ԥнарҟәҟәоит  аиҿартәыра адәықәҵараан.  Иацҵаны аинформациа шәоурц азы "
+"амаруга аԥҵаҩы  ,мамзар ИТ -ацхыраара амаҵзура  шәрыдҵаала."
+
+msgid "Secure boot"
+msgstr "Ишәарҭадароу аҭагалара"
+
+msgid "Secure renegotiation is disabled"
+msgstr "Ишәарҭам ҽазныктәи аиқәыршаҳаҭра  аҿыхуп"
+
+msgid "Secure Shell"
+msgstr "Ишәарҭам ахарԥа"
+
+msgid "Sender Validation"
+msgstr "Ашьҭҩы ивалидациа"
+
+msgid "Server Authentication"
+msgstr "Асервер ахаҭареилкаара"
+
+msgid "%s has sent back the following assigned task response:"
+msgstr "%s  ирхынҳәит анеҩстәи аҭак иарбоу адҵа ахь:"
+
+msgid "%s has sent back the following meeting response:"
+msgstr "%s ирхынҳәит анеҩстәи аҭак аизара ахь:"
+
+msgid "%s Hotspot Active"
+msgstr "Анеирҭа аҭыԥ  %s аҿакуп "
+
+msgid "S_ick"
+msgstr "И_чмазаҩу"
+
+msgid "Sidebar is visible"
+msgstr "Иубарҭоу аваратәи апанель "
+
+msgid "Side Bin"
+msgstr "Аваратәи аҭра"
+
+msgid "Side by side"
+msgstr "Еидгыланы"
+
+msgid "Similar"
+msgstr "Аиԥш"
+
+msgid "%s is safe"
+msgstr "«%s» ишәарҭам"
+
+msgid "slate gray"
+msgstr "Ашифер цәыш аԥштәы"
+
+msgid "%s (library)"
+msgstr "%s (абиблиотека)"
+
+msgid ""
+"<small>In memory of an extraordinary person and professor R.I.P Guido "
+"Macchi</small>"
+msgstr ""
+"<small> Зеиԥш дҟамлац ауаҩԥси апрофессори игәаларшәара иазкны R.I.P. Гвидо "
+"Маки</small>"
+
+msgid "SMART _Attributes"
+msgstr "Аҟазшьарбагақәа _SMART"
+
+msgid "<%s> must contain at least one <value>"
+msgstr " <%s> иамазароуп акы еиҳамзаргьы аҵакы <value>"
+
+msgid "[%s] Object class '<b>%s</b>' from %s %d.%d is deprecated "
+msgstr "Аобиект акласс '<b>%s</b>' %s %d.%d аҟынтә иажәхьеит"
+
+msgid "[%s] Object class '<b>%s</b>' was introduced in %s %d.%d "
+msgstr "[%s] Аобиект акласс '<b>%s</b>' ҭагалан %s %d.%d ахь"
+
+msgid "SOCKSv5 authentication failed due to wrong username or password."
+msgstr ""
+"Ахаҭареилкаара  SOCKSv5 хырқәшахеит иманшәаламкәа ахархәаҩ ииашам ихьыӡ "
+"мамзар иажәамаӡа амашала."
+
+msgid "%s on chooser"
+msgstr "%s алхраҟны"
+
+msgid "Sound & Video"
+msgstr "Аудио насгьы авидео"
+
+msgid ""
+"[%s] Packing property '<b>%s</b>' of object class '<b>%s</b>' was "
+"introduced in %s %d.%d "
+msgstr ""
+" [%s]«<b>%s</b>» архиара  аҷыдаҟазшьа  «<b>%s</b>» рыкласс иаҵанакуа "
+"аобиектқәа ҭагалан %s %d.%d ахь"
+
+msgid "Spin Button Attributes"
+msgstr "Агьежьра апытҟәыр аҟазшьарбагақәа"
+
+msgid "spring green"
+msgstr "Ааԥынтәи  аиаҵәара"
+
+msgid "[%s] Property '<b>%s</b>' of object class '<b>%s</b>' is deprecated "
+msgstr "[%s] Аҷыдаҟазшьа «<b>%s</b>» аобиект «<b>%s</b>» акласс  ажәит"
+
+msgid ""
+"[%s] Property '<b>%s</b>' of object class '<b>%s</b>' was introduced in %s "
+"%d.%d "
+msgstr ""
+"[%s]Аҷыдаҟазшьа «<b>%s</b>» аобиект «<b>%s</b>» акласс  иаҵанакуа ҭагалан %s "
+"%d.%d ахь"
+
+msgid "SRA4"
+msgstr "SRA3"
+
+msgid ""
+"%s Run '%s --help' to see a full list of available command line options. "
+msgstr ""
+"%s  Аус ашәыруы  «%s --help» анеиразин ахьшәымоу адҵатә ҵәаҳәа  ахышәарақәа "
+"рыхҩылаақәа зегьы рыхәаԥшразы."
+
+msgid "“%s”"
+msgstr "«%s»"
+
+msgid "%s%s Encoding: %s %s"
+msgstr "%s%s Акодркра: %s %s"
+
+msgid "%s%s Encoding: %s %s Substituting with <b>%s</b> (%s)"
+msgstr "%s%s Акодркра: %s %s иԥсахуа  <b>%s</b> аҟынтә %s "
+
+msgid "[%s] Signal '<b>%s</b>' of object class '<b>%s</b>' is deprecated "
+msgstr "«<b>%s</b>» асигнал   акласс иаҵанакуа аобиект «<b>%s</b>» ажәуп"
+
+msgid ""
+"[%s] Signal '<b>%s</b>' of object class '<b>%s</b>' was introduced in %s "
+"%d.%d "
+msgstr ""
+"[%s] «<b>%s</b>» асигнал   акласс иаҵанакуа аобиект «<b>%s</b>»ҭагалан %s "
+"%d.%d ахь"
+
+msgid "%s %s is no longer supported."
+msgstr "%s %s  уаҳа  иаднакылом"
+
+msgid "%s"
+msgstr " %s"
+
+msgid "%s,%s"
+msgstr "%s, %s"
+
+msgid "%s: \"%s\""
+msgstr "%s: «%s»"
+
+msgid "%s,%s,%s"
+msgstr "%s, %s, %s"
+
+msgid "Stack Attributes"
+msgstr "Аиқәҵа аҟазшьарбагақәа"
+
+msgid "Stack Sidebar"
+msgstr "Аиқәҵа аваратәи апанель "
+
+msgid "Stack Switcher Attributes"
+msgstr "Аиқәҵа аиагага аҟазшьарбагақәа"
+
+msgid "Start of Authority"
+msgstr "Start of Authority (SOA)"
+
+msgid "Style Variant"
+msgstr "Астиль авариант"
+
+msgid "Successfully checked out branch to working directory"
+msgstr "Амахә иманшәаланы еиҭагоу аусуратә аизакхьӡынҵ ахь"
+
+msgid "_Suggestions:"
+msgstr "_Авариантқәа:"
+
+msgid "Suggestions"
+msgstr "Авариантқәа"
+
+msgid "Sum of the Years Digits Depreciation"
+msgstr "Амортизациа Аицҵалыҵ-Ашықәсқәа-Аԥхьаӡацқәа"
+
+msgid "Sum-of-the-Years’-Digits Depreciation"
+msgstr "Амортизациа Аицҵалыҵ-Ашықәсқәа-Аԥхьаӡацқәа"
+
+msgid "Sun"
+msgstr "Амҽ"
+
+msgid "superscript 0"
+msgstr "Хыхьтәи аиндекс 0"
+
+msgid "superscript 1"
+msgstr "Хыхьтәи аиндекс акы"
+
+msgid "superscript 2"
+msgstr "Хыхьтәи аиндекс ҩба"
+
+msgid "superscript 3"
+msgstr "Хыхьтәи аиндекс хԥа"
+
+msgid "superscript 4"
+msgstr "Хыхьтәи аиндекс 4"
+
+msgid "superscript 5"
+msgstr "Хыхьтәи аиндекс 5"
+
+msgid "superscript 6"
+msgstr "Хыхьтәи аиндекс 6"
+
+msgid "superscript 7"
+msgstr "Хыхьтәи аиндекс 7"
+
+msgid "superscript 8"
+msgstr "Хыхьтәи аиндекс 8"
+
+msgid "superscript 9"
+msgstr "Хыхьтәи аиндекс 9"
+
+msgid "superscript a"
+msgstr "Хыхьтәи аиндекс а"
+
+msgid "superscript equals"
+msgstr "Хыхьтәи аиндекс иҟалоит"
+
+msgid "superscript left paren"
+msgstr "Хыхьтәи аиндекс ахыц аартра"
+
+msgid "superscript minus"
+msgstr "Хыхьтәи аиндекс минус"
+
+msgid "superscript n"
+msgstr "Хыхьтәи аиндекс n"
+
+msgid "superscript plus"
+msgstr "Хыхьтәи аиндекс плиус"
+
+msgid "superscript right paren"
+msgstr "Хыхьтәи аиндекс ахыц аркра"
+
+msgid "superscript %s"
+msgstr "Хыхьтәи аиндекс %s"
+
+msgid "superscript"
+msgstr "Хыхьтәи аиндекс "
+
+msgid "super"
+msgstr "Хыхьтәи аиндекс "
+
+msgid "Su"
+msgstr "Амҽ"
+
+msgid "Synopsis"
+msgstr "Ахҳәаа"
+
+msgid "Sys_Req"
+msgstr "Sys Req"
+
+msgid "S"
+msgstr "S"
+
+msgid "Tab Attributes"
+msgstr "Агәылаҵакәа рҟазшьарбагақәа"
+
+msgid "Take notes and export them everywhere."
+msgstr "Азгәаҭақәа аанкыланы иахьакәзаалак аекспортра рзура"
+
+msgid "Teleport _Safely"
+msgstr "_Ишәарҭам ателепортациа"
+
+msgid "Temporarily Disabled Until Tomorrow"
+msgstr " Аамҭала уаҵәынӡа иаҿыхуп"
+
+msgid "_Temporarily trusted (this session only)"
+msgstr "_ Аамҭала зыгәрагоу (уажәтәи асеанс заҵәык азы)"
+
+msgid "Temporarily unable to resolve “%s”"
+msgstr " Аамҭала  «%s» азин аҭара ауам"
+
+msgid "Temporarily"
+msgstr "Аамҭала"
+
+msgid "Temporary cached data"
+msgstr "Аамҭала икешрку адыррақәа"
+
+msgid "Temporary files"
+msgstr "Аамҭалатәи афаилқәа"
+
+msgid "Text attributes"
+msgstr "Атекст аҟазшьарбагақәа"
+
+msgid "Text Attributes"
+msgstr "Атекст аҟазшьарбагақәа"
+
+msgid "text-top"
+msgstr "атекст ахы"
+
+msgid "Text View Attributes"
+msgstr "Атекст адгалара аҟазшьарбагақәа"
+
+msgid ""
+"The “--alternative-start”, “--random-start” and “--usual-start” arguments "
+"are mutually exclusive."
+msgstr ""
+"Аҵаҵӷәқәа \"--alternative-start\", \"--random-start\" , \"--usual-start\" "
+"иеиҿагылоит."
+
+msgid "The attribute \"%s\" was found twice on the <%s> element"
+msgstr "Аҟазшьарбага \"%s\" ҩынтәны иԥшаан ахәҭа <%s> аҟны"
+
+msgid "The “--classic” and “--reverse” arguments are mutually exclusive."
+msgstr "Аҵаҵӷәқәа --classic и --reverse иеиҿагылоит."
+
+msgid "The cover is open on printer “%s”."
+msgstr "Апринтер «%s» аҟны ахҩа аартуп"
+
+msgid "The door is open on printer “%s”."
+msgstr "Апринтер «%s» аҟны ашә аартуп"
+
+msgid ""
+"The following recipients were not recognized as valid mail addresses: {0}"
+msgstr "Анаҩстәи адкылаҩцәа рԥошьҭақәа риашашьа еилкаамхазеит : {0}"
+
+msgid "The following recipient was not recognized as a valid mail address: {0}"
+msgstr "Анаҩстәи адкылаҩ иԥошьҭа аиашашьа еилкаамхазеит : {0}"
+
+msgid "The height of the assistant window."
+msgstr "Ацхырааҩ иԥенџьыр аҳаракыра"
+
+msgid "The height of the main window in pixels."
+msgstr "Ихадоу аԥенџьыр аҳаракыра пиксельла"
+
+msgid "The height of the main window."
+msgstr "Ихадоу аԥенџьыр аҳаракыра"
+
+msgid "The height of the video captured from the camera, in pixels"
+msgstr "Акамера(пиксельла) аҟынтәи ишәоуз  авидео аҳаракыра"
+
+msgid "The height of the widget when toplevel in the GladeDesignLayout"
+msgstr "Авиджет аҳаракыра  ихадоу аԥенџьыр GladeDesignLayout ианатәу"
+
+msgid "The height of the window"
+msgstr "Аԥенџьыр аҳаракыра"
+
+msgid "the jack of clubs"
+msgstr "валет треф"
+
+msgid "the jack of diamonds"
+msgstr "валет бубен"
+
+msgid "the jack of hearts"
+msgstr "Афурҭ агәыҟаԥшь"
+
+msgid "the jack of spades"
+msgstr "валет пик"
+
+msgid ""
+"The --list-properties argument can only be empty when used with the --tree "
+"argument"
+msgstr ""
+"Аҵаҵӷәы --list-properties иҭацәызар ҟалоит аҵаҵӷәы --tree заҵәык ахархәараан"
+
+msgid "Theme _variant:"
+msgstr "_Атема авариант:"
+
+msgid "The pango attributes for this label"
+msgstr "Аҟазшьарбагақәа pango  ари адырга азы"
+
+msgid "The profile has the following problems:"
+msgstr "Аҷыдахәра иамоуп анаҩстәи  агхақәа"
+
+msgid ""
+"  There are no items to show in this view.  Double-click here to create a "
+"new Contact."
+msgstr ""
+"Иҟаӡам аелементқәа   ари аԥенџьыр аҟны иаарԥшразы. Ҩынтә абраҟа шәақәыӷәӷәа "
+"аимадара ҿыц аԥҵаразы"
+
+msgid "  There are no items to show in this view."
+msgstr "Иҟаӡам аелементқәа   ари аԥенџьыр аҟны иаарԥшразы"
+
+msgid "The second timezone for a Day View"
+msgstr "Аҩынтәтәи асааҭзона амш ахҳәааҟны"
+
+msgid "The side of the board that is in the foreground"
+msgstr "Иааигәаны иҟоу аӷәы аган"
+
+msgid "The unit used by RGB component and strings."
+msgstr "Аидкыла,  ацәаҳәақәеи RGB ахәҭеи ахархәара азызуа ."
+
+msgid "The white is not D50 white"
+msgstr "Аԥштәы шкәакәа  еиԥшӡам ашкәакәа  D50 "
+
+msgid "The window’s height in pixels"
+msgstr "Аԥенџьыр аҳаракыра пиксельла"
+
+msgid "This was the third time you entered a wrong password. Please try again."
+msgstr "Хынтә ииашам ажәамаӡа ҭажәҩит .Еиҭа шәҽазышәшәа."
+
+msgid "Tile View"
+msgstr "Адыргаҷақәа  рыԥшра рыҭаны"
+
+msgid "Times"
+msgstr "Аамҭа"
+
+msgid "time"
+msgstr "Аамҭа"
+
+msgid "Time"
+msgstr "Аамҭа"
+
+msgid "Timor-Leste"
+msgstr "Амрагыларатәи Тимор"
+
+msgid "TLS backend does not implement TLS binding retrieval"
+msgstr "Абиблиотека TLS инанагӡаӡом адгалара TLS binding ахь"
+
+msgid "TODO/FIXMEs"
+msgstr "TODO/FIXME"
+
+msgid "Toggle the silencing of speech"
+msgstr " Аамҭала ацәажәара аҿакра, мамзар аҿыхра"
+
+msgid "Top Bar"
+msgstr "Хыхьтәи апанель"
+
+msgid "Top Bin"
+msgstr "Хыхьтәи аконтеинер"
+
+msgid "Top Half"
+msgstr "Хыхьтәи абжара"
+
+msgid "Top Left"
+msgstr "Хыхьтәи армаратәи"
+
+msgid "Toplevel Height"
+msgstr "Ихадоу аԥенџьыр аҳаракыра"
+
+msgid "Toplevel"
+msgstr "Иреиҳаӡоу аҩаӡара"
+
+msgid "_Top of window"
+msgstr "_Аԥенџьыр ақәцә"
+
+msgid "Top of window"
+msgstr "Аԥенџьыр ақәцә"
+
+msgid "top"
+msgstr "хыхь"
+
+msgid "Top"
+msgstr "Хыхь"
+
+msgid "_Top:"
+msgstr "_Хыхьтәи:"
+
+msgid "Tree View Attributes"
+msgstr "аҵла аҟазшьарбагақәа"
+
+msgid "true"
+msgstr "иаҿакуп"
+
+msgid "Tuesday is a work day"
+msgstr "Аҩаша - аусура амш"
+
+msgid "Tuesday"
+msgstr "Аҩаша"
+
+msgid "_Tue"
+msgstr "_Аҩ"
+
+msgid "Tue"
+msgstr "Аҩ"
+
+msgid "turquoise"
+msgstr "ахаҳәиаҵәатә"
+
+msgid "Tu"
+msgstr "Аҩ"
+
+msgid "T"
+msgstr "T"
+
+msgid "U.K. English Grade 1"
+msgstr "Британиатәи  англиски аҩаӡара 1"
+
+msgid "U.K. English Grade 2"
+msgstr "Британиатәи  англиски аҩаӡара 2"
+
+msgid "Unicase"
+msgstr "Аихшагада"
+
+msgid "Unnamed (%s).img"
+msgstr "Хьӡыда (%s).img"
+
+msgid "(unnamed)"
+msgstr "(хьӡыда)"
+
+msgid "Unnamed"
+msgstr "Хьӡыда"
+
+msgid "Untagged"
+msgstr "Дыргада"
+
+msgid "unversioned"
+msgstr "версиада"
+
+msgid "Upper total"
+msgstr "Хыхьтәи аицҵалыҵ "
+
+msgid "Upper:"
+msgstr "Хыхьтәи :"
+
+msgid "uri: %s "
+msgstr "uri: %s "
+
+msgid "U.S. English Grade 1"
+msgstr "Англызбызшәа аҩаӡара 1"
+
+msgid "U.S. English Grade 2"
+msgstr "Англызбызшәа аҩаӡара 2"
+
+msgid "UUIDs of extensions to enable"
+msgstr "UUID иаҿаку ахкырбагақәа"
+
+msgid "Vacaville"
+msgstr "Вакавиль"
+
+msgid "Vadsø"
+msgstr "Вадсио"
+
+msgid "Vaduz"
+msgstr "Вадуз"
+
+msgid "Vai"
+msgstr "Ваи"
+
+msgid "Valdez"
+msgstr "Валдес"
+
+msgid "Val-d'Or"
+msgstr "Вал-д-Ор"
+
+msgid "Valdosta"
+msgstr "Валдоста"
+
+msgid "Valencia"
+msgstr "Валенсиа"
+
+msgid "Valentine"
+msgstr "Валентаин"
+
+msgid "Valera"
+msgstr "Валера"
+
+msgid "Valladolid"
+msgstr "Валиадолид"
+
+msgid "Vallejo"
+msgstr "Валлеио"
+
+msgid "Valletta"
+msgstr "Валетта"
+
+msgid "Valley"
+msgstr "Валле"
+
+msgid "Val Marie"
+msgstr "Вал-Мари"
+
+msgid "Valparaiso"
+msgstr "Вальпараисо"
+
+msgid "Vamdrup"
+msgstr "Вамдруп"
+
+msgid "Vancouver"
+msgstr "Ванкувер"
+
+msgid "Van Nuys"
+msgstr "Ван Наис"
+
+msgid "Vantaa"
+msgstr "Вантаа"
+
+msgid "Vanuatu"
+msgstr "Вануату"
+
+msgid "Van"
+msgstr "Ван"
+
+msgid "Varennes"
+msgstr "Вареннес"
+
+msgid "Varese"
+msgstr "Варесе"
+
+msgid "variant"
+msgstr "авариант"
+
+msgid "Variant"
+msgstr "Авариант"
+
+msgid "Varkaus"
+msgstr "Варкаус"
+
+msgid "Varna"
+msgstr "Варна"
+
+msgid "Västerås"
+msgstr "Вестерос"
+
+msgid "Vatican City"
+msgstr "Ватикан"
+
+msgid "Vattu Variants"
+msgstr "Авариантқәа ватту"
+
+msgid "Växjö"
+msgstr "Векше"
+
+msgid "Vector Graphics"
+msgstr "Аҵәырхатә графика"
+
+msgid "Vegreville"
+msgstr "Вегревиль"
+
+msgid "Velikiye Luki"
+msgstr "Великие Луки"
+
+msgid "Vélizy"
+msgstr "Велизи"
+
+msgid "Venezuelan Bolívar"
+msgstr "Венесуелатәи боливар фуерте"
+
+msgid "Venezuela"
+msgstr "Венесуела"
+
+msgid "Venice"
+msgstr "Венециа"
+
+msgid "Ventura"
+msgstr "Вентура"
+
+msgid "Veracruz"
+msgstr "Веракрус"
+
+msgid "Verbania"
+msgstr "Вербаниа"
+
+msgid "Vercelli"
+msgstr "Верчелли"
+
+msgid "Vereeniging"
+msgstr "Вереенигинг"
+
+msgid "Vermont"
+msgstr "Вермонт"
+
+msgid "Vernal"
+msgstr "Вернал"
+
+msgid "Vernon"
+msgstr "Вернон"
+
+msgid "Version 0"
+msgstr "Аверсиа 1"
+
+msgid "Version 1"
+msgstr "Аверсиа 2"
+
+msgid "Version of this application"
+msgstr "Ари аԥшьы аверсиа"
+
+msgid "Version %s"
+msgstr "Аверсиа %s"
+
+msgid "version"
+msgstr "аверсиа"
+
+msgid "Version"
+msgstr "Аверсиа"
+
+msgid "Version:"
+msgstr "Аверсиа:"
+
+msgid "Vertical Alignment"
+msgstr "Гәҵәыла  аиҟаратәра"
+
+msgid "vertical align"
+msgstr "Гәҵәыла  аиҟаратәра"
+
+msgid "vertical bar"
+msgstr "агәҵәытә цәаҳәа"
+
+msgid "Vertical Button Box"
+msgstr "Агәҵәытә пытҟәырқәа ргәыԥ"
+
+msgid "vertical ellipsis"
+msgstr "Гәҵәылатәи акәаԥрацәа "
+
+msgid "Vertical Kerning"
+msgstr "Гәҵәыла кернинг"
+
+msgid "_Vertical Layout"
+msgstr "_Гәҵәыла аҭыԥыркра"
+
+msgid "Vertical Panes"
+msgstr "Агәҵәытә панель"
+
+msgid "Vertical Scale"
+msgstr "Агәҵәытә аихшарба"
+
+msgid "vertical scroll bar"
+msgstr "Гәҵәылатәи аҭаргьежьга цәаҳәа"
+
+msgid "Vertical Scrollbar"
+msgstr "Гәҵәылатәи аҭаргьежьга цәаҳәа"
+
+msgid "Vertical Writing"
+msgstr "Гәҵәыла аҩышьа"
+
+msgid "vertical"
+msgstr "агәҵәытә"
+
+msgid "Vertical"
+msgstr "Гәҵәыла"
+
+msgid "Vibo Valentia"
+msgstr "Вибо Валенциа"
+
+msgid "Video DVD"
+msgstr "DVD-Video"
+
+msgid "Video height"
+msgstr "Авидео аҳаракыра"
+
+msgid "Videos"
+msgstr "Авидео"
+
+msgid "video"
+msgstr "Авидео"
+
+msgid "_Video"
+msgstr "_Авидео"
+
+msgid "Video"
+msgstr "Авидео"
+
+msgid "Vienna"
+msgstr "Вена"
+
+msgid "View as type"
+msgstr "Аԥшра"
+
+msgid "View as"
+msgstr "Аԥшра"
+
+msgid "_View"
+msgstr "_Аԥшра"
+
+msgid "View"
+msgstr "Аԥшра"
+
+msgid "Vigie"
+msgstr "Виги"
+
+msgid "Vigo"
+msgstr "Виго"
+
+msgid "volcanic ash"
+msgstr "авулкан аццышә"
+
+msgid "Volcanic ash"
+msgstr "Авулкан аццышә"
+
+msgid "Vršac"
+msgstr "Вршац"
+
+msgid "Vulkan API version"
+msgstr "Аверсиа API Vulkan"
+
+msgid "Wabush"
+msgstr "Вабуш"
+
+msgid "Wadena"
+msgstr "Вадена"
+
+msgid "Wadesboro"
+msgstr "Вадесборо"
+
+msgid "Wahiawā"
+msgstr "Вахиава"
+
+msgid "Wahpeton"
+msgstr "Вахпетон"
+
+msgid "Waiki‘i"
+msgstr "Ваикии"
+
+msgid "WakeUp"
+msgstr "Ицәоу арежим аҟынтә аҭыҵра"
+
+msgid "Wakkanai"
+msgstr "Вакканаи"
+
+msgid "Wallis and Futuna"
+msgstr "Валлиси Фотунеи"
+
+msgid "Warang Citi"
+msgstr "Варанг Сити"
+
+msgid "Warren"
+msgstr "Варрен"
+
+msgid "Warsaw"
+msgstr "Варшава"
+
+msgid "Washington"
+msgstr "Вашингтон"
+
+msgid "Waterloo"
+msgstr "Ватерлоо"
+
+msgid "Watrous"
+msgstr "Ватрус"
+
+msgid "Wawa"
+msgstr "Вава"
+
+msgid "Weatherford"
+msgstr "Везерфорд"
+
+msgid "Webershausen"
+msgstr "Вебершаузен"
+
+msgid "Web pages"
+msgstr "Веб-адаҟьа"
+
+msgid "_Web page:"
+msgstr "_Веб-адаҟьа :"
+
+msgid "Web Page"
+msgstr "Веб-адаҟьа"
+
+msgid "Web Page:"
+msgstr "Веб-адаҟьа:"
+
+msgid "Web service"
+msgstr "Веб-асервис"
+
+msgid "Website"
+msgstr "Веб-асаит"
+
+msgid "Website:"
+msgstr "Веб-асаит:"
+
+msgid "WebSQL databases"
+msgstr "Адыррақәа рбаза WebSQL"
+
+msgid "weight"
+msgstr "Акапан"
+
+msgid "Weight"
+msgstr "Акапан"
+
+msgid "Wellington"
+msgstr "Веллингтон"
+
+msgid "Welsh Grade 1"
+msgstr "Валлиатә аҩаӡара 1"
+
+msgid "Welsh Grade 2"
+msgstr "Валлиатә аҩаӡар 2"
+
+msgid "Westerland"
+msgstr "Вестерланд"
+
+msgid "Westhampton Beach"
+msgstr "Вестхемптон"
+
+msgid "Westminster"
+msgstr "Вестминстер"
+
+msgid "Westport"
+msgstr "Вестпорт"
+
+msgid "Weyburn"
+msgstr "Веибурн"
+
+msgid "Wharton"
+msgstr "Вартон"
+
+msgid "Wha Ti"
+msgstr "Ва-Ти"
+
+msgid "Whether edge scrolling is enabled"
+msgstr "Иаҿакума аҿацәтә ҭаргьежьга"
+
+msgid "Whether or not postprocessing is enabled"
+msgstr "Иаҿаку иаҿакыму ашьҭахьтәи аус адулара"
+
+msgid "Whether or not postprocessing is enabled."
+msgstr "Иаҿаку иаҿакыму ашьҭахьтәи аус адулара"
+
+msgid "Whether the “Bounce Keys” keyboard accessibility feature is turned on."
+msgstr "Иаҿакума арыдыркыра азы иадҟьо арыдқәа иҷыдоу рылшара ."
+
+msgid "Whether the “Mouse Keys” accessibility feature is turned on."
+msgstr "Иаҿакума арыдқәа рыцхыраарала аҳәынаԥ анапхгара аҭара иҷыдоу алшара "
+
+msgid "Whether the on-screen keyboard is turned on."
+msgstr "Иаҿакума аекрантә рыдыркыра "
+
+msgid "Whether the privacy screen is enabled"
+msgstr "Иаҿакума аекран амаӡара"
+
+msgid "Whether the RDP backend is enabled or not"
+msgstr "Иаҿаку иаҿакыму бэкэнд RDP"
+
+msgid "Whether the screen magnifier is turned on."
+msgstr "Иаҿакума аекрантә  рдуга"
+
+msgid "Whether the shell integration is enabled"
+msgstr "Иаҿакума ахарԥа  адҵара"
+
+msgid "Whether the “Slow Keys” accessibility feature is turned on."
+msgstr "Иаҿакума имыццакуа арыдқәа иҷыдоу рылшара "
+
+msgid "Whether the text-highlight module is enabled"
+msgstr "Иаҿакума атекст алкаара  амодуль"
+
+msgid "Whether the “Toggle Keys” accessibility feature is turned on."
+msgstr "Иаҿакума аиагаратә рыдқәа иҷыдоу рылшара"
+
+msgid "Whether the VNC backend is enabled or not"
+msgstr "Иаҿаку иаҿакыму бэкэнд VNC"
+
+msgid "Whether two-finger scrolling is enabled"
+msgstr "Иаҿакума ҩ-нацәак рыла аҭаргьежьга"
+
+msgid "White bishop at %1$s takes the black bishop at %2$s"
+msgstr "Аслан шкәакәа  %1$s аслан еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White bishop at %1$s takes the black knight at %2$s"
+msgstr "Аслан шкәакәа  %1$s аҽы еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White bishop at %1$s takes the black pawn at %2$s"
+msgstr "Аслан  шкәакәа  %1$s апешка еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White bishop at %1$s takes the black queen at %2$s"
+msgstr "Аслан  шкәакәа  %1$s аферз еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White bishop at %1$s takes the black rook at %2$s"
+msgstr "Аслан  шкәакәа  %1$s абааш еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White bishop moves from %1$s to %2$s"
+msgstr "Аслан  шкәакәа %1$s аҟынтәи  %2$s ахь ииасоит"
+
+msgid ""
+"White captured Black's pawn <span font_style='italic'>en passant</span>."
+msgstr ""
+"Ашкәакәақәа Аиқәаҵәақәа рпешка ргеит<span font_style='italic'>на "
+"проходе</span>."
+
+msgid "White castles kingside"
+msgstr "Ашкәакәақәа икьаҿу арокировка ҟарҵоит"
+
+msgid "White castles queenside"
+msgstr "Ашкәакәақәа иау арокировка ҟарҵоит"
+
+msgid "Whitehead"
+msgstr "Ахы шкәакәа"
+
+msgid "White is in check and cannot move."
+msgstr "Ашкәакәақәа шах аҵаҟа иҟоуп уи азы изныҟәаӡом"
+
+msgid "White is in Check"
+msgstr "Ашкәакәақәа шах аҵаҟа иҟоуп."
+
+msgid "White is Thinking…"
+msgstr "Ашкәакәақәа хәыцоит..."
+
+msgid "White king at %1$s takes the black bishop at %2$s"
+msgstr "Аҳ шкәакәа  %1$s аслан еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White king at %1$s takes the black knight at %2$s"
+msgstr "Аҳ шкәакәа  %1$s аҽы еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White king at %1$s takes the black pawn at %2$s"
+msgstr "Аҳ шкәакәа  %1$s апешка еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White king at %1$s takes the black queen at %2$s"
+msgstr "Аҳ шкәакәа  %1$s аферз еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White king at %1$s takes the black rook at %2$s"
+msgstr "Аҳ шкәакәа  %1$s абааш еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White king moves from %1$s to %2$s"
+msgstr "Аҳ шкәакәа %1$s аҟынтәи  %2$s ахь ииасоит"
+
+msgid "White knight at %1$s takes the black bishop at %2$s"
+msgstr "Аҽы шкәакәа  %1$s аслан еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White knight at %1$s takes the black knight at %2$s"
+msgstr "Аҽы шкәакәа  %1$s аҽы еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White knight at %1$s takes the black pawn at %2$s"
+msgstr "Аҽы шкәакәа  %1$s апешка еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White knight at %1$s takes the black queen at %2$s"
+msgstr "Аҽы шкәакәа  %1$s аферз еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White knight at %1$s takes the black rook at %2$s"
+msgstr "Аҽы шкәакәа  %1$s абааш еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White knight moves from %1$s to %2$s"
+msgstr "Аҽы шкәакәа  %1$s аҟынтәи  %2$s ахь ииасоит"
+
+msgid "White list of additional plugins to use"
+msgstr "«Ашкәакәа» ахархәаразы иацҵаны амодульқәа  рыхьӡынҵа"
+
+msgid "_White on black:"
+msgstr "_Ашкәакәа аиқәаҵәа аҟны:"
+
+msgid "White on black"
+msgstr "Ашкәакәа аиқәаҵәа аҟны"
+
+msgid "White pawn at %1$s takes the black bishop at %2$s"
+msgstr "Апешка шкәакәа  %1$s аслан еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White pawn at %1$s takes the black knight at %2$s"
+msgstr "Апешка шкәакәа  %1$s аҽы еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White pawn at %1$s takes the black pawn at %2$s en passant"
+msgstr "Апешка шкәакәа  %1$s апешка еиқәаҵәа агоит  %2$s аҟны абжьысраҟны"
+
+msgid "White pawn at %1$s takes the black pawn at %2$s"
+msgstr "Апешка шкәакәа  %1$s апешка еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White pawn at %1$s takes the black queen at %2$s"
+msgstr "Апешка шкәакәа  %1$s аферз еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White pawn at %1$s takes the black rook at %2$s"
+msgstr "Апешка шкәакәа  %1$s абааш еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White pawn moves from %1$s to %2$s"
+msgstr "Апешка шкәакәа ииасоит  %1$s аҟынтә  %2$s ахь"
+
+msgid "White point"
+msgstr "Акәаԥ шкәакәа"
+
+msgid "White queen at %1$s takes the black bishop at %2$s"
+msgstr "Аферз шкәакәа  %1$s аслан еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White queen at %1$s takes the black knight at %2$s"
+msgstr "Аферз шкәакәа  %1$s аҽы еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White queen at %1$s takes the black pawn at %2$s"
+msgstr "Аферз  шкәакәа  %1$s апешка еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White queen at %1$s takes the black queen at %2$s"
+msgstr "Аферз  шкәакәа  %1$s аферз еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White queen at %1$s takes the black rook at %2$s"
+msgstr "Аферз  шкәакәа  %1$s абааш еиқәаҵәа агоит %2$s аҟны"
+
+msgid "White queen moves from %1$s to %2$s"
+msgstr "Аферз  шкәакәа %1$s аҟынтәи  %2$s ахь ииасоит"
+
+msgid "White rook at %1$s takes the black bishop at %2$s"
+msgstr "Абааш шкәакәа  %1$s аслан еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White rook at %1$s takes the black knight at %2$s"
+msgstr "Абааш шкәакәа  %1$s аҽы еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White rook at %1$s takes the black pawn at %2$s"
+msgstr "Абааш шкәакәа  %1$s апешка еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White rook at %1$s takes the black queen at %2$s"
+msgstr "Абааш шкәакәа  %1$s аферз еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White rook at %1$s takes the black rook at %2$s"
+msgstr "Абааш шкәакәа  %1$s абааш еиқәаҵәа агоит  %2$s аҟны"
+
+msgid "White rook moves from %1$s to %2$s"
+msgstr "Абааш шкәакәа ииасоит  %1$s аҟынтә  %2$s ахь"
+
+msgid "White Wins"
+msgstr "Ашкәакәақәа аиааира ргеит"
+
+msgid "White"
+msgstr "Ашкәакәақәа"
+
+msgid "Widget Attributes"
+msgstr "Авиджет аҟазшьарбагақәа"
+
+msgid "Window Attributes"
+msgstr "Аԥенџьыр аҟазшьарбагақәа"
+
+msgid "Window height"
+msgstr "Аԥенџьыр аҳаракыра"
+
+msgid "Windows animated cursor"
+msgstr "Ианимациарку ахырхага Windows"
+
+msgid "Wired 802.1X authentication"
+msgstr "Ахаҭареилкаара Wired 802.1X"
+
+msgid "Wireless device does not support Hotspot mode"
+msgstr "Иҭелдоу аиҿартәыра анеира аҭыԥ арежим аднакылаӡом"
+
+msgid "Wireless keyboard"
+msgstr "Иҭелдоу арыдыркыра"
+
+msgid "Wireless mouse"
+msgstr "Иҭелдоу аҳәынаԥ"
+
+msgid "Wireless networking is disabled"
+msgstr "Иҭелдоу аҳатә еимадара аҿыхуп"
+
+msgid "Wireless Wan is disabled when airplane mode is on"
+msgstr "Иҭелдоу аҳақәа аҿыххоит авиарежим анаҿаку"
+
+msgid ") without opening ("
+msgstr ") иаазыртуа ада ("
+
+msgid "Without Sound"
+msgstr "Бжьыда"
+
+msgid "Woensdrecht"
+msgstr "Вунсдрехт"
+
+msgid "Wolf Point"
+msgstr "Вулф-Поинт"
+
+msgid "Woodruff"
+msgstr "Вудруф"
+
+msgid "Woomera"
+msgstr "Вумера"
+
+msgid "Wooster"
+msgstr "Вустер"
+
+msgid "W_orried"
+msgstr "Згәы ҭ_ынчым"
+
+msgid "Would you like to send a cancellation notice for this memo?"
+msgstr "Ари азгәаҭа аԥыхра иазкны адырра шәышьҭыр шәҭахума?"
+
+msgid "Wunstorf"
+msgstr "Вунсторф"
+
+msgid "Wyoming"
+msgstr "Ваиоминг"
+
+msgid "Yesterday, %1$s – %2$s"
+msgstr "Иацы, %1$s – %2$s"
+
+msgid "Yesterday %H:%M"
+msgstr "Иацы%H:%M"
+
+msgid "Yesterday, %H∶%M"
+msgstr "Иацы, %H∶%M"
+
+msgid "Yesterday %H∶%M"
+msgstr "Иацы в %H∶%M"
+
+msgid "Yesterday %I∶%M %p"
+msgstr "Иацы в %I∶%M %p"
+
+msgid "Yesterday %l∶%M %p"
+msgstr "Иацы%H:%M"
+
+msgid "Yesterday %l:%M %p"
+msgstr "Иацы%l:%M %p"
+
+msgid "Yesterday, %l∶%M %p"
+msgstr "Иацы, %-l∶%M %p"
+
+msgid "Yesterday %s"
+msgstr "Иацы%s"
+
+msgid "yesterday"
+msgstr "Иацы"
+
+msgid "Yesterday"
+msgstr "Иацы"
+
+msgid "You are modifying a recurring event. What would you like to modify?"
+msgstr "Шәара еиҭаҟало  ахҭыс шәыԥсахоит. Иарбан ишәыԥсахҵәҟьар ишәҭаху?"
+
+msgid "You are modifying a recurring memo. What would you like to modify?"
+msgstr "Шәара еиҭаҟало  азгәаҭа шәыԥсахоит. Иарбан ишәыԥсахҵәҟьар ишәҭаху?"
+
+msgid "You are modifying a recurring task. What would you like to modify?"
+msgstr "Шәара еиҭаҟало  аҳасабтә шәыԥсахоит. Иарбан ишәыԥсахҵәҟьар ишәҭаху?"
+
+msgid "You are not allowed to open this file."
+msgstr "Ари афаил аартра азин шәымаӡам"
+
+msgid "You are searching for a five."
+msgstr "Шәара хәба шәашьҭоуп"
+
+msgid "You are searching for a four."
+msgstr "Шәара ԥшьба  шәашьҭоуп"
+
+msgid "You are searching for a jack."
+msgstr "Шәара валет шәашьҭоуп."
+
+msgid "You are searching for a king."
+msgstr "Шәара аҳ шәишьҭоуп"
+
+msgid "You are searching for an ace."
+msgstr "Шәара туз шәашьҭоуп"
+
+msgid "You are searching for an eight."
+msgstr "Шәара ааба шәашьҭоуп"
+
+msgid "You are searching for a nine."
+msgstr "Шәара жәба шәашьҭоуп"
+
+msgid "You are searching for a queen."
+msgstr "Шәара аӡӷаб шәлышьҭоуп."
+
+msgid "You are searching for a seven."
+msgstr "Шәара бжьба шәашьҭоуп"
+
+msgid "You are searching for a six."
+msgstr "Шәара фба  шәашьҭоуп"
+
+msgid "You are searching for a ten."
+msgstr "Шәара жәаба шәашьҭоуп"
+
+msgid "You are searching for a three."
+msgstr "Шәара хԥа шәашьҭоуп"
+
+msgid "You are searching for a two."
+msgstr "Шәара  ҩба шәашьҭоуп"
+
+msgid ""
+"You are using a preview of Books. Full viewing capabilities are coming soon!"
+msgstr ""
+"Шәара шәхы иашәырхәоит ашәҟәы заанаҵтәи аверсиа.Инаӡоу алшарақәа реизга хара "
+"имгакәа ицәырҵуеит!"
+
+msgid "You have completed the game."
+msgstr "Ахәмарра шәахысит."
+
+msgid "You have the Caps Lock key on."
+msgstr "Caps Lock аҿакуп."
+
+msgid "You may need to select different mail options.  Detailed error: {0}"
+msgstr "Шәара аԥошьҭа егьырҭ ахышәарақәа  азалшәхыр акәхоит.  Амзыз: {0}"
+
+msgid ""
+"You reached the maximum authentication attempts, please try another method"
+msgstr ""
+"Шәара шәхы иашәырхәеит  аҭаларазы аҽазышәарақәа зегьы,  ҳшәыҳәоит даҽа "
+"методк шәхы иашәырхәарц"
+
+msgid ""
+"You reached the maximum auto login attempts, please try another "
+"authentication method"
+msgstr ""
+"Шәара шәхы иашәырхәеит автоматикла аҭаларазы аҽазышәарақәа зегьы,  ҳшәыҳәоит "
+"даҽа методк шәхы иашәырхәарц."
+
+msgid ""
+"You reached the maximum fingerprint authentication attempts, please try "
+"another method"
+msgstr ""
+"Шәара шәхы иашәырхәеит анацәа ашьҭа ала аҭаларазы аҽазышәарақәа зегьы,  "
+"ҳшәыҳәоит даҽа методк шәхы иашәырхәарц"
+
+msgid ""
+"You reached the maximum password authentication attempts, please try another "
+"method"
+msgstr ""
+"Шәара шәхы иашәырхәеит ажәамаӡала аҭаларазы аҽазышәарақәа зегьы,  ҳшәыҳәоит "
+"даҽа методк шәхы иашәырхәарц"
+
+msgid ""
+"You reached the maximum smart card authentication attempts, please try "
+"another method"
+msgstr ""
+"Шәара шәхы иашәырхәеит смарт-ахсаала ала аҭаларазы аҽазышәарақәа зегьы,  "
+"ҳшәыҳәоит даҽа методк шәхы иашәырхәарц"
+
+msgid "You’ve won in a time of %02u:%02u!"
+msgstr "Шәара аиаара шәгеит %02u:%02u! рыла!"
+
+msgid "You will be notified when the download has completed."
+msgstr "Аҭагалара анхырқәшахалак ашьҭахь шәара адырра шәоуоуит"
