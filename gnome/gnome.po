@@ -11562,3 +11562,28 @@ msgstr ""
 "<b>%s</b>: %s\n"
 "<b>%s</b>: %d×%d\n"
 "<b>%s</b>: %s"
+
+msgid "Leaving %d blockquote."
+msgid_plural "Leaving %d blockquotes."
+msgstr[0] "Аҭыҵра %d ацитатаагара аидкыла аҟынтә."
+msgstr[1] "Аҭыҵра  %d ацитатаагара аидкыла аҟынтә." 
+
+msgid "Leaving %d list."
+msgid_plural "Leaving %d lists."
+msgstr[0] "Ахьӡынҵақәа %d рҟынтә аҭыҵра." 
+msgstr[1] "Ахьӡынҵақәа %d рҟынтә аҭыҵра."
+
+msgid "%u Input"
+msgid_plural "%u Inputs"
+msgstr[0] "%u аҭалара" 
+msgstr[1] "%u аҭаларақәа" 
+
+msgid "%u Output" 
+msgid_plural "%u Outputs"
+msgstr[0] "%u ҭыҵрак" 
+msgstr[1] "%u ҭыҵрак"
+
+msgid "You have received %d new message."
+msgid_plural "You have received %d new messages."
+msgstr[0] "Шәара ишәоуит %d цҳамҭа ҿыцк." 
+msgstr[1] "Шәара ишәоуит %d цҳамҭа ҿыцк."

@@ -3716,3 +3716,33 @@ Zephyr	Zephyr
 zip archives (.zip)	архивқәа zip (.zip)
 Zoom	Zoom
 Z Shell	Z Shell
+%1$s and one more task msgid_plural: %1$s and %2$d other tasks	msgstr[0]: %1$s даҽа %2$d ҳасабтәки msgstr[1]: %1$s  даҽа %2$d  ҳасабтәқәеи msgstr[2]: %1$sегьырҭ  %2$d  ҳасабтәқәеи
+%1$u day, %2$u hour, and %3$u minute before msgid_plural: %1$u day, %2$u hour, and %3$u minutes before	msgstr[0]: %1$u ҽнаки, %2$u сааҭки %3$u минуҭки ҟалаанӡа msgstr[1]: %1$u ҽнаки, %2$u сааҭки %3$u минуҭки  ҟалаанӡа msgstr[2]: %1$u ҽнаки, %2$u сааҭки %3$u минуҭки ҟалаанӡа
+%1$u day, %2$u hours, and %3$u minute before msgid_plural: %1$u day, %2$u hours, and %3$u minutes before	msgstr[0]: %1$u ҽнаки, %2$u сааҭки %3$u минуҭ ки ҟалаанӡа msgstr[1]: %1$u ҽнаки, %2$u сааҭки %3$u минуҭки  ҟалаанӡа msgstr[2]: %1$u ҽнаки, %2$u сааҭки %3$u минуҭки ҟалаанӡа
+%1$u day and %2$u hour before msgid_plural: %1$u day and %2$u hours before	msgstr[0]: %1$u ҽнаки и %2$u сааҭки ҟалаанӡа msgstr[1]: %1$u ҽнаки %2$u сааҭки ҟалаанӡа msgstr[2]: %1$u ҽнаки %2$u сааҭки ҟалаанӡа
+%1$u day and %2$u minute before msgid_plural: %1$u day and %2$u minutes before	"msgstr[0]: %1$u ҽнаки %2$u минуҭки ҟалаанӡа msgstr[1]: %1$u ҽнаки %2$u минуҭки ҟалаанӡа msgstr[2]: %1$u ҽнаки %2$u минуҭки ҟалаанӡа
+%1$u day before msgid_plural: %1$u days before	msgstr[0]: %1$u ҽнак шагоу msgstr[1]: %1$u мшы шагоу msgstr[2]: %1$u мшы шагоу
+%1$u days, %2$u hour, and %3$u minute before msgid_plural: %1$u days, %2$u hour, and %3$u minutes before	msgstr[0]: %1$u мши, %2$u сааҭки, и %3$u минуҭки ҟалаанӡа msgstr[1]: %1$u мши, %2$u сааҭки, и %3$u минуҭки ҟалаанӡа msgstr[2]: %1$u мши, %2$u сааҭки, и %3$u минуҭки ҟалаанӡа
+%1$u days, %2$u hours, and %3$u minute before msgid_plural: %1$u days, %2$u hours, and %3$u minutes before	msgstr[0]: %1$u мши, %2$u сааҭки, и %3$u минуҭки ҟалаанӡа msgstr[1]: %1$u мши, %2$u сааҭки, и %3$u минуҭки ҟалаанӡа msgstr[2]: %1$u мши, %2$u сааҭки, и %3$u минуҭки ҟалаанӡа
+%1$u days and %2$u hour before msgid_plural: %1$u days and %2$u hours before	msgstr[0]: %1$u мши %2$u сааҭки ҟалаанӡа msgstr[1]: %1$u мши %2$u сааҭки ҟалаанӡа msgstr[2]: %1$u мши %2$u сааҭки ҟалаанӡа
+%1$u days and %2$u minute before msgid_plural: %1$u days and %2$u minutes before	msgstr[0]: %1$u мши и %2$u минуҭки ҟалаанӡа msgstr[1]: %1$u мши и %2$u минуҭки ҟалаанӡа msgstr[2]: %1$u мши и %2$u минуҭки ҟалаанӡа
+%1$u hour before msgid_plural: %1$u hours before	msgstr[0]: %1$u сааҭк иҟалаанӡа msgstr[1]: %1$u сааҭк иҟалаанӡа msgstr[2]: %1$u сааҭк иҟалаанӡа
+%1$u minute before msgid_plural: %1$u minutes before	msgstr[0]: %1$u минуҭк ҟалаанӡа msgstr[1]: %1$u минуҭк ҟалаанӡа msgstr[2]: %1$u минуҭк ҟалаанӡа
+%2$s. You have %1$u try left msgid_plural: %2$s. You have %1$u tries left	msgstr[0]: %2$s. ишәзаанхеит %1$u ҽазышәарак msgstr[1]: %2$s. ишәзаанхеит %1$u ҽазышәарак msgstr[2]: %2$s. ишәзаанхеит %1$u ҽазышәарак
+<b>%d</b> mine msgid_plural: <b>%d</b> mines	msgstr[0]: <b>%d</b> минак msgstr[1]: <b>%d</b> минак msgstr[2]: <b>%d</b> минак
+<b>%d key is selected for synchronizing</b> msgid_plural: <b>%d keys are selected for synchronizing</b>	msgstr[0]: <b>%d ацыԥха алхуп </b> асин- хронтәразы msgstr[1]: <b>%d ацыԥха алхуп </b> асин- хронтәразы msgstr[2]: <b>%d ацыԥха алхуп  </b> асин- хронтәразы
+byte msgid_plural: bytes	msgstr[0]: баитк msgstr[1]: баитк msgstr[2]: баитк
+%d Address msgid_plural: %d Addresses	msgstr[0]: %d ҭыӡҭыԥк msgstr[1]: %d ҭыӡҭыԥк msgstr[2]: %d ҭыӡҭыԥк
+%d byte msgid_plural: %d bytes	msgstr[0]: %d баитк msgstr[1]: %d баитк msgstr[2]: %d баитк
+%d × %d, %d mine msgid_plural: %d × %d, %d mines	msgstr[0]: %d × %d, %d амина msgstr[1]: %d × %d, %d минак msgstr[2]: %d × %d, %d минак
+%i × %i pixel msgid_plural: %i × %i pixels	msgstr[0]: %i × %i пиксельк msgstr[1]: %i × %i пиксельк msgstr[2]: %i × %i пиксельк
+%i × %i pixel  %s    %i%% msgid_plural: %i × %i pixels  %s    %i%%	msgstr[0]: %i × %i пиксельк  %s    %i%% msgstr[1]: %i × %i пиксельк  %s    %i%% msgstr[2]: %i × %i пиксельк  %s    %i%%
+%ld × %ld pixel msgid_plural: %ld × %ld pixels	msgstr[0]: %ld × %ld пиксельк msgstr[1]: %ld × %ld пиксельк msgstr[2]: %ld × %ld пиксельк
+Leaving %d blockquote. msgid_plural: Leaving %d blockquotes.	msgstr[0]: Аҭыҵра  %d ацитатаагара аидкыла аҟынтә. msgstr[1]: Аҭыҵра  %d ацитатаагара аидкыла аҟынтә. msgstr[2]: Аҭыҵра  %d ацитатаагара аидкыла аҟынтә.
+Leaving %d list. msgid_plural: Leaving %d lists.	msgstr[0]: Ахьӡынҵақәа %d рҟынтә аҭыҵра. msgstr[1]: Ахьӡынҵақәа %d рҟынтә аҭыҵра. msgstr[2]: Ахьӡынҵақәа %d рҟынтә аҭыҵра.
+%s byte msgid_plural: %s bytes	msgstr[0]: %s баитк msgstr[1]: %s баитк msgstr[2]: %s баитк
+%u byte msgid_plural: %u bytes	msgstr[0]: %u баитк msgstr[1]: %u баитк msgstr[2]: %u баитк
+%u Input msgid_plural: %u Inputs	msgstr[0]: %u  аҭалара msgstr[1]: %u  аҭаларақәа msgstr[2]: %u  аҭаларақәа
+%u Input msgid_plural: %u Inputs	msgstr[0]: %u аҭалара msgstr[1]: %u  аҭаларақәа msgstr[2]: %u  аҭаларақәа
+%u Output msgid_plural: %u Outputs	msgstr[0]: %u ҭыҵрак msgstr[1]: %u ҭыҵрак msgstr[2]: %u ҭыҵрак
+You have received %d new message. msgid_plural: You have received %d new messages.	msgstr[0]: Шәара ишәоуит  %d цҳамҭа ҿыцк. msgstr[1]: Шәара ишәоуит %d цҳамҭа ҿыцк. msgstr[2]: Шәара ишәоуит %d цҳамҭа ҿыцк.
