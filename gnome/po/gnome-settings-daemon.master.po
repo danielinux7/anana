@@ -4,7 +4,7 @@ msgstr ""
 "issues\n"
 "POT-Creation-Date: 2022-07-19 23:19+0000\n"
 "Last-Translator: Нанба Наала <naala-nanba@rambler.ru>\n"
-"Language-Team: Abkhazian <ab@li.org>\n"
+"Language-Team: Abkhazian <daniel.abzakh@gmail.com>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -984,7 +984,7 @@ msgstr ""
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:428
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:665
 msgid "RF kill"
-msgstr ""
+msgstr "Rf kill"
 
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:429
 msgid "Binding to toggle airplane mode."
@@ -993,7 +993,7 @@ msgstr ""
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:433
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:670
 msgid "Bluetooth RF kill"
-msgstr ""
+msgstr "Bluetooth Rf kill"
 
 #: data/org.gnome.settings-daemon.plugins.media-keys.gschema.xml.in:434
 msgid "Binding to toggle bluetooth airplane mode."
@@ -1468,7 +1468,7 @@ msgstr ""
 
 #: plugins/media-keys/gsd-media-keys-manager.c:2253
 msgid "Bluetooth enabled"
-msgstr ""
+msgstr "Bluetooth аҿакуп"
 
 #: plugins/media-keys/gsd-media-keys-manager.c:2257
 msgid "Airplane mode enabled"
@@ -1480,7 +1480,7 @@ msgstr "Авиарежим аҿыхуп"
 
 #: plugins/media-keys/gsd-media-keys-manager.c:2299
 msgid "Hardware Airplane Mode"
-msgstr ""
+msgstr "Аппараттә авиарежим"
 
 #: plugins/power/gpm-common.c:91
 msgid "Unknown time"
@@ -2288,13 +2288,13 @@ msgstr ""
 #: plugins/print-notifications/gsd-print-notifications-manager.c:402
 #, c-format
 msgid "Printer “%s” is low on toner."
-msgstr ""
+msgstr "Апринтер «%s» аҟны атонер анҵәара иаҿуп"
 
 #. Translators: The printer has no toner left (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:406
 #, c-format
 msgid "Printer “%s” has no toner left."
-msgstr ""
+msgstr "Апринтер «%s» аҟны атонер нҵәеит"
 
 #. Translators: The printer is in the process of connecting to a shared network output device (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:410
@@ -2306,7 +2306,7 @@ msgstr ""
 #: plugins/print-notifications/gsd-print-notifications-manager.c:414
 #, c-format
 msgid "The cover is open on printer “%s”."
-msgstr ""
+msgstr "Апринтер «%s» аҟны ахҩа аартуп"
 
 #. Translators: A filter or backend is not installed (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:418
@@ -2318,31 +2318,31 @@ msgstr ""
 #: plugins/print-notifications/gsd-print-notifications-manager.c:423
 #, c-format
 msgid "The door is open on printer “%s”."
-msgstr ""
+msgstr "Апринтер «%s» аҟны ашә аартуп"
 
 #. Translators: "marker" is one color bin of the printer
 #: plugins/print-notifications/gsd-print-notifications-manager.c:427
 #, c-format
 msgid "Printer “%s” is low on a marker supply."
-msgstr ""
+msgstr "Апринтер «%s» аҟны иԥштәылоу ашәыгаҭра анҵәара иаҿуп"
 
 #. Translators: "marker" is one color bin of the printer
 #: plugins/print-notifications/gsd-print-notifications-manager.c:431
 #, c-format
 msgid "Printer “%s” is out of a marker supply."
-msgstr ""
+msgstr "Апринтер «%s» аҟны иԥштәылоу ашәыгаҭра нҵәеит"
 
 #. Translators: At least one input tray is low on media (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:435
 #, c-format
 msgid "Printer “%s” is low on paper."
-msgstr ""
+msgstr "Апринтер «%s» аҟны ақьаад анҵәара иаҿуп"
 
 #. Translators: At least one input tray is empty (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:439
 #, c-format
 msgid "Printer “%s” is out of paper."
-msgstr ""
+msgstr "Апринтер «%s» аҟны ақьаад нҵәеит"
 
 #. Translators: The printer is offline (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:443
@@ -2416,7 +2416,7 @@ msgstr ""
 #. Translators: At least one input tray is empty (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:646
 msgid "Out of paper"
-msgstr ""
+msgstr "Ақьаад нҵәеит"
 
 #. Translators: The printer is offline (same as in system-config-printer)
 #: plugins/print-notifications/gsd-print-notifications-manager.c:648

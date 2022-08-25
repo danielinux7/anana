@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/quadrapassel/issues\n"
 "POT-Creation-Date: 2022-06-13 20:38+0000\n"
 "Last-Translator: Нанба Наала <naala-nanba@rambler.ru>\n"
-"Language-Team: Abkhazian <ab@li.org>\n"
+"Language-Team: Abkhazian <daniel.abzakh@gmail.com>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,7 +114,7 @@ msgstr "Арыд арымарахь аиагаразы"
 
 #: data/org.gnome.Quadrapassel.gschema.xml:68 src/quadrapassel.vala:374
 msgid "Move right"
-msgstr "Арыӷьарахь"
+msgstr "Арӷьарахь"
 
 #: data/org.gnome.Quadrapassel.gschema.xml:69
 msgid "Key press to move right."
@@ -130,7 +130,7 @@ msgstr "Арыд ҵаҟа аиҭаҵразы"
 
 #: data/org.gnome.Quadrapassel.gschema.xml:78 src/quadrapassel.vala:380
 msgid "Drop"
-msgstr "Акажьра"
+msgstr "Аршәра"
 
 #: data/org.gnome.Quadrapassel.gschema.xml:79
 msgid "Key press to drop."
@@ -257,7 +257,7 @@ msgstr "Ԥхьаҟа"
 
 #: src/quadrapassel.vala:169 src/score-dialog.vala:51
 msgid "Score"
-msgstr "Аԥхьаӡара"
+msgstr "Акапан"
 
 #: src/quadrapassel.vala:180
 msgid "Lines"

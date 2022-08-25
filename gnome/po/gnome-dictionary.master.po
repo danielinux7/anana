@@ -4,7 +4,7 @@ msgstr ""
 "issues\n"
 "POT-Creation-Date: 2022-06-29 19:14+0000\n"
 "Last-Translator: Нанба Наала <naala-nanba@rambler.ru>\n"
-"Language-Team: Abkhazian <ab@li.org>\n"
+"Language-Team: Abkhazian <daniel.abzakh@gmail.com>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: src/gdict-app-menus.ui:37
 msgid "_View"
-msgstr ""
+msgstr "_Аԥшра"
 
 #: src/gdict-app-menus.ui:40
 msgid "_Sidebar"

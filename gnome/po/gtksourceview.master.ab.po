@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gtksourceview/issues\n"
 "POT-Creation-Date: 2022-07-14 21:23+0000\n"
 "Last-Translator: Нанба Наала <naala-nanba@rambler.ru>\n"
-"Language-Team: Abkhazian <ab@li.org>\n"
+"Language-Team: Abkhazian <daniel.abzakh@gmail.com>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -527,7 +527,7 @@ msgstr "Акириллица"
 #: gtksourceview/gtksourceencoding.c:160 gtksourceview/gtksourceencoding.c:234
 #: gtksourceview/gtksourceencoding.c:275
 msgid "Arabic"
-msgstr "Арабтәи"
+msgstr "Арабтә"
 
 #: gtksourceview/gtksourceencoding.c:162 gtksourceview/gtksourceencoding.c:269
 msgid "Greek"
@@ -694,7 +694,7 @@ msgstr "_Алхра"
 
 #: gtksourceview/gtksourceview.c:1806
 msgid "All _Upper Case"
-msgstr "_Хахьтәи аихшага ахь"
+msgstr "Хыхьтәи_арегистр ахь"
 
 #: gtksourceview/gtksourceview.c:1810
 msgid "All _Lower Case"

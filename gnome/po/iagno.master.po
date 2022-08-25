@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/iagno/issues\n"
 "POT-Creation-Date: 2022-05-26 14:21+0000\n"
 "Last-Translator: Нанба Наала <naala-nanba@rambler.ru>\n"
-"Language-Team: Abkhazian <ab@li.org>\n"
+"Language-Team: Abkhazian <daniel.abzakh@gmail.com>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -256,12 +256,12 @@ msgstr ""
 #. Translators: summary of a settings key, see 'dconf-editor /org/gnome/iagno/window-height'
 #: data/org.gnome.Reversi.gschema.xml:24
 msgid "The height of the window"
-msgstr ""
+msgstr "Аԥенџьыр аҳаракыра"
 
 #. Translators: description of a settings key, see 'dconf-editor /org/gnome/iagno/window-height'
 #: data/org.gnome.Reversi.gschema.xml:26
 msgid "The height of the main window in pixels."
-msgstr ""
+msgstr "Ихадоу аԥенџьыр аҳаракыра пиксельла"
 
 #. Translators: summary of a settings key, see 'dconf-editor /org/gnome/iagno/window-is-maximized'
 #: data/org.gnome.Reversi.gschema.xml:31
@@ -451,7 +451,7 @@ msgstr ""
 #. Translators: hamburger menu entry; "Appearance" submenu (with a mnemonic that appears pressing Alt)
 #: src/game-headerbar.vala:200
 msgid "A_ppearance"
-msgstr ""
+msgstr "_Аԥшра"
 
 #. Translators: hamburger menu entry; sound togglebutton (with a mnemonic that appears pressing Alt)
 #: src/game-headerbar.vala:204
@@ -554,11 +554,13 @@ msgid ""
 "The “--alternative-start”, “--random-start” and “--usual-start” arguments "
 "are mutually exclusive."
 msgstr ""
+"Аҵаҵӷәқәа “--alternative-start”, “--random-start”, “--usual-start” "
+"иеиҿагылоит."
 
 #. Translators: command-line error message, displayed when two antagonist arguments are used; try 'iagno --reverse --classic'
 #: src/iagno.vala:179
 msgid "The “--classic” and “--reverse” arguments are mutually exclusive."
-msgstr ""
+msgstr "Аҵаҵӷәқәа --classic и --reverse иеиҿагылоит."
 
 #. Translators: command-line error message, displayed for an incorrect game size request; try 'iagno -s 2'
 #: src/iagno.vala:186

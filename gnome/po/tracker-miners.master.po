@@ -3,7 +3,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/tracker-miners/issues\n"
 "POT-Creation-Date: 2022-07-13 21:35+0000\n"
 "Last-Translator: Нанба Наала <naala-nanba@rambler.ru>\n"
-"Language-Team: Abkhazian <ab@li.org>\n"
+"Language-Team: Abkhazian <daniel.abzakh@gmail.com>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -524,7 +524,7 @@ msgstr ""
 
 #: src/tracker/tracker-daemon.c:105
 msgid "Idle"
-msgstr ""
+msgstr "Аус ауӡом"
 
 #: src/tracker/tracker-daemon.c:111
 msgid "Follow status changes as they happen"
@@ -1309,7 +1309,7 @@ msgstr ""
 
 #: src/tracker/tracker-tag.c:762
 msgid "Not tagged, file is not indexed"
-msgstr ""
+msgstr "Дыргада, афаил аиндексркра азуӡамызт"
 
 #: src/tracker/tracker-tag.c:808
 msgid "Could not get tag by label"
@@ -1333,7 +1333,7 @@ msgstr ""
 
 #: src/tracker/tracker-tag.c:894
 msgid "Untagged"
-msgstr ""
+msgstr "Дыргада"
 
 #: src/tracker/tracker-tag.c:895
 msgid "File not indexed or already untagged"
