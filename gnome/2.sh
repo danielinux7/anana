@@ -10,4 +10,6 @@ sed -i -r 's/([^\\])\\"/\1@%&/g' ab2.po
 sed -i -r 's/([^\\])\\"/\1@%&/g' ru2.po
 po2csv ab2.po > ab.csv
 po2csv ru2.po > ru.csv
+sed -i -r '/msgstr\[0\]/d'  ab.csv
+sed -i -r '/msgstr\[1\]/d'  ru.csv
 rm ab2.po ru2.po
