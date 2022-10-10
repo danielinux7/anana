@@ -1,3 +1,10 @@
+python3 mark.py
+sed -i -f mark.script ab.po
+sed -r '/^\[start\]|\[ok\]|\[stop\]$/d' ab.po
+sed -i -r '/^\[start\]|\[ok\]|\[stop\]$/d' ab.po
+sed -i -f mark.script ru.po
+sed -r '/^\[start\]|\[ok\]|\[stop\]$/d' ru.po
+sed -i -r '/^\[start\]|\[ok\]|\[stop\]$/d' ru.po
 msgmerge -N ru.po ab.po > ru2.po
 sed -i -r '/#~/d' ru2.po
 sed -r 's/(msgstr\[0\]) "/\1 "\1 /g' ab.po > ab2.po
