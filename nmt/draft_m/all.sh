@@ -13,5 +13,5 @@ cut -f2 $file | sed -e 's/[[:punct:]]//g' | sed 's/./\L&/g' | \
 paste $file - > $file.temp;
 sort -t$'\t' -k3 -u $file.temp | cut -f1,2 | shuf > $file && cat $file > $file.temp;
 ### Replace more or less than 40-200 characters.
-sed -r 's/…//g' $file.temp | perl -e 'print sort { length($a) <=> length($b) } <>' > $file \
+sed -r 's/…//g' $file.temp | sed -r 's/–/—/g' | perl -e 'print sort { length($a) <=> length($b) } <>' > $file \
 && rm $file.temp;
