@@ -22,3 +22,4 @@
 - 22 - LibreOffice
 - 23 - OpenOffice
 - 24 - Telegram
+- 25 - The last seed
